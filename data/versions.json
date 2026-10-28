@@ -137300,6 +137300,2608 @@
    ]
   },
   {
+   "slug": "title-28-part-0000",
+   "short": "28 CFR Part 0",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 0",
+   "url": "https://www.ecfr.gov/current/title-28/part-0",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2018-07-13",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2018-09-02",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2019-01-25",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2019-04-26",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2019-08-26",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2020-10-23",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2020-11-27",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2021-11-23",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2023-05-04",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    },
+    {
+     "from": "2025-12-10",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    },
+    {
+     "from": "2025-12-29",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    },
+    {
+     "from": "2026-05-21",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    },
+    {
+     "from": "2026-08-24",
+     "units": 207,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0001",
+   "short": "28 CFR Part 1",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 1",
+   "url": "https://www.ecfr.gov/current/title-28/part-1",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0002",
+   "short": "28 CFR Part 2",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 2",
+   "url": "https://www.ecfr.gov/current/title-28/part-2",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2018-11-20",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2018-12-26",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2019-08-22",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2021-08-17",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2021-09-15",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2021-10-12",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2022-11-04",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2025-05-21",
+     "units": 127,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0003",
+   "short": "28 CFR Part 3",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 3",
+   "url": "https://www.ecfr.gov/current/title-28/part-3",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0004",
+   "short": "28 CFR Part 4",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 4",
+   "url": "https://www.ecfr.gov/current/title-28/part-4",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0005",
+   "short": "28 CFR Part 5",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 5",
+   "url": "https://www.ecfr.gov/current/title-28/part-5",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0006",
+   "short": "28 CFR Part 6",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 6",
+   "url": "https://www.ecfr.gov/current/title-28/part-6",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0007",
+   "short": "28 CFR Part 7",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 7",
+   "url": "https://www.ecfr.gov/current/title-28/part-7",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0008",
+   "short": "28 CFR Part 8",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 8",
+   "url": "https://www.ecfr.gov/current/title-28/part-8",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0009",
+   "short": "28 CFR Part 9",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 9",
+   "url": "https://www.ecfr.gov/current/title-28/part-9",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0010",
+   "short": "28 CFR Part 10",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 10",
+   "url": "https://www.ecfr.gov/current/title-28/part-10",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0011",
+   "short": "28 CFR Part 11",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 11",
+   "url": "https://www.ecfr.gov/current/title-28/part-11",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0012",
+   "short": "28 CFR Part 12",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 12",
+   "url": "https://www.ecfr.gov/current/title-28/part-12",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0013",
+   "short": "28 CFR Part 13",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 13",
+   "url": "https://www.ecfr.gov/current/title-28/part-13",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0014",
+   "short": "28 CFR Part 14",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 14",
+   "url": "https://www.ecfr.gov/current/title-28/part-14",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2020-03-23",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0015",
+   "short": "28 CFR Part 15",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 15",
+   "url": "https://www.ecfr.gov/current/title-28/part-15",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2024-08-05",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0016",
+   "short": "28 CFR Part 16",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 16",
+   "url": "https://www.ecfr.gov/current/title-28/part-16",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2019-01-25",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 95,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2023-10-05",
+     "units": 97,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2024-02-09",
+     "units": 97,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2026-03-16",
+     "units": 97,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0017",
+   "short": "28 CFR Part 17",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 17",
+   "url": "https://www.ecfr.gov/current/title-28/part-17",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0018",
+   "short": "28 CFR Part 18",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 18",
+   "url": "https://www.ecfr.gov/current/title-28/part-18",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0019",
+   "short": "28 CFR Part 19",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 19",
+   "url": "https://www.ecfr.gov/current/title-28/part-19",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0020",
+   "short": "28 CFR Part 20",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 20",
+   "url": "https://www.ecfr.gov/current/title-28/part-20",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2024-05-20",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0021",
+   "short": "28 CFR Part 21",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 21",
+   "url": "https://www.ecfr.gov/current/title-28/part-21",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0022",
+   "short": "28 CFR Part 22",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 22",
+   "url": "https://www.ecfr.gov/current/title-28/part-22",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0023",
+   "short": "28 CFR Part 23",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 23",
+   "url": "https://www.ecfr.gov/current/title-28/part-23",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0024",
+   "short": "28 CFR Part 24",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 24",
+   "url": "https://www.ecfr.gov/current/title-28/part-24",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0025",
+   "short": "28 CFR Part 25",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 25",
+   "url": "https://www.ecfr.gov/current/title-28/part-25",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0026",
+   "short": "28 CFR Part 26",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 26",
+   "url": "https://www.ecfr.gov/current/title-28/part-26",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0027",
+   "short": "28 CFR Part 27",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 27",
+   "url": "https://www.ecfr.gov/current/title-28/part-27",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2024-03-04",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0028",
+   "short": "28 CFR Part 28",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 28",
+   "url": "https://www.ecfr.gov/current/title-28/part-28",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2020-04-08",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0029",
+   "short": "28 CFR Part 29",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 29",
+   "url": "https://www.ecfr.gov/current/title-28/part-29",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0030",
+   "short": "28 CFR Part 30",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 30",
+   "url": "https://www.ecfr.gov/current/title-28/part-30",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0031",
+   "short": "28 CFR Part 31",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 31",
+   "url": "https://www.ecfr.gov/current/title-28/part-31",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2021-06-14",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0032",
+   "short": "28 CFR Part 32",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 32",
+   "url": "https://www.ecfr.gov/current/title-28/part-32",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    },
+    {
+     "from": "2020-06-15",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2023-05-04",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0033",
+   "short": "28 CFR Part 33",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 33",
+   "url": "https://www.ecfr.gov/current/title-28/part-33",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0034",
+   "short": "28 CFR Part 34",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 34",
+   "url": "https://www.ecfr.gov/current/title-28/part-34",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0035",
+   "short": "28 CFR Part 35",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 35",
+   "url": "https://www.ecfr.gov/current/title-28/part-35",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2024-04-24",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2024-05-20",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2024-10-08",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    },
+    {
+     "from": "2026-04-20",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0036",
+   "short": "28 CFR Part 36",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 36",
+   "url": "https://www.ecfr.gov/current/title-28/part-36",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0037",
+   "short": "28 CFR Part 37",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 37",
+   "url": "https://www.ecfr.gov/current/title-28/part-37",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0038",
+   "short": "28 CFR Part 38",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 38",
+   "url": "https://www.ecfr.gov/current/title-28/part-38",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2021-01-19",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0039",
+   "short": "28 CFR Part 39",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 39",
+   "url": "https://www.ecfr.gov/current/title-28/part-39",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0040",
+   "short": "28 CFR Part 40",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 40",
+   "url": "https://www.ecfr.gov/current/title-28/part-40",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0041",
+   "short": "28 CFR Part 41",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 41",
+   "url": "https://www.ecfr.gov/current/title-28/part-41",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0042",
+   "short": "28 CFR Part 42",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 42",
+   "url": "https://www.ecfr.gov/current/title-28/part-42",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2025-12-10",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 114,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0043",
+   "short": "28 CFR Part 43",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 43",
+   "url": "https://www.ecfr.gov/current/title-28/part-43",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0044",
+   "short": "28 CFR Part 44",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 44",
+   "url": "https://www.ecfr.gov/current/title-28/part-44",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0045",
+   "short": "28 CFR Part 45",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 45",
+   "url": "https://www.ecfr.gov/current/title-28/part-45",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0046",
+   "short": "28 CFR Part 46",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 46",
+   "url": "https://www.ecfr.gov/current/title-28/part-46",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0047",
+   "short": "28 CFR Part 47",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 47",
+   "url": "https://www.ecfr.gov/current/title-28/part-47",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0048",
+   "short": "28 CFR Part 48",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 48",
+   "url": "https://www.ecfr.gov/current/title-28/part-48",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0049",
+   "short": "28 CFR Part 49",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 49",
+   "url": "https://www.ecfr.gov/current/title-28/part-49",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0050",
+   "short": "28 CFR Part 50",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 50",
+   "url": "https://www.ecfr.gov/current/title-28/part-50",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2022-05-10",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2025-05-02",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    },
+    {
+     "from": "2026-07-31",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0051",
+   "short": "28 CFR Part 51",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 51",
+   "url": "https://www.ecfr.gov/current/title-28/part-51",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 68,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0052",
+   "short": "28 CFR Part 52",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 52",
+   "url": "https://www.ecfr.gov/current/title-28/part-52",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0054",
+   "short": "28 CFR Part 54",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 54",
+   "url": "https://www.ecfr.gov/current/title-28/part-54",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0055",
+   "short": "28 CFR Part 55",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 55",
+   "url": "https://www.ecfr.gov/current/title-28/part-55",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0056",
+   "short": "28 CFR Part 56",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 56",
+   "url": "https://www.ecfr.gov/current/title-28/part-56",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0057",
+   "short": "28 CFR Part 57",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 57",
+   "url": "https://www.ecfr.gov/current/title-28/part-57",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0058",
+   "short": "28 CFR Part 58",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 58",
+   "url": "https://www.ecfr.gov/current/title-28/part-58",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2021-06-21",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0059",
+   "short": "28 CFR Part 59",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 59",
+   "url": "https://www.ecfr.gov/current/title-28/part-59",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0060",
+   "short": "28 CFR Part 60",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 60",
+   "url": "https://www.ecfr.gov/current/title-28/part-60",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0061",
+   "short": "28 CFR Part 61",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 61",
+   "url": "https://www.ecfr.gov/current/title-28/part-61",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0063",
+   "short": "28 CFR Part 63",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 63",
+   "url": "https://www.ecfr.gov/current/title-28/part-63",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0064",
+   "short": "28 CFR Part 64",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 64",
+   "url": "https://www.ecfr.gov/current/title-28/part-64",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0065",
+   "short": "28 CFR Part 65",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 65",
+   "url": "https://www.ecfr.gov/current/title-28/part-65",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0068",
+   "short": "28 CFR Part 68",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 68",
+   "url": "https://www.ecfr.gov/current/title-28/part-68",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2020-10-07",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2022-06-29",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2023-10-12",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    },
+    {
+     "from": "2026-04-30",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    },
+    {
+     "from": "2026-09-10",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0069",
+   "short": "28 CFR Part 69",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 69",
+   "url": "https://www.ecfr.gov/current/title-28/part-69",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0071",
+   "short": "28 CFR Part 71",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 71",
+   "url": "https://www.ecfr.gov/current/title-28/part-71",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0072",
+   "short": "28 CFR Part 72",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 72",
+   "url": "https://www.ecfr.gov/current/title-28/part-72",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2022-01-07",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0073",
+   "short": "28 CFR Part 73",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 73",
+   "url": "https://www.ecfr.gov/current/title-28/part-73",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0074",
+   "short": "28 CFR Part 74",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 74",
+   "url": "https://www.ecfr.gov/current/title-28/part-74",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0075",
+   "short": "28 CFR Part 75",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 75",
+   "url": "https://www.ecfr.gov/current/title-28/part-75",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0076",
+   "short": "28 CFR Part 76",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 76",
+   "url": "https://www.ecfr.gov/current/title-28/part-76",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0077",
+   "short": "28 CFR Part 77",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 77",
+   "url": "https://www.ecfr.gov/current/title-28/part-77",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0079",
+   "short": "28 CFR Part 79",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 79",
+   "url": "https://www.ecfr.gov/current/title-28/part-79",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0080",
+   "short": "28 CFR Part 80",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 80",
+   "url": "https://www.ecfr.gov/current/title-28/part-80",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0081",
+   "short": "28 CFR Part 81",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 81",
+   "url": "https://www.ecfr.gov/current/title-28/part-81",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2024-11-25",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0083",
+   "short": "28 CFR Part 83",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 83",
+   "url": "https://www.ecfr.gov/current/title-28/part-83",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0085",
+   "short": "28 CFR Part 85",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 85",
+   "url": "https://www.ecfr.gov/current/title-28/part-85",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2023-01-30",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2024-02-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0090",
+   "short": "28 CFR Part 90",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 90",
+   "url": "https://www.ecfr.gov/current/title-28/part-90",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2023-04-11",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0091",
+   "short": "28 CFR Part 91",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 91",
+   "url": "https://www.ecfr.gov/current/title-28/part-91",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0092",
+   "short": "28 CFR Part 92",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 92",
+   "url": "https://www.ecfr.gov/current/title-28/part-92",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0093",
+   "short": "28 CFR Part 93",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 93",
+   "url": "https://www.ecfr.gov/current/title-28/part-93",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0094",
+   "short": "28 CFR Part 94",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 94",
+   "url": "https://www.ecfr.gov/current/title-28/part-94",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2023-01-20",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0097",
+   "short": "28 CFR Part 97",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 97",
+   "url": "https://www.ecfr.gov/current/title-28/part-97",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0100",
+   "short": "28 CFR Part 100",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 100",
+   "url": "https://www.ecfr.gov/current/title-28/part-100",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0104",
+   "short": "28 CFR Part 104",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 104",
+   "url": "https://www.ecfr.gov/current/title-28/part-104",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0105",
+   "short": "28 CFR Part 105",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 105",
+   "url": "https://www.ecfr.gov/current/title-28/part-105",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0106",
+   "short": "28 CFR Part 106",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 106",
+   "url": "https://www.ecfr.gov/current/title-28/part-106",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0107",
+   "short": "28 CFR Part 107",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 107",
+   "url": "https://www.ecfr.gov/current/title-28/part-107",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0115",
+   "short": "28 CFR Part 115",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 115",
+   "url": "https://www.ecfr.gov/current/title-28/part-115",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 182,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0124",
+   "short": "28 CFR Part 124",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 124",
+   "url": "https://www.ecfr.gov/current/title-28/part-124",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0200",
+   "short": "28 CFR Part 200",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 200",
+   "url": "https://www.ecfr.gov/current/title-28/part-200",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0201",
+   "short": "28 CFR Part 201",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 201",
+   "url": "https://www.ecfr.gov/current/title-28/part-201",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0202",
+   "short": "28 CFR Part 202",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 202",
+   "url": "https://www.ecfr.gov/current/title-28/part-202",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 103,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    },
+    {
+     "from": "2025-04-18",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0301",
+   "short": "28 CFR Part 301",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 301",
+   "url": "https://www.ecfr.gov/current/title-28/part-301",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0302",
+   "short": "28 CFR Part 302",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 302",
+   "url": "https://www.ecfr.gov/current/title-28/part-302",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0345",
+   "short": "28 CFR Part 345",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 345",
+   "url": "https://www.ecfr.gov/current/title-28/part-345",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0500",
+   "short": "28 CFR Part 500",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 500",
+   "url": "https://www.ecfr.gov/current/title-28/part-500",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0501",
+   "short": "28 CFR Part 501",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 501",
+   "url": "https://www.ecfr.gov/current/title-28/part-501",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0503",
+   "short": "28 CFR Part 503",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 503",
+   "url": "https://www.ecfr.gov/current/title-28/part-503",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0505",
+   "short": "28 CFR Part 505",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 505",
+   "url": "https://www.ecfr.gov/current/title-28/part-505",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0506",
+   "short": "28 CFR Part 506",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 506",
+   "url": "https://www.ecfr.gov/current/title-28/part-506",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0511",
+   "short": "28 CFR Part 511",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 511",
+   "url": "https://www.ecfr.gov/current/title-28/part-511",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0512",
+   "short": "28 CFR Part 512",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 512",
+   "url": "https://www.ecfr.gov/current/title-28/part-512",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0513",
+   "short": "28 CFR Part 513",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 513",
+   "url": "https://www.ecfr.gov/current/title-28/part-513",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0522",
+   "short": "28 CFR Part 522",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 522",
+   "url": "https://www.ecfr.gov/current/title-28/part-522",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0523",
+   "short": "28 CFR Part 523",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 523",
+   "url": "https://www.ecfr.gov/current/title-28/part-523",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2022-01-19",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2022-03-14",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0524",
+   "short": "28 CFR Part 524",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 524",
+   "url": "https://www.ecfr.gov/current/title-28/part-524",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0527",
+   "short": "28 CFR Part 527",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 527",
+   "url": "https://www.ecfr.gov/current/title-28/part-527",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0540",
+   "short": "28 CFR Part 540",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 540",
+   "url": "https://www.ecfr.gov/current/title-28/part-540",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2020-06-22",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0541",
+   "short": "28 CFR Part 541",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 541",
+   "url": "https://www.ecfr.gov/current/title-28/part-541",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2022-01-19",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0542",
+   "short": "28 CFR Part 542",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 542",
+   "url": "https://www.ecfr.gov/current/title-28/part-542",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0543",
+   "short": "28 CFR Part 543",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 543",
+   "url": "https://www.ecfr.gov/current/title-28/part-543",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2023-12-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2024-02-07",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-28/CFR-2024-title-28.zip",
+     "sha256": "c1751c13450ef759ce8c903b565d5692da156850580f46cdfc1be59c35305302"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-28/CFR-2025-title-28.zip",
+     "sha256": "0e298c87bc7e8ea5d2515a4d4daab94f500862188dbf05c5e56f942e9acdf2ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0544",
+   "short": "28 CFR Part 544",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 544",
+   "url": "https://www.ecfr.gov/current/title-28/part-544",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0545",
+   "short": "28 CFR Part 545",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 545",
+   "url": "https://www.ecfr.gov/current/title-28/part-545",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0547",
+   "short": "28 CFR Part 547",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 547",
+   "url": "https://www.ecfr.gov/current/title-28/part-547",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0548",
+   "short": "28 CFR Part 548",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 548",
+   "url": "https://www.ecfr.gov/current/title-28/part-548",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0549",
+   "short": "28 CFR Part 549",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 549",
+   "url": "https://www.ecfr.gov/current/title-28/part-549",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0550",
+   "short": "28 CFR Part 550",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 550",
+   "url": "https://www.ecfr.gov/current/title-28/part-550",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0551",
+   "short": "28 CFR Part 551",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 551",
+   "url": "https://www.ecfr.gov/current/title-28/part-551",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0552",
+   "short": "28 CFR Part 552",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 552",
+   "url": "https://www.ecfr.gov/current/title-28/part-552",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0553",
+   "short": "28 CFR Part 553",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 553",
+   "url": "https://www.ecfr.gov/current/title-28/part-553",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0570",
+   "short": "28 CFR Part 570",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 570",
+   "url": "https://www.ecfr.gov/current/title-28/part-570",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0571",
+   "short": "28 CFR Part 571",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 571",
+   "url": "https://www.ecfr.gov/current/title-28/part-571",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0572",
+   "short": "28 CFR Part 572",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 572",
+   "url": "https://www.ecfr.gov/current/title-28/part-572",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0600",
+   "short": "28 CFR Part 600",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 600",
+   "url": "https://www.ecfr.gov/current/title-28/part-600",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0601",
+   "short": "28 CFR Part 601",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 601",
+   "url": "https://www.ecfr.gov/current/title-28/part-601",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0602",
+   "short": "28 CFR Part 602",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 602",
+   "url": "https://www.ecfr.gov/current/title-28/part-602",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0603",
+   "short": "28 CFR Part 603",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 603",
+   "url": "https://www.ecfr.gov/current/title-28/part-603",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0700",
+   "short": "28 CFR Part 700",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 700",
+   "url": "https://www.ecfr.gov/current/title-28/part-700",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0701",
+   "short": "28 CFR Part 701",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 701",
+   "url": "https://www.ecfr.gov/current/title-28/part-701",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0800",
+   "short": "28 CFR Part 800",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 800",
+   "url": "https://www.ecfr.gov/current/title-28/part-800",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0801",
+   "short": "28 CFR Part 801",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 801",
+   "url": "https://www.ecfr.gov/current/title-28/part-801",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0802",
+   "short": "28 CFR Part 802",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 802",
+   "url": "https://www.ecfr.gov/current/title-28/part-802",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0803",
+   "short": "28 CFR Part 803",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 803",
+   "url": "https://www.ecfr.gov/current/title-28/part-803",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-28/ECFR-title28.xml",
+     "sha256": "1e4e38747c4753a7c0326cbb99b02891e0903c84fac41ca6d5eeadcc675e7647"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0804",
+   "short": "28 CFR Part 804",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 804",
+   "url": "https://www.ecfr.gov/current/title-28/part-804",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0810",
+   "short": "28 CFR Part 810",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 810",
+   "url": "https://www.ecfr.gov/current/title-28/part-810",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0811",
+   "short": "28 CFR Part 811",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 811",
+   "url": "https://www.ecfr.gov/current/title-28/part-811",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0812",
+   "short": "28 CFR Part 812",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 812",
+   "url": "https://www.ecfr.gov/current/title-28/part-812",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0813",
+   "short": "28 CFR Part 813",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 813",
+   "url": "https://www.ecfr.gov/current/title-28/part-813",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    },
+    {
+     "from": "2020-06-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0814",
+   "short": "28 CFR Part 814",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 814",
+   "url": "https://www.ecfr.gov/current/title-28/part-814",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-28/CFR-2023-title-28.zip",
+     "sha256": "f143103c548ea9515ce743f1a5744cca474400e30f6cc4a53895d57ee4adab31"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0901",
+   "short": "28 CFR Part 901",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 901",
+   "url": "https://www.ecfr.gov/current/title-28/part-901",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0902",
+   "short": "28 CFR Part 902",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 902",
+   "url": "https://www.ecfr.gov/current/title-28/part-902",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0904",
+   "short": "28 CFR Part 904",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 904",
+   "url": "https://www.ecfr.gov/current/title-28/part-904",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0905",
+   "short": "28 CFR Part 905",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 905",
+   "url": "https://www.ecfr.gov/current/title-28/part-905",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0906",
+   "short": "28 CFR Part 906",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 906",
+   "url": "https://www.ecfr.gov/current/title-28/part-906",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-0907",
+   "short": "28 CFR Part 907",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 907",
+   "url": "https://www.ecfr.gov/current/title-28/part-907",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-1100",
+   "short": "28 CFR Part 1100",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part 1100",
+   "url": "https://www.ecfr.gov/current/title-28/part-1100",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-part-other",
+   "short": "28 CFR Part other",
+   "title": "Title 28 of the Code of Federal Regulations (Judicial Administration), Part other",
+   "url": "https://www.ecfr.gov/current/title-28/part-other",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-28/CFR-2018-title-28.zip",
+     "sha256": "e1fb20505fb56d4c79ee04105197583d7bfb91fc0b0b13f0d5d6e3ea464699e7"
+    },
+    {
+     "from": "2019-04-26",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-28/CFR-2019-title-28.zip",
+     "sha256": "e8dd96fdd2bb3661510656ffa4634ff55c85beb9d4fc752ecc3a95db77f0a963"
+    }
+   ]
+  },
+  {
    "slug": "title-29-part-0000",
    "short": "29 CFR Part 0",
    "title": "Title 29 of the Code of Federal Regulations (Labor), Part 0",

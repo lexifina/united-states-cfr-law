@@ -4771,6 +4771,155 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-27-part-0555` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 555 | 7 | 2017-03-15 to 2026-10-26 |
 | `title-27-part-0646` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 646 | 2 | 2017-03-15 to 2026-06-08 |
 | `title-27-part-0771` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 771 | 1 | 2019-12-26 to 2019-12-26 |
+| `title-28-part-0000` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 0 | 18 | 2018-01-29 to 2026-08-24 |
+| `title-28-part-0001` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 1 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0002` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 2 | 9 | 2018-01-29 to 2025-05-21 |
+| `title-28-part-0003` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 3 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0004` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 4 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0005` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 5 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0006` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 6 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0007` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 7 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0008` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 8 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0009` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 9 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0010` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 10 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0011` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 11 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0012` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 12 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0013` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 13 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0014` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 14 | 2 | 2018-01-29 to 2020-03-23 |
+| `title-28-part-0015` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 15 | 2 | 2018-01-29 to 2024-08-05 |
+| `title-28-part-0016` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 16 | 9 | 2018-01-29 to 2026-03-16 |
+| `title-28-part-0017` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 17 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0018` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 18 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0019` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 19 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0020` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 20 | 2 | 2018-01-29 to 2024-05-20 |
+| `title-28-part-0021` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 21 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0022` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 22 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0023` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 23 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0024` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 24 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0025` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 25 | 2 | 2018-01-29 to 2026-09-21 |
+| `title-28-part-0026` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 26 | 2 | 2018-01-29 to 2020-12-28 |
+| `title-28-part-0027` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 27 | 3 | 2018-01-29 to 2026-09-01 |
+| `title-28-part-0028` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 28 | 2 | 2018-01-29 to 2020-04-08 |
+| `title-28-part-0029` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 29 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0030` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 30 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0031` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 31 | 2 | 2018-01-29 to 2021-06-14 |
+| `title-28-part-0032` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 32 | 4 | 2018-01-29 to 2023-05-04 |
+| `title-28-part-0033` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 33 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0034` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 34 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0035` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 35 | 5 | 2018-01-29 to 2026-04-20 |
+| `title-28-part-0036` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 36 | 2 | 2018-01-29 to 2026-10-26 |
+| `title-28-part-0037` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 37 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0038` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 38 | 3 | 2018-01-29 to 2024-04-03 |
+| `title-28-part-0039` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 39 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0040` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 40 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0041` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 41 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0042` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 42 | 3 | 2018-01-29 to 2026-10-26 |
+| `title-28-part-0043` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 43 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0044` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 44 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0045` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 45 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0046` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 46 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0047` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 47 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0048` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 48 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0049` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 49 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0050` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 50 | 5 | 2018-01-29 to 2026-07-31 |
+| `title-28-part-0051` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 51 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0052` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 52 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0054` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 54 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0055` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 55 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0056` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 56 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0057` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 57 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0058` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 58 | 2 | 2018-01-29 to 2021-06-21 |
+| `title-28-part-0059` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 59 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0060` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 60 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0061` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 61 | 2 | 2018-01-29 to 2019-05-09 |
+| `title-28-part-0063` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 63 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0064` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 64 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0065` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 65 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0068` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 68 | 7 | 2018-01-29 to 2026-09-10 |
+| `title-28-part-0069` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 69 | 2 | 2018-01-29 to 2026-10-26 |
+| `title-28-part-0071` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 71 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0072` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 72 | 2 | 2018-01-29 to 2022-01-07 |
+| `title-28-part-0073` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 73 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0074` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 74 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0075` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 75 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0076` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 76 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0077` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 77 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0079` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 79 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0080` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 80 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0081` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 81 | 2 | 2018-01-29 to 2024-11-25 |
+| `title-28-part-0083` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 83 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0085` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 85 | 4 | 2018-01-29 to 2025-07-03 |
+| `title-28-part-0090` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 90 | 2 | 2018-01-29 to 2023-04-11 |
+| `title-28-part-0091` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 91 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0092` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 92 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0093` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 93 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0094` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 94 | 2 | 2018-01-29 to 2023-01-20 |
+| `title-28-part-0097` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 97 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0100` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 100 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0104` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 104 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0105` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 105 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0106` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 106 | 1 | 2024-05-20 to 2024-05-20 |
+| `title-28-part-0107` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 107 | 1 | 2026-09-21 to 2026-09-21 |
+| `title-28-part-0115` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 115 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0124` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 124 | 1 | 2026-07-06 to 2026-07-06 |
+| `title-28-part-0200` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 200 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0201` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 201 | 1 | 2022-10-14 to 2022-10-14 |
+| `title-28-part-0202` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 202 | 2 | 2025-04-08 to 2025-04-18 |
+| `title-28-part-0301` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 301 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0302` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 302 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0345` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 345 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0500` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 500 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0501` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 501 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0503` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 503 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0505` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 505 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0506` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 506 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0511` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 511 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0512` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 512 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0513` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 513 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0522` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 522 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0523` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 523 | 4 | 2018-01-29 to 2026-09-30 |
+| `title-28-part-0524` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 524 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0527` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 527 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0540` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 540 | 2 | 2018-01-29 to 2020-06-22 |
+| `title-28-part-0541` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 541 | 2 | 2018-01-29 to 2022-01-19 |
+| `title-28-part-0542` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 542 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0543` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 543 | 4 | 2018-01-29 to 2024-12-17 |
+| `title-28-part-0544` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 544 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0545` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 545 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0547` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 547 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0548` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 548 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0549` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 549 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0550` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 550 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0551` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 551 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0552` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 552 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0553` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 553 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0570` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 570 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0571` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 571 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0572` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 572 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0600` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 600 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0601` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 601 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0602` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 602 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0603` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 603 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0700` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 700 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0701` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 701 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0800` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 800 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0801` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 801 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0802` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 802 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0803` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 803 | 2 | 2018-01-29 to 2026-10-26 |
+| `title-28-part-0804` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 804 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0810` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 810 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0811` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 811 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0812` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 812 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0813` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 813 | 2 | 2020-05-19 to 2020-06-22 |
+| `title-28-part-0814` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 814 | 1 | 2022-10-11 to 2022-10-11 |
+| `title-28-part-0901` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 901 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0902` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 902 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0904` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 904 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0905` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 905 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0906` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 906 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-0907` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 907 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-1100` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part 1100 | 1 | 2018-01-29 to 2018-01-29 |
+| `title-28-part-other` | Title 28 of the Code of Federal Regulations (Judicial Administration), Part other | 2 | 2018-01-29 to 2019-04-26 |
 | `title-29-part-0000` | Title 29 of the Code of Federal Regulations (Labor), Part 0 | 1 | 2017-05-30 to 2017-05-30 |
 | `title-29-part-0001` | Title 29 of the Code of Federal Regulations (Labor), Part 1 | 2 | 2017-05-30 to 2023-10-23 |
 | `title-29-part-0002` | Title 29 of the Code of Federal Regulations (Labor), Part 2 | 6 | 2017-05-30 to 2025-07-31 |
@@ -5075,19 +5224,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 21798 commits:
+The build made 22062 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5058 | first version of an act |
-| 11798 | one law on its in-force day |
-| 4942 | changes no amendment note explains, credited to the publisher |
+| 5207 | first version of an act |
+| 11879 | one law on its in-force day |
+| 4976 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 14040 laws in the record.
-- 28607 tags.
+- 14145 laws in the record.
+- 28918 tags.
 
 ## Dates
 
@@ -5099,7 +5248,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6aa2e8d3c91d1bca0abebb14ef275f3e3d8dde869abc8354a0398e93327c584a` (1044643212 bytes).
+- Corpus: sha256 `f3faa151647ec563852643c424e8279a96c5c004d62a611a29b324627d3cba57` (1055301067 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5148,6 +5297,7 @@ No second build of this corpus has been compared yet.
 - Title 25: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-02-26); 2019 annual edition (to 2019-03-01); 2020 annual edition (to 2020-03-30); 2021 annual edition (to 2021-02-01); 2022 annual edition (to 2022-03-09); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 27: editions read: 2017 annual edition (to 2017-03-15); 2018 annual edition (to 2018-01-08); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 28: editions read: 2018 annual edition (to 2018-01-29); 2019 annual edition (to 2019-05-09); 2023 annual edition (to 2023-05-04); 2024 annual edition (to 2024-05-20); 2025 annual edition (to 2025-05-21); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
