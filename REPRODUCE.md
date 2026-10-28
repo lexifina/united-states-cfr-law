@@ -7495,20 +7495,87 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-43-part-10005` | Title 43 of the Code of Federal Regulations (Public Lands: Interior), Part 10005 | 1 | 2018-10-01 to 2018-10-01 |
 | `title-43-part-10010` | Title 43 of the Code of Federal Regulations (Public Lands: Interior), Part 10010 | 1 | 2018-10-01 to 2018-10-01 |
 | `title-43-part-other` | Title 43 of the Code of Federal Regulations (Public Lands: Interior), Part other | 4 | 2018-10-01 to 2026-10-26 |
+| `title-44-part-0001` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 1 | 2 | 2017-01-03 to 2022-04-04 |
+| `title-44-part-0002` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 2 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0004` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 4 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0005` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 5 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0006` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 6 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0007` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 7 | 3 | 2017-01-03 to 2026-06-22 |
+| `title-44-part-0009` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 9 | 3 | 2017-01-03 to 2024-10-10 |
+| `title-44-part-0011` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 11 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0015` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 15 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0016` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 16 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0018` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 18 | 2 | 2017-01-03 to 2026-10-26 |
+| `title-44-part-0019` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 19 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0025` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 25 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0059` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 59 | 5 | 2017-01-03 to 2021-10-01 |
+| `title-44-part-0060` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 60 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0061` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 61 | 6 | 2017-01-03 to 2026-10-26 |
+| `title-44-part-0062` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 62 | 4 | 2017-01-03 to 2024-12-31 |
+| `title-44-part-0063` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 63 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0064` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 64 | 2 | 2017-01-03 to 2020-12-02 |
+| `title-44-part-0065` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 65 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0066` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 66 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0067` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 67 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0068` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 68 | 2 | 2017-01-03 to 2023-10-01 |
+| `title-44-part-0070` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 70 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0071` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 71 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0072` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 72 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0073` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 73 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0075` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 75 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0077` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 77 | 1 | 2021-10-01 to 2021-10-01 |
+| `title-44-part-0078` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 78 | 2 | 2017-01-03 to 2021-10-01 |
+| `title-44-part-0079` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 79 | 2 | 2017-01-03 to 2021-10-01 |
+| `title-44-part-0080` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 80 | 2 | 2017-01-03 to 2021-10-01 |
+| `title-44-part-0150` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 150 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0151` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 151 | 2 | 2017-01-03 to 2018-10-01 |
+| `title-44-part-0152` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 152 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0201` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 201 | 2 | 2017-01-03 to 2021-10-01 |
+| `title-44-part-0204` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 204 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0206` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 206 | 9 | 2017-01-03 to 2024-08-15 |
+| `title-44-part-0207` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 207 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0208` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 208 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0209` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 209 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0295` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 295 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0296` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 296 | 2 | 2022-11-14 to 2023-08-29 |
+| `title-44-part-0300` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 300 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0302` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 302 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0304` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 304 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0312` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 312 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0321` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 321 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0323` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 323 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0327` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 327 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0328` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 328 | 3 | 2020-04-10 to 2021-06-30 |
+| `title-44-part-0329` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 329 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0330` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 330 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0331` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 331 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0332` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 332 | 2 | 2017-01-03 to 2018-10-01 |
+| `title-44-part-0333` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 333 | 2 | 2020-05-13 to 2021-01-08 |
+| `title-44-part-0334` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 334 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0350` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 350 | 2 | 2017-01-03 to 2018-10-01 |
+| `title-44-part-0351` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 351 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0352` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 352 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0353` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 353 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0354` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 354 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0360` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 360 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0361` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 361 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0362` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 362 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0401` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 401 | 1 | 2017-01-03 to 2017-01-03 |
+| `title-44-part-0402` | Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 402 | 1 | 2017-01-03 to 2017-01-03 |
 
-The build made 27431 commits:
+The build made 27563 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 7479 | first version of an act |
-| 13888 | one law on its in-force day |
-| 6064 | changes no amendment note explains, credited to the publisher |
+| 7546 | first version of an act |
+| 13931 | one law on its in-force day |
+| 6086 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 16506 laws in the record.
-- 35552 tags.
+- 16560 laws in the record.
+- 35701 tags.
 
 ## Dates
 
@@ -7520,7 +7587,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b0a9a03c7de48dcbfa27bf1c7c4b878326a78376354a28c84521ba67703d5fb7` (1230947859 bytes).
+- Corpus: sha256 `bede624b6d7690e239279029e91b1784c96f48d7c13a38acec723dc2232e5883` (1233972581 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -7583,6 +7650,7 @@ No second build of this corpus has been compared yet.
 - Title 41: editions read: 2018 annual edition (to 2018-02-12); 2019 annual edition (to 2019-01-21); 2020 annual edition (to 2020-03-04); 2021 annual edition (to 2021-05-26); 2022 annual edition (to 2022-05-31); 2023 annual edition (to 2023-03-31); 2024 annual edition (to 2024-05-22); 2025 annual edition (to 2025-01-21); eCFR (to 2026-10-26).
 - Title 42: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 43: editions read: 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-09-17); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-09-06); 2025 annual edition (to 2025-09-30); eCFR (to 2026-10-26).
+- Title 44: editions read: 2017 annual edition (to 2017-01-03); 2018 annual edition (to 2018-10-01); 2020 annual edition (to 2020-08-10); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-08-03); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 

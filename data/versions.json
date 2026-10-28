@@ -194142,6 +194142,1178 @@
      "sha256": "dad4b6f641a015585116efc68ef646ac1bdb5e1ac3f2d784ad8ebdd9f735ec73"
     }
    ]
+  },
+  {
+   "slug": "title-44-part-0001",
+   "short": "44 CFR Part 1",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 1",
+   "url": "https://www.ecfr.gov/current/title-44/part-1",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2022-04-04",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-44/CFR-2022-title-44.zip",
+     "sha256": "bfc0f8c4ed4960005e08c5424b538d7be09cfaadf21c95d479367c613be26277"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0002",
+   "short": "44 CFR Part 2",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 2",
+   "url": "https://www.ecfr.gov/current/title-44/part-2",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0004",
+   "short": "44 CFR Part 4",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 4",
+   "url": "https://www.ecfr.gov/current/title-44/part-4",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0005",
+   "short": "44 CFR Part 5",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 5",
+   "url": "https://www.ecfr.gov/current/title-44/part-5",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0006",
+   "short": "44 CFR Part 6",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 6",
+   "url": "https://www.ecfr.gov/current/title-44/part-6",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0007",
+   "short": "44 CFR Part 7",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 7",
+   "url": "https://www.ecfr.gov/current/title-44/part-7",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-44/ECFR-title44.xml",
+     "sha256": "aa17793e2507ef7d129b3ba6b5e2739a2d915c062ead1eeb8697433f594adf83"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0009",
+   "short": "44 CFR Part 9",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 9",
+   "url": "https://www.ecfr.gov/current/title-44/part-9",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2024-09-09",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-44/CFR-2024-title-44.zip",
+     "sha256": "8542423a3c09527aa32e74713d397336ca88c421b1900b590c014f4a87f6fb5f"
+    },
+    {
+     "from": "2024-10-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-44/CFR-2025-title-44.zip",
+     "sha256": "44d5770536d968e693974a1548a9926229ce94a0f0dde34fdfb0fe58fa787bd8"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0011",
+   "short": "44 CFR Part 11",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 11",
+   "url": "https://www.ecfr.gov/current/title-44/part-11",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0015",
+   "short": "44 CFR Part 15",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 15",
+   "url": "https://www.ecfr.gov/current/title-44/part-15",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0016",
+   "short": "44 CFR Part 16",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 16",
+   "url": "https://www.ecfr.gov/current/title-44/part-16",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0018",
+   "short": "44 CFR Part 18",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 18",
+   "url": "https://www.ecfr.gov/current/title-44/part-18",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-44/ECFR-title44.xml",
+     "sha256": "aa17793e2507ef7d129b3ba6b5e2739a2d915c062ead1eeb8697433f594adf83"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0019",
+   "short": "44 CFR Part 19",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 19",
+   "url": "https://www.ecfr.gov/current/title-44/part-19",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0025",
+   "short": "44 CFR Part 25",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 25",
+   "url": "https://www.ecfr.gov/current/title-44/part-25",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0059",
+   "short": "44 CFR Part 59",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 59",
+   "url": "https://www.ecfr.gov/current/title-44/part-59",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-07-05",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0060",
+   "short": "44 CFR Part 60",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 60",
+   "url": "https://www.ecfr.gov/current/title-44/part-60",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0061",
+   "short": "44 CFR Part 61",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 61",
+   "url": "https://www.ecfr.gov/current/title-44/part-61",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-07-05",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    },
+    {
+     "from": "2020-07-20",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-44/CFR-2020-title-44.zip",
+     "sha256": "6100a16e54f440f9b8d3c711155add5aac77022f006a3a9a32194a74f097f4e9"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-44/CFR-2025-title-44.zip",
+     "sha256": "44d5770536d968e693974a1548a9926229ce94a0f0dde34fdfb0fe58fa787bd8"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-44/ECFR-title44.xml",
+     "sha256": "aa17793e2507ef7d129b3ba6b5e2739a2d915c062ead1eeb8697433f594adf83"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0062",
+   "short": "44 CFR Part 62",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 62",
+   "url": "https://www.ecfr.gov/current/title-44/part-62",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-44/CFR-2022-title-44.zip",
+     "sha256": "bfc0f8c4ed4960005e08c5424b538d7be09cfaadf21c95d479367c613be26277"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-44/CFR-2025-title-44.zip",
+     "sha256": "44d5770536d968e693974a1548a9926229ce94a0f0dde34fdfb0fe58fa787bd8"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0063",
+   "short": "44 CFR Part 63",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 63",
+   "url": "https://www.ecfr.gov/current/title-44/part-63",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0064",
+   "short": "44 CFR Part 64",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 64",
+   "url": "https://www.ecfr.gov/current/title-44/part-64",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0065",
+   "short": "44 CFR Part 65",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 65",
+   "url": "https://www.ecfr.gov/current/title-44/part-65",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0066",
+   "short": "44 CFR Part 66",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 66",
+   "url": "https://www.ecfr.gov/current/title-44/part-66",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0067",
+   "short": "44 CFR Part 67",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 67",
+   "url": "https://www.ecfr.gov/current/title-44/part-67",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0068",
+   "short": "44 CFR Part 68",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 68",
+   "url": "https://www.ecfr.gov/current/title-44/part-68",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-44/CFR-2023-title-44.zip",
+     "sha256": "acef731edcdcdab931c563fab7076488dfcfd79573f72f6e8c13c4d7b1da8c33"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0070",
+   "short": "44 CFR Part 70",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 70",
+   "url": "https://www.ecfr.gov/current/title-44/part-70",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0071",
+   "short": "44 CFR Part 71",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 71",
+   "url": "https://www.ecfr.gov/current/title-44/part-71",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0072",
+   "short": "44 CFR Part 72",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 72",
+   "url": "https://www.ecfr.gov/current/title-44/part-72",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0073",
+   "short": "44 CFR Part 73",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 73",
+   "url": "https://www.ecfr.gov/current/title-44/part-73",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0075",
+   "short": "44 CFR Part 75",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 75",
+   "url": "https://www.ecfr.gov/current/title-44/part-75",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0077",
+   "short": "44 CFR Part 77",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 77",
+   "url": "https://www.ecfr.gov/current/title-44/part-77",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0078",
+   "short": "44 CFR Part 78",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 78",
+   "url": "https://www.ecfr.gov/current/title-44/part-78",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0079",
+   "short": "44 CFR Part 79",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 79",
+   "url": "https://www.ecfr.gov/current/title-44/part-79",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0080",
+   "short": "44 CFR Part 80",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 80",
+   "url": "https://www.ecfr.gov/current/title-44/part-80",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0150",
+   "short": "44 CFR Part 150",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 150",
+   "url": "https://www.ecfr.gov/current/title-44/part-150",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0151",
+   "short": "44 CFR Part 151",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 151",
+   "url": "https://www.ecfr.gov/current/title-44/part-151",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0152",
+   "short": "44 CFR Part 152",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 152",
+   "url": "https://www.ecfr.gov/current/title-44/part-152",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0201",
+   "short": "44 CFR Part 201",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 201",
+   "url": "https://www.ecfr.gov/current/title-44/part-201",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0204",
+   "short": "44 CFR Part 204",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 204",
+   "url": "https://www.ecfr.gov/current/title-44/part-204",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0206",
+   "short": "44 CFR Part 206",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 206",
+   "url": "https://www.ecfr.gov/current/title-44/part-206",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 145,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-08-30",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-44/CFR-2020-title-44.zip",
+     "sha256": "6100a16e54f440f9b8d3c711155add5aac77022f006a3a9a32194a74f097f4e9"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-44/CFR-2022-title-44.zip",
+     "sha256": "bfc0f8c4ed4960005e08c5424b538d7be09cfaadf21c95d479367c613be26277"
+    },
+    {
+     "from": "2022-08-03",
+     "units": 144,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-44/CFR-2022-title-44.zip",
+     "sha256": "bfc0f8c4ed4960005e08c5424b538d7be09cfaadf21c95d479367c613be26277"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-44/CFR-2024-title-44.zip",
+     "sha256": "8542423a3c09527aa32e74713d397336ca88c421b1900b590c014f4a87f6fb5f"
+    },
+    {
+     "from": "2024-08-15",
+     "units": 141,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-44/CFR-2024-title-44.zip",
+     "sha256": "8542423a3c09527aa32e74713d397336ca88c421b1900b590c014f4a87f6fb5f"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0207",
+   "short": "44 CFR Part 207",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 207",
+   "url": "https://www.ecfr.gov/current/title-44/part-207",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0208",
+   "short": "44 CFR Part 208",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 208",
+   "url": "https://www.ecfr.gov/current/title-44/part-208",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0209",
+   "short": "44 CFR Part 209",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 209",
+   "url": "https://www.ecfr.gov/current/title-44/part-209",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0295",
+   "short": "44 CFR Part 295",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 295",
+   "url": "https://www.ecfr.gov/current/title-44/part-295",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0296",
+   "short": "44 CFR Part 296",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 296",
+   "url": "https://www.ecfr.gov/current/title-44/part-296",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-44/CFR-2023-title-44.zip",
+     "sha256": "acef731edcdcdab931c563fab7076488dfcfd79573f72f6e8c13c4d7b1da8c33"
+    },
+    {
+     "from": "2023-08-29",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-44/CFR-2023-title-44.zip",
+     "sha256": "acef731edcdcdab931c563fab7076488dfcfd79573f72f6e8c13c4d7b1da8c33"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0300",
+   "short": "44 CFR Part 300",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 300",
+   "url": "https://www.ecfr.gov/current/title-44/part-300",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0302",
+   "short": "44 CFR Part 302",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 302",
+   "url": "https://www.ecfr.gov/current/title-44/part-302",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0304",
+   "short": "44 CFR Part 304",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 304",
+   "url": "https://www.ecfr.gov/current/title-44/part-304",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0312",
+   "short": "44 CFR Part 312",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 312",
+   "url": "https://www.ecfr.gov/current/title-44/part-312",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0321",
+   "short": "44 CFR Part 321",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 321",
+   "url": "https://www.ecfr.gov/current/title-44/part-321",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0323",
+   "short": "44 CFR Part 323",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 323",
+   "url": "https://www.ecfr.gov/current/title-44/part-323",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0327",
+   "short": "44 CFR Part 327",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 327",
+   "url": "https://www.ecfr.gov/current/title-44/part-327",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0328",
+   "short": "44 CFR Part 328",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 328",
+   "url": "https://www.ecfr.gov/current/title-44/part-328",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-44/CFR-2020-title-44.zip",
+     "sha256": "6100a16e54f440f9b8d3c711155add5aac77022f006a3a9a32194a74f097f4e9"
+    },
+    {
+     "from": "2020-08-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-44/CFR-2020-title-44.zip",
+     "sha256": "6100a16e54f440f9b8d3c711155add5aac77022f006a3a9a32194a74f097f4e9"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0329",
+   "short": "44 CFR Part 329",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 329",
+   "url": "https://www.ecfr.gov/current/title-44/part-329",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0330",
+   "short": "44 CFR Part 330",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 330",
+   "url": "https://www.ecfr.gov/current/title-44/part-330",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0331",
+   "short": "44 CFR Part 331",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 331",
+   "url": "https://www.ecfr.gov/current/title-44/part-331",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0332",
+   "short": "44 CFR Part 332",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 332",
+   "url": "https://www.ecfr.gov/current/title-44/part-332",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0333",
+   "short": "44 CFR Part 333",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 333",
+   "url": "https://www.ecfr.gov/current/title-44/part-333",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-44/CFR-2020-title-44.zip",
+     "sha256": "6100a16e54f440f9b8d3c711155add5aac77022f006a3a9a32194a74f097f4e9"
+    },
+    {
+     "from": "2021-01-08",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-44/CFR-2021-title-44.zip",
+     "sha256": "d1e12f0f5fd6ec58e47c6b8a2005aae240a9de8c2a54e8844c5fd104889c6bc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0334",
+   "short": "44 CFR Part 334",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 334",
+   "url": "https://www.ecfr.gov/current/title-44/part-334",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0350",
+   "short": "44 CFR Part 350",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 350",
+   "url": "https://www.ecfr.gov/current/title-44/part-350",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-44/CFR-2018-title-44.zip",
+     "sha256": "5ddc8f0bd45ae1586df32fd7ea95ee0e4f752678e3a9113e3e22cf9be7948ca3"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0351",
+   "short": "44 CFR Part 351",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 351",
+   "url": "https://www.ecfr.gov/current/title-44/part-351",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0352",
+   "short": "44 CFR Part 352",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 352",
+   "url": "https://www.ecfr.gov/current/title-44/part-352",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0353",
+   "short": "44 CFR Part 353",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 353",
+   "url": "https://www.ecfr.gov/current/title-44/part-353",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0354",
+   "short": "44 CFR Part 354",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 354",
+   "url": "https://www.ecfr.gov/current/title-44/part-354",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0360",
+   "short": "44 CFR Part 360",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 360",
+   "url": "https://www.ecfr.gov/current/title-44/part-360",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0361",
+   "short": "44 CFR Part 361",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 361",
+   "url": "https://www.ecfr.gov/current/title-44/part-361",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0362",
+   "short": "44 CFR Part 362",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 362",
+   "url": "https://www.ecfr.gov/current/title-44/part-362",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0401",
+   "short": "44 CFR Part 401",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 401",
+   "url": "https://www.ecfr.gov/current/title-44/part-401",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-part-0402",
+   "short": "44 CFR Part 402",
+   "title": "Title 44 of the Code of Federal Regulations (Emergency Management and Assistance), Part 402",
+   "url": "https://www.ecfr.gov/current/title-44/part-402",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-44/CFR-2017-title-44.zip",
+     "sha256": "7408462b2f5fc90292ae259ea8c25bc319cf2ae5e9c770ab970e0a554580d0c4"
+    }
+   ]
   }
  ]
 }
