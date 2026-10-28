@@ -16,6 +16,368 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
+| `title-40-part-0001` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1 | 3 | 2017-05-30 to 2024-10-31 |
+| `title-40-part-0002` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 2 | 6 | 2017-05-30 to 2023-11-13 |
+| `title-40-part-0003` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 3 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0004` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 4 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0005` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 5 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0006` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 6 | 2 | 2017-05-30 to 2018-09-26 |
+| `title-40-part-0007` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 7 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0008` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 8 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0009` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 9 | 11 | 2017-05-30 to 2025-08-22 |
+| `title-40-part-0010` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 10 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0011` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 11 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0012` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 12 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0013` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 13 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0014` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 14 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0016` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 16 | 4 | 2017-05-30 to 2024-02-06 |
+| `title-40-part-0017` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 17 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0018` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 18 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0019` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 19 | 10 | 2017-05-30 to 2025-01-08 |
+| `title-40-part-0020` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 20 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0021` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 21 | 4 | 2017-05-30 to 2025-09-15 |
+| `title-40-part-0022` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 22 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0023` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 23 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0024` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 24 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0025` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 25 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0026` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 26 | 5 | 2017-05-30 to 2019-09-23 |
+| `title-40-part-0027` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 27 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0029` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 29 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0031` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 31 | 2 | 2020-03-02 to 2021-12-30 |
+| `title-40-part-0033` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 33 | 3 | 2017-05-30 to 2024-05-28 |
+| `title-40-part-0034` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 34 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0035` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 35 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0040` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 40 | 2 | 2017-05-30 to 2022-05-19 |
+| `title-40-part-0045` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 45 | 2 | 2017-05-30 to 2022-05-19 |
+| `title-40-part-0046` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 46 | 2 | 2017-05-30 to 2022-05-19 |
+| `title-40-part-0047` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 47 | 2 | 2017-05-30 to 2022-05-19 |
+| `title-40-part-0049` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 49 | 17 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0050` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 50 | 9 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0051` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 51 | 21 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0052` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 52 | 430 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0053` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 53 | 6 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0054` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 54 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0055` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 55 | 10 | 2017-05-30 to 2025-01-27 |
+| `title-40-part-0056` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 56 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0057` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 57 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0058` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 58 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0059` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 59 | 8 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0060` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 60 | 65 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0061` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 61 | 12 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0062` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 62 | 76 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0063` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 63 | 125 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0064` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 64 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0065` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 65 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0066` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 66 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0067` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 67 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0068` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 68 | 9 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0069` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 69 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0070` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 70 | 13 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0071` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 71 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0072` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 72 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0073` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 73 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0074` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 74 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0075` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 75 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0076` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 76 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0077` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 77 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0078` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 78 | 3 | 2017-05-30 to 2023-08-04 |
+| `title-40-part-0079` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 79 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0080` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 80 | 30 | 2017-05-30 to 2026-09-04 |
+| `title-40-part-0081` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 81 | 68 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0082` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 82 | 21 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0084` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 84 | 9 | 2021-10-05 to 2026-07-27 |
+| `title-40-part-0085` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 85 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0086` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 86 | 14 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0087` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 87 | 3 | 2017-05-30 to 2022-12-23 |
+| `title-40-part-0088` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 88 | 3 | 2017-05-30 to 2021-07-29 |
+| `title-40-part-0089` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 89 | 3 | 2017-05-30 to 2021-07-29 |
+| `title-40-part-0090` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 90 | 3 | 2017-05-30 to 2021-07-29 |
+| `title-40-part-0091` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 91 | 3 | 2017-05-30 to 2021-07-29 |
+| `title-40-part-0092` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 92 | 3 | 2017-05-30 to 2021-07-29 |
+| `title-40-part-0093` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 93 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0094` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 94 | 3 | 2017-05-30 to 2021-07-29 |
+| `title-40-part-0095` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 95 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0096` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 96 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0097` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 97 | 16 | 2017-05-30 to 2025-05-20 |
+| `title-40-part-0098` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 98 | 18 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0104` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 104 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0105` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 105 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0108` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 108 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0109` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 109 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0110` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 110 | 4 | 2017-05-30 to 2023-12-11 |
+| `title-40-part-0112` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 112 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0113` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 113 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0116` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 116 | 3 | 2017-05-30 to 2020-04-21 |
+| `title-40-part-0117` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 117 | 3 | 2017-05-30 to 2020-04-21 |
+| `title-40-part-0118` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 118 | 2 | 2024-05-28 to 2026-10-26 |
+| `title-40-part-0120` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 120 | 3 | 2020-04-22 to 2023-10-03 |
+| `title-40-part-0121` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 121 | 3 | 2017-05-30 to 2023-11-27 |
+| `title-40-part-0122` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 122 | 10 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0123` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 123 | 5 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0124` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 124 | 6 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0125` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 125 | 2 | 2017-05-30 to 2019-02-12 |
+| `title-40-part-0127` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 127 | 4 | 2017-05-30 to 2021-01-04 |
+| `title-40-part-0129` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 129 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0130` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 130 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0131` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 131 | 10 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0132` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 132 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0133` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 133 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0135` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 135 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0136` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 136 | 7 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0139` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 139 | 1 | 2024-11-08 to 2024-11-08 |
+| `title-40-part-0140` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 140 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0141` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 141 | 20 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0142` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 142 | 5 | 2017-05-30 to 2024-12-30 |
+| `title-40-part-0143` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 143 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0144` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 144 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0145` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 145 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0146` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 146 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0147` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 147 | 18 | 2017-05-30 to 2025-12-15 |
+| `title-40-part-0148` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 148 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0149` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 149 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0150` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 150 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0152` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 152 | 2 | 2017-05-30 to 2023-01-09 |
+| `title-40-part-0153` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 153 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0154` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 154 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0155` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 155 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0156` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 156 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0157` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 157 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0158` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 158 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0159` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 159 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0160` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 160 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0162` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 162 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0164` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 164 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0165` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 165 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0166` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 166 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0167` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 167 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0168` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 168 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0169` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 169 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0170` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 170 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0171` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 171 | 5 | 2017-05-30 to 2022-10-18 |
+| `title-40-part-0172` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 172 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0173` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 173 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0174` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 174 | 22 | 2017-05-30 to 2026-08-07 |
+| `title-40-part-0176` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 176 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0178` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 178 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0179` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 179 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0180` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 180 | 329 | 2017-05-30 to 2026-10-02 |
+| `title-40-part-0190` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 190 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0191` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 191 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0192` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 192 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0194` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 194 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0195` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 195 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0197` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 197 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0201` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 201 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0202` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 202 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0203` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 203 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0204` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 204 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0205` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 205 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0209` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 209 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0210` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 210 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0211` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 211 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0220` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 220 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0221` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 221 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0222` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 222 | 2 | 2017-05-30 to 2019-08-07 |
+| `title-40-part-0223` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 223 | 2 | 2017-05-30 to 2019-08-07 |
+| `title-40-part-0224` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 224 | 2 | 2017-05-30 to 2019-08-07 |
+| `title-40-part-0225` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 225 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0227` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 227 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0228` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 228 | 7 | 2017-05-30 to 2026-09-28 |
+| `title-40-part-0229` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 229 | 2 | 2017-05-30 to 2019-08-07 |
+| `title-40-part-0230` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 230 | 3 | 2017-05-30 to 2020-04-21 |
+| `title-40-part-0231` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 231 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0232` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 232 | 4 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0233` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 233 | 2 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0238` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 238 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0239` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 239 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0240` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 240 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0241` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 241 | 3 | 2017-05-30 to 2023-12-18 |
+| `title-40-part-0243` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 243 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0246` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 246 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0247` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 247 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0254` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 254 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0255` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 255 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0256` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 256 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0257` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 257 | 10 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0258` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 258 | 4 | 2017-05-30 to 2021-04-08 |
+| `title-40-part-0260` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 260 | 9 | 2017-05-30 to 2025-01-22 |
+| `title-40-part-0261` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 261 | 21 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0262` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 262 | 11 | 2017-05-30 to 2025-03-21 |
+| `title-40-part-0263` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 263 | 3 | 2017-05-30 to 2025-01-22 |
+| `title-40-part-0264` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 264 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0265` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 265 | 12 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0266` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 266 | 7 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0267` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 267 | 2 | 2017-05-30 to 2025-01-22 |
+| `title-40-part-0268` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 268 | 8 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0270` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 270 | 5 | 2017-05-30 to 2025-01-22 |
+| `title-40-part-0271` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 271 | 4 | 2017-05-30 to 2025-01-22 |
+| `title-40-part-0272` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 272 | 15 | 2017-05-30 to 2025-12-18 |
+| `title-40-part-0273` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 273 | 4 | 2017-05-30 to 2020-02-07 |
+| `title-40-part-0278` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 278 | 2 | 2017-05-30 to 2020-09-08 |
+| `title-40-part-0279` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 279 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0280` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 280 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0281` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 281 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0282` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 282 | 42 | 2017-05-30 to 2026-10-22 |
+| `title-40-part-0300` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 300 | 21 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0302` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 302 | 9 | 2017-05-30 to 2024-07-08 |
+| `title-40-part-0303` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 303 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0304` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 304 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0305` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 305 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0307` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 307 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0310` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 310 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0311` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 311 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0312` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 312 | 4 | 2017-05-30 to 2024-08-23 |
+| `title-40-part-0350` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 350 | 2 | 2017-05-30 to 2020-07-24 |
+| `title-40-part-0355` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 355 | 4 | 2017-05-30 to 2020-07-24 |
+| `title-40-part-0370` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 370 | 2 | 2017-05-30 to 2026-08-21 |
+| `title-40-part-0372` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 372 | 15 | 2017-05-30 to 2026-03-30 |
+| `title-40-part-0373` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 373 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0374` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 374 | 3 | 2017-05-30 to 2024-10-31 |
+| `title-40-part-0401` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 401 | 3 | 2017-05-30 to 2020-04-21 |
+| `title-40-part-0403` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 403 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0405` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 405 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0406` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 406 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0407` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 407 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0408` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 408 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0409` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 409 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0410` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 410 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0411` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 411 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0412` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 412 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0413` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 413 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0414` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 414 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0415` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 415 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0417` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 417 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0418` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 418 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0419` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 419 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0420` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 420 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0421` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 421 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0422` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 422 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0423` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 423 | 7 | 2017-05-30 to 2026-03-02 |
+| `title-40-part-0424` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 424 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0425` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 425 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0426` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 426 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0427` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 427 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0428` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 428 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0429` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 429 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0430` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 430 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0432` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 432 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0433` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 433 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0434` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 434 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0435` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 435 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0436` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 436 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0437` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 437 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0438` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 438 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0439` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 439 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0440` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 440 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0441` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 441 | 3 | 2017-05-30 to 2023-12-07 |
+| `title-40-part-0442` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 442 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0443` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 443 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0444` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 444 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0445` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 445 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0446` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 446 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0447` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 447 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0449` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 449 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0450` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 450 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0451` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 451 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0454` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 454 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0455` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 455 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0457` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 457 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0458` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 458 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0459` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 459 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0460` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 460 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0461` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 461 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0463` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 463 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0464` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 464 | 2 | 2017-05-30 to 2024-05-28 |
+| `title-40-part-0465` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 465 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0466` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 466 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0467` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 467 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0468` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 468 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0469` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 469 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0471` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 471 | 5 | 2017-05-30 to 2024-05-28 |
+| `title-40-part-0501` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 501 | 2 | 2017-05-30 to 2024-11-08 |
+| `title-40-part-0503` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 503 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0600` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 600 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0610` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 610 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0700` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 700 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0702` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 702 | 5 | 2017-05-30 to 2024-07-02 |
+| `title-40-part-0703` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 703 | 2 | 2023-05-30 to 2025-01-17 |
+| `title-40-part-0704` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 704 | 6 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0705` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 705 | 3 | 2023-11-13 to 2026-04-13 |
+| `title-40-part-0707` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 707 | 4 | 2017-05-30 to 2024-10-31 |
+| `title-40-part-0710` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 710 | 4 | 2017-05-30 to 2020-04-22 |
+| `title-40-part-0711` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 711 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0712` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 712 | 2 | 2017-05-30 to 2020-04-22 |
+| `title-40-part-0713` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 713 | 2 | 2018-04-25 to 2021-12-08 |
+| `title-40-part-0716` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 716 | 7 | 2017-05-30 to 2026-05-22 |
+| `title-40-part-0717` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 717 | 3 | 2017-05-30 to 2023-08-07 |
+| `title-40-part-0720` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 720 | 5 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0721` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 721 | 59 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0723` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 723 | 6 | 2017-05-30 to 2025-01-17 |
+| `title-40-part-0725` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 725 | 9 | 2017-05-30 to 2025-09-29 |
+| `title-40-part-0745` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 745 | 7 | 2017-05-30 to 2026-04-02 |
+| `title-40-part-0747` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 747 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0749` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 749 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0750` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 750 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0751` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 751 | 12 | 2019-05-20 to 2026-07-28 |
+| `title-40-part-0761` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 761 | 7 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0763` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 763 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0766` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 766 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0770` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 770 | 7 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0790` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 790 | 4 | 2017-05-30 to 2024-11-08 |
+| `title-40-part-0791` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 791 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0792` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 792 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0795` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 795 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0796` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 796 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-0797` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 797 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0798` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 798 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-0799` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 799 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1027` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1027 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1030` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1030 | 4 | 2021-01-11 to 2026-10-26 |
+| `title-40-part-1031` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1031 | 3 | 2022-12-23 to 2026-10-26 |
+| `title-40-part-1033` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1033 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1036` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1036 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1037` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1037 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1039` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1039 | 8 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1042` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1042 | 8 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1043` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1043 | 6 | 2017-05-30 to 2024-05-28 |
+| `title-40-part-1045` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1045 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1048` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1048 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1051` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1051 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1054` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1054 | 6 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1060` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1060 | 4 | 2017-05-30 to 2023-03-27 |
+| `title-40-part-1065` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1065 | 14 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1066` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1066 | 10 | 2017-05-30 to 2026-10-26 |
+| `title-40-part-1068` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1068 | 10 | 2017-05-30 to 2026-04-01 |
+| `title-40-part-1074` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1074 | 3 | 2017-05-30 to 2023-12-08 |
+| `title-40-part-1090` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1090 | 12 | 2020-12-04 to 2026-10-26 |
+| `title-40-part-1400` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1400 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1500` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1500 | 4 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1501` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1501 | 4 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1502` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1502 | 5 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1503` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1503 | 4 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1504` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1504 | 4 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1505` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1505 | 4 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1506` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1506 | 4 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1507` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1507 | 5 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1508` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1508 | 5 | 2017-05-30 to 2025-04-11 |
+| `title-40-part-1515` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1515 | 2 | 2017-05-30 to 2025-02-20 |
+| `title-40-part-1516` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1516 | 2 | 2017-05-30 to 2025-02-20 |
+| `title-40-part-1517` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1517 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1518` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1518 | 2 | 2017-05-30 to 2025-01-15 |
+| `title-40-part-1600` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1600 | 3 | 2017-05-30 to 2026-01-26 |
+| `title-40-part-1601` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1601 | 2 | 2017-05-30 to 2017-09-29 |
+| `title-40-part-1602` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1602 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1603` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1603 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1604` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1604 | 1 | 2020-03-23 to 2020-03-23 |
+| `title-40-part-1610` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1610 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1611` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1611 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1612` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1612 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1620` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1620 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1700` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1700 | 3 | 2017-05-30 to 2020-08-17 |
+| `title-40-part-1800` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1800 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1850` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1850 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-40-part-1900` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1900 | 1 | 2021-01-08 to 2021-01-08 |
+| `title-40-part-other` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part other | 10 | 2017-05-30 to 2026-10-26 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -984,19 +1346,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 4839 commits:
+The build made 9187 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 967 | first version of an act |
-| 2705 | one law on its in-force day |
-| 1167 | changes no amendment note explains, credited to the publisher |
+| 1329 | first version of an act |
+| 5657 | one law on its in-force day |
+| 2201 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3128 laws in the record.
-- 6350 tags.
+- 6687 laws in the record.
+- 11696 tags.
 
 ## Dates
 
@@ -1008,7 +1370,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `324021201ed37c7f21812e29d439cd2087734be3ccde8810abc1481b0772b6ba` (334012898 bytes).
+- Corpus: sha256 `fbb607f42db9d6134684f06aa6117a8cff772ac6cdd80963b40a69a0cade64e9` (622929606 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1028,6 +1390,7 @@ No second build of this corpus has been compared yet.
 - An annual edition with fewer volumes than the edition before is one GovInfo has not finished publishing, and is skipped.
 - Source notes (CITA), editorial notes, effective-date notes and footnotes are left out of the text; they are annotations, not regulation text. Curly quotes are made straight and spacing is normalised.
 - Each title's first edition is the oldest version available, credited to the publisher; text before 2017 is not included.
+- Title 40: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-25); 2019 annual edition (to 2019-05-20); 2020 annual edition (to 2020-04-22); 2021 annual edition (to 2021-05-24); 2022 annual edition (to 2022-05-27); 2023 annual edition (to 2023-05-30); 2024 annual edition (to 2024-05-28); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
