@@ -3622,6 +3622,169 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-19-part-0360` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 360 | 2 | 2017-03-21 to 2020-10-13 |
 | `title-19-part-0361` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 361 | 2 | 2021-03-29 to 2021-05-21 |
 | `title-19-part-0362` | Title 19 of the Code of Federal Regulations (Customs Duties), Part 362 | 1 | 2022-11-15 to 2022-11-15 |
+| `title-20-part-0001` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0010` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 10 | 2 | 2017-03-27 to 2023-03-07 |
+| `title-20-part-0025` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 25 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0030` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 30 | 6 | 2017-03-27 to 2024-07-16 |
+| `title-20-part-0061` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 61 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0071` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 71 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0200` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 200 | 6 | 2017-03-27 to 2021-07-02 |
+| `title-20-part-0201` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 201 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0202` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 202 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0203` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 203 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0204` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 204 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0205` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 205 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0206` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 206 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0209` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 209 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0210` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 210 | 2 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0211` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 211 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0212` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 212 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0216` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 216 | 2 | 2017-03-27 to 2025-10-27 |
+| `title-20-part-0217` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 217 | 2 | 2017-03-27 to 2023-04-01 |
+| `title-20-part-0218` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 218 | 2 | 2017-03-27 to 2026-06-22 |
+| `title-20-part-0219` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 219 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0220` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 220 | 6 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0221` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 221 | 2 | 2017-03-27 to 2026-09-09 |
+| `title-20-part-0222` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 222 | 3 | 2017-03-27 to 2025-10-27 |
+| `title-20-part-0225` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 225 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0226` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 226 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0227` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 227 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0228` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 228 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0229` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 229 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0230` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 230 | 2 | 2017-03-27 to 2026-09-09 |
+| `title-20-part-0233` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 233 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0234` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 234 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0235` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 235 | 2 | 2017-03-27 to 2024-09-03 |
+| `title-20-part-0243` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 243 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0255` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 255 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0258` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 258 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0259` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 259 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0260` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 260 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0261` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 261 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0266` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 266 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0295` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 295 | 2 | 2017-03-27 to 2021-07-01 |
+| `title-20-part-0300` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 300 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0301` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 301 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0302` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 302 | 2 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0319` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 319 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0320` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 320 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0321` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 321 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0322` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 322 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0323` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 323 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0325` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 325 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0327` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 327 | 2 | 2017-03-27 to 2020-04-07 |
+| `title-20-part-0330` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 330 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0332` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 332 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0335` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 335 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0336` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 336 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0340` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 340 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0341` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 341 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0345` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 345 | 2 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0346` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 346 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0348` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 348 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0349` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 349 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0350` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 350 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0355` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 355 | 2 | 2017-03-27 to 2025-08-15 |
+| `title-20-part-0356` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 356 | 2 | 2017-03-27 to 2026-08-10 |
+| `title-20-part-0361` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 361 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0362` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 362 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0363` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 363 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0364` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 364 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0365` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 365 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0366` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 366 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0367` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 367 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0368` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 368 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0369` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 369 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0375` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 375 | 2 | 2017-03-27 to 2025-07-23 |
+| `title-20-part-0401` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 401 | 6 | 2017-03-27 to 2023-01-10 |
+| `title-20-part-0402` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 402 | 2 | 2017-03-27 to 2025-01-17 |
+| `title-20-part-0403` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 403 | 2 | 2017-03-27 to 2023-01-10 |
+| `title-20-part-0404` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 404 | 34 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0408` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 408 | 7 | 2017-03-27 to 2022-06-13 |
+| `title-20-part-0411` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 411 | 3 | 2017-03-27 to 2020-12-16 |
+| `title-20-part-0416` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 416 | 26 | 2017-03-27 to 2026-04-03 |
+| `title-20-part-0418` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 418 | 2 | 2017-03-27 to 2018-11-07 |
+| `title-20-part-0421` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 421 | 2 | 2017-03-27 to 2017-05-18 |
+| `title-20-part-0422` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 422 | 6 | 2017-03-27 to 2025-03-03 |
+| `title-20-part-0423` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 423 | 2 | 2017-03-27 to 2023-01-10 |
+| `title-20-part-0426` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 426 | 2 | 2020-09-21 to 2021-05-21 |
+| `title-20-part-0429` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 429 | 2 | 2017-03-27 to 2023-01-10 |
+| `title-20-part-0430` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 430 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0431` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 431 | 3 | 2017-03-27 to 2018-07-19 |
+| `title-20-part-0438` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 438 | 2 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0498` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 498 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0501` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 501 | 2 | 2017-03-27 to 2021-02-25 |
+| `title-20-part-0601` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 601 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0602` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 602 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0603` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 603 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0604` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 604 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0606` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 606 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0609` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 609 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0614` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 614 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0615` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 615 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0616` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 616 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0617` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 617 | 2 | 2017-03-27 to 2020-09-21 |
+| `title-20-part-0618` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 618 | 2 | 2017-03-27 to 2020-09-21 |
+| `title-20-part-0619` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 619 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0620` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 620 | 3 | 2017-03-27 to 2019-11-04 |
+| `title-20-part-0625` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 625 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0639` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 639 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0640` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 640 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0641` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 641 | 4 | 2017-03-27 to 2022-04-15 |
+| `title-20-part-0645` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 645 | 2 | 2017-03-27 to 2020-10-16 |
+| `title-20-part-0650` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 650 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0651` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 651 | 4 | 2017-03-27 to 2024-06-28 |
+| `title-20-part-0652` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 652 | 4 | 2017-03-27 to 2026-10-19 |
+| `title-20-part-0653` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 653 | 5 | 2017-03-27 to 2024-06-28 |
+| `title-20-part-0654` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 654 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0655` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 655 | 42 | 2017-03-27 to 2026-09-30 |
+| `title-20-part-0656` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 656 | 4 | 2017-03-27 to 2021-12-13 |
+| `title-20-part-0658` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 658 | 6 | 2017-03-27 to 2024-06-28 |
+| `title-20-part-0660` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 660 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0661` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 661 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0662` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 662 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0663` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 663 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0664` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 664 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0665` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 665 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0666` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 666 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0667` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 667 | 3 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0668` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 668 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0669` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 669 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0670` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 670 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0671` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 671 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0672` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 672 | 2 | 2017-03-27 to 2025-09-02 |
+| `title-20-part-0675` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 675 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0676` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 676 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0677` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 677 | 2 | 2017-03-27 to 2024-03-25 |
+| `title-20-part-0678` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 678 | 2 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0679` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 679 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0680` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 680 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0681` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 681 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0682` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 682 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0683` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 683 | 2 | 2017-03-27 to 2021-02-25 |
+| `title-20-part-0684` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 684 | 2 | 2017-03-27 to 2024-03-25 |
+| `title-20-part-0685` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 685 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0686` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 686 | 3 | 2017-03-27 to 2024-03-25 |
+| `title-20-part-0687` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 687 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0688` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 688 | 2 | 2017-03-27 to 2024-03-25 |
+| `title-20-part-0701` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 701 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0702` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 702 | 11 | 2017-03-27 to 2025-01-15 |
+| `title-20-part-0703` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 703 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0704` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 704 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0718` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 718 | 2 | 2017-03-27 to 2026-10-26 |
+| `title-20-part-0722` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 722 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0725` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 725 | 11 | 2017-03-27 to 2025-01-15 |
+| `title-20-part-0726` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 726 | 11 | 2017-03-27 to 2025-01-15 |
+| `title-20-part-0801` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 801 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0802` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 802 | 3 | 2017-03-27 to 2024-03-11 |
+| `title-20-part-0900` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 900 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0901` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 901 | 2 | 2017-03-27 to 2025-09-18 |
+| `title-20-part-0902` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 902 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-0903` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 903 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-1001` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1001 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-1002` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1002 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-1010` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1010 | 1 | 2017-03-27 to 2017-03-27 |
+| `title-20-part-1011` | Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1011 | 1 | 2018-01-12 to 2018-01-12 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -3998,19 +4161,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 18407 commits:
+The build made 18864 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3981 | first version of an act |
-| 10185 | one law on its in-force day |
-| 4241 | changes no amendment note explains, credited to the publisher |
+| 4144 | first version of an act |
+| 10385 | one law on its in-force day |
+| 4335 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 12136 laws in the record.
-- 23895 tags.
+- 12369 laws in the record.
+- 24484 tags.
 
 ## Dates
 
@@ -4022,7 +4185,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a04cc1cd78a60f014e03a9b1dca6b38a558a256f95e82289c7ec3065899236aa` (940241865 bytes).
+- Corpus: sha256 `758ff67a56afde630e89031c33f3517cc215c8c5903ac9f740042582b594ca9f` (965493504 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4063,6 +4226,7 @@ No second build of this corpus has been compared yet.
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 18: editions read: 2017 annual edition (to 2017-03-23); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 19: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-03-12); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 20: editions read: 2017 annual edition (to 2017-03-27); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-03-06); 2021 annual edition (to 2021-03-12); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-03-27); 2025 annual edition (to 2025-03-17); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 

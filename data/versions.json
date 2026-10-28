@@ -106160,6 +106160,3734 @@
    ]
   },
   {
+   "slug": "title-20-part-0001",
+   "short": "20 CFR Part 1",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1",
+   "url": "https://www.ecfr.gov/current/title-20/part-1",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0010",
+   "short": "20 CFR Part 10",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 10",
+   "url": "https://www.ecfr.gov/current/title-20/part-10",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 225,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2023-03-07",
+     "units": 225,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0025",
+   "short": "20 CFR Part 25",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 25",
+   "url": "https://www.ecfr.gov/current/title-20/part-25",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0030",
+   "short": "20 CFR Part 30",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 30",
+   "url": "https://www.ecfr.gov/current/title-20/part-30",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 157,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2019-02-08",
+     "units": 158,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 160,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2021-08-20",
+     "units": 160,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-03-25",
+     "units": 160,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2024-07-16",
+     "units": 160,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0061",
+   "short": "20 CFR Part 61",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 61",
+   "url": "https://www.ecfr.gov/current/title-20/part-61",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0071",
+   "short": "20 CFR Part 71",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 71",
+   "url": "https://www.ecfr.gov/current/title-20/part-71",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0200",
+   "short": "20 CFR Part 200",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 200",
+   "url": "https://www.ecfr.gov/current/title-20/part-200",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-06-20",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-08-28",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-04-30",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2021-07-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0201",
+   "short": "20 CFR Part 201",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 201",
+   "url": "https://www.ecfr.gov/current/title-20/part-201",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0202",
+   "short": "20 CFR Part 202",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 202",
+   "url": "https://www.ecfr.gov/current/title-20/part-202",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0203",
+   "short": "20 CFR Part 203",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 203",
+   "url": "https://www.ecfr.gov/current/title-20/part-203",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0204",
+   "short": "20 CFR Part 204",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 204",
+   "url": "https://www.ecfr.gov/current/title-20/part-204",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0205",
+   "short": "20 CFR Part 205",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 205",
+   "url": "https://www.ecfr.gov/current/title-20/part-205",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0206",
+   "short": "20 CFR Part 206",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 206",
+   "url": "https://www.ecfr.gov/current/title-20/part-206",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0209",
+   "short": "20 CFR Part 209",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 209",
+   "url": "https://www.ecfr.gov/current/title-20/part-209",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0210",
+   "short": "20 CFR Part 210",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 210",
+   "url": "https://www.ecfr.gov/current/title-20/part-210",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0211",
+   "short": "20 CFR Part 211",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 211",
+   "url": "https://www.ecfr.gov/current/title-20/part-211",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0212",
+   "short": "20 CFR Part 212",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 212",
+   "url": "https://www.ecfr.gov/current/title-20/part-212",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0216",
+   "short": "20 CFR Part 216",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 216",
+   "url": "https://www.ecfr.gov/current/title-20/part-216",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-10-27",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0217",
+   "short": "20 CFR Part 217",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 217",
+   "url": "https://www.ecfr.gov/current/title-20/part-217",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0218",
+   "short": "20 CFR Part 218",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 218",
+   "url": "https://www.ecfr.gov/current/title-20/part-218",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0219",
+   "short": "20 CFR Part 219",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 219",
+   "url": "https://www.ecfr.gov/current/title-20/part-219",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0220",
+   "short": "20 CFR Part 220",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 220",
+   "url": "https://www.ecfr.gov/current/title-20/part-220",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2022-05-09",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-11-25",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-03-17",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2026-09-09",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 100,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0221",
+   "short": "20 CFR Part 221",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 221",
+   "url": "https://www.ecfr.gov/current/title-20/part-221",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-09-09",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0222",
+   "short": "20 CFR Part 222",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 222",
+   "url": "https://www.ecfr.gov/current/title-20/part-222",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2024-09-03",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-10-27",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0225",
+   "short": "20 CFR Part 225",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 225",
+   "url": "https://www.ecfr.gov/current/title-20/part-225",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0226",
+   "short": "20 CFR Part 226",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 226",
+   "url": "https://www.ecfr.gov/current/title-20/part-226",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0227",
+   "short": "20 CFR Part 227",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 227",
+   "url": "https://www.ecfr.gov/current/title-20/part-227",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0228",
+   "short": "20 CFR Part 228",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 228",
+   "url": "https://www.ecfr.gov/current/title-20/part-228",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0229",
+   "short": "20 CFR Part 229",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 229",
+   "url": "https://www.ecfr.gov/current/title-20/part-229",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0230",
+   "short": "20 CFR Part 230",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 230",
+   "url": "https://www.ecfr.gov/current/title-20/part-230",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0233",
+   "short": "20 CFR Part 233",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 233",
+   "url": "https://www.ecfr.gov/current/title-20/part-233",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0234",
+   "short": "20 CFR Part 234",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 234",
+   "url": "https://www.ecfr.gov/current/title-20/part-234",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0235",
+   "short": "20 CFR Part 235",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 235",
+   "url": "https://www.ecfr.gov/current/title-20/part-235",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2024-09-03",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0243",
+   "short": "20 CFR Part 243",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 243",
+   "url": "https://www.ecfr.gov/current/title-20/part-243",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0255",
+   "short": "20 CFR Part 255",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 255",
+   "url": "https://www.ecfr.gov/current/title-20/part-255",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0258",
+   "short": "20 CFR Part 258",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 258",
+   "url": "https://www.ecfr.gov/current/title-20/part-258",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0259",
+   "short": "20 CFR Part 259",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 259",
+   "url": "https://www.ecfr.gov/current/title-20/part-259",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0260",
+   "short": "20 CFR Part 260",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 260",
+   "url": "https://www.ecfr.gov/current/title-20/part-260",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0261",
+   "short": "20 CFR Part 261",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 261",
+   "url": "https://www.ecfr.gov/current/title-20/part-261",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0266",
+   "short": "20 CFR Part 266",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 266",
+   "url": "https://www.ecfr.gov/current/title-20/part-266",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0295",
+   "short": "20 CFR Part 295",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 295",
+   "url": "https://www.ecfr.gov/current/title-20/part-295",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0300",
+   "short": "20 CFR Part 300",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 300",
+   "url": "https://www.ecfr.gov/current/title-20/part-300",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0301",
+   "short": "20 CFR Part 301",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 301",
+   "url": "https://www.ecfr.gov/current/title-20/part-301",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0302",
+   "short": "20 CFR Part 302",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 302",
+   "url": "https://www.ecfr.gov/current/title-20/part-302",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0319",
+   "short": "20 CFR Part 319",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 319",
+   "url": "https://www.ecfr.gov/current/title-20/part-319",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0320",
+   "short": "20 CFR Part 320",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 320",
+   "url": "https://www.ecfr.gov/current/title-20/part-320",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0321",
+   "short": "20 CFR Part 321",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 321",
+   "url": "https://www.ecfr.gov/current/title-20/part-321",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0322",
+   "short": "20 CFR Part 322",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 322",
+   "url": "https://www.ecfr.gov/current/title-20/part-322",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0323",
+   "short": "20 CFR Part 323",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 323",
+   "url": "https://www.ecfr.gov/current/title-20/part-323",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0325",
+   "short": "20 CFR Part 325",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 325",
+   "url": "https://www.ecfr.gov/current/title-20/part-325",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0327",
+   "short": "20 CFR Part 327",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 327",
+   "url": "https://www.ecfr.gov/current/title-20/part-327",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-04-07",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0330",
+   "short": "20 CFR Part 330",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 330",
+   "url": "https://www.ecfr.gov/current/title-20/part-330",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0332",
+   "short": "20 CFR Part 332",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 332",
+   "url": "https://www.ecfr.gov/current/title-20/part-332",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0335",
+   "short": "20 CFR Part 335",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 335",
+   "url": "https://www.ecfr.gov/current/title-20/part-335",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0336",
+   "short": "20 CFR Part 336",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 336",
+   "url": "https://www.ecfr.gov/current/title-20/part-336",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0340",
+   "short": "20 CFR Part 340",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 340",
+   "url": "https://www.ecfr.gov/current/title-20/part-340",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0341",
+   "short": "20 CFR Part 341",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 341",
+   "url": "https://www.ecfr.gov/current/title-20/part-341",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0345",
+   "short": "20 CFR Part 345",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 345",
+   "url": "https://www.ecfr.gov/current/title-20/part-345",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0346",
+   "short": "20 CFR Part 346",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 346",
+   "url": "https://www.ecfr.gov/current/title-20/part-346",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0348",
+   "short": "20 CFR Part 348",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 348",
+   "url": "https://www.ecfr.gov/current/title-20/part-348",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0349",
+   "short": "20 CFR Part 349",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 349",
+   "url": "https://www.ecfr.gov/current/title-20/part-349",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0350",
+   "short": "20 CFR Part 350",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 350",
+   "url": "https://www.ecfr.gov/current/title-20/part-350",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0355",
+   "short": "20 CFR Part 355",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 355",
+   "url": "https://www.ecfr.gov/current/title-20/part-355",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-08-15",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0356",
+   "short": "20 CFR Part 356",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 356",
+   "url": "https://www.ecfr.gov/current/title-20/part-356",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-08-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0361",
+   "short": "20 CFR Part 361",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 361",
+   "url": "https://www.ecfr.gov/current/title-20/part-361",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0362",
+   "short": "20 CFR Part 362",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 362",
+   "url": "https://www.ecfr.gov/current/title-20/part-362",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0363",
+   "short": "20 CFR Part 363",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 363",
+   "url": "https://www.ecfr.gov/current/title-20/part-363",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0364",
+   "short": "20 CFR Part 364",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 364",
+   "url": "https://www.ecfr.gov/current/title-20/part-364",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0365",
+   "short": "20 CFR Part 365",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 365",
+   "url": "https://www.ecfr.gov/current/title-20/part-365",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0366",
+   "short": "20 CFR Part 366",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 366",
+   "url": "https://www.ecfr.gov/current/title-20/part-366",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0367",
+   "short": "20 CFR Part 367",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 367",
+   "url": "https://www.ecfr.gov/current/title-20/part-367",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0368",
+   "short": "20 CFR Part 368",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 368",
+   "url": "https://www.ecfr.gov/current/title-20/part-368",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0369",
+   "short": "20 CFR Part 369",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 369",
+   "url": "https://www.ecfr.gov/current/title-20/part-369",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0375",
+   "short": "20 CFR Part 375",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 375",
+   "url": "https://www.ecfr.gov/current/title-20/part-375",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-07-23",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0401",
+   "short": "20 CFR Part 401",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 401",
+   "url": "https://www.ecfr.gov/current/title-20/part-401",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2017-04-05",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2019-01-09",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-10-03",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0402",
+   "short": "20 CFR Part 402",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 402",
+   "url": "https://www.ecfr.gov/current/title-20/part-402",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0403",
+   "short": "20 CFR Part 403",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 403",
+   "url": "https://www.ecfr.gov/current/title-20/part-403",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0404",
+   "short": "20 CFR Part 404",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 404",
+   "url": "https://www.ecfr.gov/current/title-20/part-404",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 817,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2017-04-17",
+     "units": 817,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-01-08",
+     "units": 817,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-03-14",
+     "units": 817,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-05-10",
+     "units": 813,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-05-22",
+     "units": 813,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 813,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-08-15",
+     "units": 813,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 813,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-03-18",
+     "units": 814,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-09-30",
+     "units": 814,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2019-10-25",
+     "units": 814,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-01-17",
+     "units": 814,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-02-24",
+     "units": 814,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-02-25",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-08-27",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-12-03",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-08-27",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2021-12-13",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-06-13",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2022-07-18",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-06-24",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-09-20",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-11-23",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-02-18",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 815,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2026-04-03",
+     "units": 807,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    },
+    {
+     "from": "2026-09-16",
+     "units": 807,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 806,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0408",
+   "short": "20 CFR Part 408",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 408",
+   "url": "https://www.ecfr.gov/current/title-20/part-408",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 149,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2019-03-18",
+     "units": 150,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-10-25",
+     "units": 150,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-02-25",
+     "units": 151,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-08-27",
+     "units": 151,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 151,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2022-06-13",
+     "units": 151,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0411",
+   "short": "20 CFR Part 411",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 411",
+   "url": "https://www.ecfr.gov/current/title-20/part-411",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 105,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0416",
+   "short": "20 CFR Part 416",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 416",
+   "url": "https://www.ecfr.gov/current/title-20/part-416",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2017-04-17",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-01-08",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-08-15",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-10-15",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 615,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-03-18",
+     "units": 616,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 616,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-09-30",
+     "units": 616,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2019-10-25",
+     "units": 616,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-01-17",
+     "units": 616,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-02-25",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-08-27",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-06-13",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-06-24",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-09-20",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-11-23",
+     "units": 617,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 618,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2026-04-03",
+     "units": 608,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0418",
+   "short": "20 CFR Part 418",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 418",
+   "url": "https://www.ecfr.gov/current/title-20/part-418",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 139,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 139,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0421",
+   "short": "20 CFR Part 421",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 421",
+   "url": "https://www.ecfr.gov/current/title-20/part-421",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2017-05-18",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0422",
+   "short": "20 CFR Part 422",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 422",
+   "url": "https://www.ecfr.gov/current/title-20/part-422",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-09-20",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 93,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0423",
+   "short": "20 CFR Part 423",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 423",
+   "url": "https://www.ecfr.gov/current/title-20/part-423",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0426",
+   "short": "20 CFR Part 426",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 426",
+   "url": "https://www.ecfr.gov/current/title-20/part-426",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0429",
+   "short": "20 CFR Part 429",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 429",
+   "url": "https://www.ecfr.gov/current/title-20/part-429",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0430",
+   "short": "20 CFR Part 430",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 430",
+   "url": "https://www.ecfr.gov/current/title-20/part-430",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0431",
+   "short": "20 CFR Part 431",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 431",
+   "url": "https://www.ecfr.gov/current/title-20/part-431",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0438",
+   "short": "20 CFR Part 438",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 438",
+   "url": "https://www.ecfr.gov/current/title-20/part-438",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0498",
+   "short": "20 CFR Part 498",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 498",
+   "url": "https://www.ecfr.gov/current/title-20/part-498",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0501",
+   "short": "20 CFR Part 501",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 501",
+   "url": "https://www.ecfr.gov/current/title-20/part-501",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0601",
+   "short": "20 CFR Part 601",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 601",
+   "url": "https://www.ecfr.gov/current/title-20/part-601",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0602",
+   "short": "20 CFR Part 602",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 602",
+   "url": "https://www.ecfr.gov/current/title-20/part-602",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0603",
+   "short": "20 CFR Part 603",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 603",
+   "url": "https://www.ecfr.gov/current/title-20/part-603",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0604",
+   "short": "20 CFR Part 604",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 604",
+   "url": "https://www.ecfr.gov/current/title-20/part-604",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0606",
+   "short": "20 CFR Part 606",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 606",
+   "url": "https://www.ecfr.gov/current/title-20/part-606",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0609",
+   "short": "20 CFR Part 609",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 609",
+   "url": "https://www.ecfr.gov/current/title-20/part-609",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0614",
+   "short": "20 CFR Part 614",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 614",
+   "url": "https://www.ecfr.gov/current/title-20/part-614",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0615",
+   "short": "20 CFR Part 615",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 615",
+   "url": "https://www.ecfr.gov/current/title-20/part-615",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0616",
+   "short": "20 CFR Part 616",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 616",
+   "url": "https://www.ecfr.gov/current/title-20/part-616",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0617",
+   "short": "20 CFR Part 617",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 617",
+   "url": "https://www.ecfr.gov/current/title-20/part-617",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-09-21",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0618",
+   "short": "20 CFR Part 618",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 618",
+   "url": "https://www.ecfr.gov/current/title-20/part-618",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-09-21",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0619",
+   "short": "20 CFR Part 619",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 619",
+   "url": "https://www.ecfr.gov/current/title-20/part-619",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0620",
+   "short": "20 CFR Part 620",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 620",
+   "url": "https://www.ecfr.gov/current/title-20/part-620",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2017-05-11",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2019-11-04",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0625",
+   "short": "20 CFR Part 625",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 625",
+   "url": "https://www.ecfr.gov/current/title-20/part-625",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0639",
+   "short": "20 CFR Part 639",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 639",
+   "url": "https://www.ecfr.gov/current/title-20/part-639",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0640",
+   "short": "20 CFR Part 640",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 640",
+   "url": "https://www.ecfr.gov/current/title-20/part-640",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0641",
+   "short": "20 CFR Part 641",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 641",
+   "url": "https://www.ecfr.gov/current/title-20/part-641",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 98,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2022-04-15",
+     "units": 99,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0645",
+   "short": "20 CFR Part 645",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 645",
+   "url": "https://www.ecfr.gov/current/title-20/part-645",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-10-16",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0650",
+   "short": "20 CFR Part 650",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 650",
+   "url": "https://www.ecfr.gov/current/title-20/part-650",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0651",
+   "short": "20 CFR Part 651",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 651",
+   "url": "https://www.ecfr.gov/current/title-20/part-651",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0652",
+   "short": "20 CFR Part 652",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 652",
+   "url": "https://www.ecfr.gov/current/title-20/part-652",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-02-05",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2024-01-23",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2026-10-19",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0653",
+   "short": "20 CFR Part 653",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 653",
+   "url": "https://www.ecfr.gov/current/title-20/part-653",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-02-05",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2022-11-14",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-01-23",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0654",
+   "short": "20 CFR Part 654",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 654",
+   "url": "https://www.ecfr.gov/current/title-20/part-654",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0655",
+   "short": "20 CFR Part 655",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 655",
+   "url": "https://www.ecfr.gov/current/title-20/part-655",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 239,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2017-07-19",
+     "units": 239,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2017-09-30",
+     "units": 240,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 240,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 240,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-05-31",
+     "units": 241,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-01-23",
+     "units": 241,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-05-08",
+     "units": 288,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2019-10-21",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-01-15",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-03-06",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-01-15",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-03-12",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-05-25",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2021-09-30",
+     "units": 285,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2021-12-13",
+     "units": 285,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2021-12-16",
+     "units": 285,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-01-18",
+     "units": 285,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-01-28",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2022-05-18",
+     "units": 288,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2022-09-30",
+     "units": 287,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2022-11-14",
+     "units": 295,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2022-12-15",
+     "units": 296,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2023-01-17",
+     "units": 296,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2023-03-30",
+     "units": 295,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2023-11-17",
+     "units": 296,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-01-15",
+     "units": 296,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-04-29",
+     "units": 296,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 300,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2024-12-02",
+     "units": 300,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 300,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-09-30",
+     "units": 299,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 299,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    },
+    {
+     "from": "2026-02-03",
+     "units": 299,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 298,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0656",
+   "short": "20 CFR Part 656",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 656",
+   "url": "https://www.ecfr.gov/current/title-20/part-656",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-03-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-12-13",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0658",
+   "short": "20 CFR Part 658",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 658",
+   "url": "https://www.ecfr.gov/current/title-20/part-658",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2020-02-05",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2024-01-23",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0660",
+   "short": "20 CFR Part 660",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 660",
+   "url": "https://www.ecfr.gov/current/title-20/part-660",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0661",
+   "short": "20 CFR Part 661",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 661",
+   "url": "https://www.ecfr.gov/current/title-20/part-661",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0662",
+   "short": "20 CFR Part 662",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 662",
+   "url": "https://www.ecfr.gov/current/title-20/part-662",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0663",
+   "short": "20 CFR Part 663",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 663",
+   "url": "https://www.ecfr.gov/current/title-20/part-663",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0664",
+   "short": "20 CFR Part 664",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 664",
+   "url": "https://www.ecfr.gov/current/title-20/part-664",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0665",
+   "short": "20 CFR Part 665",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 665",
+   "url": "https://www.ecfr.gov/current/title-20/part-665",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0666",
+   "short": "20 CFR Part 666",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 666",
+   "url": "https://www.ecfr.gov/current/title-20/part-666",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0667",
+   "short": "20 CFR Part 667",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 667",
+   "url": "https://www.ecfr.gov/current/title-20/part-667",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 52,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0668",
+   "short": "20 CFR Part 668",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 668",
+   "url": "https://www.ecfr.gov/current/title-20/part-668",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0669",
+   "short": "20 CFR Part 669",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 669",
+   "url": "https://www.ecfr.gov/current/title-20/part-669",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0670",
+   "short": "20 CFR Part 670",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 670",
+   "url": "https://www.ecfr.gov/current/title-20/part-670",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0671",
+   "short": "20 CFR Part 671",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 671",
+   "url": "https://www.ecfr.gov/current/title-20/part-671",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0672",
+   "short": "20 CFR Part 672",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 672",
+   "url": "https://www.ecfr.gov/current/title-20/part-672",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-02",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0675",
+   "short": "20 CFR Part 675",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 675",
+   "url": "https://www.ecfr.gov/current/title-20/part-675",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0676",
+   "short": "20 CFR Part 676",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 676",
+   "url": "https://www.ecfr.gov/current/title-20/part-676",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0677",
+   "short": "20 CFR Part 677",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 677",
+   "url": "https://www.ecfr.gov/current/title-20/part-677",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0678",
+   "short": "20 CFR Part 678",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 678",
+   "url": "https://www.ecfr.gov/current/title-20/part-678",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0679",
+   "short": "20 CFR Part 679",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 679",
+   "url": "https://www.ecfr.gov/current/title-20/part-679",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0680",
+   "short": "20 CFR Part 680",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 680",
+   "url": "https://www.ecfr.gov/current/title-20/part-680",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0681",
+   "short": "20 CFR Part 681",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 681",
+   "url": "https://www.ecfr.gov/current/title-20/part-681",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0682",
+   "short": "20 CFR Part 682",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 682",
+   "url": "https://www.ecfr.gov/current/title-20/part-682",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0683",
+   "short": "20 CFR Part 683",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 683",
+   "url": "https://www.ecfr.gov/current/title-20/part-683",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0684",
+   "short": "20 CFR Part 684",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 684",
+   "url": "https://www.ecfr.gov/current/title-20/part-684",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0685",
+   "short": "20 CFR Part 685",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 685",
+   "url": "https://www.ecfr.gov/current/title-20/part-685",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0686",
+   "short": "20 CFR Part 686",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 686",
+   "url": "https://www.ecfr.gov/current/title-20/part-686",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0687",
+   "short": "20 CFR Part 687",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 687",
+   "url": "https://www.ecfr.gov/current/title-20/part-687",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0688",
+   "short": "20 CFR Part 688",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 688",
+   "url": "https://www.ecfr.gov/current/title-20/part-688",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0701",
+   "short": "20 CFR Part 701",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 701",
+   "url": "https://www.ecfr.gov/current/title-20/part-701",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0702",
+   "short": "20 CFR Part 702",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 702",
+   "url": "https://www.ecfr.gov/current/title-20/part-702",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 147,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 147,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-05-21",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-01-23",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2020-01-15",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-02-09",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2022-01-15",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2023-01-15",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-01-15",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 159,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0703",
+   "short": "20 CFR Part 703",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 703",
+   "url": "https://www.ecfr.gov/current/title-20/part-703",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0704",
+   "short": "20 CFR Part 704",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 704",
+   "url": "https://www.ecfr.gov/current/title-20/part-704",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0718",
+   "short": "20 CFR Part 718",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 718",
+   "url": "https://www.ecfr.gov/current/title-20/part-718",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0722",
+   "short": "20 CFR Part 722",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 722",
+   "url": "https://www.ecfr.gov/current/title-20/part-722",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0725",
+   "short": "20 CFR Part 725",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 725",
+   "url": "https://www.ecfr.gov/current/title-20/part-725",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 175,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 175,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2018-08-31",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-01-23",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2019-11-21",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2020-01-15",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2021-01-15",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2022-01-15",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2023-01-15",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-01-15",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0726",
+   "short": "20 CFR Part 726",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 726",
+   "url": "https://www.ecfr.gov/current/title-20/part-726",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2019-01-23",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-20/CFR-2019-title-20.zip",
+     "sha256": "63a30bc21f9002119b0fc663434ef30728805fdd37ab16c0647359f98e93d8a3"
+    },
+    {
+     "from": "2020-01-15",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-20/CFR-2020-title-20.zip",
+     "sha256": "66c118c46da988571635aeb2a94d02672dd2b7c59e8b2d90191c10731b5c2d3a"
+    },
+    {
+     "from": "2021-01-15",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-20/CFR-2021-title-20.zip",
+     "sha256": "fb2adfb52d8c30b043635efcd89f3bb77a2f1bbb209d696eba29579a2524e1c2"
+    },
+    {
+     "from": "2022-01-15",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-20/CFR-2022-title-20.zip",
+     "sha256": "b6e7b9ec253e72a7adaf397d8328dd095d0cbe5c70f70a6d993145c14f863934"
+    },
+    {
+     "from": "2023-01-15",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-20/CFR-2023-title-20.zip",
+     "sha256": "f6d60014666893eaed5111c03a868b328bff4e53e1291bd74d512cf66f902301"
+    },
+    {
+     "from": "2024-01-15",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-20/CFR-2025-title-20.zip",
+     "sha256": "dd35d4994722d150fc66dd2e57c6cc4462ac78a1eebad3530013114196da5640"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0801",
+   "short": "20 CFR Part 801",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 801",
+   "url": "https://www.ecfr.gov/current/title-20/part-801",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0802",
+   "short": "20 CFR Part 802",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 802",
+   "url": "https://www.ecfr.gov/current/title-20/part-802",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    },
+    {
+     "from": "2024-03-11",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-20/CFR-2024-title-20.zip",
+     "sha256": "ce9ed7c0e2bd9af6f8a49103c7c9e3d49aff7940e6baaf30560aaf1627c3f466"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0900",
+   "short": "20 CFR Part 900",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 900",
+   "url": "https://www.ecfr.gov/current/title-20/part-900",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0901",
+   "short": "20 CFR Part 901",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 901",
+   "url": "https://www.ecfr.gov/current/title-20/part-901",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    },
+    {
+     "from": "2025-09-18",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-20/ECFR-title20.xml",
+     "sha256": "060cee0e960243ccabf9818aa70fc460f62e9715e39afa816fc30495f3820440"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0902",
+   "short": "20 CFR Part 902",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 902",
+   "url": "https://www.ecfr.gov/current/title-20/part-902",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-0903",
+   "short": "20 CFR Part 903",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 903",
+   "url": "https://www.ecfr.gov/current/title-20/part-903",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-1001",
+   "short": "20 CFR Part 1001",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1001",
+   "url": "https://www.ecfr.gov/current/title-20/part-1001",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-1002",
+   "short": "20 CFR Part 1002",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1002",
+   "url": "https://www.ecfr.gov/current/title-20/part-1002",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-1010",
+   "short": "20 CFR Part 1010",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1010",
+   "url": "https://www.ecfr.gov/current/title-20/part-1010",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-20/CFR-2017-title-20.zip",
+     "sha256": "e17137c219e5bdd866153b5d0a1070dae4fa137f16310e61f248439c953d6923"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-part-1011",
+   "short": "20 CFR Part 1011",
+   "title": "Title 20 of the Code of Federal Regulations (Employees' Benefits), Part 1011",
+   "url": "https://www.ecfr.gov/current/title-20/part-1011",
+   "versions": [
+    {
+     "from": "2018-01-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-20/CFR-2018-title-20.zip",
+     "sha256": "1d2363fe0761a83c9565253e36c09faf1bdc50068987eac98d2b7d9141a46c32"
+    }
+   ]
+  },
+  {
    "slug": "title-26-part-0001",
    "short": "26 CFR Part 1",
    "title": "Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1",
