@@ -378,6 +378,348 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-40-part-1850` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1850 | 1 | 2017-05-30 to 2017-05-30 |
 | `title-40-part-1900` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part 1900 | 1 | 2021-01-08 to 2021-01-08 |
 | `title-40-part-other` | Title 40 of the Code of Federal Regulations (Protection of Environment), Part other | 10 | 2017-05-30 to 2026-10-26 |
+| `title-45-part-0001` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1 | 3 | 2021-01-06 to 2022-08-24 |
+| `title-45-part-0002` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0003` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 3 | 3 | 2017-10-01 to 2023-02-08 |
+| `title-45-part-0004` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 4 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0005` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 5 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0005b` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 5b | 8 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0007` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 7 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0008` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 8 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-45-part-0009` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 9 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0012` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 12 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0012a` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 12a | 2 | 2017-10-01 to 2024-12-13 |
+| `title-45-part-0013` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 13 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0015` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 15 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0016` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 16 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0017` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 17 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0018` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 18 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0030` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 30 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0031` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 31 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0032` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 32 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0033` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 33 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0034` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 34 | 2 | 2017-10-01 to 2018-10-01 |
+| `title-45-part-0035` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 35 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0036` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 36 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0046` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 46 | 3 | 2017-10-01 to 2024-10-24 |
+| `title-45-part-0050` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 50 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0051` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 51 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0057` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 57 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0060` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 60 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0063` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 63 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0073` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 73 | 3 | 2017-10-01 to 2025-10-21 |
+| `title-45-part-0073a` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 73a | 2 | 2017-10-01 to 2025-10-21 |
+| `title-45-part-0073b` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 73b | 2 | 2017-10-01 to 2025-10-21 |
+| `title-45-part-0075` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 75 | 5 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0077` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 77 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0078` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 78 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0079` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 79 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0080` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 80 | 4 | 2017-10-01 to 2026-07-24 |
+| `title-45-part-0081` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 81 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0083` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 83 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0084` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 84 | 7 | 2017-10-01 to 2026-07-23 |
+| `title-45-part-0085` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 85 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0086` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 86 | 4 | 2017-10-01 to 2026-07-23 |
+| `title-45-part-0087` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 87 | 4 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0088` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 88 | 4 | 2017-10-01 to 2024-03-11 |
+| `title-45-part-0089` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 89 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0090` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 90 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0091` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 91 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0092` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 92 | 4 | 2017-10-01 to 2024-07-05 |
+| `title-45-part-0093` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 93 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0094` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 94 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0095` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 95 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0096` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 96 | 2 | 2017-10-01 to 2026-08-10 |
+| `title-45-part-0097` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 97 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0098` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 98 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0099` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 99 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0100` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 100 | 2 | 2017-10-01 to 2019-10-01 |
+| `title-45-part-0101` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 101 | 2 | 2017-10-01 to 2024-03-11 |
+| `title-45-part-0102` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 102 | 6 | 2017-10-01 to 2026-01-28 |
+| `title-45-part-0144` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 144 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0146` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 146 | 10 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0147` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 147 | 17 | 2017-10-01 to 2025-08-25 |
+| `title-45-part-0148` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 148 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0149` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 149 | 10 | 2017-10-01 to 2026-08-28 |
+| `title-45-part-0150` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 150 | 3 | 2017-10-01 to 2026-07-20 |
+| `title-45-part-0152` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 152 | 2 | 2017-10-01 to 2024-11-01 |
+| `title-45-part-0153` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 153 | 7 | 2017-10-01 to 2024-06-04 |
+| `title-45-part-0154` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 154 | 2 | 2017-10-01 to 2018-06-18 |
+| `title-45-part-0155` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 155 | 20 | 2017-10-01 to 2026-09-23 |
+| `title-45-part-0156` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 156 | 21 | 2017-10-01 to 2026-07-20 |
+| `title-45-part-0157` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 157 | 2 | 2017-10-01 to 2018-06-18 |
+| `title-45-part-0158` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 158 | 7 | 2017-10-01 to 2025-01-15 |
+| `title-45-part-0159` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 159 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0160` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 160 | 3 | 2017-10-01 to 2026-05-26 |
+| `title-45-part-0162` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 162 | 7 | 2017-10-01 to 2026-05-26 |
+| `title-45-part-0164` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 164 | 2 | 2017-10-01 to 2024-06-25 |
+| `title-45-part-0170` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 170 | 12 | 2017-10-01 to 2026-10-01 |
+| `title-45-part-0171` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 171 | 7 | 2020-06-30 to 2025-01-15 |
+| `title-45-part-0172` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 172 | 1 | 2025-01-15 to 2025-01-15 |
+| `title-45-part-0180` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 180 | 4 | 2020-10-01 to 2026-01-01 |
+| `title-45-part-0182` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 182 | 1 | 2020-11-06 to 2020-11-06 |
+| `title-45-part-0184` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 184 | 1 | 2021-07-06 to 2021-07-06 |
+| `title-45-part-0200` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 200 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-45-part-0201` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 201 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0204` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 204 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0205` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 205 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0206` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 206 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0211` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 211 | 2 | 2017-10-01 to 2026-08-17 |
+| `title-45-part-0212` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 212 | 2 | 2017-10-01 to 2026-08-17 |
+| `title-45-part-0213` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 213 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0225` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 225 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0233` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 233 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0234` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 234 | 3 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0235` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 235 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0237` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 237 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0260` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 260 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0261` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 261 | 3 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0262` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 262 | 3 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0263` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 263 | 3 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0264` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 264 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0265` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 265 | 4 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0270` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 270 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0283` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 283 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0284` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 284 | 2 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0286` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 286 | 3 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0287` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 287 | 3 | 2017-10-01 to 2026-09-29 |
+| `title-45-part-0300` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 300 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-45-part-0301` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 301 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0302` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 302 | 5 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0303` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 303 | 4 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0304` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 304 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0305` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 305 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0307` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 307 | 3 | 2017-10-01 to 2020-12-16 |
+| `title-45-part-0308` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 308 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0309` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 309 | 6 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0310` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 310 | 2 | 2017-10-01 to 2024-02-12 |
+| `title-45-part-0400` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 400 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-0401` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 401 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0402` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 402 | 2 | 2017-10-01 to 2026-05-26 |
+| `title-45-part-0403` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 403 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-45-part-0410` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 410 | 4 | 2019-10-01 to 2025-10-01 |
+| `title-45-part-0411` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 411 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0412` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 412 | 1 | 2024-12-27 to 2024-12-27 |
+| `title-45-part-0500` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 500 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0501` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 501 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0502` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 502 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0503` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 503 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0504` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 504 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0505` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 505 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0506` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 506 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0507` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 507 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0508` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 508 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0509` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 509 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0510` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 510 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0601` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 601 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0604` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 604 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-0605` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 605 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0606` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 606 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0607` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 607 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0608` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 608 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0611` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 611 | 2 | 2017-10-01 to 2026-08-04 |
+| `title-45-part-0612` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 612 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0613` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 613 | 2 | 2017-10-01 to 2022-10-24 |
+| `title-45-part-0614` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 614 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0615` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 615 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0617` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 617 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0618` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 618 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0620` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 620 | 1 | 2023-08-31 to 2023-08-31 |
+| `title-45-part-0630` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 630 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0640` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 640 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0641` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 641 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0650` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 650 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0660` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 660 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0670` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 670 | 3 | 2017-10-01 to 2021-05-25 |
+| `title-45-part-0671` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 671 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0672` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 672 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0673` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 673 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0674` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 674 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0675` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 675 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0680` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 680 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0681` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 681 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0689` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 689 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0690` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 690 | 2 | 2017-10-01 to 2018-07-19 |
+| `title-45-part-0701` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 701 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0702` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 702 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0703` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 703 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0704` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 704 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0705` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 705 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0706` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 706 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0707` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 707 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0708` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 708 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0800` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 800 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-0900` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 900 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1000` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1000 | 3 | 2017-10-01 to 2026-08-10 |
+| `title-45-part-1010` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1010 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-45-part-1050` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1050 | 2 | 2017-10-01 to 2021-01-19 |
+| `title-45-part-1080` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1080 | 2 | 2017-10-01 to 2026-08-10 |
+| `title-45-part-1100` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1100 | 3 | 2017-10-01 to 2023-10-01 |
+| `title-45-part-1105` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1105 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1110` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1110 | 2 | 2017-10-01 to 2026-08-26 |
+| `title-45-part-1115` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1115 | 2 | 2017-10-01 to 2019-10-22 |
+| `title-45-part-1148` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1148 | 2 | 2019-02-27 to 2019-03-06 |
+| `title-45-part-1149` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1149 | 8 | 2017-10-01 to 2025-01-13 |
+| `title-45-part-1150` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1150 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1151` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1151 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1152` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1152 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1153` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1153 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1156` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1156 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1157` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1157 | 2 | 2020-08-28 to 2021-10-25 |
+| `title-45-part-1158` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1158 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-1159` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1159 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1160` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1160 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1167` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1167 | 1 | 2022-02-15 to 2022-02-15 |
+| `title-45-part-1168` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1168 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-1169` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1169 | 2 | 2019-08-19 to 2019-11-04 |
+| `title-45-part-1170` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1170 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1171` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1171 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1172` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1172 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1173` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1173 | 3 | 2020-10-01 to 2022-02-15 |
+| `title-45-part-1174` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1174 | 2 | 2021-08-13 to 2023-03-30 |
+| `title-45-part-1175` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1175 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1176` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1176 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1177` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1177 | 3 | 2017-10-01 to 2022-02-22 |
+| `title-45-part-1178` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1178 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1179` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1179 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1181` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1181 | 2 | 2017-10-01 to 2019-05-21 |
+| `title-45-part-1182` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1182 | 2 | 2017-10-01 to 2019-05-21 |
+| `title-45-part-1184` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1184 | 2 | 2017-10-01 to 2019-05-21 |
+| `title-45-part-1201` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1201 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1203` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1203 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1206` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1206 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1214` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1214 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1216` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1216 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1220` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1220 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1225` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1225 | 2 | 2017-10-01 to 2021-06-07 |
+| `title-45-part-1226` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1226 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1230` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1230 | 10 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-1232` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1232 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1233` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1233 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1235` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1235 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1300` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1300 | 2 | 2021-10-01 to 2022-10-01 |
+| `title-45-part-1301` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1301 | 2 | 2017-10-01 to 2024-08-21 |
+| `title-45-part-1302` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1302 | 8 | 2017-10-01 to 2026-02-17 |
+| `title-45-part-1303` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1303 | 3 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-1304` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1304 | 5 | 2017-10-01 to 2024-11-06 |
+| `title-45-part-1305` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1305 | 3 | 2017-10-01 to 2024-08-21 |
+| `title-45-part-1321` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1321 | 4 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-1322` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1322 | 2 | 2017-10-01 to 2024-03-15 |
+| `title-45-part-1323` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1323 | 4 | 2017-10-01 to 2024-03-15 |
+| `title-45-part-1324` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1324 | 4 | 2017-10-01 to 2024-06-07 |
+| `title-45-part-1325` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1325 | 2 | 2017-10-01 to 2020-12-16 |
+| `title-45-part-1326` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1326 | 2 | 2017-10-01 to 2020-12-16 |
+| `title-45-part-1327` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1327 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1328` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1328 | 2 | 2017-10-01 to 2020-12-16 |
+| `title-45-part-1329` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1329 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1330` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1330 | 2 | 2017-10-01 to 2022-09-14 |
+| `title-45-part-1331` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1331 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1336` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1336 | 4 | 2017-10-01 to 2026-08-17 |
+| `title-45-part-1351` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1351 | 2 | 2017-10-01 to 2026-08-31 |
+| `title-45-part-1355` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1355 | 11 | 2017-10-01 to 2026-07-14 |
+| `title-45-part-1356` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1356 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-45-part-1357` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1357 | 2 | 2017-10-01 to 2025-10-01 |
+| `title-45-part-1370` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1370 | 2 | 2017-10-01 to 2026-10-02 |
+| `title-45-part-1386` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1386 | 2 | 2017-10-01 to 2020-10-14 |
+| `title-45-part-1600` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1600 | 2 | 2017-10-01 to 2017-12-31 |
+| `title-45-part-1602` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1602 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1603` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1603 | 3 | 2017-10-01 to 2018-05-18 |
+| `title-45-part-1604` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1604 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1605` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1605 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1606` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1606 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1607` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1607 | 3 | 2017-10-01 to 2025-01-01 |
+| `title-45-part-1608` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1608 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1609` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1609 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1610` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1610 | 2 | 2017-10-01 to 2020-11-06 |
+| `title-45-part-1611` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1611 | 10 | 2017-10-01 to 2026-01-26 |
+| `title-45-part-1612` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1612 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1613` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1613 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1614` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1614 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1615` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1615 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1616` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1616 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1617` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1617 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1618` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1618 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1619` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1619 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1620` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1620 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1621` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1621 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1622` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1622 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1623` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1623 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1624` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1624 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1626` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1626 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1627` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1627 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1628` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1628 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1629` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1629 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1630` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1630 | 3 | 2017-10-01 to 2020-11-06 |
+| `title-45-part-1631` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1631 | 2 | 2017-10-01 to 2017-12-31 |
+| `title-45-part-1632` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1632 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1633` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1633 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1634` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1634 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1635` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1635 | 3 | 2017-10-01 to 2022-01-01 |
+| `title-45-part-1636` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1636 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1637` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1637 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1638` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1638 | 2 | 2017-10-01 to 2024-05-13 |
+| `title-45-part-1639` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1639 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1640` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1640 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1641` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1641 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1643` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1643 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1644` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1644 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1700` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1700 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1701` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1701 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1703` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1703 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1705` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1705 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1706` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1706 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1800` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1800 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1801` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1801 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1802` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1802 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-1803` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 1803 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2101` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2101 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2102` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2102 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2103` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2103 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2104` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2104 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2105` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2105 | 3 | 2017-10-01 to 2019-06-14 |
+| `title-45-part-2106` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2106 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2301` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2301 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2400` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2400 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2490` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2490 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2500` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2500 | 3 | 2020-10-15 to 2026-10-26 |
+| `title-45-part-2502` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2502 | 1 | 2022-10-01 to 2022-10-01 |
+| `title-45-part-2505` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2505 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2506` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2506 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2507` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2507 | 4 | 2017-10-01 to 2022-10-11 |
+| `title-45-part-2508` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2508 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2509` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2509 | 1 | 2020-07-23 to 2020-07-23 |
+| `title-45-part-2510` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2510 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2515` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2515 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2516` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2516 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2517` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2517 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2518` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2518 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2519` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2519 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2520` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2520 | 2 | 2017-10-01 to 2024-10-01 |
+| `title-45-part-2521` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2521 | 2 | 2017-10-01 to 2024-10-01 |
+| `title-45-part-2522` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2522 | 4 | 2017-10-01 to 2025-01-17 |
+| `title-45-part-2523` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2523 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2524` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2524 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2525` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2525 | 2 | 2017-10-01 to 2023-08-14 |
+| `title-45-part-2526` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2526 | 3 | 2017-10-01 to 2023-08-14 |
+| `title-45-part-2527` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2527 | 2 | 2017-10-01 to 2023-08-14 |
+| `title-45-part-2528` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2528 | 3 | 2017-10-01 to 2023-08-14 |
+| `title-45-part-2529` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2529 | 3 | 2017-10-01 to 2023-08-14 |
+| `title-45-part-2530` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2530 | 3 | 2017-10-01 to 2023-08-14 |
+| `title-45-part-2531` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2531 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2532` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2532 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2533` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2533 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2534` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2534 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2540` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2540 | 2 | 2017-10-01 to 2021-05-01 |
+| `title-45-part-2544` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2544 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2550` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2550 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2551` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2551 | 3 | 2017-10-01 to 2024-10-01 |
+| `title-45-part-2552` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2552 | 5 | 2017-10-01 to 2024-10-01 |
+| `title-45-part-2553` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2553 | 3 | 2017-10-01 to 2024-10-01 |
+| `title-45-part-2554` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2554 | 9 | 2017-10-01 to 2025-01-14 |
+| `title-45-part-2555` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2555 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-45-part-2556` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2556 | 2 | 2017-10-01 to 2023-06-15 |
+| `title-45-part-2584` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2584 | 1 | 2024-11-29 to 2024-11-29 |
+| `title-45-part-other` | Title 45 of the Code of Federal Regulations (Public Welfare), Part other | 2 | 2017-10-01 to 2026-10-26 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -1346,19 +1688,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 9187 commits:
+The build made 10072 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1329 | first version of an act |
-| 5657 | one law on its in-force day |
-| 2201 | changes no amendment note explains, credited to the publisher |
+| 1671 | first version of an act |
+| 6026 | one law on its in-force day |
+| 2375 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 6687 laws in the record.
-- 11696 tags.
+- 7106 laws in the record.
+- 12817 tags.
 
 ## Dates
 
@@ -1370,7 +1712,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fbb607f42db9d6134684f06aa6117a8cff772ac6cdd80963b40a69a0cade64e9` (622929606 bytes).
+- Corpus: sha256 `1199e714189dda765a997ce2ff332cb4cb34c8a55c5ba9547090192f608f30bb` (649011499 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1391,6 +1733,7 @@ No second build of this corpus has been compared yet.
 - Source notes (CITA), editorial notes, effective-date notes and footnotes are left out of the text; they are annotations, not regulation text. Curly quotes are made straight and spacing is normalised.
 - Each title's first edition is the oldest version available, credited to the publisher; text before 2017 is not included.
 - Title 40: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-25); 2019 annual edition (to 2019-05-20); 2020 annual edition (to 2020-04-22); 2021 annual edition (to 2021-05-24); 2022 annual edition (to 2022-05-27); 2023 annual edition (to 2023-05-30); 2024 annual edition (to 2024-05-28); eCFR (to 2026-10-26).
+- Title 45: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
