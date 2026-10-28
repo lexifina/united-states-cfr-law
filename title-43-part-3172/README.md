@@ -1,0 +1,19 @@
+# Title 43 of the Code of Federal Regulations (Public Lands: Interior), Part 3172
+
+43 CFR Part 3172 · 2 versions, from 2023-06-16 (latest in force: 2023-11-01) · <https://www.ecfr.gov/current/title-43/part-3172>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 3172.1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| § 3172.2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| § 3172.3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| § 3172.4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| § 3172.5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| § 3172.6 | [sec-0006.md](sec-0006.md) | 1 | 2023-11-01 |
+| § 3172.7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| § 3172.8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| § 3172.9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| § 3172.10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| § 3172.11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| § 3172.12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| § 3172.13 | [sec-0013.md](sec-0013.md) | 0 |  |
