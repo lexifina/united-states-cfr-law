@@ -2714,6 +2714,215 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-13-part-0315` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 315 | 2 | 2016-12-28 to 2020-03-16 |
 | `title-13-part-0400` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 400 | 1 | 2016-12-28 to 2016-12-28 |
 | `title-13-part-0500` | Title 13 of the Code of Federal Regulations (Business Credit and Assistance), Part 500 | 1 | 2016-12-28 to 2016-12-28 |
+| `title-14-part-0001` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1 | 9 | 2017-01-01 to 2026-07-24 |
+| `title-14-part-0003` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 3 | 5 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0005` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 5 | 3 | 2017-01-01 to 2024-05-28 |
+| `title-14-part-0011` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 11 | 7 | 2017-01-01 to 2025-01-21 |
+| `title-14-part-0013` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 13 | 11 | 2017-01-01 to 2024-12-30 |
+| `title-14-part-0014` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 14 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0015` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 15 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0016` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 16 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0017` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 17 | 2 | 2017-01-01 to 2017-03-21 |
+| `title-14-part-0019-0008` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 19-8 | 1 | 2023-03-02 to 2023-03-02 |
+| `title-14-part-0021` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 21 | 10 | 2017-01-01 to 2026-07-24 |
+| `title-14-part-0022` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 22 | 1 | 2026-07-24 to 2026-07-24 |
+| `title-14-part-0023` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 23 | 3 | 2017-01-01 to 2022-12-09 |
+| `title-14-part-0025` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 25 | 15 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0026` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 26 | 2 | 2017-01-01 to 2018-03-06 |
+| `title-14-part-0027` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 27 | 8 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0029` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 29 | 7 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0031` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 31 | 2 | 2017-01-01 to 2017-12-14 |
+| `title-14-part-0033` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 33 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0034` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 34 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0035` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 35 | 3 | 2017-01-01 to 2018-12-24 |
+| `title-14-part-0036` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 36 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0038` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 38 | 2 | 2024-04-16 to 2026-10-26 |
+| `title-14-part-0039` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 39 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0043` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 43 | 9 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0045` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 45 | 3 | 2017-01-01 to 2025-10-22 |
+| `title-14-part-0047` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 47 | 6 | 2017-01-01 to 2025-01-17 |
+| `title-14-part-0048` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 48 | 3 | 2017-01-01 to 2021-04-21 |
+| `title-14-part-0049` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 49 | 3 | 2017-01-01 to 2025-01-17 |
+| `title-14-part-0060` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 60 | 9 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0061` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 61 | 28 | 2017-01-01 to 2026-09-14 |
+| `title-14-part-0063` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 63 | 8 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0065` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 65 | 10 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0067` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 67 | 3 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0068` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 68 | 3 | 2017-05-01 to 2024-11-18 |
+| `title-14-part-0071` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 71 | 11 | 2017-01-01 to 2026-09-15 |
+| `title-14-part-0073` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 73 | 2 | 2017-01-01 to 2022-12-09 |
+| `title-14-part-0077` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 77 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0089` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 89 | 3 | 2021-04-21 to 2025-11-03 |
+| `title-14-part-0091` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 91 | 69 | 2017-01-01 to 2026-09-29 |
+| `title-14-part-0093` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 93 | 10 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0095` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 95 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0097` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 97 | 4 | 2017-01-01 to 2025-01-21 |
+| `title-14-part-0099` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 99 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0101` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 101 | 3 | 2017-01-01 to 2022-12-09 |
+| `title-14-part-0103` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 103 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0105` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 105 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0107` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 107 | 8 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0110` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 110 | 3 | 2017-01-01 to 2023-09-25 |
+| `title-14-part-0111` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 111 | 6 | 2021-08-09 to 2025-11-03 |
+| `title-14-part-0117` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 117 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0119` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 119 | 5 | 2017-01-01 to 2026-07-24 |
+| `title-14-part-0120` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 120 | 7 | 2017-01-01 to 2025-12-19 |
+| `title-14-part-0121` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 121 | 30 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0125` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 125 | 11 | 2017-01-01 to 2026-05-08 |
+| `title-14-part-0129` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 129 | 7 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0133` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 133 | 2 | 2017-01-01 to 2018-03-05 |
+| `title-14-part-0135` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 135 | 22 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0136` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 136 | 4 | 2017-01-01 to 2025-01-21 |
+| `title-14-part-0137` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 137 | 2 | 2017-01-01 to 2018-03-05 |
+| `title-14-part-0139` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 139 | 3 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0141` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 141 | 8 | 2017-01-01 to 2025-01-21 |
+| `title-14-part-0142` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 142 | 5 | 2017-01-01 to 2025-12-19 |
+| `title-14-part-0145` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 145 | 3 | 2017-01-01 to 2025-11-03 |
+| `title-14-part-0147` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 147 | 4 | 2017-01-01 to 2025-10-22 |
+| `title-14-part-0150` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 150 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0151` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 151 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0152` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 152 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0153` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 153 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0155` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 155 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0156` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 156 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0157` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 157 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0158` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 158 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0161` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 161 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0169` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 169 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0170` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 170 | 2 | 2017-01-01 to 2017-07-25 |
+| `title-14-part-0171` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 171 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0183` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 183 | 3 | 2017-01-01 to 2022-12-09 |
+| `title-14-part-0185` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 185 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0187` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 187 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0189` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 189 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0193` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 193 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0194` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 194 | 2 | 2025-01-01 to 2025-01-21 |
+| `title-14-part-0198` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 198 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0200` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 200 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0201` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 201 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0203` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 203 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0204` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 204 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0205` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 205 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0206` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 206 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0207` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 207 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0208` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 208 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0211` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 211 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0212` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 212 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0213` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 213 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0214` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 214 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0215` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 215 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0216` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 216 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0217` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 217 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0218` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 218 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0221` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 221 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0222` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 222 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0223` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 223 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0232` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 232 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0234` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 234 | 2 | 2017-01-01 to 2017-03-22 |
+| `title-14-part-0235` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 235 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0240` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 240 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0243` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 243 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0244` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 244 | 2 | 2017-01-01 to 2021-06-02 |
+| `title-14-part-0247` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 247 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0248` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 248 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0249` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 249 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0250` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 250 | 4 | 2017-01-01 to 2025-01-22 |
+| `title-14-part-0251` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 251 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0252` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 252 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0253` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 253 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0254` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 254 | 3 | 2017-01-01 to 2025-01-22 |
+| `title-14-part-0256` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 256 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0257` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 257 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0258` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 258 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0259` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 259 | 7 | 2017-01-01 to 2026-07-02 |
+| `title-14-part-0260` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 260 | 2 | 2024-06-25 to 2024-08-12 |
+| `title-14-part-0262` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 262 | 1 | 2024-06-25 to 2024-06-25 |
+| `title-14-part-0271` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 271 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0272` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 272 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0291` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 291 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0292` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 292 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0293` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 293 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0294` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 294 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0295` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 295 | 1 | 2018-12-24 to 2018-12-24 |
+| `title-14-part-0296` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 296 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0297` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 297 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0298` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 298 | 5 | 2017-01-01 to 2023-03-02 |
+| `title-14-part-0300` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 300 | 5 | 2017-01-01 to 2026-05-27 |
+| `title-14-part-0302` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 302 | 5 | 2017-01-01 to 2026-05-27 |
+| `title-14-part-0303` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 303 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0305` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 305 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0313` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 313 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0323` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 323 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0325` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 325 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0330` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 330 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0372` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 372 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0374` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 374 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0374a` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 374a | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0375` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 375 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0377` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 377 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0380` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 380 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0381` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 381 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0382` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 382 | 8 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0383` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 383 | 7 | 2017-01-01 to 2024-12-30 |
+| `title-14-part-0385` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 385 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0389` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 389 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0398` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 398 | 2 | 2017-01-01 to 2019-05-17 |
+| `title-14-part-0399` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 399 | 11 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0400` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 400 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0401` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 401 | 6 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0402` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 402 | 1 | 2025-11-03 to 2025-11-03 |
+| `title-14-part-0404` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 404 | 4 | 2017-01-01 to 2021-03-21 |
+| `title-14-part-0405` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 405 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-0406` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 406 | 8 | 2017-01-01 to 2024-12-30 |
+| `title-14-part-0413` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 413 | 7 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0414` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 414 | 3 | 2017-01-01 to 2021-03-21 |
+| `title-14-part-0415` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 415 | 5 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0417` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 417 | 3 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0420` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 420 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-0431` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 431 | 6 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0433` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 433 | 2 | 2017-01-01 to 2021-03-21 |
+| `title-14-part-0435` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 435 | 6 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0437` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 437 | 4 | 2017-01-01 to 2024-11-18 |
+| `title-14-part-0440` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 440 | 5 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-0450` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 450 | 3 | 2021-01-01 to 2024-11-18 |
+| `title-14-part-0460` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 460 | 5 | 2017-01-01 to 2026-03-10 |
+| `title-14-part-1201` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1201 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1203` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1203 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1203a` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1203a | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1203b` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1203b | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1204` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1204 | 5 | 2017-01-01 to 2024-06-17 |
+| `title-14-part-1206` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1206 | 2 | 2017-01-01 to 2019-10-11 |
+| `title-14-part-1207` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1207 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1208` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1208 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1209` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1209 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1212` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1212 | 3 | 2017-01-01 to 2023-04-28 |
+| `title-14-part-1213` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1213 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1214` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1214 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1215` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1215 | 3 | 2017-01-01 to 2023-01-01 |
+| `title-14-part-1216` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1216 | 3 | 2017-01-01 to 2026-08-17 |
+| `title-14-part-1217` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1217 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1221` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1221 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-1230` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1230 | 3 | 2017-01-01 to 2018-07-19 |
+| `title-14-part-1232` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1232 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1240` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1240 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1241` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1241 | 1 | 2020-03-18 to 2020-03-18 |
+| `title-14-part-1245` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1245 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1250` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1250 | 2 | 2017-01-01 to 2026-07-06 |
+| `title-14-part-1251` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1251 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1252` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1252 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1253` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1253 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1259` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1259 | 2 | 2017-01-01 to 2017-09-29 |
+| `title-14-part-1261` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1261 | 2 | 2017-01-01 to 2017-08-28 |
+| `title-14-part-1262` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1262 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1263` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1263 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1264` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1264 | 10 | 2017-01-01 to 2025-05-07 |
+| `title-14-part-1266` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1266 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1271` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1271 | 12 | 2017-01-01 to 2026-10-26 |
+| `title-14-part-1274` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1274 | 2 | 2017-01-01 to 2021-01-15 |
+| `title-14-part-1275` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1275 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1300` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1300 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-1310` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1310 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-14-part-other` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part other | 16 | 2017-01-01 to 2026-10-26 |
 | `title-17-part-0001` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1 | 20 | 2017-02-14 to 2026-10-26 |
 | `title-17-part-0002` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 2 | 2 | 2017-02-14 to 2026-05-11 |
 | `title-17-part-0003` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 3 | 7 | 2017-02-14 to 2024-11-25 |
@@ -3206,19 +3415,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 15449 commits:
+The build made 16311 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3189 | first version of an act |
-| 8790 | one law on its in-force day |
-| 3470 | changes no amendment note explains, credited to the publisher |
+| 3398 | first version of an act |
+| 9235 | one law on its in-force day |
+| 3678 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 10447 laws in the record.
-- 20056 tags.
+- 10960 laws in the record.
+- 21255 tags.
 
 ## Dates
 
@@ -3230,7 +3439,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `919cf4a8e562f45bb6d207119b73cb731da74138c7bdd1bfb06eb91759df07ac` (841000575 bytes).
+- Corpus: sha256 `9a40173a61d50d39dedb677f6de6fcde6ae070430ba25b3b607597dd8f94891b` (869024866 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3265,6 +3474,7 @@ No second build of this corpus has been compared yet.
 - Title 11: editions read: 2019 annual edition (to 2019-01-01); 2022 annual edition (to 2021-12-28); 2023 annual edition (to 2022-12-29); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 13: editions read: 2017 annual edition (to 2016-12-28); 2018 annual edition (to 2017-12-22); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2025-12-05); eCFR (to 2026-10-26).
+- Title 14: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2017-12-14); 2019 annual edition (to 2018-12-24); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-03); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
