@@ -25554,6 +25554,1934 @@
    ]
   },
   {
+   "slug": "title-02-part-0001",
+   "short": "2 CFR Part 1",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1",
+   "url": "https://www.ecfr.gov/current/title-2/part-1",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0002",
+   "short": "2 CFR Part 2",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2",
+   "url": "https://www.ecfr.gov/current/title-2/part-2",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0025",
+   "short": "2 CFR Part 25",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 25",
+   "url": "https://www.ecfr.gov/current/title-2/part-25",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-02-22",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0170",
+   "short": "2 CFR Part 170",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 170",
+   "url": "https://www.ecfr.gov/current/title-2/part-170",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0175",
+   "short": "2 CFR Part 175",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 175",
+   "url": "https://www.ecfr.gov/current/title-2/part-175",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0176",
+   "short": "2 CFR Part 176",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 176",
+   "url": "https://www.ecfr.gov/current/title-2/part-176",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0180",
+   "short": "2 CFR Part 180",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 180",
+   "url": "https://www.ecfr.gov/current/title-2/part-180",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 129,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2018-07-03",
+     "units": 129,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 128,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-2/ECFR-title2.xml",
+     "sha256": "118da26a4b4b55a0c8f85a611aa976d62e5dc155dc27cd679043e8b140df174d"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0182",
+   "short": "2 CFR Part 182",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 182",
+   "url": "https://www.ecfr.gov/current/title-2/part-182",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0183",
+   "short": "2 CFR Part 183",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 183",
+   "url": "https://www.ecfr.gov/current/title-2/part-183",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0184",
+   "short": "2 CFR Part 184",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 184",
+   "url": "https://www.ecfr.gov/current/title-2/part-184",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0200",
+   "short": "2 CFR Part 200",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 200",
+   "url": "https://www.ecfr.gov/current/title-2/part-200",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 284,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 289,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-01-11",
+     "units": 289,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-02-22",
+     "units": 191,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 191,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-28",
+     "units": 191,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-05-11",
+     "units": 191,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2023-10-23",
+     "units": 191,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 192,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0300",
+   "short": "2 CFR Part 300",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 300",
+   "url": "https://www.ecfr.gov/current/title-2/part-300",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    },
+    {
+     "from": "2024-12-20",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-2/CFR-2026-title-2.zip",
+     "sha256": "7d5ae4f123247bf6af4084a4601bac9e27b77736f6138f8ecd29b8138c2161b9"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0376",
+   "short": "2 CFR Part 376",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 376",
+   "url": "https://www.ecfr.gov/current/title-2/part-376",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0382",
+   "short": "2 CFR Part 382",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 382",
+   "url": "https://www.ecfr.gov/current/title-2/part-382",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0400",
+   "short": "2 CFR Part 400",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 400",
+   "url": "https://www.ecfr.gov/current/title-2/part-400",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0401",
+   "short": "2 CFR Part 401",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 401",
+   "url": "https://www.ecfr.gov/current/title-2/part-401",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0415",
+   "short": "2 CFR Part 415",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 415",
+   "url": "https://www.ecfr.gov/current/title-2/part-415",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0416",
+   "short": "2 CFR Part 416",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 416",
+   "url": "https://www.ecfr.gov/current/title-2/part-416",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0417",
+   "short": "2 CFR Part 417",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 417",
+   "url": "https://www.ecfr.gov/current/title-2/part-417",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2019-10-04",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0418",
+   "short": "2 CFR Part 418",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 418",
+   "url": "https://www.ecfr.gov/current/title-2/part-418",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0421",
+   "short": "2 CFR Part 421",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 421",
+   "url": "https://www.ecfr.gov/current/title-2/part-421",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0422",
+   "short": "2 CFR Part 422",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 422",
+   "url": "https://www.ecfr.gov/current/title-2/part-422",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0423",
+   "short": "2 CFR Part 423",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 423",
+   "url": "https://www.ecfr.gov/current/title-2/part-423",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0600",
+   "short": "2 CFR Part 600",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 600",
+   "url": "https://www.ecfr.gov/current/title-2/part-600",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0601",
+   "short": "2 CFR Part 601",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 601",
+   "url": "https://www.ecfr.gov/current/title-2/part-601",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0602",
+   "short": "2 CFR Part 602",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 602",
+   "url": "https://www.ecfr.gov/current/title-2/part-602",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-2/ECFR-title2.xml",
+     "sha256": "118da26a4b4b55a0c8f85a611aa976d62e5dc155dc27cd679043e8b140df174d"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0603",
+   "short": "2 CFR Part 603",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 603",
+   "url": "https://www.ecfr.gov/current/title-2/part-603",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-2/ECFR-title2.xml",
+     "sha256": "118da26a4b4b55a0c8f85a611aa976d62e5dc155dc27cd679043e8b140df174d"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0604",
+   "short": "2 CFR Part 604",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 604",
+   "url": "https://www.ecfr.gov/current/title-2/part-604",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-2/ECFR-title2.xml",
+     "sha256": "118da26a4b4b55a0c8f85a611aa976d62e5dc155dc27cd679043e8b140df174d"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0700",
+   "short": "2 CFR Part 700",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 700",
+   "url": "https://www.ecfr.gov/current/title-2/part-700",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0701",
+   "short": "2 CFR Part 701",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 701",
+   "url": "https://www.ecfr.gov/current/title-2/part-701",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0780",
+   "short": "2 CFR Part 780",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 780",
+   "url": "https://www.ecfr.gov/current/title-2/part-780",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0782",
+   "short": "2 CFR Part 782",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 782",
+   "url": "https://www.ecfr.gov/current/title-2/part-782",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0801",
+   "short": "2 CFR Part 801",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 801",
+   "url": "https://www.ecfr.gov/current/title-2/part-801",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0802",
+   "short": "2 CFR Part 802",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 802",
+   "url": "https://www.ecfr.gov/current/title-2/part-802",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0901",
+   "short": "2 CFR Part 901",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 901",
+   "url": "https://www.ecfr.gov/current/title-2/part-901",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0902",
+   "short": "2 CFR Part 902",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 902",
+   "url": "https://www.ecfr.gov/current/title-2/part-902",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0910",
+   "short": "2 CFR Part 910",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 910",
+   "url": "https://www.ecfr.gov/current/title-2/part-910",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-06-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2026-08-17",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-2/ECFR-title2.xml",
+     "sha256": "118da26a4b4b55a0c8f85a611aa976d62e5dc155dc27cd679043e8b140df174d"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-0930",
+   "short": "2 CFR Part 930",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 930",
+   "url": "https://www.ecfr.gov/current/title-2/part-930",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2026/title-2/CFR-2026-title-2.zip",
+     "sha256": "7d5ae4f123247bf6af4084a4601bac9e27b77736f6138f8ecd29b8138c2161b9"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1000",
+   "short": "2 CFR Part 1000",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1000",
+   "url": "https://www.ecfr.gov/current/title-2/part-1000",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2021-06-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1103",
+   "short": "2 CFR Part 1103",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1103",
+   "url": "https://www.ecfr.gov/current/title-2/part-1103",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-10-19",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1104",
+   "short": "2 CFR Part 1104",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1104",
+   "url": "https://www.ecfr.gov/current/title-2/part-1104",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1108",
+   "short": "2 CFR Part 1108",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1108",
+   "url": "https://www.ecfr.gov/current/title-2/part-1108",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1120",
+   "short": "2 CFR Part 1120",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1120",
+   "url": "https://www.ecfr.gov/current/title-2/part-1120",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1122",
+   "short": "2 CFR Part 1122",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1122",
+   "url": "https://www.ecfr.gov/current/title-2/part-1122",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1125",
+   "short": "2 CFR Part 1125",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1125",
+   "url": "https://www.ecfr.gov/current/title-2/part-1125",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1126",
+   "short": "2 CFR Part 1126",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1126",
+   "url": "https://www.ecfr.gov/current/title-2/part-1126",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1128",
+   "short": "2 CFR Part 1128",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1128",
+   "url": "https://www.ecfr.gov/current/title-2/part-1128",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1130",
+   "short": "2 CFR Part 1130",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1130",
+   "url": "https://www.ecfr.gov/current/title-2/part-1130",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1132",
+   "short": "2 CFR Part 1132",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1132",
+   "url": "https://www.ecfr.gov/current/title-2/part-1132",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1134",
+   "short": "2 CFR Part 1134",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1134",
+   "url": "https://www.ecfr.gov/current/title-2/part-1134",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1136",
+   "short": "2 CFR Part 1136",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1136",
+   "url": "https://www.ecfr.gov/current/title-2/part-1136",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1138",
+   "short": "2 CFR Part 1138",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1138",
+   "url": "https://www.ecfr.gov/current/title-2/part-1138",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1200",
+   "short": "2 CFR Part 1200",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1200",
+   "url": "https://www.ecfr.gov/current/title-2/part-1200",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1201",
+   "short": "2 CFR Part 1201",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1201",
+   "url": "https://www.ecfr.gov/current/title-2/part-1201",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1326",
+   "short": "2 CFR Part 1326",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1326",
+   "url": "https://www.ecfr.gov/current/title-2/part-1326",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1327",
+   "short": "2 CFR Part 1327",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1327",
+   "url": "https://www.ecfr.gov/current/title-2/part-1327",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1329",
+   "short": "2 CFR Part 1329",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1329",
+   "url": "https://www.ecfr.gov/current/title-2/part-1329",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1400",
+   "short": "2 CFR Part 1400",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1400",
+   "url": "https://www.ecfr.gov/current/title-2/part-1400",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1401",
+   "short": "2 CFR Part 1401",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1401",
+   "url": "https://www.ecfr.gov/current/title-2/part-1401",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1402",
+   "short": "2 CFR Part 1402",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1402",
+   "url": "https://www.ecfr.gov/current/title-2/part-1402",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2019-10-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1500",
+   "short": "2 CFR Part 1500",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1500",
+   "url": "https://www.ecfr.gov/current/title-2/part-1500",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2022-05-19",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1532",
+   "short": "2 CFR Part 1532",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1532",
+   "url": "https://www.ecfr.gov/current/title-2/part-1532",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1536",
+   "short": "2 CFR Part 1536",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1536",
+   "url": "https://www.ecfr.gov/current/title-2/part-1536",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1600",
+   "short": "2 CFR Part 1600",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1600",
+   "url": "https://www.ecfr.gov/current/title-2/part-1600",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1800",
+   "short": "2 CFR Part 1800",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1800",
+   "url": "https://www.ecfr.gov/current/title-2/part-1800",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2019-07-08",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-01-11",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2022-10-04",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1880",
+   "short": "2 CFR Part 1880",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1880",
+   "url": "https://www.ecfr.gov/current/title-2/part-1880",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1882",
+   "short": "2 CFR Part 1882",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1882",
+   "url": "https://www.ecfr.gov/current/title-2/part-1882",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-1900",
+   "short": "2 CFR Part 1900",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 1900",
+   "url": "https://www.ecfr.gov/current/title-2/part-1900",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2000",
+   "short": "2 CFR Part 2000",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2000",
+   "url": "https://www.ecfr.gov/current/title-2/part-2000",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2200",
+   "short": "2 CFR Part 2200",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2200",
+   "url": "https://www.ecfr.gov/current/title-2/part-2200",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2205",
+   "short": "2 CFR Part 2205",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2205",
+   "url": "https://www.ecfr.gov/current/title-2/part-2205",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2245",
+   "short": "2 CFR Part 2245",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2245",
+   "url": "https://www.ecfr.gov/current/title-2/part-2245",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2300",
+   "short": "2 CFR Part 2300",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2300",
+   "url": "https://www.ecfr.gov/current/title-2/part-2300",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2336",
+   "short": "2 CFR Part 2336",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2336",
+   "url": "https://www.ecfr.gov/current/title-2/part-2336",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2339",
+   "short": "2 CFR Part 2339",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2339",
+   "url": "https://www.ecfr.gov/current/title-2/part-2339",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2400",
+   "short": "2 CFR Part 2400",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2400",
+   "url": "https://www.ecfr.gov/current/title-2/part-2400",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2424",
+   "short": "2 CFR Part 2424",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2424",
+   "url": "https://www.ecfr.gov/current/title-2/part-2424",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2429",
+   "short": "2 CFR Part 2429",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2429",
+   "url": "https://www.ecfr.gov/current/title-2/part-2429",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2500",
+   "short": "2 CFR Part 2500",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2500",
+   "url": "https://www.ecfr.gov/current/title-2/part-2500",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2520",
+   "short": "2 CFR Part 2520",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2520",
+   "url": "https://www.ecfr.gov/current/title-2/part-2520",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2600",
+   "short": "2 CFR Part 2600",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2600",
+   "url": "https://www.ecfr.gov/current/title-2/part-2600",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2700",
+   "short": "2 CFR Part 2700",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2700",
+   "url": "https://www.ecfr.gov/current/title-2/part-2700",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2701",
+   "short": "2 CFR Part 2701",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2701",
+   "url": "https://www.ecfr.gov/current/title-2/part-2701",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2800",
+   "short": "2 CFR Part 2800",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2800",
+   "url": "https://www.ecfr.gov/current/title-2/part-2800",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2867",
+   "short": "2 CFR Part 2867",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2867",
+   "url": "https://www.ecfr.gov/current/title-2/part-2867",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2900",
+   "short": "2 CFR Part 2900",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2900",
+   "url": "https://www.ecfr.gov/current/title-2/part-2900",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-2998",
+   "short": "2 CFR Part 2998",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 2998",
+   "url": "https://www.ecfr.gov/current/title-2/part-2998",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3000",
+   "short": "2 CFR Part 3000",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3000",
+   "url": "https://www.ecfr.gov/current/title-2/part-3000",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3001",
+   "short": "2 CFR Part 3001",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3001",
+   "url": "https://www.ecfr.gov/current/title-2/part-3001",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3002",
+   "short": "2 CFR Part 3002",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3002",
+   "url": "https://www.ecfr.gov/current/title-2/part-3002",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3185",
+   "short": "2 CFR Part 3185",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3185",
+   "url": "https://www.ecfr.gov/current/title-2/part-3185",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3186",
+   "short": "2 CFR Part 3186",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3186",
+   "url": "https://www.ecfr.gov/current/title-2/part-3186",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3187",
+   "short": "2 CFR Part 3187",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3187",
+   "url": "https://www.ecfr.gov/current/title-2/part-3187",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2019-06-14",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3254",
+   "short": "2 CFR Part 3254",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3254",
+   "url": "https://www.ecfr.gov/current/title-2/part-3254",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3255",
+   "short": "2 CFR Part 3255",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3255",
+   "url": "https://www.ecfr.gov/current/title-2/part-3255",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3256",
+   "short": "2 CFR Part 3256",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3256",
+   "url": "https://www.ecfr.gov/current/title-2/part-3256",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3369",
+   "short": "2 CFR Part 3369",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3369",
+   "url": "https://www.ecfr.gov/current/title-2/part-3369",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3373",
+   "short": "2 CFR Part 3373",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3373",
+   "url": "https://www.ecfr.gov/current/title-2/part-3373",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3374",
+   "short": "2 CFR Part 3374",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3374",
+   "url": "https://www.ecfr.gov/current/title-2/part-3374",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3474",
+   "short": "2 CFR Part 3474",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3474",
+   "url": "https://www.ecfr.gov/current/title-2/part-3474",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2021-01-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3485",
+   "short": "2 CFR Part 3485",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3485",
+   "url": "https://www.ecfr.gov/current/title-2/part-3485",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-2/ECFR-title2.xml",
+     "sha256": "118da26a4b4b55a0c8f85a611aa976d62e5dc155dc27cd679043e8b140df174d"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3513",
+   "short": "2 CFR Part 3513",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3513",
+   "url": "https://www.ecfr.gov/current/title-2/part-3513",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3603",
+   "short": "2 CFR Part 3603",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3603",
+   "url": "https://www.ecfr.gov/current/title-2/part-3603",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-3700",
+   "short": "2 CFR Part 3700",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 3700",
+   "url": "https://www.ecfr.gov/current/title-2/part-3700",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-5800",
+   "short": "2 CFR Part 5800",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 5800",
+   "url": "https://www.ecfr.gov/current/title-2/part-5800",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-5801",
+   "short": "2 CFR Part 5801",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 5801",
+   "url": "https://www.ecfr.gov/current/title-2/part-5801",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-5900",
+   "short": "2 CFR Part 5900",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 5900",
+   "url": "https://www.ecfr.gov/current/title-2/part-5900",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-2/CFR-2025-title-2.zip",
+     "sha256": "ecf4d2473204c1fd55a93d9edc9bd8d79a6eeb55d300bc3990c0a6e6bac5505b"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-6000",
+   "short": "2 CFR Part 6000",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part 6000",
+   "url": "https://www.ecfr.gov/current/title-2/part-6000",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-part-other",
+   "short": "2 CFR Part other",
+   "title": "Title 2 of the Code of Federal Regulations (Federal Financial Assistance), Part other",
+   "url": "https://www.ecfr.gov/current/title-2/part-other",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-2/CFR-2018-title-2.zip",
+     "sha256": "020e1911c50d7bf159229968a9e2f8090c41d67481f9f7d3047a95dc8bfde894"
+    },
+    {
+     "from": "2019-04-19",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-2/CFR-2024-title-2.zip",
+     "sha256": "91bf89ac7eb0d50efc5ba622ca3cea7caecc04e530ed2977b686cb73d3a048ba"
+    }
+   ]
+  },
+  {
    "slug": "title-12-part-0001",
    "short": "12 CFR Part 1",
    "title": "Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1",
