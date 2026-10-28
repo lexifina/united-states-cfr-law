@@ -172212,6 +172212,946 @@
      "sha256": "3fc9b5b2fe56289f5ce7ef21a4b91529d284d34b7970a96ca525702f282d5f00"
     }
    ]
+  },
+  {
+   "slug": "title-38-part-0000",
+   "short": "38 CFR Part 0",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 0",
+   "url": "https://www.ecfr.gov/current/title-38/part-0",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0001",
+   "short": "38 CFR Part 1",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 1",
+   "url": "https://www.ecfr.gov/current/title-38/part-1",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 218,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2025-10-27",
+     "units": 218,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-01-26",
+     "units": 218,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 218,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0002",
+   "short": "38 CFR Part 2",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 2",
+   "url": "https://www.ecfr.gov/current/title-38/part-2",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0003",
+   "short": "38 CFR Part 3",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 3",
+   "url": "https://www.ecfr.gov/current/title-38/part-3",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 306,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-02-09",
+     "units": 304,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-02-23",
+     "units": 304,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0004",
+   "short": "38 CFR Part 4",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 4",
+   "url": "https://www.ecfr.gov/current/title-38/part-4",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0005",
+   "short": "38 CFR Part 5",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 5",
+   "url": "https://www.ecfr.gov/current/title-38/part-5",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0006",
+   "short": "38 CFR Part 6",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 6",
+   "url": "https://www.ecfr.gov/current/title-38/part-6",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0007",
+   "short": "38 CFR Part 7",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 7",
+   "url": "https://www.ecfr.gov/current/title-38/part-7",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0008",
+   "short": "38 CFR Part 8",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 8",
+   "url": "https://www.ecfr.gov/current/title-38/part-8",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-02-23",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0008a",
+   "short": "38 CFR Part 8a",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 8a",
+   "url": "https://www.ecfr.gov/current/title-38/part-8a",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0009",
+   "short": "38 CFR Part 9",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 9",
+   "url": "https://www.ecfr.gov/current/title-38/part-9",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2025-10-29",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-01-22",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0010",
+   "short": "38 CFR Part 10",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 10",
+   "url": "https://www.ecfr.gov/current/title-38/part-10",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0011",
+   "short": "38 CFR Part 11",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 11",
+   "url": "https://www.ecfr.gov/current/title-38/part-11",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0012",
+   "short": "38 CFR Part 12",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 12",
+   "url": "https://www.ecfr.gov/current/title-38/part-12",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0013",
+   "short": "38 CFR Part 13",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 13",
+   "url": "https://www.ecfr.gov/current/title-38/part-13",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0014",
+   "short": "38 CFR Part 14",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 14",
+   "url": "https://www.ecfr.gov/current/title-38/part-14",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0015",
+   "short": "38 CFR Part 15",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 15",
+   "url": "https://www.ecfr.gov/current/title-38/part-15",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0016",
+   "short": "38 CFR Part 16",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 16",
+   "url": "https://www.ecfr.gov/current/title-38/part-16",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0017",
+   "short": "38 CFR Part 17",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 17",
+   "url": "https://www.ecfr.gov/current/title-38/part-17",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2025-09-22",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2025-11-03",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-01-30",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-08-10",
+     "units": 316,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-08-27",
+     "units": 307,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 307,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0018",
+   "short": "38 CFR Part 18",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 18",
+   "url": "https://www.ecfr.gov/current/title-38/part-18",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0018a",
+   "short": "38 CFR Part 18a",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 18a",
+   "url": "https://www.ecfr.gov/current/title-38/part-18a",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0018b",
+   "short": "38 CFR Part 18b",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 18b",
+   "url": "https://www.ecfr.gov/current/title-38/part-18b",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 64,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0019",
+   "short": "38 CFR Part 19",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 19",
+   "url": "https://www.ecfr.gov/current/title-38/part-19",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0020",
+   "short": "38 CFR Part 20",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 20",
+   "url": "https://www.ecfr.gov/current/title-38/part-20",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 125,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-02-23",
+     "units": 125,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0021",
+   "short": "38 CFR Part 21",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 21",
+   "url": "https://www.ecfr.gov/current/title-38/part-21",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 597,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2025-07-31",
+     "units": 597,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-02-09",
+     "units": 597,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0023",
+   "short": "38 CFR Part 23",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 23",
+   "url": "https://www.ecfr.gov/current/title-38/part-23",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0025",
+   "short": "38 CFR Part 25",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 25",
+   "url": "https://www.ecfr.gov/current/title-38/part-25",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0026",
+   "short": "38 CFR Part 26",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 26",
+   "url": "https://www.ecfr.gov/current/title-38/part-26",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-06-15",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0036",
+   "short": "38 CFR Part 36",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 36",
+   "url": "https://www.ecfr.gov/current/title-38/part-36",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 191,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0038",
+   "short": "38 CFR Part 38",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 38",
+   "url": "https://www.ecfr.gov/current/title-38/part-38",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0039",
+   "short": "38 CFR Part 39",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 39",
+   "url": "https://www.ecfr.gov/current/title-38/part-39",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0040",
+   "short": "38 CFR Part 40",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 40",
+   "url": "https://www.ecfr.gov/current/title-38/part-40",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0042",
+   "short": "38 CFR Part 42",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 42",
+   "url": "https://www.ecfr.gov/current/title-38/part-42",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0045",
+   "short": "38 CFR Part 45",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 45",
+   "url": "https://www.ecfr.gov/current/title-38/part-45",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0046",
+   "short": "38 CFR Part 46",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 46",
+   "url": "https://www.ecfr.gov/current/title-38/part-46",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2025-07-11",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0047",
+   "short": "38 CFR Part 47",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 47",
+   "url": "https://www.ecfr.gov/current/title-38/part-47",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0048",
+   "short": "38 CFR Part 48",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 48",
+   "url": "https://www.ecfr.gov/current/title-38/part-48",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0050",
+   "short": "38 CFR Part 50",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 50",
+   "url": "https://www.ecfr.gov/current/title-38/part-50",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0051",
+   "short": "38 CFR Part 51",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 51",
+   "url": "https://www.ecfr.gov/current/title-38/part-51",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0053",
+   "short": "38 CFR Part 53",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 53",
+   "url": "https://www.ecfr.gov/current/title-38/part-53",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0059",
+   "short": "38 CFR Part 59",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 59",
+   "url": "https://www.ecfr.gov/current/title-38/part-59",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0060",
+   "short": "38 CFR Part 60",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 60",
+   "url": "https://www.ecfr.gov/current/title-38/part-60",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0061",
+   "short": "38 CFR Part 61",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 61",
+   "url": "https://www.ecfr.gov/current/title-38/part-61",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0062",
+   "short": "38 CFR Part 62",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 62",
+   "url": "https://www.ecfr.gov/current/title-38/part-62",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0063",
+   "short": "38 CFR Part 63",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 63",
+   "url": "https://www.ecfr.gov/current/title-38/part-63",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0064",
+   "short": "38 CFR Part 64",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 64",
+   "url": "https://www.ecfr.gov/current/title-38/part-64",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-07-13",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0070",
+   "short": "38 CFR Part 70",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 70",
+   "url": "https://www.ecfr.gov/current/title-38/part-70",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0071",
+   "short": "38 CFR Part 71",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 71",
+   "url": "https://www.ecfr.gov/current/title-38/part-71",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    },
+    {
+     "from": "2025-09-30",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    },
+    {
+     "from": "2026-02-13",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-38/ECFR-title38.xml",
+     "sha256": "0aba070ea0adb504b18374f0beb3cba5af449a01822c77d8706c63e814d630ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0074",
+   "short": "38 CFR Part 74",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 74",
+   "url": "https://www.ecfr.gov/current/title-38/part-74",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0075",
+   "short": "38 CFR Part 75",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 75",
+   "url": "https://www.ecfr.gov/current/title-38/part-75",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0076",
+   "short": "38 CFR Part 76",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 76",
+   "url": "https://www.ecfr.gov/current/title-38/part-76",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0077",
+   "short": "38 CFR Part 77",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 77",
+   "url": "https://www.ecfr.gov/current/title-38/part-77",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0078",
+   "short": "38 CFR Part 78",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 78",
+   "url": "https://www.ecfr.gov/current/title-38/part-78",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0079",
+   "short": "38 CFR Part 79",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 79",
+   "url": "https://www.ecfr.gov/current/title-38/part-79",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0080",
+   "short": "38 CFR Part 80",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 80",
+   "url": "https://www.ecfr.gov/current/title-38/part-80",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-part-0200",
+   "short": "38 CFR Part 200",
+   "title": "Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 200",
+   "url": "https://www.ecfr.gov/current/title-38/part-200",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-38/CFR-2025-title-38.zip",
+     "sha256": "223f53e5c202b2f96f0ae4bb7251b928d85b03332ca21fdf1012b7571f98d690"
+    }
+   ]
   }
  ]
 }

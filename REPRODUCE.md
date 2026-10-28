@@ -6472,20 +6472,76 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-37-part-0401` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 401 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-37-part-0404` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 404 | 1 | 2026-10-26 to 2026-10-26 |
 | `title-37-part-0501` | Title 37 of the Code of Federal Regulations (Patents, Trademarks, and Copyrights), Part 501 | 1 | 2026-10-26 to 2026-10-26 |
+| `title-38-part-0000` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 0 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0001` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 1 | 4 | 2025-04-01 to 2026-10-26 |
+| `title-38-part-0002` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 2 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0003` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 3 | 3 | 2025-04-01 to 2026-02-23 |
+| `title-38-part-0004` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 4 | 2 | 2025-04-01 to 2026-10-26 |
+| `title-38-part-0005` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 5 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0006` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 6 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0007` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 7 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0008` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 8 | 2 | 2025-04-01 to 2026-02-23 |
+| `title-38-part-0008a` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 8a | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0009` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 9 | 3 | 2025-04-01 to 2026-01-22 |
+| `title-38-part-0010` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 10 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0011` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 11 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0012` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 12 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0013` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 13 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0014` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 14 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0015` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 15 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0016` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 16 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0017` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 17 | 7 | 2025-04-01 to 2026-10-26 |
+| `title-38-part-0018` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 18 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0018a` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 18a | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0018b` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 18b | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0019` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 19 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0020` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 20 | 2 | 2025-04-01 to 2026-02-23 |
+| `title-38-part-0021` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 21 | 3 | 2025-04-01 to 2026-02-09 |
+| `title-38-part-0023` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 23 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0025` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 25 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0026` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 26 | 2 | 2025-04-01 to 2026-06-15 |
+| `title-38-part-0036` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 36 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0038` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 38 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0039` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 39 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0040` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 40 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0042` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 42 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0045` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 45 | 2 | 2025-04-01 to 2026-10-26 |
+| `title-38-part-0046` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 46 | 2 | 2025-04-01 to 2025-07-11 |
+| `title-38-part-0047` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 47 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0048` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 48 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0050` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 50 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0051` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 51 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0053` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 53 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0059` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 59 | 2 | 2025-04-01 to 2026-10-26 |
+| `title-38-part-0060` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 60 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0061` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 61 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0062` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 62 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0063` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 63 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0064` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 64 | 2 | 2025-04-01 to 2026-07-13 |
+| `title-38-part-0070` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 70 | 2 | 2025-04-01 to 2026-10-26 |
+| `title-38-part-0071` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 71 | 3 | 2025-04-01 to 2026-02-13 |
+| `title-38-part-0074` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 74 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0075` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 75 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0076` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 76 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0077` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 77 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0078` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 78 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0079` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 79 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0080` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 80 | 1 | 2025-04-01 to 2025-04-01 |
+| `title-38-part-0200` | Title 38 of the Code of Federal Regulations (Pensions, Bonuses, and Veterans' Relief), Part 200 | 1 | 2025-04-01 to 2025-04-01 |
 
-The build made 24661 commits:
+The build made 24746 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 6456 | first version of an act |
-| 12607 | one law on its in-force day |
-| 5598 | changes no amendment note explains, credited to the publisher |
+| 6512 | first version of an act |
+| 12621 | one law on its in-force day |
+| 5613 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 15095 laws in the record.
-- 32085 tags.
+- 15109 laws in the record.
+- 32180 tags.
 
 ## Dates
 
@@ -6497,7 +6553,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4f19b76f97b015c4dae49f285dff2a73dcf595342faa08c6853877c274010646` (1150357639 bytes).
+- Corpus: sha256 `b5418f857386631f798344f301b45c487042d1118f6eb208c869938e7c99a421` (1159100467 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -6555,6 +6611,7 @@ No second build of this corpus has been compared yet.
 - Title 34: editions read: 2021 annual edition (to 2021-02-03); 2023 annual edition (to 2023-01-30); 2025 annual edition (to 2025-02-18); eCFR (to 2026-10-26).
 - Title 36: editions read: 2019 annual edition (to 2019-05-10); eCFR (to 2026-10-26).
 - Title 37: editions read: eCFR (to 2026-10-26).
+- Title 38: editions read: 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
