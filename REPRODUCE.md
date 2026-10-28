@@ -5629,20 +5629,383 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-31-part-1032` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1032 | 2 | 2024-12-18 to 2026-10-26 |
 | `title-31-part-1060` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part 1060 | 1 | 2018-05-23 to 2018-05-23 |
 | `title-31-part-other` | Title 31 of the Code of Federal Regulations (Money and Finance: Treasury), Part other | 4 | 2018-05-23 to 2026-07-27 |
+| `title-32-part-0002` | Title 32 of the Code of Federal Regulations (National Defense), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0003` | Title 32 of the Code of Federal Regulations (National Defense), Part 3 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0009` | Title 32 of the Code of Federal Regulations (National Defense), Part 9 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0010` | Title 32 of the Code of Federal Regulations (National Defense), Part 10 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0011` | Title 32 of the Code of Federal Regulations (National Defense), Part 11 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0012` | Title 32 of the Code of Federal Regulations (National Defense), Part 12 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0013` | Title 32 of the Code of Federal Regulations (National Defense), Part 13 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0014` | Title 32 of the Code of Federal Regulations (National Defense), Part 14 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0015` | Title 32 of the Code of Federal Regulations (National Defense), Part 15 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0016` | Title 32 of the Code of Federal Regulations (National Defense), Part 16 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0017` | Title 32 of the Code of Federal Regulations (National Defense), Part 17 | 2 | 2017-03-22 to 2017-12-08 |
+| `title-32-part-0021` | Title 32 of the Code of Federal Regulations (National Defense), Part 21 | 2 | 2017-03-22 to 2020-10-19 |
+| `title-32-part-0022` | Title 32 of the Code of Federal Regulations (National Defense), Part 22 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0026` | Title 32 of the Code of Federal Regulations (National Defense), Part 26 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0028` | Title 32 of the Code of Federal Regulations (National Defense), Part 28 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0032` | Title 32 of the Code of Federal Regulations (National Defense), Part 32 | 2 | 2017-03-22 to 2020-10-19 |
+| `title-32-part-0033` | Title 32 of the Code of Federal Regulations (National Defense), Part 33 | 2 | 2017-03-22 to 2020-10-19 |
+| `title-32-part-0034` | Title 32 of the Code of Federal Regulations (National Defense), Part 34 | 2 | 2017-03-22 to 2020-10-19 |
+| `title-32-part-0037` | Title 32 of the Code of Federal Regulations (National Defense), Part 37 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0044` | Title 32 of the Code of Federal Regulations (National Defense), Part 44 | 2 | 2017-03-22 to 2020-12-28 |
+| `title-32-part-0045` | Title 32 of the Code of Federal Regulations (National Defense), Part 45 | 5 | 2017-03-22 to 2024-05-10 |
+| `title-32-part-0047` | Title 32 of the Code of Federal Regulations (National Defense), Part 47 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0048` | Title 32 of the Code of Federal Regulations (National Defense), Part 48 | 2 | 2017-03-22 to 2019-03-05 |
+| `title-32-part-0049` | Title 32 of the Code of Federal Regulations (National Defense), Part 49 | 1 | 2024-11-18 to 2024-11-18 |
+| `title-32-part-0050` | Title 32 of the Code of Federal Regulations (National Defense), Part 50 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0053` | Title 32 of the Code of Federal Regulations (National Defense), Part 53 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0054` | Title 32 of the Code of Federal Regulations (National Defense), Part 54 | 2 | 2017-03-22 to 2019-04-03 |
+| `title-32-part-0056` | Title 32 of the Code of Federal Regulations (National Defense), Part 56 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0057` | Title 32 of the Code of Federal Regulations (National Defense), Part 57 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0060` | Title 32 of the Code of Federal Regulations (National Defense), Part 60 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0061` | Title 32 of the Code of Federal Regulations (National Defense), Part 61 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0065` | Title 32 of the Code of Federal Regulations (National Defense), Part 65 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0066` | Title 32 of the Code of Federal Regulations (National Defense), Part 66 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0067` | Title 32 of the Code of Federal Regulations (National Defense), Part 67 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0068` | Title 32 of the Code of Federal Regulations (National Defense), Part 68 | 2 | 2017-03-22 to 2021-03-23 |
+| `title-32-part-0069` | Title 32 of the Code of Federal Regulations (National Defense), Part 69 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0070` | Title 32 of the Code of Federal Regulations (National Defense), Part 70 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0073` | Title 32 of the Code of Federal Regulations (National Defense), Part 73 | 1 | 2024-11-29 to 2024-11-29 |
+| `title-32-part-0074` | Title 32 of the Code of Federal Regulations (National Defense), Part 74 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0075` | Title 32 of the Code of Federal Regulations (National Defense), Part 75 | 1 | 2019-03-15 to 2019-03-15 |
+| `title-32-part-0077` | Title 32 of the Code of Federal Regulations (National Defense), Part 77 | 2 | 2017-03-22 to 2019-03-12 |
+| `title-32-part-0078` | Title 32 of the Code of Federal Regulations (National Defense), Part 78 | 2 | 2017-03-22 to 2019-11-25 |
+| `title-32-part-0079` | Title 32 of the Code of Federal Regulations (National Defense), Part 79 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0080` | Title 32 of the Code of Federal Regulations (National Defense), Part 80 | 2 | 2017-03-22 to 2018-08-01 |
+| `title-32-part-0081` | Title 32 of the Code of Federal Regulations (National Defense), Part 81 | 2 | 2017-03-22 to 2018-04-09 |
+| `title-32-part-0085` | Title 32 of the Code of Federal Regulations (National Defense), Part 85 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0086` | Title 32 of the Code of Federal Regulations (National Defense), Part 86 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0088` | Title 32 of the Code of Federal Regulations (National Defense), Part 88 | 2 | 2017-03-22 to 2019-09-13 |
+| `title-32-part-0089` | Title 32 of the Code of Federal Regulations (National Defense), Part 89 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0093` | Title 32 of the Code of Federal Regulations (National Defense), Part 93 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0094` | Title 32 of the Code of Federal Regulations (National Defense), Part 94 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0096` | Title 32 of the Code of Federal Regulations (National Defense), Part 96 | 2 | 2017-03-22 to 2019-08-07 |
+| `title-32-part-0097` | Title 32 of the Code of Federal Regulations (National Defense), Part 97 | 3 | 2017-03-22 to 2022-10-24 |
+| `title-32-part-0099` | Title 32 of the Code of Federal Regulations (National Defense), Part 99 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0100` | Title 32 of the Code of Federal Regulations (National Defense), Part 100 | 2 | 2017-03-22 to 2019-02-01 |
+| `title-32-part-0101` | Title 32 of the Code of Federal Regulations (National Defense), Part 101 | 2 | 2017-03-22 to 2019-02-01 |
+| `title-32-part-0103` | Title 32 of the Code of Federal Regulations (National Defense), Part 103 | 3 | 2017-03-22 to 2021-02-24 |
+| `title-32-part-0104` | Title 32 of the Code of Federal Regulations (National Defense), Part 104 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0105` | Title 32 of the Code of Federal Regulations (National Defense), Part 105 | 2 | 2017-03-22 to 2020-09-17 |
+| `title-32-part-0107` | Title 32 of the Code of Federal Regulations (National Defense), Part 107 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0108` | Title 32 of the Code of Federal Regulations (National Defense), Part 108 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0110` | Title 32 of the Code of Federal Regulations (National Defense), Part 110 | 2 | 2017-03-22 to 2019-02-28 |
+| `title-32-part-0111` | Title 32 of the Code of Federal Regulations (National Defense), Part 111 | 1 | 2019-10-21 to 2019-10-21 |
+| `title-32-part-0112` | Title 32 of the Code of Federal Regulations (National Defense), Part 112 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0113` | Title 32 of the Code of Federal Regulations (National Defense), Part 113 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0114` | Title 32 of the Code of Federal Regulations (National Defense), Part 114 | 2 | 2020-02-24 to 2026-10-26 |
+| `title-32-part-0117` | Title 32 of the Code of Federal Regulations (National Defense), Part 117 | 4 | 2017-03-22 to 2021-08-19 |
+| `title-32-part-0142` | Title 32 of the Code of Federal Regulations (National Defense), Part 142 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0143` | Title 32 of the Code of Federal Regulations (National Defense), Part 143 | 2 | 2017-03-22 to 2020-09-11 |
+| `title-32-part-0144` | Title 32 of the Code of Federal Regulations (National Defense), Part 144 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0145` | Title 32 of the Code of Federal Regulations (National Defense), Part 145 | 3 | 2017-03-22 to 2026-03-04 |
+| `title-32-part-0147` | Title 32 of the Code of Federal Regulations (National Defense), Part 147 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0148` | Title 32 of the Code of Federal Regulations (National Defense), Part 148 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0149` | Title 32 of the Code of Federal Regulations (National Defense), Part 149 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0150` | Title 32 of the Code of Federal Regulations (National Defense), Part 150 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0151` | Title 32 of the Code of Federal Regulations (National Defense), Part 151 | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0152` | Title 32 of the Code of Federal Regulations (National Defense), Part 152 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0153` | Title 32 of the Code of Federal Regulations (National Defense), Part 153 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0155` | Title 32 of the Code of Federal Regulations (National Defense), Part 155 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0156` | Title 32 of the Code of Federal Regulations (National Defense), Part 156 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0157` | Title 32 of the Code of Federal Regulations (National Defense), Part 157 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0158` | Title 32 of the Code of Federal Regulations (National Defense), Part 158 | 2 | 2017-03-22 to 2023-04-21 |
+| `title-32-part-0159` | Title 32 of the Code of Federal Regulations (National Defense), Part 159 | 3 | 2017-03-22 to 2022-10-17 |
+| `title-32-part-0161` | Title 32 of the Code of Federal Regulations (National Defense), Part 161 | 4 | 2017-03-22 to 2025-12-01 |
+| `title-32-part-0162` | Title 32 of the Code of Federal Regulations (National Defense), Part 162 | 2 | 2017-03-22 to 2019-02-19 |
+| `title-32-part-0165` | Title 32 of the Code of Federal Regulations (National Defense), Part 165 | 2 | 2017-03-22 to 2019-08-19 |
+| `title-32-part-0168a` | Title 32 of the Code of Federal Regulations (National Defense), Part 168a | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0169` | Title 32 of the Code of Federal Regulations (National Defense), Part 169 | 4 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0169a` | Title 32 of the Code of Federal Regulations (National Defense), Part 169a | 3 | 2017-03-22 to 2021-07-16 |
+| `title-32-part-0170` | Title 32 of the Code of Federal Regulations (National Defense), Part 170 | 1 | 2024-12-16 to 2024-12-16 |
+| `title-32-part-0171` | Title 32 of the Code of Federal Regulations (National Defense), Part 171 | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0172` | Title 32 of the Code of Federal Regulations (National Defense), Part 172 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0173` | Title 32 of the Code of Federal Regulations (National Defense), Part 173 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0174` | Title 32 of the Code of Federal Regulations (National Defense), Part 174 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0175` | Title 32 of the Code of Federal Regulations (National Defense), Part 175 | 1 | 2018-08-20 to 2018-08-20 |
+| `title-32-part-0176` | Title 32 of the Code of Federal Regulations (National Defense), Part 176 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0179` | Title 32 of the Code of Federal Regulations (National Defense), Part 179 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0182` | Title 32 of the Code of Federal Regulations (National Defense), Part 182 | 2 | 2017-03-22 to 2018-04-05 |
+| `title-32-part-0183` | Title 32 of the Code of Federal Regulations (National Defense), Part 183 | 2 | 2017-03-22 to 2018-08-23 |
+| `title-32-part-0185` | Title 32 of the Code of Federal Regulations (National Defense), Part 185 | 2 | 2017-03-22 to 2018-04-05 |
+| `title-32-part-0187` | Title 32 of the Code of Federal Regulations (National Defense), Part 187 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0188` | Title 32 of the Code of Federal Regulations (National Defense), Part 188 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0191` | Title 32 of the Code of Federal Regulations (National Defense), Part 191 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0192` | Title 32 of the Code of Federal Regulations (National Defense), Part 192 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0193` | Title 32 of the Code of Federal Regulations (National Defense), Part 193 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0195` | Title 32 of the Code of Federal Regulations (National Defense), Part 195 | 2 | 2017-03-22 to 2026-07-24 |
+| `title-32-part-0196` | Title 32 of the Code of Federal Regulations (National Defense), Part 196 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0197` | Title 32 of the Code of Federal Regulations (National Defense), Part 197 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0199` | Title 32 of the Code of Federal Regulations (National Defense), Part 199 | 20 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0200` | Title 32 of the Code of Federal Regulations (National Defense), Part 200 | 1 | 2020-10-28 to 2020-10-28 |
+| `title-32-part-0202` | Title 32 of the Code of Federal Regulations (National Defense), Part 202 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0203` | Title 32 of the Code of Federal Regulations (National Defense), Part 203 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0204` | Title 32 of the Code of Federal Regulations (National Defense), Part 204 | 2 | 2017-03-22 to 2020-09-10 |
+| `title-32-part-0205` | Title 32 of the Code of Federal Regulations (National Defense), Part 205 | 2 | 2017-03-22 to 2018-01-12 |
+| `title-32-part-0206` | Title 32 of the Code of Federal Regulations (National Defense), Part 206 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0208` | Title 32 of the Code of Federal Regulations (National Defense), Part 208 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0210` | Title 32 of the Code of Federal Regulations (National Defense), Part 210 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0211` | Title 32 of the Code of Federal Regulations (National Defense), Part 211 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0212` | Title 32 of the Code of Federal Regulations (National Defense), Part 212 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0213` | Title 32 of the Code of Federal Regulations (National Defense), Part 213 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0215` | Title 32 of the Code of Federal Regulations (National Defense), Part 215 | 2 | 2017-03-22 to 2018-04-17 |
+| `title-32-part-0216` | Title 32 of the Code of Federal Regulations (National Defense), Part 216 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0217` | Title 32 of the Code of Federal Regulations (National Defense), Part 217 | 2 | 2017-03-22 to 2020-09-10 |
+| `title-32-part-0218` | Title 32 of the Code of Federal Regulations (National Defense), Part 218 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0219` | Title 32 of the Code of Federal Regulations (National Defense), Part 219 | 3 | 2017-03-22 to 2018-07-19 |
+| `title-32-part-0220` | Title 32 of the Code of Federal Regulations (National Defense), Part 220 | 3 | 2017-03-22 to 2026-03-09 |
+| `title-32-part-0221` | Title 32 of the Code of Federal Regulations (National Defense), Part 221 | 1 | 2018-12-24 to 2018-12-24 |
+| `title-32-part-0222` | Title 32 of the Code of Federal Regulations (National Defense), Part 222 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0223` | Title 32 of the Code of Federal Regulations (National Defense), Part 223 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0225` | Title 32 of the Code of Federal Regulations (National Defense), Part 225 | 1 | 2019-12-30 to 2019-12-30 |
+| `title-32-part-0226` | Title 32 of the Code of Federal Regulations (National Defense), Part 226 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0228` | Title 32 of the Code of Federal Regulations (National Defense), Part 228 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0229` | Title 32 of the Code of Federal Regulations (National Defense), Part 229 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0230` | Title 32 of the Code of Federal Regulations (National Defense), Part 230 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0231` | Title 32 of the Code of Federal Regulations (National Defense), Part 231 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0232` | Title 32 of the Code of Federal Regulations (National Defense), Part 232 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0233` | Title 32 of the Code of Federal Regulations (National Defense), Part 233 | 3 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0234` | Title 32 of the Code of Federal Regulations (National Defense), Part 234 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0236` | Title 32 of the Code of Federal Regulations (National Defense), Part 236 | 2 | 2017-03-22 to 2024-04-11 |
+| `title-32-part-0238` | Title 32 of the Code of Federal Regulations (National Defense), Part 238 | 2 | 2017-03-22 to 2026-07-09 |
+| `title-32-part-0239` | Title 32 of the Code of Federal Regulations (National Defense), Part 239 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0240` | Title 32 of the Code of Federal Regulations (National Defense), Part 240 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0241` | Title 32 of the Code of Federal Regulations (National Defense), Part 241 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0242` | Title 32 of the Code of Federal Regulations (National Defense), Part 242 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0242a` | Title 32 of the Code of Federal Regulations (National Defense), Part 242a | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0242b` | Title 32 of the Code of Federal Regulations (National Defense), Part 242b | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0243` | Title 32 of the Code of Federal Regulations (National Defense), Part 243 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0245` | Title 32 of the Code of Federal Regulations (National Defense), Part 245 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0246` | Title 32 of the Code of Federal Regulations (National Defense), Part 246 | 2 | 2017-03-22 to 2026-01-15 |
+| `title-32-part-0247` | Title 32 of the Code of Federal Regulations (National Defense), Part 247 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0250` | Title 32 of the Code of Federal Regulations (National Defense), Part 250 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0251` | Title 32 of the Code of Federal Regulations (National Defense), Part 251 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0252` | Title 32 of the Code of Federal Regulations (National Defense), Part 252 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0253` | Title 32 of the Code of Federal Regulations (National Defense), Part 253 | 2 | 2017-03-22 to 2020-11-13 |
+| `title-32-part-0257` | Title 32 of the Code of Federal Regulations (National Defense), Part 257 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0259` | Title 32 of the Code of Federal Regulations (National Defense), Part 259 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0260` | Title 32 of the Code of Federal Regulations (National Defense), Part 260 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0263` | Title 32 of the Code of Federal Regulations (National Defense), Part 263 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0264` | Title 32 of the Code of Federal Regulations (National Defense), Part 264 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0268` | Title 32 of the Code of Federal Regulations (National Defense), Part 268 | 2 | 2017-03-22 to 2019-08-19 |
+| `title-32-part-0269` | Title 32 of the Code of Federal Regulations (National Defense), Part 269 | 8 | 2017-03-22 to 2025-01-15 |
+| `title-32-part-0270` | Title 32 of the Code of Federal Regulations (National Defense), Part 270 | 2 | 2017-03-22 to 2019-01-31 |
+| `title-32-part-0272` | Title 32 of the Code of Federal Regulations (National Defense), Part 272 | 2 | 2017-03-22 to 2020-09-29 |
+| `title-32-part-0273` | Title 32 of the Code of Federal Regulations (National Defense), Part 273 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0274` | Title 32 of the Code of Federal Regulations (National Defense), Part 274 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0275` | Title 32 of the Code of Federal Regulations (National Defense), Part 275 | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0277` | Title 32 of the Code of Federal Regulations (National Defense), Part 277 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0279` | Title 32 of the Code of Federal Regulations (National Defense), Part 279 | 2 | 2017-03-22 to 2019-02-01 |
+| `title-32-part-0281` | Title 32 of the Code of Federal Regulations (National Defense), Part 281 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0282` | Title 32 of the Code of Federal Regulations (National Defense), Part 282 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0283` | Title 32 of the Code of Federal Regulations (National Defense), Part 283 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0284` | Title 32 of the Code of Federal Regulations (National Defense), Part 284 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0285` | Title 32 of the Code of Federal Regulations (National Defense), Part 285 | 2 | 2017-03-22 to 2018-04-25 |
+| `title-32-part-0286` | Title 32 of the Code of Federal Regulations (National Defense), Part 286 | 4 | 2017-03-22 to 2024-01-26 |
+| `title-32-part-0286h` | Title 32 of the Code of Federal Regulations (National Defense), Part 286h | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0287` | Title 32 of the Code of Federal Regulations (National Defense), Part 287 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0290` | Title 32 of the Code of Federal Regulations (National Defense), Part 290 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0291` | Title 32 of the Code of Federal Regulations (National Defense), Part 291 | 2 | 2017-03-22 to 2018-05-02 |
+| `title-32-part-0292` | Title 32 of the Code of Federal Regulations (National Defense), Part 292 | 2 | 2017-03-22 to 2018-04-26 |
+| `title-32-part-0293` | Title 32 of the Code of Federal Regulations (National Defense), Part 293 | 2 | 2017-03-22 to 2018-04-26 |
+| `title-32-part-0295` | Title 32 of the Code of Federal Regulations (National Defense), Part 295 | 2 | 2017-03-22 to 2018-08-20 |
+| `title-32-part-0296` | Title 32 of the Code of Federal Regulations (National Defense), Part 296 | 2 | 2017-03-22 to 2018-04-26 |
+| `title-32-part-0298` | Title 32 of the Code of Federal Regulations (National Defense), Part 298 | 2 | 2017-03-22 to 2018-04-26 |
+| `title-32-part-0299` | Title 32 of the Code of Federal Regulations (National Defense), Part 299 | 2 | 2017-03-22 to 2018-04-26 |
+| `title-32-part-0300` | Title 32 of the Code of Federal Regulations (National Defense), Part 300 | 2 | 2017-03-22 to 2018-09-18 |
+| `title-32-part-0310` | Title 32 of the Code of Federal Regulations (National Defense), Part 310 | 18 | 2017-03-22 to 2026-08-17 |
+| `title-32-part-0311` | Title 32 of the Code of Federal Regulations (National Defense), Part 311 | 2 | 2017-03-22 to 2019-08-07 |
+| `title-32-part-0312` | Title 32 of the Code of Federal Regulations (National Defense), Part 312 | 2 | 2017-03-22 to 2019-09-11 |
+| `title-32-part-0313` | Title 32 of the Code of Federal Regulations (National Defense), Part 313 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0314` | Title 32 of the Code of Federal Regulations (National Defense), Part 314 | 2 | 2017-03-22 to 2019-10-25 |
+| `title-32-part-0315` | Title 32 of the Code of Federal Regulations (National Defense), Part 315 | 2 | 2017-03-22 to 2019-07-17 |
+| `title-32-part-0316` | Title 32 of the Code of Federal Regulations (National Defense), Part 316 | 2 | 2017-03-22 to 2019-10-01 |
+| `title-32-part-0317` | Title 32 of the Code of Federal Regulations (National Defense), Part 317 | 2 | 2017-03-22 to 2019-08-13 |
+| `title-32-part-0318` | Title 32 of the Code of Federal Regulations (National Defense), Part 318 | 2 | 2017-03-22 to 2019-09-05 |
+| `title-32-part-0319` | Title 32 of the Code of Federal Regulations (National Defense), Part 319 | 2 | 2017-03-22 to 2020-07-06 |
+| `title-32-part-0320` | Title 32 of the Code of Federal Regulations (National Defense), Part 320 | 2 | 2017-03-22 to 2020-07-06 |
+| `title-32-part-0321` | Title 32 of the Code of Federal Regulations (National Defense), Part 321 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0322` | Title 32 of the Code of Federal Regulations (National Defense), Part 322 | 2 | 2017-03-22 to 2020-07-06 |
+| `title-32-part-0323` | Title 32 of the Code of Federal Regulations (National Defense), Part 323 | 2 | 2017-03-22 to 2021-10-01 |
+| `title-32-part-0324` | Title 32 of the Code of Federal Regulations (National Defense), Part 324 | 2 | 2017-03-22 to 2019-11-20 |
+| `title-32-part-0326` | Title 32 of the Code of Federal Regulations (National Defense), Part 326 | 2 | 2017-03-22 to 2020-07-06 |
+| `title-32-part-0327` | Title 32 of the Code of Federal Regulations (National Defense), Part 327 | 2 | 2017-03-22 to 2020-09-17 |
+| `title-32-part-0329` | Title 32 of the Code of Federal Regulations (National Defense), Part 329 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0337` | Title 32 of the Code of Federal Regulations (National Defense), Part 337 | 2 | 2017-03-22 to 2019-03-01 |
+| `title-32-part-0338` | Title 32 of the Code of Federal Regulations (National Defense), Part 338 | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0339` | Title 32 of the Code of Federal Regulations (National Defense), Part 339 | 1 | 2020-02-24 to 2020-02-24 |
+| `title-32-part-0504` | Title 32 of the Code of Federal Regulations (National Defense), Part 504 | 2 | 2017-03-22 to 2019-11-06 |
+| `title-32-part-0505` | Title 32 of the Code of Federal Regulations (National Defense), Part 505 | 2 | 2017-03-22 to 2019-09-05 |
+| `title-32-part-0507` | Title 32 of the Code of Federal Regulations (National Defense), Part 507 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0508` | Title 32 of the Code of Federal Regulations (National Defense), Part 508 | 2 | 2017-03-22 to 2018-08-27 |
+| `title-32-part-0510` | Title 32 of the Code of Federal Regulations (National Defense), Part 510 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0516` | Title 32 of the Code of Federal Regulations (National Defense), Part 516 | 2 | 2017-03-22 to 2025-08-08 |
+| `title-32-part-0518` | Title 32 of the Code of Federal Regulations (National Defense), Part 518 | 2 | 2017-03-22 to 2018-04-19 |
+| `title-32-part-0525` | Title 32 of the Code of Federal Regulations (National Defense), Part 525 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0534` | Title 32 of the Code of Federal Regulations (National Defense), Part 534 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0536` | Title 32 of the Code of Federal Regulations (National Defense), Part 536 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0537` | Title 32 of the Code of Federal Regulations (National Defense), Part 537 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0538` | Title 32 of the Code of Federal Regulations (National Defense), Part 538 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0542` | Title 32 of the Code of Federal Regulations (National Defense), Part 542 | 2 | 2017-03-22 to 2019-03-19 |
+| `title-32-part-0552` | Title 32 of the Code of Federal Regulations (National Defense), Part 552 | 3 | 2017-03-22 to 2021-03-23 |
+| `title-32-part-0553` | Title 32 of the Code of Federal Regulations (National Defense), Part 553 | 2 | 2017-03-22 to 2019-09-30 |
+| `title-32-part-0555` | Title 32 of the Code of Federal Regulations (National Defense), Part 555 | 2 | 2017-03-22 to 2023-04-21 |
+| `title-32-part-0562` | Title 32 of the Code of Federal Regulations (National Defense), Part 562 | 2 | 2017-03-22 to 2019-03-19 |
+| `title-32-part-0564` | Title 32 of the Code of Federal Regulations (National Defense), Part 564 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0571` | Title 32 of the Code of Federal Regulations (National Defense), Part 571 | 2 | 2017-03-22 to 2018-09-19 |
+| `title-32-part-0575` | Title 32 of the Code of Federal Regulations (National Defense), Part 575 | 2 | 2017-03-22 to 2021-03-23 |
+| `title-32-part-0581` | Title 32 of the Code of Federal Regulations (National Defense), Part 581 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0584` | Title 32 of the Code of Federal Regulations (National Defense), Part 584 | 2 | 2017-03-22 to 2019-11-12 |
+| `title-32-part-0589` | Title 32 of the Code of Federal Regulations (National Defense), Part 589 | 2 | 2017-03-22 to 2020-10-14 |
+| `title-32-part-0621` | Title 32 of the Code of Federal Regulations (National Defense), Part 621 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0623` | Title 32 of the Code of Federal Regulations (National Defense), Part 623 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0625` | Title 32 of the Code of Federal Regulations (National Defense), Part 625 | 2 | 2017-03-22 to 2020-08-21 |
+| `title-32-part-0631` | Title 32 of the Code of Federal Regulations (National Defense), Part 631 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0632` | Title 32 of the Code of Federal Regulations (National Defense), Part 632 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0633` | Title 32 of the Code of Federal Regulations (National Defense), Part 633 | 2 | 2017-03-22 to 2019-08-12 |
+| `title-32-part-0634` | Title 32 of the Code of Federal Regulations (National Defense), Part 634 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0635` | Title 32 of the Code of Federal Regulations (National Defense), Part 635 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0636` | Title 32 of the Code of Federal Regulations (National Defense), Part 636 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0637` | Title 32 of the Code of Federal Regulations (National Defense), Part 637 | 2 | 2017-03-22 to 2019-10-02 |
+| `title-32-part-0643` | Title 32 of the Code of Federal Regulations (National Defense), Part 643 | 2 | 2017-03-22 to 2019-07-22 |
+| `title-32-part-0644` | Title 32 of the Code of Federal Regulations (National Defense), Part 644 | 3 | 2017-03-22 to 2019-07-22 |
+| `title-32-part-0651` | Title 32 of the Code of Federal Regulations (National Defense), Part 651 | 2 | 2017-03-22 to 2025-07-03 |
+| `title-32-part-0655` | Title 32 of the Code of Federal Regulations (National Defense), Part 655 | 3 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0700` | Title 32 of the Code of Federal Regulations (National Defense), Part 700 | 2 | 2017-03-22 to 2019-03-27 |
+| `title-32-part-0701` | Title 32 of the Code of Federal Regulations (National Defense), Part 701 | 4 | 2017-03-22 to 2019-08-20 |
+| `title-32-part-0705` | Title 32 of the Code of Federal Regulations (National Defense), Part 705 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0706` | Title 32 of the Code of Federal Regulations (National Defense), Part 706 | 3 | 2017-03-22 to 2019-01-31 |
+| `title-32-part-0707` | Title 32 of the Code of Federal Regulations (National Defense), Part 707 | 2 | 2017-03-22 to 2019-01-31 |
+| `title-32-part-0716` | Title 32 of the Code of Federal Regulations (National Defense), Part 716 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0718` | Title 32 of the Code of Federal Regulations (National Defense), Part 718 | 2 | 2017-03-22 to 2019-03-26 |
+| `title-32-part-0719` | Title 32 of the Code of Federal Regulations (National Defense), Part 719 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0720` | Title 32 of the Code of Federal Regulations (National Defense), Part 720 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0723` | Title 32 of the Code of Federal Regulations (National Defense), Part 723 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0724` | Title 32 of the Code of Federal Regulations (National Defense), Part 724 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0725` | Title 32 of the Code of Federal Regulations (National Defense), Part 725 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0726` | Title 32 of the Code of Federal Regulations (National Defense), Part 726 | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-0727` | Title 32 of the Code of Federal Regulations (National Defense), Part 727 | 2 | 2017-03-22 to 2019-08-02 |
+| `title-32-part-0728` | Title 32 of the Code of Federal Regulations (National Defense), Part 728 | 2 | 2017-03-22 to 2019-03-26 |
+| `title-32-part-0732` | Title 32 of the Code of Federal Regulations (National Defense), Part 732 | 2 | 2017-03-22 to 2019-03-26 |
+| `title-32-part-0733` | Title 32 of the Code of Federal Regulations (National Defense), Part 733 | 2 | 2017-03-22 to 2018-05-17 |
+| `title-32-part-0734` | Title 32 of the Code of Federal Regulations (National Defense), Part 734 | 2 | 2017-03-22 to 2018-04-16 |
+| `title-32-part-0735` | Title 32 of the Code of Federal Regulations (National Defense), Part 735 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0736` | Title 32 of the Code of Federal Regulations (National Defense), Part 736 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0744` | Title 32 of the Code of Federal Regulations (National Defense), Part 744 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0746` | Title 32 of the Code of Federal Regulations (National Defense), Part 746 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0750` | Title 32 of the Code of Federal Regulations (National Defense), Part 750 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0751` | Title 32 of the Code of Federal Regulations (National Defense), Part 751 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0752` | Title 32 of the Code of Federal Regulations (National Defense), Part 752 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0755` | Title 32 of the Code of Federal Regulations (National Defense), Part 755 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0756` | Title 32 of the Code of Federal Regulations (National Defense), Part 756 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0757` | Title 32 of the Code of Federal Regulations (National Defense), Part 757 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0761` | Title 32 of the Code of Federal Regulations (National Defense), Part 761 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0763` | Title 32 of the Code of Federal Regulations (National Defense), Part 763 | 2 | 2017-03-22 to 2018-07-06 |
+| `title-32-part-0765` | Title 32 of the Code of Federal Regulations (National Defense), Part 765 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0766` | Title 32 of the Code of Federal Regulations (National Defense), Part 766 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0767` | Title 32 of the Code of Federal Regulations (National Defense), Part 767 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0770` | Title 32 of the Code of Federal Regulations (National Defense), Part 770 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0775` | Title 32 of the Code of Federal Regulations (National Defense), Part 775 | 3 | 2017-03-22 to 2025-07-03 |
+| `title-32-part-0776` | Title 32 of the Code of Federal Regulations (National Defense), Part 776 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0806` | Title 32 of the Code of Federal Regulations (National Defense), Part 806 | 2 | 2017-03-22 to 2018-05-29 |
+| `title-32-part-0806b` | Title 32 of the Code of Federal Regulations (National Defense), Part 806b | 2 | 2017-03-22 to 2019-09-06 |
+| `title-32-part-0807` | Title 32 of the Code of Federal Regulations (National Defense), Part 807 | 2 | 2017-03-22 to 2019-02-21 |
+| `title-32-part-0809a` | Title 32 of the Code of Federal Regulations (National Defense), Part 809a | 2 | 2017-03-22 to 2019-02-08 |
+| `title-32-part-0811` | Title 32 of the Code of Federal Regulations (National Defense), Part 811 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0813` | Title 32 of the Code of Federal Regulations (National Defense), Part 813 | 2 | 2017-03-22 to 2019-02-21 |
+| `title-32-part-0842` | Title 32 of the Code of Federal Regulations (National Defense), Part 842 | 3 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0845` | Title 32 of the Code of Federal Regulations (National Defense), Part 845 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0855` | Title 32 of the Code of Federal Regulations (National Defense), Part 855 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0856` | Title 32 of the Code of Federal Regulations (National Defense), Part 856 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0861` | Title 32 of the Code of Federal Regulations (National Defense), Part 861 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-0865` | Title 32 of the Code of Federal Regulations (National Defense), Part 865 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-0881` | Title 32 of the Code of Federal Regulations (National Defense), Part 881 | 2 | 2017-03-22 to 2019-09-30 |
+| `title-32-part-0884` | Title 32 of the Code of Federal Regulations (National Defense), Part 884 | 2 | 2017-03-22 to 2019-02-21 |
+| `title-32-part-0887` | Title 32 of the Code of Federal Regulations (National Defense), Part 887 | 2 | 2017-03-22 to 2019-10-01 |
+| `title-32-part-0901` | Title 32 of the Code of Federal Regulations (National Defense), Part 901 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-0903` | Title 32 of the Code of Federal Regulations (National Defense), Part 903 | 2 | 2017-03-22 to 2020-02-24 |
+| `title-32-part-0935` | Title 32 of the Code of Federal Regulations (National Defense), Part 935 | 2 | 2017-03-22 to 2025-07-24 |
+| `title-32-part-0989` | Title 32 of the Code of Federal Regulations (National Defense), Part 989 | 2 | 2017-03-22 to 2025-01-17 |
+| `title-32-part-1280` | Title 32 of the Code of Federal Regulations (National Defense), Part 1280 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1288` | Title 32 of the Code of Federal Regulations (National Defense), Part 1288 | 2 | 2017-03-22 to 2020-02-06 |
+| `title-32-part-1290` | Title 32 of the Code of Federal Regulations (National Defense), Part 1290 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-1292` | Title 32 of the Code of Federal Regulations (National Defense), Part 1292 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1602` | Title 32 of the Code of Federal Regulations (National Defense), Part 1602 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1605` | Title 32 of the Code of Federal Regulations (National Defense), Part 1605 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1609` | Title 32 of the Code of Federal Regulations (National Defense), Part 1609 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1615` | Title 32 of the Code of Federal Regulations (National Defense), Part 1615 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1618` | Title 32 of the Code of Federal Regulations (National Defense), Part 1618 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1621` | Title 32 of the Code of Federal Regulations (National Defense), Part 1621 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1624` | Title 32 of the Code of Federal Regulations (National Defense), Part 1624 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1627` | Title 32 of the Code of Federal Regulations (National Defense), Part 1627 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1630` | Title 32 of the Code of Federal Regulations (National Defense), Part 1630 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1633` | Title 32 of the Code of Federal Regulations (National Defense), Part 1633 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1636` | Title 32 of the Code of Federal Regulations (National Defense), Part 1636 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1639` | Title 32 of the Code of Federal Regulations (National Defense), Part 1639 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1642` | Title 32 of the Code of Federal Regulations (National Defense), Part 1642 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1645` | Title 32 of the Code of Federal Regulations (National Defense), Part 1645 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1648` | Title 32 of the Code of Federal Regulations (National Defense), Part 1648 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1651` | Title 32 of the Code of Federal Regulations (National Defense), Part 1651 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1653` | Title 32 of the Code of Federal Regulations (National Defense), Part 1653 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1656` | Title 32 of the Code of Federal Regulations (National Defense), Part 1656 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1657` | Title 32 of the Code of Federal Regulations (National Defense), Part 1657 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1659` | Title 32 of the Code of Federal Regulations (National Defense), Part 1659 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1660` | Title 32 of the Code of Federal Regulations (National Defense), Part 1660 | 1 | 2023-09-28 to 2023-09-28 |
+| `title-32-part-1662` | Title 32 of the Code of Federal Regulations (National Defense), Part 1662 | 2 | 2017-03-22 to 2024-09-16 |
+| `title-32-part-1665` | Title 32 of the Code of Federal Regulations (National Defense), Part 1665 | 3 | 2017-03-22 to 2024-05-01 |
+| `title-32-part-1697` | Title 32 of the Code of Federal Regulations (National Defense), Part 1697 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1698` | Title 32 of the Code of Federal Regulations (National Defense), Part 1698 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1699` | Title 32 of the Code of Federal Regulations (National Defense), Part 1699 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1700` | Title 32 of the Code of Federal Regulations (National Defense), Part 1700 | 2 | 2017-03-22 to 2023-09-26 |
+| `title-32-part-1701` | Title 32 of the Code of Federal Regulations (National Defense), Part 1701 | 2 | 2017-03-22 to 2019-04-24 |
+| `title-32-part-1702` | Title 32 of the Code of Federal Regulations (National Defense), Part 1702 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1703` | Title 32 of the Code of Federal Regulations (National Defense), Part 1703 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1704` | Title 32 of the Code of Federal Regulations (National Defense), Part 1704 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1800` | Title 32 of the Code of Federal Regulations (National Defense), Part 1800 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1801` | Title 32 of the Code of Federal Regulations (National Defense), Part 1801 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1802` | Title 32 of the Code of Federal Regulations (National Defense), Part 1802 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1803` | Title 32 of the Code of Federal Regulations (National Defense), Part 1803 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1804` | Title 32 of the Code of Federal Regulations (National Defense), Part 1804 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1805` | Title 32 of the Code of Federal Regulations (National Defense), Part 1805 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1806` | Title 32 of the Code of Federal Regulations (National Defense), Part 1806 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1807` | Title 32 of the Code of Federal Regulations (National Defense), Part 1807 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1900` | Title 32 of the Code of Federal Regulations (National Defense), Part 1900 | 3 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-1901` | Title 32 of the Code of Federal Regulations (National Defense), Part 1901 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1903` | Title 32 of the Code of Federal Regulations (National Defense), Part 1903 | 2 | 2017-03-22 to 2023-04-07 |
+| `title-32-part-1904` | Title 32 of the Code of Federal Regulations (National Defense), Part 1904 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1905` | Title 32 of the Code of Federal Regulations (National Defense), Part 1905 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1906` | Title 32 of the Code of Federal Regulations (National Defense), Part 1906 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1907` | Title 32 of the Code of Federal Regulations (National Defense), Part 1907 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1908` | Title 32 of the Code of Federal Regulations (National Defense), Part 1908 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1909` | Title 32 of the Code of Federal Regulations (National Defense), Part 1909 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1910` | Title 32 of the Code of Federal Regulations (National Defense), Part 1910 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-1911` | Title 32 of the Code of Federal Regulations (National Defense), Part 1911 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2001` | Title 32 of the Code of Federal Regulations (National Defense), Part 2001 | 2 | 2017-03-22 to 2021-11-03 |
+| `title-32-part-2002` | Title 32 of the Code of Federal Regulations (National Defense), Part 2002 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2003` | Title 32 of the Code of Federal Regulations (National Defense), Part 2003 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2004` | Title 32 of the Code of Federal Regulations (National Defense), Part 2004 | 2 | 2017-03-22 to 2018-05-07 |
+| `title-32-part-2102` | Title 32 of the Code of Federal Regulations (National Defense), Part 2102 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2103` | Title 32 of the Code of Federal Regulations (National Defense), Part 2103 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2400` | Title 32 of the Code of Federal Regulations (National Defense), Part 2400 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2402` | Title 32 of the Code of Federal Regulations (National Defense), Part 2402 | 2 | 2017-03-22 to 2020-12-04 |
+| `title-32-part-2700` | Title 32 of the Code of Federal Regulations (National Defense), Part 2700 | 1 | 2017-03-22 to 2017-03-22 |
+| `title-32-part-2800` | Title 32 of the Code of Federal Regulations (National Defense), Part 2800 | 2 | 2017-03-22 to 2026-10-26 |
+| `title-32-part-other` | Title 32 of the Code of Federal Regulations (National Defense), Part other | 2 | 2018-05-29 to 2020-02-24 |
 
-The build made 23225 commits:
+The build made 23912 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5613 | first version of an act |
-| 12333 | one law on its in-force day |
-| 5279 | changes no amendment note explains, credited to the publisher |
+| 5976 | first version of an act |
+| 12421 | one law on its in-force day |
+| 5515 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 14735 laws in the record.
-- 30517 tags.
+- 14852 laws in the record.
+- 31248 tags.
 
 ## Dates
 
@@ -5654,7 +6017,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8e902bd105f4652f1bd670d0779ac3842b8b7c5c7849c0c4c13973b213a261eb` (1083696353 bytes).
+- Corpus: sha256 `bfae99f2d6a886e82222e593fccdda236e2aa0072e124d810252252a4e8910bc` (1114347204 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5707,6 +6070,7 @@ No second build of this corpus has been compared yet.
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 - Title 30: editions read: 2018 annual edition (to 2018-03-02); 2019 annual edition (to 2019-05-29); 2023 annual edition (to 2023-05-18); eCFR (to 2026-10-26).
 - Title 31: editions read: 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2020-04-17); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-05-18); 2025 annual edition (to 2024-12-18); eCFR (to 2026-10-26).
+- Title 32: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-29); 2019 annual edition (to 2019-04-24); 2020 annual edition (to 2020-02-24); 2021 annual edition (to 2021-03-23); 2022 annual edition (to 2021-11-03); 2023 annual edition (to 2023-04-21); 2024 annual edition (to 2024-05-24); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
