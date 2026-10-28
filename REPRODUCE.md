@@ -2923,6 +2923,168 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-14-part-1300` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1300 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-14-part-1310` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part 1310 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-14-part-other` | Title 14 of the Code of Federal Regulations (Aeronautics and Space), Part other | 16 | 2017-01-01 to 2026-10-26 |
+| `title-15-part-0000` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 0 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0001` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 1 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0002` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2 | 2 | 2016-12-31 to 2026-01-15 |
+| `title-15-part-0003` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 3 | 2 | 2023-04-19 to 2026-05-04 |
+| `title-15-part-0004` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 4 | 7 | 2016-12-31 to 2026-03-05 |
+| `title-15-part-0004a` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 4a | 2 | 2016-12-31 to 2020-06-10 |
+| `title-15-part-0005` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 5 | 2 | 2016-12-31 to 2026-06-11 |
+| `title-15-part-0006` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 6 | 11 | 2016-12-31 to 2026-01-01 |
+| `title-15-part-0007` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 7 | 3 | 2021-03-22 to 2024-07-18 |
+| `title-15-part-0008` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 8 | 2 | 2016-12-31 to 2026-04-16 |
+| `title-15-part-0008a` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 8a | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0008b` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 8b | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0008c` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 8c | 2 | 2016-12-31 to 2022-12-23 |
+| `title-15-part-0009` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 9 | 2 | 2016-12-31 to 2026-01-15 |
+| `title-15-part-0010` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 10 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0011` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 11 | 2 | 2016-12-31 to 2026-06-11 |
+| `title-15-part-0012` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 12 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0013` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 13 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0015` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 15 | 4 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0016` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 16 | 2 | 2016-12-31 to 2026-01-15 |
+| `title-15-part-0017` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 17 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0018` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 18 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0019` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 19 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0020` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 20 | 2 | 2016-12-31 to 2026-04-16 |
+| `title-15-part-0023` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 23 | 2 | 2016-12-31 to 2026-01-15 |
+| `title-15-part-0025` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 25 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0027` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 27 | 4 | 2016-12-31 to 2018-07-19 |
+| `title-15-part-0028` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 28 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0029` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 29 | 5 | 2020-10-28 to 2024-12-18 |
+| `title-15-part-0030` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 30 | 13 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0040` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 40 | 3 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0050` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 50 | 3 | 2016-12-31 to 2026-08-07 |
+| `title-15-part-0060` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 60 | 2 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0070` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 70 | 2 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0080` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 80 | 2 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0090` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 90 | 3 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0100` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 100 | 2 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0101` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 101 | 2 | 2016-12-31 to 2026-01-23 |
+| `title-15-part-0200` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 200 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0230` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 230 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0231` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 231 | 2 | 2023-11-24 to 2023-12-28 |
+| `title-15-part-0240` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 240 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0241` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 241 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0255` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 255 | 2 | 2016-12-31 to 2026-04-24 |
+| `title-15-part-0256` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 256 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0265` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 265 | 2 | 2016-12-31 to 2026-08-21 |
+| `title-15-part-0270` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 270 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0272` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 272 | 2 | 2016-12-31 to 2026-02-19 |
+| `title-15-part-0273` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 273 | 2 | 2016-12-31 to 2021-12-28 |
+| `title-15-part-0280` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 280 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0285` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 285 | 2 | 2016-12-31 to 2020-09-24 |
+| `title-15-part-0286` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 286 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0287` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 287 | 2 | 2016-12-31 to 2020-10-29 |
+| `title-15-part-0290` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 290 | 3 | 2016-12-31 to 2021-10-08 |
+| `title-15-part-0291` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 291 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0292` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 292 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0295` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 295 | 2 | 2016-12-31 to 2026-02-19 |
+| `title-15-part-0296` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 296 | 2 | 2016-12-31 to 2026-02-19 |
+| `title-15-part-0301` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 301 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0303` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 303 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0310` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 310 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0315` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 315 | 2 | 2016-12-31 to 2019-08-14 |
+| `title-15-part-0325` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 325 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0326` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 326 | 1 | 2024-05-07 to 2024-05-07 |
+| `title-15-part-0335` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 335 | 2 | 2016-12-31 to 2019-07-16 |
+| `title-15-part-0400` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 400 | 3 | 2016-12-31 to 2025-01-24 |
+| `title-15-part-0700` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 700 | 4 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0701` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 701 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0702` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 702 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0705` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 705 | 14 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0710` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 710 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0711` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 711 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0712` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 712 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0713` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 713 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0714` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 714 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0715` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 715 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0716` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 716 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0717` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 717 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0718` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 718 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0719` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 719 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0720` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 720 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0721` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 721 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0730` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 730 | 6 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0732` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 732 | 11 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0734` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 734 | 26 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0736` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 736 | 11 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0738` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 738 | 13 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0740` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 740 | 48 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0742` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 742 | 36 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0743` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 743 | 14 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0744` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 744 | 46 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0745` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 745 | 5 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0746` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 746 | 18 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0747` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 747 | 2 | 2016-12-31 to 2017-12-27 |
+| `title-15-part-0748` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 748 | 22 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0750` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 750 | 7 | 2016-12-31 to 2025-09-30 |
+| `title-15-part-0754` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 754 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0756` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 756 | 3 | 2016-12-31 to 2020-12-23 |
+| `title-15-part-0758` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 758 | 11 | 2016-12-31 to 2026-07-23 |
+| `title-15-part-0760` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 760 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0762` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 762 | 10 | 2016-12-31 to 2025-01-16 |
+| `title-15-part-0764` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 764 | 4 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0766` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 766 | 7 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0768` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 768 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0770` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 770 | 4 | 2016-12-31 to 2024-12-05 |
+| `title-15-part-0772` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 772 | 9 | 2016-12-31 to 2026-07-23 |
+| `title-15-part-0774` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 774 | 23 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0781` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 781 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0782` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 782 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0783` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 783 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0784` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 784 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0785` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 785 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0786` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 786 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0791` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 791 | 3 | 2024-07-18 to 2025-03-17 |
+| `title-15-part-0801` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 801 | 11 | 2016-12-31 to 2026-01-15 |
+| `title-15-part-0902` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 902 | 8 | 2016-12-31 to 2025-08-07 |
+| `title-15-part-0903` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 903 | 2 | 2016-12-31 to 2026-01-16 |
+| `title-15-part-0904` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 904 | 2 | 2016-12-31 to 2022-08-01 |
+| `title-15-part-0905` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 905 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0906` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 906 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0908` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 908 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0909` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 909 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0911` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 911 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0917` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 917 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0918` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 918 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0921` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 921 | 3 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0922` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 922 | 19 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0923` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 923 | 4 | 2016-12-31 to 2025-08-07 |
+| `title-15-part-0930` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 930 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0946` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 946 | 2 | 2016-12-31 to 2026-10-26 |
+| `title-15-part-0950` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 950 | 6 | 2016-12-31 to 2026-05-14 |
+| `title-15-part-0960` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 960 | 2 | 2016-12-31 to 2020-07-20 |
+| `title-15-part-0970` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 970 | 2 | 2016-12-31 to 2026-01-21 |
+| `title-15-part-0971` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 971 | 3 | 2016-12-31 to 2026-05-14 |
+| `title-15-part-0990` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 990 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0995` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 995 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0996` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 996 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-0997` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 997 | 2 | 2016-12-31 to 2022-03-24 |
+| `title-15-part-0998` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 998 | 3 | 2022-06-24 to 2023-10-01 |
+| `title-15-part-1110` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 1110 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-1180` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 1180 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-1300` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 1300 | 2 | 2016-12-31 to 2026-04-17 |
+| `title-15-part-1400` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 1400 | 2 | 2016-12-31 to 2025-01-15 |
+| `title-15-part-1500` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 1500 | 4 | 2021-05-03 to 2026-10-26 |
+| `title-15-part-2001` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2001 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2002` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2002 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2003` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2003 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2004` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2004 | 4 | 2016-12-31 to 2023-07-25 |
+| `title-15-part-2005` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2005 | 2 | 2016-12-31 to 2017-04-25 |
+| `title-15-part-2006` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2006 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2007` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2007 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2008` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2008 | 2 | 2016-12-31 to 2018-04-09 |
+| `title-15-part-2009` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2009 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2011` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2011 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2012` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2012 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2013` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2013 | 2 | 2016-12-31 to 2020-02-10 |
+| `title-15-part-2014` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2014 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2015` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2015 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2016` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2016 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2017` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2017 | 1 | 2016-12-31 to 2016-12-31 |
+| `title-15-part-2301` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2301 | 2 | 2016-12-31 to 2017-09-20 |
+| `title-15-part-other` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part other | 3 | 2016-12-31 to 2021-12-28 |
 | `title-17-part-0001` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1 | 20 | 2017-02-14 to 2026-10-26 |
 | `title-17-part-0002` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 2 | 2 | 2017-02-14 to 2026-05-11 |
 | `title-17-part-0003` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 3 | 7 | 2017-02-14 to 2024-11-25 |
@@ -3415,19 +3577,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 16311 commits:
+The build made 17122 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3398 | first version of an act |
-| 9235 | one law on its in-force day |
-| 3678 | changes no amendment note explains, credited to the publisher |
+| 3560 | first version of an act |
+| 9613 | one law on its in-force day |
+| 3949 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 10960 laws in the record.
-- 21255 tags.
+- 11449 laws in the record.
+- 22284 tags.
 
 ## Dates
 
@@ -3439,7 +3601,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9a40173a61d50d39dedb677f6de6fcde6ae070430ba25b3b607597dd8f94891b` (869024866 bytes).
+- Corpus: sha256 `cc1e68c99ea23d489cf5a438548b7eb312e0bcc243b60daef44331f65e40998a` (907834882 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3475,6 +3637,7 @@ No second build of this corpus has been compared yet.
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 13: editions read: 2017 annual edition (to 2016-12-28); 2018 annual edition (to 2017-12-22); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2025-12-05); eCFR (to 2026-10-26).
 - Title 14: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2017-12-14); 2019 annual edition (to 2018-12-24); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-03); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
+- Title 15: editions read: 2017 annual edition (to 2016-12-31); 2018 annual edition (to 2017-12-27); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2019-12-18); 2021 annual edition (to 2020-12-29); 2022 annual edition (to 2021-12-28); 2023 annual edition (to 2022-12-23); 2024 annual edition (to 2023-12-28); 2026 annual edition (to 2026-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
