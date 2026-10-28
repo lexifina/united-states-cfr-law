@@ -91130,6 +91130,4826 @@
    ]
   },
   {
+   "slug": "title-16-part-0000",
+   "short": "16 CFR Part 0",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 0",
+   "url": "https://www.ecfr.gov/current/title-16/part-0",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-02-20",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2021-07-22",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0001",
+   "short": "16 CFR Part 1",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1",
+   "url": "https://www.ecfr.gov/current/title-16/part-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-01-23",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-07-05",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-01-22",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-02-14",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-01-13",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-07-22",
+     "units": 67,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-10-05",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-01-07",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2022-10-04",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-03-27",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-01-10",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2024-02-08",
+     "units": 81,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 85,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0002",
+   "short": "16 CFR Part 2",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 2",
+   "url": "https://www.ecfr.gov/current/title-16/part-2",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0003",
+   "short": "16 CFR Part 3",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 3",
+   "url": "https://www.ecfr.gov/current/title-16/part-3",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0004",
+   "short": "16 CFR Part 4",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 4",
+   "url": "https://www.ecfr.gov/current/title-16/part-4",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-05-10",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2023-07-05",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0005",
+   "short": "16 CFR Part 5",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 5",
+   "url": "https://www.ecfr.gov/current/title-16/part-5",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0006",
+   "short": "16 CFR Part 6",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 6",
+   "url": "https://www.ecfr.gov/current/title-16/part-6",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0014",
+   "short": "16 CFR Part 14",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 14",
+   "url": "https://www.ecfr.gov/current/title-16/part-14",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0016",
+   "short": "16 CFR Part 16",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 16",
+   "url": "https://www.ecfr.gov/current/title-16/part-16",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0018",
+   "short": "16 CFR Part 18",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 18",
+   "url": "https://www.ecfr.gov/current/title-16/part-18",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-06-12",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0020",
+   "short": "16 CFR Part 20",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 20",
+   "url": "https://www.ecfr.gov/current/title-16/part-20",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0023",
+   "short": "16 CFR Part 23",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 23",
+   "url": "https://www.ecfr.gov/current/title-16/part-23",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-08-16",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0024",
+   "short": "16 CFR Part 24",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 24",
+   "url": "https://www.ecfr.gov/current/title-16/part-24",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0233",
+   "short": "16 CFR Part 233",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 233",
+   "url": "https://www.ecfr.gov/current/title-16/part-233",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0238",
+   "short": "16 CFR Part 238",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 238",
+   "url": "https://www.ecfr.gov/current/title-16/part-238",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0239",
+   "short": "16 CFR Part 239",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 239",
+   "url": "https://www.ecfr.gov/current/title-16/part-239",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0240",
+   "short": "16 CFR Part 240",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 240",
+   "url": "https://www.ecfr.gov/current/title-16/part-240",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0251",
+   "short": "16 CFR Part 251",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 251",
+   "url": "https://www.ecfr.gov/current/title-16/part-251",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0254",
+   "short": "16 CFR Part 254",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 254",
+   "url": "https://www.ecfr.gov/current/title-16/part-254",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0255",
+   "short": "16 CFR Part 255",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 255",
+   "url": "https://www.ecfr.gov/current/title-16/part-255",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2023-07-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0259",
+   "short": "16 CFR Part 259",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 259",
+   "url": "https://www.ecfr.gov/current/title-16/part-259",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0260",
+   "short": "16 CFR Part 260",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 260",
+   "url": "https://www.ecfr.gov/current/title-16/part-260",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0300",
+   "short": "16 CFR Part 300",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 300",
+   "url": "https://www.ecfr.gov/current/title-16/part-300",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0301",
+   "short": "16 CFR Part 301",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 301",
+   "url": "https://www.ecfr.gov/current/title-16/part-301",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0303",
+   "short": "16 CFR Part 303",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 303",
+   "url": "https://www.ecfr.gov/current/title-16/part-303",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-02-22",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0304",
+   "short": "16 CFR Part 304",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 304",
+   "url": "https://www.ecfr.gov/current/title-16/part-304",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0305",
+   "short": "16 CFR Part 305",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 305",
+   "url": "https://www.ecfr.gov/current/title-16/part-305",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-06-12",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-06-28",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-07-28",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-11-02",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-04-05",
+     "units": 59,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2018-09-17",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2018-09-18",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 69,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2021-02-12",
+     "units": 68,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 68,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 73,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0306",
+   "short": "16 CFR Part 306",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 306",
+   "url": "https://www.ecfr.gov/current/title-16/part-306",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0308",
+   "short": "16 CFR Part 308",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 308",
+   "url": "https://www.ecfr.gov/current/title-16/part-308",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0309",
+   "short": "16 CFR Part 309",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 309",
+   "url": "https://www.ecfr.gov/current/title-16/part-309",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0310",
+   "short": "16 CFR Part 310",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 310",
+   "url": "https://www.ecfr.gov/current/title-16/part-310",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2020-10-05",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-05-16",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2024-12-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0311",
+   "short": "16 CFR Part 311",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 311",
+   "url": "https://www.ecfr.gov/current/title-16/part-311",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-10-24",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0312",
+   "short": "16 CFR Part 312",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 312",
+   "url": "https://www.ecfr.gov/current/title-16/part-312",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2025-06-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0313",
+   "short": "16 CFR Part 313",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 313",
+   "url": "https://www.ecfr.gov/current/title-16/part-313",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2022-01-07",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0314",
+   "short": "16 CFR Part 314",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 314",
+   "url": "https://www.ecfr.gov/current/title-16/part-314",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-01-07",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2022-11-23",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2024-05-13",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0315",
+   "short": "16 CFR Part 315",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 315",
+   "url": "https://www.ecfr.gov/current/title-16/part-315",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-10-16",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0316",
+   "short": "16 CFR Part 316",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 316",
+   "url": "https://www.ecfr.gov/current/title-16/part-316",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0317",
+   "short": "16 CFR Part 317",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 317",
+   "url": "https://www.ecfr.gov/current/title-16/part-317",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0318",
+   "short": "16 CFR Part 318",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 318",
+   "url": "https://www.ecfr.gov/current/title-16/part-318",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0320",
+   "short": "16 CFR Part 320",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 320",
+   "url": "https://www.ecfr.gov/current/title-16/part-320",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0321",
+   "short": "16 CFR Part 321",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 321",
+   "url": "https://www.ecfr.gov/current/title-16/part-321",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0322",
+   "short": "16 CFR Part 322",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 322",
+   "url": "https://www.ecfr.gov/current/title-16/part-322",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0323",
+   "short": "16 CFR Part 323",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 323",
+   "url": "https://www.ecfr.gov/current/title-16/part-323",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0410",
+   "short": "16 CFR Part 410",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 410",
+   "url": "https://www.ecfr.gov/current/title-16/part-410",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-01-07",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0423",
+   "short": "16 CFR Part 423",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 423",
+   "url": "https://www.ecfr.gov/current/title-16/part-423",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0424",
+   "short": "16 CFR Part 424",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 424",
+   "url": "https://www.ecfr.gov/current/title-16/part-424",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0425",
+   "short": "16 CFR Part 425",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 425",
+   "url": "https://www.ecfr.gov/current/title-16/part-425",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-02-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0429",
+   "short": "16 CFR Part 429",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 429",
+   "url": "https://www.ecfr.gov/current/title-16/part-429",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0432",
+   "short": "16 CFR Part 432",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 432",
+   "url": "https://www.ecfr.gov/current/title-16/part-432",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2024-08-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0433",
+   "short": "16 CFR Part 433",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 433",
+   "url": "https://www.ecfr.gov/current/title-16/part-433",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0435",
+   "short": "16 CFR Part 435",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 435",
+   "url": "https://www.ecfr.gov/current/title-16/part-435",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0436",
+   "short": "16 CFR Part 436",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 436",
+   "url": "https://www.ecfr.gov/current/title-16/part-436",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2024-07-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0437",
+   "short": "16 CFR Part 437",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 437",
+   "url": "https://www.ecfr.gov/current/title-16/part-437",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-02-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0444",
+   "short": "16 CFR Part 444",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 444",
+   "url": "https://www.ecfr.gov/current/title-16/part-444",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0453",
+   "short": "16 CFR Part 453",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 453",
+   "url": "https://www.ecfr.gov/current/title-16/part-453",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0455",
+   "short": "16 CFR Part 455",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 455",
+   "url": "https://www.ecfr.gov/current/title-16/part-455",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-01-27",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0456",
+   "short": "16 CFR Part 456",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 456",
+   "url": "https://www.ecfr.gov/current/title-16/part-456",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2024-09-24",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0460",
+   "short": "16 CFR Part 460",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 460",
+   "url": "https://www.ecfr.gov/current/title-16/part-460",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0461",
+   "short": "16 CFR Part 461",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 461",
+   "url": "https://www.ecfr.gov/current/title-16/part-461",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0463",
+   "short": "16 CFR Part 463",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 463",
+   "url": "https://www.ecfr.gov/current/title-16/part-463",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0464",
+   "short": "16 CFR Part 464",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 464",
+   "url": "https://www.ecfr.gov/current/title-16/part-464",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0465",
+   "short": "16 CFR Part 465",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 465",
+   "url": "https://www.ecfr.gov/current/title-16/part-465",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0500",
+   "short": "16 CFR Part 500",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 500",
+   "url": "https://www.ecfr.gov/current/title-16/part-500",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0501",
+   "short": "16 CFR Part 501",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 501",
+   "url": "https://www.ecfr.gov/current/title-16/part-501",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0502",
+   "short": "16 CFR Part 502",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 502",
+   "url": "https://www.ecfr.gov/current/title-16/part-502",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0503",
+   "short": "16 CFR Part 503",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 503",
+   "url": "https://www.ecfr.gov/current/title-16/part-503",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0602",
+   "short": "16 CFR Part 602",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 602",
+   "url": "https://www.ecfr.gov/current/title-16/part-602",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0603",
+   "short": "16 CFR Part 603",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 603",
+   "url": "https://www.ecfr.gov/current/title-16/part-603",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0604",
+   "short": "16 CFR Part 604",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 604",
+   "url": "https://www.ecfr.gov/current/title-16/part-604",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0609",
+   "short": "16 CFR Part 609",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 609",
+   "url": "https://www.ecfr.gov/current/title-16/part-609",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0610",
+   "short": "16 CFR Part 610",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 610",
+   "url": "https://www.ecfr.gov/current/title-16/part-610",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0611",
+   "short": "16 CFR Part 611",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 611",
+   "url": "https://www.ecfr.gov/current/title-16/part-611",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0613",
+   "short": "16 CFR Part 613",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 613",
+   "url": "https://www.ecfr.gov/current/title-16/part-613",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0614",
+   "short": "16 CFR Part 614",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 614",
+   "url": "https://www.ecfr.gov/current/title-16/part-614",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0640",
+   "short": "16 CFR Part 640",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 640",
+   "url": "https://www.ecfr.gov/current/title-16/part-640",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-05-22",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0641",
+   "short": "16 CFR Part 641",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 641",
+   "url": "https://www.ecfr.gov/current/title-16/part-641",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0642",
+   "short": "16 CFR Part 642",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 642",
+   "url": "https://www.ecfr.gov/current/title-16/part-642",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-13",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0660",
+   "short": "16 CFR Part 660",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 660",
+   "url": "https://www.ecfr.gov/current/title-16/part-660",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0680",
+   "short": "16 CFR Part 680",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 680",
+   "url": "https://www.ecfr.gov/current/title-16/part-680",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-05-22",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0681",
+   "short": "16 CFR Part 681",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 681",
+   "url": "https://www.ecfr.gov/current/title-16/part-681",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0682",
+   "short": "16 CFR Part 682",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 682",
+   "url": "https://www.ecfr.gov/current/title-16/part-682",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0698",
+   "short": "16 CFR Part 698",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 698",
+   "url": "https://www.ecfr.gov/current/title-16/part-698",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-05-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2021-10-13",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-10-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0700",
+   "short": "16 CFR Part 700",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 700",
+   "url": "https://www.ecfr.gov/current/title-16/part-700",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0701",
+   "short": "16 CFR Part 701",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 701",
+   "url": "https://www.ecfr.gov/current/title-16/part-701",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0702",
+   "short": "16 CFR Part 702",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 702",
+   "url": "https://www.ecfr.gov/current/title-16/part-702",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0703",
+   "short": "16 CFR Part 703",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 703",
+   "url": "https://www.ecfr.gov/current/title-16/part-703",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0801",
+   "short": "16 CFR Part 801",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 801",
+   "url": "https://www.ecfr.gov/current/title-16/part-801",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-08-15",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-11-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2025-02-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0802",
+   "short": "16 CFR Part 802",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 802",
+   "url": "https://www.ecfr.gov/current/title-16/part-802",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-08-15",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0803",
+   "short": "16 CFR Part 803",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 803",
+   "url": "https://www.ecfr.gov/current/title-16/part-803",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-07-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-08-15",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2018-10-09",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-09-25",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-11-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2025-02-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0901",
+   "short": "16 CFR Part 901",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 901",
+   "url": "https://www.ecfr.gov/current/title-16/part-901",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-0910",
+   "short": "16 CFR Part 910",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 910",
+   "url": "https://www.ecfr.gov/current/title-16/part-910",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-02-12",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1000",
+   "short": "16 CFR Part 1000",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1000",
+   "url": "https://www.ecfr.gov/current/title-16/part-1000",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1009",
+   "short": "16 CFR Part 1009",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1009",
+   "url": "https://www.ecfr.gov/current/title-16/part-1009",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1011",
+   "short": "16 CFR Part 1011",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1011",
+   "url": "https://www.ecfr.gov/current/title-16/part-1011",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1012",
+   "short": "16 CFR Part 1012",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1012",
+   "url": "https://www.ecfr.gov/current/title-16/part-1012",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1013",
+   "short": "16 CFR Part 1013",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1013",
+   "url": "https://www.ecfr.gov/current/title-16/part-1013",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1014",
+   "short": "16 CFR Part 1014",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1014",
+   "url": "https://www.ecfr.gov/current/title-16/part-1014",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1015",
+   "short": "16 CFR Part 1015",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1015",
+   "url": "https://www.ecfr.gov/current/title-16/part-1015",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-09-07",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-09-14",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1016",
+   "short": "16 CFR Part 1016",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1016",
+   "url": "https://www.ecfr.gov/current/title-16/part-1016",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1018",
+   "short": "16 CFR Part 1018",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1018",
+   "url": "https://www.ecfr.gov/current/title-16/part-1018",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1019",
+   "short": "16 CFR Part 1019",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1019",
+   "url": "https://www.ecfr.gov/current/title-16/part-1019",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1020",
+   "short": "16 CFR Part 1020",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1020",
+   "url": "https://www.ecfr.gov/current/title-16/part-1020",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1021",
+   "short": "16 CFR Part 1021",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1021",
+   "url": "https://www.ecfr.gov/current/title-16/part-1021",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1025",
+   "short": "16 CFR Part 1025",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1025",
+   "url": "https://www.ecfr.gov/current/title-16/part-1025",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1027",
+   "short": "16 CFR Part 1027",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1027",
+   "url": "https://www.ecfr.gov/current/title-16/part-1027",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1028",
+   "short": "16 CFR Part 1028",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1028",
+   "url": "https://www.ecfr.gov/current/title-16/part-1028",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1030",
+   "short": "16 CFR Part 1030",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1030",
+   "url": "https://www.ecfr.gov/current/title-16/part-1030",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1031",
+   "short": "16 CFR Part 1031",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1031",
+   "url": "https://www.ecfr.gov/current/title-16/part-1031",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1033",
+   "short": "16 CFR Part 1033",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1033",
+   "url": "https://www.ecfr.gov/current/title-16/part-1033",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1034",
+   "short": "16 CFR Part 1034",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1034",
+   "url": "https://www.ecfr.gov/current/title-16/part-1034",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1051",
+   "short": "16 CFR Part 1051",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1051",
+   "url": "https://www.ecfr.gov/current/title-16/part-1051",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1052",
+   "short": "16 CFR Part 1052",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1052",
+   "url": "https://www.ecfr.gov/current/title-16/part-1052",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1061",
+   "short": "16 CFR Part 1061",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1061",
+   "url": "https://www.ecfr.gov/current/title-16/part-1061",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1101",
+   "short": "16 CFR Part 1101",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1101",
+   "url": "https://www.ecfr.gov/current/title-16/part-1101",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1102",
+   "short": "16 CFR Part 1102",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1102",
+   "url": "https://www.ecfr.gov/current/title-16/part-1102",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1105",
+   "short": "16 CFR Part 1105",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1105",
+   "url": "https://www.ecfr.gov/current/title-16/part-1105",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1107",
+   "short": "16 CFR Part 1107",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1107",
+   "url": "https://www.ecfr.gov/current/title-16/part-1107",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-07-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1109",
+   "short": "16 CFR Part 1109",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1109",
+   "url": "https://www.ecfr.gov/current/title-16/part-1109",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1110",
+   "short": "16 CFR Part 1110",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1110",
+   "url": "https://www.ecfr.gov/current/title-16/part-1110",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-07-08",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1112",
+   "short": "16 CFR Part 1112",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1112",
+   "url": "https://www.ecfr.gov/current/title-16/part-1112",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-07-02",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-12-18",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2020-07-31",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-07-29",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2021-08-23",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-10-23",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-11-04",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-09-22",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1115",
+   "short": "16 CFR Part 1115",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1115",
+   "url": "https://www.ecfr.gov/current/title-16/part-1115",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1116",
+   "short": "16 CFR Part 1116",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1116",
+   "url": "https://www.ecfr.gov/current/title-16/part-1116",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1117",
+   "short": "16 CFR Part 1117",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1117",
+   "url": "https://www.ecfr.gov/current/title-16/part-1117",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1118",
+   "short": "16 CFR Part 1118",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1118",
+   "url": "https://www.ecfr.gov/current/title-16/part-1118",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1119",
+   "short": "16 CFR Part 1119",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1119",
+   "url": "https://www.ecfr.gov/current/title-16/part-1119",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1120",
+   "short": "16 CFR Part 1120",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1120",
+   "url": "https://www.ecfr.gov/current/title-16/part-1120",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1130",
+   "short": "16 CFR Part 1130",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1130",
+   "url": "https://www.ecfr.gov/current/title-16/part-1130",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2019-10-24",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2021-08-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-08-15",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1145",
+   "short": "16 CFR Part 1145",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1145",
+   "url": "https://www.ecfr.gov/current/title-16/part-1145",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1199",
+   "short": "16 CFR Part 1199",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1199",
+   "url": "https://www.ecfr.gov/current/title-16/part-1199",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1200",
+   "short": "16 CFR Part 1200",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1200",
+   "url": "https://www.ecfr.gov/current/title-16/part-1200",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1201",
+   "short": "16 CFR Part 1201",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1201",
+   "url": "https://www.ecfr.gov/current/title-16/part-1201",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1202",
+   "short": "16 CFR Part 1202",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1202",
+   "url": "https://www.ecfr.gov/current/title-16/part-1202",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1203",
+   "short": "16 CFR Part 1203",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1203",
+   "url": "https://www.ecfr.gov/current/title-16/part-1203",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1204",
+   "short": "16 CFR Part 1204",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1204",
+   "url": "https://www.ecfr.gov/current/title-16/part-1204",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1205",
+   "short": "16 CFR Part 1205",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1205",
+   "url": "https://www.ecfr.gov/current/title-16/part-1205",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1207",
+   "short": "16 CFR Part 1207",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1207",
+   "url": "https://www.ecfr.gov/current/title-16/part-1207",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1209",
+   "short": "16 CFR Part 1209",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1209",
+   "url": "https://www.ecfr.gov/current/title-16/part-1209",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1210",
+   "short": "16 CFR Part 1210",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1210",
+   "url": "https://www.ecfr.gov/current/title-16/part-1210",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-12-03",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1211",
+   "short": "16 CFR Part 1211",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1211",
+   "url": "https://www.ecfr.gov/current/title-16/part-1211",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-09-11",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-05-13",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1212",
+   "short": "16 CFR Part 1212",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1212",
+   "url": "https://www.ecfr.gov/current/title-16/part-1212",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1213",
+   "short": "16 CFR Part 1213",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1213",
+   "url": "https://www.ecfr.gov/current/title-16/part-1213",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1215",
+   "short": "16 CFR Part 1215",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1215",
+   "url": "https://www.ecfr.gov/current/title-16/part-1215",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-12-22",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2025-01-04",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1216",
+   "short": "16 CFR Part 1216",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1216",
+   "url": "https://www.ecfr.gov/current/title-16/part-1216",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2023-02-25",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1217",
+   "short": "16 CFR Part 1217",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1217",
+   "url": "https://www.ecfr.gov/current/title-16/part-1217",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2020-01-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2026-08-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1218",
+   "short": "16 CFR Part 1218",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1218",
+   "url": "https://www.ecfr.gov/current/title-16/part-1218",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-02-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1219",
+   "short": "16 CFR Part 1219",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1219",
+   "url": "https://www.ecfr.gov/current/title-16/part-1219",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-10-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1220",
+   "short": "16 CFR Part 1220",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1220",
+   "url": "https://www.ecfr.gov/current/title-16/part-1220",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-09-10",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2020-01-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2025-04-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1221",
+   "short": "16 CFR Part 1221",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1221",
+   "url": "https://www.ecfr.gov/current/title-16/part-1221",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-01-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2025-04-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1222",
+   "short": "16 CFR Part 1222",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1222",
+   "url": "https://www.ecfr.gov/current/title-16/part-1222",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2023-08-07",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1223",
+   "short": "16 CFR Part 1223",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1223",
+   "url": "https://www.ecfr.gov/current/title-16/part-1223",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-07-25",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1224",
+   "short": "16 CFR Part 1224",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1224",
+   "url": "https://www.ecfr.gov/current/title-16/part-1224",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1225",
+   "short": "16 CFR Part 1225",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1225",
+   "url": "https://www.ecfr.gov/current/title-16/part-1225",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-10-30",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1226",
+   "short": "16 CFR Part 1226",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1226",
+   "url": "https://www.ecfr.gov/current/title-16/part-1226",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2025-02-24",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1227",
+   "short": "16 CFR Part 1227",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1227",
+   "url": "https://www.ecfr.gov/current/title-16/part-1227",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-11-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2022-02-15",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1228",
+   "short": "16 CFR Part 1228",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1228",
+   "url": "https://www.ecfr.gov/current/title-16/part-1228",
+   "versions": [
+    {
+     "from": "2017-08-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2022-11-21",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1229",
+   "short": "16 CFR Part 1229",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1229",
+   "url": "https://www.ecfr.gov/current/title-16/part-1229",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1230",
+   "short": "16 CFR Part 1230",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1230",
+   "url": "https://www.ecfr.gov/current/title-16/part-1230",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2022-12-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1231",
+   "short": "16 CFR Part 1231",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1231",
+   "url": "https://www.ecfr.gov/current/title-16/part-1231",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2021-07-06",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2022-07-25",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1232",
+   "short": "16 CFR Part 1232",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1232",
+   "url": "https://www.ecfr.gov/current/title-16/part-1232",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-08-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1233",
+   "short": "16 CFR Part 1233",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1233",
+   "url": "https://www.ecfr.gov/current/title-16/part-1233",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-01-15",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1234",
+   "short": "16 CFR Part 1234",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1234",
+   "url": "https://www.ecfr.gov/current/title-16/part-1234",
+   "versions": [
+    {
+     "from": "2017-10-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2022-09-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1235",
+   "short": "16 CFR Part 1235",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1235",
+   "url": "https://www.ecfr.gov/current/title-16/part-1235",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1236",
+   "short": "16 CFR Part 1236",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1236",
+   "url": "https://www.ecfr.gov/current/title-16/part-1236",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1237",
+   "short": "16 CFR Part 1237",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1237",
+   "url": "https://www.ecfr.gov/current/title-16/part-1237",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1238",
+   "short": "16 CFR Part 1238",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1238",
+   "url": "https://www.ecfr.gov/current/title-16/part-1238",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-16/CFR-2020-title-16.zip",
+     "sha256": "7f86214d39d3b073740f7e02a527259965d05e347c413b24c37e34f76e3cde3a"
+    },
+    {
+     "from": "2025-07-05",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1239",
+   "short": "16 CFR Part 1239",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1239",
+   "url": "https://www.ecfr.gov/current/title-16/part-1239",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2022-11-14",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-01-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2026-07-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1240",
+   "short": "16 CFR Part 1240",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1240",
+   "url": "https://www.ecfr.gov/current/title-16/part-1240",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-03-07",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1241",
+   "short": "16 CFR Part 1241",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1241",
+   "url": "https://www.ecfr.gov/current/title-16/part-1241",
+   "versions": [
+    {
+     "from": "2022-08-15",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2026-05-04",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1242",
+   "short": "16 CFR Part 1242",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1242",
+   "url": "https://www.ecfr.gov/current/title-16/part-1242",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2025-04-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1243",
+   "short": "16 CFR Part 1243",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1243",
+   "url": "https://www.ecfr.gov/current/title-16/part-1243",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1250",
+   "short": "16 CFR Part 1250",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1250",
+   "url": "https://www.ecfr.gov/current/title-16/part-1250",
+   "versions": [
+    {
+     "from": "2017-05-02",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2017-12-04",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-02-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-06-15",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1251",
+   "short": "16 CFR Part 1251",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1251",
+   "url": "https://www.ecfr.gov/current/title-16/part-1251",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1252",
+   "short": "16 CFR Part 1252",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1252",
+   "url": "https://www.ecfr.gov/current/title-16/part-1252",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1253",
+   "short": "16 CFR Part 1253",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1253",
+   "url": "https://www.ecfr.gov/current/title-16/part-1253",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1260",
+   "short": "16 CFR Part 1260",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1260",
+   "url": "https://www.ecfr.gov/current/title-16/part-1260",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1261",
+   "short": "16 CFR Part 1261",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1261",
+   "url": "https://www.ecfr.gov/current/title-16/part-1261",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    },
+    {
+     "from": "2023-06-20",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1262",
+   "short": "16 CFR Part 1262",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1262",
+   "url": "https://www.ecfr.gov/current/title-16/part-1262",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1263",
+   "short": "16 CFR Part 1263",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1263",
+   "url": "https://www.ecfr.gov/current/title-16/part-1263",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-09-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1270",
+   "short": "16 CFR Part 1270",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1270",
+   "url": "https://www.ecfr.gov/current/title-16/part-1270",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1272",
+   "short": "16 CFR Part 1272",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1272",
+   "url": "https://www.ecfr.gov/current/title-16/part-1272",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1301",
+   "short": "16 CFR Part 1301",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1301",
+   "url": "https://www.ecfr.gov/current/title-16/part-1301",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1302",
+   "short": "16 CFR Part 1302",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1302",
+   "url": "https://www.ecfr.gov/current/title-16/part-1302",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1303",
+   "short": "16 CFR Part 1303",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1303",
+   "url": "https://www.ecfr.gov/current/title-16/part-1303",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1304",
+   "short": "16 CFR Part 1304",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1304",
+   "url": "https://www.ecfr.gov/current/title-16/part-1304",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1305",
+   "short": "16 CFR Part 1305",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1305",
+   "url": "https://www.ecfr.gov/current/title-16/part-1305",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1306",
+   "short": "16 CFR Part 1306",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1306",
+   "url": "https://www.ecfr.gov/current/title-16/part-1306",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1307",
+   "short": "16 CFR Part 1307",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1307",
+   "url": "https://www.ecfr.gov/current/title-16/part-1307",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-07-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1308",
+   "short": "16 CFR Part 1308",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1308",
+   "url": "https://www.ecfr.gov/current/title-16/part-1308",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-07-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1309",
+   "short": "16 CFR Part 1309",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1309",
+   "url": "https://www.ecfr.gov/current/title-16/part-1309",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1310",
+   "short": "16 CFR Part 1310",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1310",
+   "url": "https://www.ecfr.gov/current/title-16/part-1310",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1401",
+   "short": "16 CFR Part 1401",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1401",
+   "url": "https://www.ecfr.gov/current/title-16/part-1401",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1402",
+   "short": "16 CFR Part 1402",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1402",
+   "url": "https://www.ecfr.gov/current/title-16/part-1402",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1404",
+   "short": "16 CFR Part 1404",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1404",
+   "url": "https://www.ecfr.gov/current/title-16/part-1404",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1406",
+   "short": "16 CFR Part 1406",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1406",
+   "url": "https://www.ecfr.gov/current/title-16/part-1406",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1407",
+   "short": "16 CFR Part 1407",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1407",
+   "url": "https://www.ecfr.gov/current/title-16/part-1407",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1420",
+   "short": "16 CFR Part 1420",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1420",
+   "url": "https://www.ecfr.gov/current/title-16/part-1420",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1450",
+   "short": "16 CFR Part 1450",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1450",
+   "url": "https://www.ecfr.gov/current/title-16/part-1450",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2020-09-18",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-16/CFR-2021-title-16.zip",
+     "sha256": "a3d495f7b94a2a339b33dc985dd47eb28c53a93b2f5f905afba5fd8ac1ce6aa2"
+    },
+    {
+     "from": "2021-05-24",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1460",
+   "short": "16 CFR Part 1460",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1460",
+   "url": "https://www.ecfr.gov/current/title-16/part-1460",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2018-01-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-16/CFR-2023-title-16.zip",
+     "sha256": "bbf898c9de69d12dc9e1b24877211f09b0807e1e9afe182246d5342c66ea522d"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1461",
+   "short": "16 CFR Part 1461",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1461",
+   "url": "https://www.ecfr.gov/current/title-16/part-1461",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-07-27",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1500",
+   "short": "16 CFR Part 1500",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1500",
+   "url": "https://www.ecfr.gov/current/title-16/part-1500",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2017-01-09",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-16/CFR-2018-title-16.zip",
+     "sha256": "36c58214611b9fb96879e8f430949d04e11290dd72435ce651f2acd9c9d9f309"
+    },
+    {
+     "from": "2018-04-30",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-16/CFR-2019-title-16.zip",
+     "sha256": "f8fc0be6e385de7fae0dcba3475f62d69f4ae257f2b6a2651d5b4b6013d6c7c4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 65,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1501",
+   "short": "16 CFR Part 1501",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1501",
+   "url": "https://www.ecfr.gov/current/title-16/part-1501",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1502",
+   "short": "16 CFR Part 1502",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1502",
+   "url": "https://www.ecfr.gov/current/title-16/part-1502",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1505",
+   "short": "16 CFR Part 1505",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1505",
+   "url": "https://www.ecfr.gov/current/title-16/part-1505",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1507",
+   "short": "16 CFR Part 1507",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1507",
+   "url": "https://www.ecfr.gov/current/title-16/part-1507",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1508",
+   "short": "16 CFR Part 1508",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1508",
+   "url": "https://www.ecfr.gov/current/title-16/part-1508",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1510",
+   "short": "16 CFR Part 1510",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1510",
+   "url": "https://www.ecfr.gov/current/title-16/part-1510",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1511",
+   "short": "16 CFR Part 1511",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1511",
+   "url": "https://www.ecfr.gov/current/title-16/part-1511",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1512",
+   "short": "16 CFR Part 1512",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1512",
+   "url": "https://www.ecfr.gov/current/title-16/part-1512",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1513",
+   "short": "16 CFR Part 1513",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1513",
+   "url": "https://www.ecfr.gov/current/title-16/part-1513",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1602",
+   "short": "16 CFR Part 1602",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1602",
+   "url": "https://www.ecfr.gov/current/title-16/part-1602",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1605",
+   "short": "16 CFR Part 1605",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1605",
+   "url": "https://www.ecfr.gov/current/title-16/part-1605",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1608",
+   "short": "16 CFR Part 1608",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1608",
+   "url": "https://www.ecfr.gov/current/title-16/part-1608",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1609",
+   "short": "16 CFR Part 1609",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1609",
+   "url": "https://www.ecfr.gov/current/title-16/part-1609",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1610",
+   "short": "16 CFR Part 1610",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1610",
+   "url": "https://www.ecfr.gov/current/title-16/part-1610",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2023-10-25",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-16/CFR-2024-title-16.zip",
+     "sha256": "5e1e95f0e198378c33ea51b502daf050e1ceb077ce99d8576cdaa151cc522101"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1611",
+   "short": "16 CFR Part 1611",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1611",
+   "url": "https://www.ecfr.gov/current/title-16/part-1611",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1615",
+   "short": "16 CFR Part 1615",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1615",
+   "url": "https://www.ecfr.gov/current/title-16/part-1615",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1616",
+   "short": "16 CFR Part 1616",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1616",
+   "url": "https://www.ecfr.gov/current/title-16/part-1616",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1630",
+   "short": "16 CFR Part 1630",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1630",
+   "url": "https://www.ecfr.gov/current/title-16/part-1630",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1631",
+   "short": "16 CFR Part 1631",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1631",
+   "url": "https://www.ecfr.gov/current/title-16/part-1631",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1632",
+   "short": "16 CFR Part 1632",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1632",
+   "url": "https://www.ecfr.gov/current/title-16/part-1632",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2021-07-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1633",
+   "short": "16 CFR Part 1633",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1633",
+   "url": "https://www.ecfr.gov/current/title-16/part-1633",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1640",
+   "short": "16 CFR Part 1640",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1640",
+   "url": "https://www.ecfr.gov/current/title-16/part-1640",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-16/CFR-2022-title-16.zip",
+     "sha256": "a27983a05bd03a2d316824adc55bc95e9aedede4d25a2fc7306db350f0a08af4"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1700",
+   "short": "16 CFR Part 1700",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1700",
+   "url": "https://www.ecfr.gov/current/title-16/part-1700",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    },
+    {
+     "from": "2024-05-20",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-16/CFR-2025-title-16.zip",
+     "sha256": "e966236f81409f1606513262d48c1d01e37bdfa6f4e3ce975a9174067134eccf"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-16/ECFR-title16.xml",
+     "sha256": "e63a1d4c1eecea90c54159d3c3da3531abeee0fbcbc1938f6ba5df031b40bbdc"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1701",
+   "short": "16 CFR Part 1701",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1701",
+   "url": "https://www.ecfr.gov/current/title-16/part-1701",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1702",
+   "short": "16 CFR Part 1702",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1702",
+   "url": "https://www.ecfr.gov/current/title-16/part-1702",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-part-1750",
+   "short": "16 CFR Part 1750",
+   "title": "Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1750",
+   "url": "https://www.ecfr.gov/current/title-16/part-1750",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-16/CFR-2017-title-16.zip",
+     "sha256": "cbba45f08d28a559483af10202ebdd2309db0a3db6ab14e00da2947ec4069a79"
+    }
+   ]
+  },
+  {
    "slug": "title-17-part-0001",
    "short": "17 CFR Part 1",
    "title": "Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1",

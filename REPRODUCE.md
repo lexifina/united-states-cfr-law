@@ -3085,6 +3085,232 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-15-part-2017` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2017 | 1 | 2016-12-31 to 2016-12-31 |
 | `title-15-part-2301` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part 2301 | 2 | 2016-12-31 to 2017-09-20 |
 | `title-15-part-other` | Title 15 of the Code of Federal Regulations (Commerce and Foreign Trade), Part other | 3 | 2016-12-31 to 2021-12-28 |
+| `title-16-part-0000` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 0 | 5 | 2017-01-01 to 2026-09-24 |
+| `title-16-part-0001` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1 | 20 | 2017-01-01 to 2026-09-24 |
+| `title-16-part-0002` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 2 | 3 | 2017-01-01 to 2026-09-24 |
+| `title-16-part-0003` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 3 | 3 | 2017-01-01 to 2026-09-24 |
+| `title-16-part-0004` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 4 | 5 | 2017-01-01 to 2026-09-24 |
+| `title-16-part-0005` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 5 | 2 | 2017-01-01 to 2026-09-24 |
+| `title-16-part-0006` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 6 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0014` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 14 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0016` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 16 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0018` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 18 | 2 | 2017-01-01 to 2019-06-12 |
+| `title-16-part-0020` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 20 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0023` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 23 | 2 | 2017-01-01 to 2018-08-16 |
+| `title-16-part-0024` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 24 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0233` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 233 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0238` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 238 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0239` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 239 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0240` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 240 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0251` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 251 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0254` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 254 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0255` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 255 | 2 | 2017-01-01 to 2023-07-26 |
+| `title-16-part-0259` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 259 | 2 | 2017-01-01 to 2017-10-19 |
+| `title-16-part-0260` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 260 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0300` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 300 | 2 | 2017-01-01 to 2017-10-19 |
+| `title-16-part-0301` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 301 | 2 | 2017-01-01 to 2017-10-19 |
+| `title-16-part-0303` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 303 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0304` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 304 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0305` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 305 | 24 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0306` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 306 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0308` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 308 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0309` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 309 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0310` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 310 | 13 | 2017-01-01 to 2026-10-01 |
+| `title-16-part-0311` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 311 | 2 | 2017-01-01 to 2018-10-24 |
+| `title-16-part-0312` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 312 | 2 | 2017-01-01 to 2025-06-23 |
+| `title-16-part-0313` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 313 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0314` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 314 | 5 | 2017-01-01 to 2024-05-13 |
+| `title-16-part-0315` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 315 | 2 | 2017-01-01 to 2020-10-16 |
+| `title-16-part-0316` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 316 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0317` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 317 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0318` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 318 | 2 | 2017-01-01 to 2024-07-29 |
+| `title-16-part-0320` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 320 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0321` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 321 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0322` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 322 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0323` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 323 | 2 | 2021-08-13 to 2021-10-29 |
+| `title-16-part-0410` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 410 | 2 | 2017-01-01 to 2019-01-07 |
+| `title-16-part-0423` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 423 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0424` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 424 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0425` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 425 | 3 | 2017-01-01 to 2026-02-12 |
+| `title-16-part-0429` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 429 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0432` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 432 | 2 | 2017-01-01 to 2024-08-12 |
+| `title-16-part-0433` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 433 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0435` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 435 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0436` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 436 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0437` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 437 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0444` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 444 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0453` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 453 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0455` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 455 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0456` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 456 | 2 | 2017-01-01 to 2024-09-24 |
+| `title-16-part-0460` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 460 | 4 | 2017-01-01 to 2021-01-01 |
+| `title-16-part-0461` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 461 | 1 | 2024-04-01 to 2024-04-01 |
+| `title-16-part-0463` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 463 | 2 | 2025-01-01 to 2026-10-26 |
+| `title-16-part-0464` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 464 | 1 | 2025-05-12 to 2025-05-12 |
+| `title-16-part-0465` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 465 | 1 | 2024-10-21 to 2024-10-21 |
+| `title-16-part-0500` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 500 | 2 | 2017-01-01 to 2021-10-29 |
+| `title-16-part-0501` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 501 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0502` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 502 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0503` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 503 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0602` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 602 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0603` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 603 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0604` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 604 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0609` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 609 | 1 | 2019-07-31 to 2019-07-31 |
+| `title-16-part-0610` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 610 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0611` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 611 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0613` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 613 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0614` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 614 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0640` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 640 | 5 | 2017-01-01 to 2021-10-18 |
+| `title-16-part-0641` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 641 | 2 | 2017-01-01 to 2021-10-18 |
+| `title-16-part-0642` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 642 | 2 | 2017-01-01 to 2021-10-13 |
+| `title-16-part-0660` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 660 | 2 | 2017-01-01 to 2021-10-18 |
+| `title-16-part-0680` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 680 | 3 | 2017-01-01 to 2021-10-18 |
+| `title-16-part-0681` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 681 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0682` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 682 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0698` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 698 | 5 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-0700` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 700 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0701` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0702` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 702 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0703` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 703 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0801` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 801 | 6 | 2017-01-01 to 2025-02-10 |
+| `title-16-part-0802` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 802 | 2 | 2017-01-01 to 2018-08-15 |
+| `title-16-part-0803` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 803 | 8 | 2017-01-01 to 2025-02-10 |
+| `title-16-part-0901` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 901 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-0910` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 910 | 2 | 2024-09-04 to 2026-02-12 |
+| `title-16-part-1000` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1000 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1009` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1009 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1011` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1011 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1012` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1012 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1013` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1013 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1014` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1014 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1015` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1015 | 5 | 2017-01-01 to 2023-01-01 |
+| `title-16-part-1016` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1016 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1018` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1018 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1019` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1019 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1020` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1020 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1021` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1021 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1025` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1025 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1027` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1027 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1028` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1028 | 3 | 2017-01-01 to 2018-07-19 |
+| `title-16-part-1030` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1030 | 2 | 2017-01-01 to 2018-07-19 |
+| `title-16-part-1031` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1031 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1033` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1033 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1034` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1034 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1051` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1051 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1052` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1052 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1061` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1061 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1101` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1101 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1102` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1102 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1105` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1105 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1107` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1107 | 2 | 2017-01-01 to 2021-07-29 |
+| `title-16-part-1109` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1109 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1110` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1110 | 2 | 2017-01-01 to 2026-07-08 |
+| `title-16-part-1112` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1112 | 11 | 2017-01-01 to 2026-09-22 |
+| `title-16-part-1115` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1115 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1116` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1116 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1117` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1117 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1118` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1118 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1119` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1119 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1120` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1120 | 2 | 2017-01-01 to 2022-12-28 |
+| `title-16-part-1130` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1130 | 7 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1145` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1145 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1199` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1199 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1200` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1200 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1201` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1201 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1202` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1202 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1203` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1203 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1204` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1204 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1205` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1205 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1207` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1207 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1209` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1209 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1210` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1210 | 2 | 2017-01-01 to 2018-12-03 |
+| `title-16-part-1211` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1211 | 6 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1212` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1212 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1213` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1213 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1215` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1215 | 3 | 2017-01-01 to 2025-01-04 |
+| `title-16-part-1216` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1216 | 2 | 2017-01-01 to 2023-02-25 |
+| `title-16-part-1217` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1217 | 4 | 2017-01-01 to 2026-08-29 |
+| `title-16-part-1218` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1218 | 2 | 2017-01-01 to 2026-02-21 |
+| `title-16-part-1219` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1219 | 3 | 2017-01-01 to 2026-08-01 |
+| `title-16-part-1220` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1220 | 5 | 2017-01-01 to 2025-04-05 |
+| `title-16-part-1221` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1221 | 3 | 2017-01-01 to 2025-04-05 |
+| `title-16-part-1222` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1222 | 2 | 2017-01-01 to 2023-08-07 |
+| `title-16-part-1223` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1223 | 5 | 2017-01-01 to 2026-07-25 |
+| `title-16-part-1224` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1224 | 2 | 2017-01-01 to 2020-07-08 |
+| `title-16-part-1225` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1225 | 3 | 2017-01-01 to 2022-06-01 |
+| `title-16-part-1226` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1226 | 2 | 2017-01-01 to 2025-02-24 |
+| `title-16-part-1227` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1227 | 3 | 2017-01-01 to 2022-02-15 |
+| `title-16-part-1228` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1228 | 3 | 2017-08-08 to 2022-11-21 |
+| `title-16-part-1229` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1229 | 3 | 2018-01-01 to 2022-12-19 |
+| `title-16-part-1230` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1230 | 2 | 2017-01-01 to 2022-12-05 |
+| `title-16-part-1231` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1231 | 3 | 2019-01-01 to 2022-07-25 |
+| `title-16-part-1232` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1232 | 3 | 2018-01-01 to 2021-08-23 |
+| `title-16-part-1233` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1233 | 3 | 2017-01-01 to 2026-07-20 |
+| `title-16-part-1234` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1234 | 3 | 2017-10-02 to 2022-09-26 |
+| `title-16-part-1235` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1235 | 2 | 2018-06-26 to 2022-08-01 |
+| `title-16-part-1236` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1236 | 1 | 2022-01-01 to 2022-01-01 |
+| `title-16-part-1237` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1237 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-16-part-1238` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1238 | 2 | 2019-12-18 to 2025-07-05 |
+| `title-16-part-1239` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1239 | 4 | 2021-01-01 to 2026-07-20 |
+| `title-16-part-1240` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1240 | 2 | 2017-01-01 to 2017-03-07 |
+| `title-16-part-1241` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1241 | 2 | 2022-08-15 to 2026-05-04 |
+| `title-16-part-1242` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1242 | 2 | 2025-01-01 to 2025-04-23 |
+| `title-16-part-1243` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1243 | 2 | 2025-01-01 to 2025-05-05 |
+| `title-16-part-1250` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1250 | 6 | 2017-05-02 to 2026-06-15 |
+| `title-16-part-1251` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1251 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1252` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1252 | 1 | 2019-01-01 to 2019-01-01 |
+| `title-16-part-1253` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1253 | 1 | 2020-07-08 to 2020-07-08 |
+| `title-16-part-1260` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1260 | 2 | 2023-01-01 to 2026-10-26 |
+| `title-16-part-1261` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1261 | 3 | 2023-01-01 to 2023-09-01 |
+| `title-16-part-1262` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1262 | 1 | 2022-10-21 to 2022-10-21 |
+| `title-16-part-1263` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1263 | 4 | 2023-10-23 to 2026-10-26 |
+| `title-16-part-1270` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1270 | 2 | 2023-08-21 to 2026-10-26 |
+| `title-16-part-1272` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1272 | 1 | 2023-06-26 to 2023-06-26 |
+| `title-16-part-1301` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1301 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1302` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1302 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1303` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1303 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1304` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1304 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1305` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1305 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1306` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1306 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1307` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1307 | 2 | 2018-01-01 to 2018-07-23 |
+| `title-16-part-1308` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1308 | 2 | 2017-09-29 to 2018-07-23 |
+| `title-16-part-1309` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1309 | 1 | 2023-09-13 to 2023-09-13 |
+| `title-16-part-1310` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1310 | 1 | 2023-09-15 to 2023-09-15 |
+| `title-16-part-1401` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1401 | 2 | 2017-01-01 to 2026-09-21 |
+| `title-16-part-1402` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1402 | 2 | 2017-01-01 to 2026-09-21 |
+| `title-16-part-1404` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1404 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1406` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1406 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1407` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1407 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1420` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1420 | 3 | 2017-01-01 to 2025-01-01 |
+| `title-16-part-1450` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1450 | 3 | 2017-01-01 to 2021-05-24 |
+| `title-16-part-1460` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1460 | 3 | 2017-01-01 to 2022-12-22 |
+| `title-16-part-1461` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1461 | 3 | 2023-12-11 to 2026-10-19 |
+| `title-16-part-1500` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1500 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1501` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1501 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1502` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1502 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1505` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1505 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1507` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1507 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1508` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1508 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1510` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1510 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1511` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1511 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1512` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1512 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1513` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1513 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1602` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1602 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1605` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1605 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1608` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1608 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1609` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1609 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1610` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1610 | 4 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1611` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1611 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1615` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1615 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1616` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1616 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1630` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1630 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1631` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1631 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1632` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1632 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1633` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1633 | 2 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1640` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1640 | 1 | 2021-06-25 to 2021-06-25 |
+| `title-16-part-1700` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1700 | 3 | 2017-01-01 to 2026-10-26 |
+| `title-16-part-1701` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1701 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1702` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1702 | 1 | 2017-01-01 to 2017-01-01 |
+| `title-16-part-1750` | Title 16 of the Code of Federal Regulations (Commercial Practices), Part 1750 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-17-part-0001` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 1 | 20 | 2017-02-14 to 2026-10-26 |
 | `title-17-part-0002` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 2 | 2 | 2017-02-14 to 2026-05-11 |
 | `title-17-part-0003` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 3 | 7 | 2017-02-14 to 2024-11-25 |
@@ -3577,19 +3803,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 17122 commits:
+The build made 17703 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3560 | first version of an act |
-| 9613 | one law on its in-force day |
-| 3949 | changes no amendment note explains, credited to the publisher |
+| 3786 | first version of an act |
+| 9841 | one law on its in-force day |
+| 4076 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 11449 laws in the record.
-- 22284 tags.
+- 11743 laws in the record.
+- 23000 tags.
 
 ## Dates
 
@@ -3601,7 +3827,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cc1e68c99ea23d489cf5a438548b7eb312e0bcc243b60daef44331f65e40998a` (907834882 bytes).
+- Corpus: sha256 `38a81391681dad1e689564c0e43ba64a65221266c78699a7ee6a436c9e829baf` (917649672 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3638,6 +3864,7 @@ No second build of this corpus has been compared yet.
 - Title 13: editions read: 2017 annual edition (to 2016-12-28); 2018 annual edition (to 2017-12-22); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); 2026 annual edition (to 2025-12-05); eCFR (to 2026-10-26).
 - Title 14: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2017-12-14); 2019 annual edition (to 2018-12-24); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-03); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 15: editions read: 2017 annual edition (to 2016-12-31); 2018 annual edition (to 2017-12-27); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2019-12-18); 2021 annual edition (to 2020-12-29); 2022 annual edition (to 2021-12-28); 2023 annual edition (to 2022-12-23); 2024 annual edition (to 2023-12-28); 2026 annual edition (to 2026-01-01); eCFR (to 2026-10-26).
+- Title 16: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2023-12-11); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
