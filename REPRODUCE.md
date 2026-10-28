@@ -4053,6 +4053,225 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-21-part-1321` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1321 | 2 | 2017-05-10 to 2022-05-11 |
 | `title-21-part-1401` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1401 | 2 | 2017-05-10 to 2020-10-19 |
 | `title-21-part-1402` | Title 21 of the Code of Federal Regulations (Food and Drugs), Part 1402 | 1 | 2017-05-10 to 2017-05-10 |
+| `title-22-part-0001` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0002` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 2 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0003` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 3 | 2 | 2017-05-12 to 2020-07-13 |
+| `title-22-part-0003a` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 3a | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0004` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 4 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0005` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 5 | 2 | 2017-05-12 to 2018-11-09 |
+| `title-22-part-0007` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 7 | 1 | 2026-05-27 to 2026-05-27 |
+| `title-22-part-0009` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 9 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0009a` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 9a | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0009b` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 9b | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0011` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 11 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0012` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 12 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0013` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 13 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0016` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 16 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0017` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 17 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0018` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 18 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0019` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 19 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0020` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 20 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0021` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 21 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0022` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 22 | 8 | 2017-05-12 to 2026-07-01 |
+| `title-22-part-0023` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 23 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0033` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 33 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0034` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 34 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0035` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 35 | 10 | 2017-05-12 to 2026-08-10 |
+| `title-22-part-0040` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 40 | 5 | 2017-05-12 to 2024-08-22 |
+| `title-22-part-0041` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 41 | 15 | 2017-05-12 to 2026-08-03 |
+| `title-22-part-0042` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 42 | 19 | 2017-05-12 to 2026-04-10 |
+| `title-22-part-0046` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 46 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0050` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 50 | 3 | 2017-05-12 to 2024-06-12 |
+| `title-22-part-0051` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 51 | 7 | 2017-05-12 to 2024-08-26 |
+| `title-22-part-0053` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 53 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0061` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 61 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0062` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 62 | 5 | 2017-05-12 to 2024-05-23 |
+| `title-22-part-0063` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 63 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0064` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 64 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0065` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 65 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0066` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 66 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0067` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 67 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0071` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 71 | 2 | 2017-05-12 to 2024-06-12 |
+| `title-22-part-0072` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 72 | 2 | 2017-05-12 to 2022-09-20 |
+| `title-22-part-0089` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 89 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0091` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 91 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0092` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 92 | 2 | 2017-05-12 to 2024-11-27 |
+| `title-22-part-0093` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 93 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0094` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 94 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0095` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 95 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0096` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 96 | 2 | 2017-05-12 to 2025-01-08 |
+| `title-22-part-0097` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 97 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0098` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 98 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0099` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 99 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0101` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 101 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0103` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 103 | 9 | 2017-05-12 to 2025-01-10 |
+| `title-22-part-0104` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 104 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0120` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 120 | 9 | 2017-05-12 to 2026-10-13 |
+| `title-22-part-0121` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 121 | 9 | 2017-05-12 to 2026-10-21 |
+| `title-22-part-0122` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 122 | 5 | 2017-05-12 to 2025-01-08 |
+| `title-22-part-0123` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 123 | 7 | 2017-05-12 to 2026-09-18 |
+| `title-22-part-0124` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 124 | 5 | 2017-05-12 to 2024-09-03 |
+| `title-22-part-0125` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 125 | 3 | 2017-05-12 to 2026-09-23 |
+| `title-22-part-0126` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 126 | 20 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0127` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 127 | 11 | 2017-05-12 to 2025-01-10 |
+| `title-22-part-0128` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 128 | 2 | 2017-05-12 to 2022-09-06 |
+| `title-22-part-0129` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 129 | 5 | 2017-05-12 to 2025-01-08 |
+| `title-22-part-0130` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 130 | 2 | 2017-05-12 to 2022-09-06 |
+| `title-22-part-0131` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 131 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0132` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 132 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0133` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 133 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0134` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 134 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0135` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 135 | 4 | 2022-08-15 to 2026-03-24 |
+| `title-22-part-0136` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 136 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0138` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 138 | 10 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0139` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 139 | 2 | 2017-05-12 to 2020-06-26 |
+| `title-22-part-0140` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 140 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0141` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 141 | 2 | 2017-05-12 to 2026-07-09 |
+| `title-22-part-0142` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 142 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0143` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 143 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0144` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 144 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0146` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 146 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0147` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 147 | 4 | 2017-05-12 to 2021-10-27 |
+| `title-22-part-0150` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 150 | 1 | 2024-08-28 to 2024-08-28 |
+| `title-22-part-0151` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 151 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0161` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 161 | 2 | 2017-05-12 to 2020-07-13 |
+| `title-22-part-0171` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 171 | 6 | 2017-05-12 to 2026-10-21 |
+| `title-22-part-0172` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 172 | 4 | 2017-05-12 to 2026-01-16 |
+| `title-22-part-0173` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 173 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0181` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 181 | 5 | 2017-05-12 to 2023-12-19 |
+| `title-22-part-0191` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 191 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0192` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 192 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0193` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 193 | 2 | 2017-05-12 to 2018-04-12 |
+| `title-22-part-0194` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 194 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0196` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 196 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0201` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 201 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0202` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 202 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0203` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 203 | 2 | 2017-05-12 to 2019-08-30 |
+| `title-22-part-0204` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 204 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0205` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 205 | 3 | 2017-05-12 to 2024-04-03 |
+| `title-22-part-0206` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 206 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0207` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 207 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0209` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 209 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0211` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 211 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0212` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 212 | 4 | 2017-05-12 to 2022-12-07 |
+| `title-22-part-0213` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 213 | 3 | 2017-05-12 to 2022-03-23 |
+| `title-22-part-0214` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 214 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0215` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 215 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0216` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 216 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0217` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 217 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0218` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 218 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0219` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 219 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0221` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 221 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0223` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 223 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0224` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 224 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0225` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 225 | 3 | 2017-05-12 to 2018-07-23 |
+| `title-22-part-0227` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 227 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0228` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 228 | 4 | 2017-05-12 to 2021-05-10 |
+| `title-22-part-0229` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 229 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0230` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 230 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0231` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 231 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0232` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 232 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0233` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 233 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0234` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 234 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0235` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 235 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0236` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 236 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0237` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 237 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0238` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 238 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0239` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 239 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0240` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 240 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0241` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 241 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0242` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 242 | 1 | 2023-08-10 to 2023-08-10 |
+| `title-22-part-0301` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 301 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0303` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 303 | 3 | 2017-05-12 to 2024-06-14 |
+| `title-22-part-0304` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 304 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0305` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 305 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0306` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 306 | 1 | 2021-06-07 to 2021-06-07 |
+| `title-22-part-0308` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 308 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0309` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 309 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0311` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 311 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0312` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 312 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0313` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 313 | 1 | 2020-11-18 to 2020-11-18 |
+| `title-22-part-0401` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 401 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0501` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 501 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0502` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 502 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0503` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 503 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0504` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 504 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0505` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 505 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0506` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 506 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0507` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 507 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0510` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 510 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0511` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 511 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0512` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 512 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0513` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 513 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0518` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 518 | 2 | 2017-05-12 to 2024-12-11 |
+| `title-22-part-0519` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 519 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0521` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 521 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0530` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 530 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0705` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 705 | 2 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0706` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 706 | 3 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0707` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 707 | 2 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0708` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 708 | 2 | 2017-05-12 to 2020-04-13 |
+| `title-22-part-0709` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 709 | 2 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0710` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 710 | 2 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0711` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 711 | 2 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0712` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 712 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-0713` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 713 | 2 | 2017-05-12 to 2019-10-01 |
+| `title-22-part-0901` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 901 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0902` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 902 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0903` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 903 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0904` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 904 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0905` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 905 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0906` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 906 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0907` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 907 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0908` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 908 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0909` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 909 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0910` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 910 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-0911` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 911 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1001` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1001 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1002` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1002 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1003` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1003 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1004` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1004 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1005` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1005 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1006` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1006 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-1007` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1007 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1008` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1008 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1100` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1100 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1101` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1101 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1102` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1102 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1103` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1103 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1104` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1104 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1203` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1203 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1300` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1300 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1304` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1304 | 2 | 2017-05-12 to 2018-07-27 |
+| `title-22-part-1305` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1305 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1306` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1306 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1411` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1411 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1413` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1413 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1414` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1414 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1420` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1420 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1421` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1421 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1422` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1422 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1423` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1423 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1424` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1424 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1425` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1425 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1427` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1427 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1428` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1428 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1429` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1429 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1470` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1470 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1471` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1471 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1500` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1500 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1501` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1501 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1502` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1502 | 2 | 2017-05-12 to 2018-03-27 |
+| `title-22-part-1503` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1503 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-1504` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1504 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1506` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1506 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1507` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1507 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1508` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1508 | 2 | 2017-05-12 to 2026-10-26 |
+| `title-22-part-1509` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1509 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1510` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1510 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1600` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1600 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-1701` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1701 | 1 | 2017-05-12 to 2017-05-12 |
+| `title-22-part-other` | Title 22 of the Code of Federal Regulations (Foreign Relations), Part other | 1 | 2017-05-12 to 2017-05-12 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -4429,19 +4648,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 20246 commits:
+The build made 20679 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4412 | first version of an act |
-| 11169 | one law on its in-force day |
-| 4665 | changes no amendment note explains, credited to the publisher |
+| 4631 | first version of an act |
+| 11304 | one law on its in-force day |
+| 4744 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 13300 laws in the record.
-- 26518 tags.
+- 13462 laws in the record.
+- 27077 tags.
 
 ## Dates
 
@@ -4453,7 +4672,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `86e3e4c75fc7d12b625dafbede21f8a47cfafd5e84f50ecb8aa048d2a844d24c` (995360659 bytes).
+- Corpus: sha256 `410e3d1edc612551b7dea999f6db70b8a81c1458fb19dc2b0a28a7f3f3a0335d` (1006377280 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -4496,6 +4715,7 @@ No second build of this corpus has been compared yet.
 - Title 19: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-03-12); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 20: editions read: 2017 annual edition (to 2017-03-27); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-03-06); 2021 annual edition (to 2021-03-12); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-03-27); 2025 annual edition (to 2025-03-17); eCFR (to 2026-10-26).
 - Title 21: editions read: 2017 annual edition (to 2017-05-10); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-20); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 22: editions read: 2017 annual edition (to 2017-05-12); 2018 annual edition (to 2018-03-27); 2019 annual edition (to 2019-03-19); 2020 annual edition (to 2020-03-25); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-03-24); 2023 annual edition (to 2023-03-28); 2024 annual edition (to 2024-03-25); 2025 annual edition (to 2025-01-17); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 

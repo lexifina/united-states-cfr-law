@@ -119784,6 +119784,4344 @@
    ]
   },
   {
+   "slug": "title-22-part-0001",
+   "short": "22 CFR Part 1",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1",
+   "url": "https://www.ecfr.gov/current/title-22/part-1",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0002",
+   "short": "22 CFR Part 2",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 2",
+   "url": "https://www.ecfr.gov/current/title-22/part-2",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0003",
+   "short": "22 CFR Part 3",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 3",
+   "url": "https://www.ecfr.gov/current/title-22/part-3",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-07-13",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0003a",
+   "short": "22 CFR Part 3a",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 3a",
+   "url": "https://www.ecfr.gov/current/title-22/part-3a",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0004",
+   "short": "22 CFR Part 4",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 4",
+   "url": "https://www.ecfr.gov/current/title-22/part-4",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0005",
+   "short": "22 CFR Part 5",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 5",
+   "url": "https://www.ecfr.gov/current/title-22/part-5",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-11-09",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0007",
+   "short": "22 CFR Part 7",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 7",
+   "url": "https://www.ecfr.gov/current/title-22/part-7",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0009",
+   "short": "22 CFR Part 9",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 9",
+   "url": "https://www.ecfr.gov/current/title-22/part-9",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0009a",
+   "short": "22 CFR Part 9a",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 9a",
+   "url": "https://www.ecfr.gov/current/title-22/part-9a",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0009b",
+   "short": "22 CFR Part 9b",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 9b",
+   "url": "https://www.ecfr.gov/current/title-22/part-9b",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0011",
+   "short": "22 CFR Part 11",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 11",
+   "url": "https://www.ecfr.gov/current/title-22/part-11",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0012",
+   "short": "22 CFR Part 12",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 12",
+   "url": "https://www.ecfr.gov/current/title-22/part-12",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0013",
+   "short": "22 CFR Part 13",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 13",
+   "url": "https://www.ecfr.gov/current/title-22/part-13",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0016",
+   "short": "22 CFR Part 16",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 16",
+   "url": "https://www.ecfr.gov/current/title-22/part-16",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0017",
+   "short": "22 CFR Part 17",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 17",
+   "url": "https://www.ecfr.gov/current/title-22/part-17",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0018",
+   "short": "22 CFR Part 18",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 18",
+   "url": "https://www.ecfr.gov/current/title-22/part-18",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0019",
+   "short": "22 CFR Part 19",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 19",
+   "url": "https://www.ecfr.gov/current/title-22/part-19",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0020",
+   "short": "22 CFR Part 20",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 20",
+   "url": "https://www.ecfr.gov/current/title-22/part-20",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0021",
+   "short": "22 CFR Part 21",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 21",
+   "url": "https://www.ecfr.gov/current/title-22/part-21",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0022",
+   "short": "22 CFR Part 22",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 22",
+   "url": "https://www.ecfr.gov/current/title-22/part-22",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-04-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2019-07-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-12-04",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0023",
+   "short": "22 CFR Part 23",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 23",
+   "url": "https://www.ecfr.gov/current/title-22/part-23",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0033",
+   "short": "22 CFR Part 33",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 33",
+   "url": "https://www.ecfr.gov/current/title-22/part-33",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0034",
+   "short": "22 CFR Part 34",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 34",
+   "url": "https://www.ecfr.gov/current/title-22/part-34",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0035",
+   "short": "22 CFR Part 35",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 35",
+   "url": "https://www.ecfr.gov/current/title-22/part-35",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-01-03",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-08-10",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0040",
+   "short": "22 CFR Part 40",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 40",
+   "url": "https://www.ecfr.gov/current/title-22/part-40",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-05-06",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2019-10-15",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2023-10-05",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-08-22",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0041",
+   "short": "22 CFR Part 41",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 41",
+   "url": "https://www.ecfr.gov/current/title-22/part-41",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-04-22",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2019-05-06",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2020-01-24",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2021-02-22",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2021-06-24",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2021-11-08",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-08-31",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2023-04-05",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-09-12",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2026-08-03",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0042",
+   "short": "22 CFR Part 42",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 42",
+   "url": "https://www.ecfr.gov/current/title-22/part-42",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-04-22",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2019-05-06",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2019-06-05",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2019-07-23",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2020-06-16",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2021-12-13",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-01-19",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-06-10",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2023-04-05",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-09-12",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-12-13",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-01-08",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-12-10",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-04-10",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0046",
+   "short": "22 CFR Part 46",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 46",
+   "url": "https://www.ecfr.gov/current/title-22/part-46",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0050",
+   "short": "22 CFR Part 50",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 50",
+   "url": "https://www.ecfr.gov/current/title-22/part-50",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-06-11",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2024-06-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0051",
+   "short": "22 CFR Part 51",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 51",
+   "url": "https://www.ecfr.gov/current/title-22/part-51",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-06-11",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2019-12-09",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-07-24",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-06-12",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2024-08-26",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0053",
+   "short": "22 CFR Part 53",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 53",
+   "url": "https://www.ecfr.gov/current/title-22/part-53",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0061",
+   "short": "22 CFR Part 61",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 61",
+   "url": "https://www.ecfr.gov/current/title-22/part-61",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0062",
+   "short": "22 CFR Part 62",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 62",
+   "url": "https://www.ecfr.gov/current/title-22/part-62",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2021-05-19",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2021-10-14",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-04-28",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0063",
+   "short": "22 CFR Part 63",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 63",
+   "url": "https://www.ecfr.gov/current/title-22/part-63",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0064",
+   "short": "22 CFR Part 64",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 64",
+   "url": "https://www.ecfr.gov/current/title-22/part-64",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0065",
+   "short": "22 CFR Part 65",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 65",
+   "url": "https://www.ecfr.gov/current/title-22/part-65",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0066",
+   "short": "22 CFR Part 66",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 66",
+   "url": "https://www.ecfr.gov/current/title-22/part-66",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0067",
+   "short": "22 CFR Part 67",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 67",
+   "url": "https://www.ecfr.gov/current/title-22/part-67",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0071",
+   "short": "22 CFR Part 71",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 71",
+   "url": "https://www.ecfr.gov/current/title-22/part-71",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2024-06-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0072",
+   "short": "22 CFR Part 72",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 72",
+   "url": "https://www.ecfr.gov/current/title-22/part-72",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0089",
+   "short": "22 CFR Part 89",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 89",
+   "url": "https://www.ecfr.gov/current/title-22/part-89",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0091",
+   "short": "22 CFR Part 91",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 91",
+   "url": "https://www.ecfr.gov/current/title-22/part-91",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0092",
+   "short": "22 CFR Part 92",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 92",
+   "url": "https://www.ecfr.gov/current/title-22/part-92",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 89,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2024-11-27",
+     "units": 89,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0093",
+   "short": "22 CFR Part 93",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 93",
+   "url": "https://www.ecfr.gov/current/title-22/part-93",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0094",
+   "short": "22 CFR Part 94",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 94",
+   "url": "https://www.ecfr.gov/current/title-22/part-94",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0095",
+   "short": "22 CFR Part 95",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 95",
+   "url": "https://www.ecfr.gov/current/title-22/part-95",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0096",
+   "short": "22 CFR Part 96",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 96",
+   "url": "https://www.ecfr.gov/current/title-22/part-96",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 93,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2025-01-08",
+     "units": 96,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0097",
+   "short": "22 CFR Part 97",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 97",
+   "url": "https://www.ecfr.gov/current/title-22/part-97",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0098",
+   "short": "22 CFR Part 98",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 98",
+   "url": "https://www.ecfr.gov/current/title-22/part-98",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0099",
+   "short": "22 CFR Part 99",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 99",
+   "url": "https://www.ecfr.gov/current/title-22/part-99",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0101",
+   "short": "22 CFR Part 101",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 101",
+   "url": "https://www.ecfr.gov/current/title-22/part-101",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0103",
+   "short": "22 CFR Part 103",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 103",
+   "url": "https://www.ecfr.gov/current/title-22/part-103",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-01-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0104",
+   "short": "22 CFR Part 104",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 104",
+   "url": "https://www.ecfr.gov/current/title-22/part-104",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0120",
+   "short": "22 CFR Part 120",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 120",
+   "url": "https://www.ecfr.gov/current/title-22/part-120",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-03-25",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 70,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-11-21",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-09-18",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2026-10-13",
+     "units": 60,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0121",
+   "short": "22 CFR Part 121",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 121",
+   "url": "https://www.ecfr.gov/current/title-22/part-121",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2022-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-10-21",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0122",
+   "short": "22 CFR Part 122",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 122",
+   "url": "https://www.ecfr.gov/current/title-22/part-122",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2025-01-08",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0123",
+   "short": "22 CFR Part 123",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 123",
+   "url": "https://www.ecfr.gov/current/title-22/part-123",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-10-04",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-09-03",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-09-18",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0124",
+   "short": "22 CFR Part 124",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 124",
+   "url": "https://www.ecfr.gov/current/title-22/part-124",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-09-03",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0125",
+   "short": "22 CFR Part 125",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 125",
+   "url": "https://www.ecfr.gov/current/title-22/part-125",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2026-09-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0126",
+   "short": "22 CFR Part 126",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 126",
+   "url": "https://www.ecfr.gov/current/title-22/part-126",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-02-14",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-04-19",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-03-18",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2022-03-23",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-11-22",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2023-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-03-15",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-08-20",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2024-09-03",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2025-08-27",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2026-09-18",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0127",
+   "short": "22 CFR Part 127",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 127",
+   "url": "https://www.ecfr.gov/current/title-22/part-127",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-01-19",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0128",
+   "short": "22 CFR Part 128",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 128",
+   "url": "https://www.ecfr.gov/current/title-22/part-128",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0129",
+   "short": "22 CFR Part 129",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 129",
+   "url": "https://www.ecfr.gov/current/title-22/part-129",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2025-01-08",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0130",
+   "short": "22 CFR Part 130",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 130",
+   "url": "https://www.ecfr.gov/current/title-22/part-130",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2022-09-06",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0131",
+   "short": "22 CFR Part 131",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 131",
+   "url": "https://www.ecfr.gov/current/title-22/part-131",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0132",
+   "short": "22 CFR Part 132",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 132",
+   "url": "https://www.ecfr.gov/current/title-22/part-132",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0133",
+   "short": "22 CFR Part 133",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 133",
+   "url": "https://www.ecfr.gov/current/title-22/part-133",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0134",
+   "short": "22 CFR Part 134",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 134",
+   "url": "https://www.ecfr.gov/current/title-22/part-134",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0135",
+   "short": "22 CFR Part 135",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 135",
+   "url": "https://www.ecfr.gov/current/title-22/part-135",
+   "versions": [
+    {
+     "from": "2022-08-15",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2023-01-25",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2026-03-24",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0136",
+   "short": "22 CFR Part 136",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 136",
+   "url": "https://www.ecfr.gov/current/title-22/part-136",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0138",
+   "short": "22 CFR Part 138",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 138",
+   "url": "https://www.ecfr.gov/current/title-22/part-138",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-01-03",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2022-01-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-01-11",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0139",
+   "short": "22 CFR Part 139",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 139",
+   "url": "https://www.ecfr.gov/current/title-22/part-139",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0140",
+   "short": "22 CFR Part 140",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 140",
+   "url": "https://www.ecfr.gov/current/title-22/part-140",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0141",
+   "short": "22 CFR Part 141",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 141",
+   "url": "https://www.ecfr.gov/current/title-22/part-141",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-07-09",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0142",
+   "short": "22 CFR Part 142",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 142",
+   "url": "https://www.ecfr.gov/current/title-22/part-142",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0143",
+   "short": "22 CFR Part 143",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 143",
+   "url": "https://www.ecfr.gov/current/title-22/part-143",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0144",
+   "short": "22 CFR Part 144",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 144",
+   "url": "https://www.ecfr.gov/current/title-22/part-144",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0146",
+   "short": "22 CFR Part 146",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 146",
+   "url": "https://www.ecfr.gov/current/title-22/part-146",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0147",
+   "short": "22 CFR Part 147",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 147",
+   "url": "https://www.ecfr.gov/current/title-22/part-147",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2017-08-28",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-09-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2021-10-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0150",
+   "short": "22 CFR Part 150",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 150",
+   "url": "https://www.ecfr.gov/current/title-22/part-150",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0151",
+   "short": "22 CFR Part 151",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 151",
+   "url": "https://www.ecfr.gov/current/title-22/part-151",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0161",
+   "short": "22 CFR Part 161",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 161",
+   "url": "https://www.ecfr.gov/current/title-22/part-161",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-07-13",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0171",
+   "short": "22 CFR Part 171",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 171",
+   "url": "https://www.ecfr.gov/current/title-22/part-171",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-03-09",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    },
+    {
+     "from": "2023-11-17",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2026-10-21",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0172",
+   "short": "22 CFR Part 172",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 172",
+   "url": "https://www.ecfr.gov/current/title-22/part-172",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-05-21",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    },
+    {
+     "from": "2026-01-13",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    },
+    {
+     "from": "2026-01-16",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0173",
+   "short": "22 CFR Part 173",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 173",
+   "url": "https://www.ecfr.gov/current/title-22/part-173",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0181",
+   "short": "22 CFR Part 181",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 181",
+   "url": "https://www.ecfr.gov/current/title-22/part-181",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2021-05-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2023-10-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0191",
+   "short": "22 CFR Part 191",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 191",
+   "url": "https://www.ecfr.gov/current/title-22/part-191",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0192",
+   "short": "22 CFR Part 192",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 192",
+   "url": "https://www.ecfr.gov/current/title-22/part-192",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0193",
+   "short": "22 CFR Part 193",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 193",
+   "url": "https://www.ecfr.gov/current/title-22/part-193",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-04-12",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0194",
+   "short": "22 CFR Part 194",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 194",
+   "url": "https://www.ecfr.gov/current/title-22/part-194",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0196",
+   "short": "22 CFR Part 196",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 196",
+   "url": "https://www.ecfr.gov/current/title-22/part-196",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0201",
+   "short": "22 CFR Part 201",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 201",
+   "url": "https://www.ecfr.gov/current/title-22/part-201",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0202",
+   "short": "22 CFR Part 202",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 202",
+   "url": "https://www.ecfr.gov/current/title-22/part-202",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0203",
+   "short": "22 CFR Part 203",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 203",
+   "url": "https://www.ecfr.gov/current/title-22/part-203",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-08-30",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0204",
+   "short": "22 CFR Part 204",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 204",
+   "url": "https://www.ecfr.gov/current/title-22/part-204",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0205",
+   "short": "22 CFR Part 205",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 205",
+   "url": "https://www.ecfr.gov/current/title-22/part-205",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2021-01-19",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0206",
+   "short": "22 CFR Part 206",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 206",
+   "url": "https://www.ecfr.gov/current/title-22/part-206",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0207",
+   "short": "22 CFR Part 207",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 207",
+   "url": "https://www.ecfr.gov/current/title-22/part-207",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0209",
+   "short": "22 CFR Part 209",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 209",
+   "url": "https://www.ecfr.gov/current/title-22/part-209",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0211",
+   "short": "22 CFR Part 211",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 211",
+   "url": "https://www.ecfr.gov/current/title-22/part-211",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0212",
+   "short": "22 CFR Part 212",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 212",
+   "url": "https://www.ecfr.gov/current/title-22/part-212",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2021-01-05",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2021-04-09",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-12-07",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-22/CFR-2023-title-22.zip",
+     "sha256": "c917e7fafe68088791490a9427ab515c0828c96eb33f197eb4b22dc90cc99f63"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0213",
+   "short": "22 CFR Part 213",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 213",
+   "url": "https://www.ecfr.gov/current/title-22/part-213",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    },
+    {
+     "from": "2022-03-23",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0214",
+   "short": "22 CFR Part 214",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 214",
+   "url": "https://www.ecfr.gov/current/title-22/part-214",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0215",
+   "short": "22 CFR Part 215",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 215",
+   "url": "https://www.ecfr.gov/current/title-22/part-215",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0216",
+   "short": "22 CFR Part 216",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 216",
+   "url": "https://www.ecfr.gov/current/title-22/part-216",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0217",
+   "short": "22 CFR Part 217",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 217",
+   "url": "https://www.ecfr.gov/current/title-22/part-217",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0218",
+   "short": "22 CFR Part 218",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 218",
+   "url": "https://www.ecfr.gov/current/title-22/part-218",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0219",
+   "short": "22 CFR Part 219",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 219",
+   "url": "https://www.ecfr.gov/current/title-22/part-219",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0221",
+   "short": "22 CFR Part 221",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 221",
+   "url": "https://www.ecfr.gov/current/title-22/part-221",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0223",
+   "short": "22 CFR Part 223",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 223",
+   "url": "https://www.ecfr.gov/current/title-22/part-223",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0224",
+   "short": "22 CFR Part 224",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 224",
+   "url": "https://www.ecfr.gov/current/title-22/part-224",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0225",
+   "short": "22 CFR Part 225",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 225",
+   "url": "https://www.ecfr.gov/current/title-22/part-225",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2018-07-23",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0227",
+   "short": "22 CFR Part 227",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 227",
+   "url": "https://www.ecfr.gov/current/title-22/part-227",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0228",
+   "short": "22 CFR Part 228",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 228",
+   "url": "https://www.ecfr.gov/current/title-22/part-228",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-10-23",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    },
+    {
+     "from": "2021-05-10",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0229",
+   "short": "22 CFR Part 229",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 229",
+   "url": "https://www.ecfr.gov/current/title-22/part-229",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0230",
+   "short": "22 CFR Part 230",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 230",
+   "url": "https://www.ecfr.gov/current/title-22/part-230",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0231",
+   "short": "22 CFR Part 231",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 231",
+   "url": "https://www.ecfr.gov/current/title-22/part-231",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0232",
+   "short": "22 CFR Part 232",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 232",
+   "url": "https://www.ecfr.gov/current/title-22/part-232",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0233",
+   "short": "22 CFR Part 233",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 233",
+   "url": "https://www.ecfr.gov/current/title-22/part-233",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0234",
+   "short": "22 CFR Part 234",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 234",
+   "url": "https://www.ecfr.gov/current/title-22/part-234",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0235",
+   "short": "22 CFR Part 235",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 235",
+   "url": "https://www.ecfr.gov/current/title-22/part-235",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0236",
+   "short": "22 CFR Part 236",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 236",
+   "url": "https://www.ecfr.gov/current/title-22/part-236",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0237",
+   "short": "22 CFR Part 237",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 237",
+   "url": "https://www.ecfr.gov/current/title-22/part-237",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0238",
+   "short": "22 CFR Part 238",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 238",
+   "url": "https://www.ecfr.gov/current/title-22/part-238",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0239",
+   "short": "22 CFR Part 239",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 239",
+   "url": "https://www.ecfr.gov/current/title-22/part-239",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0240",
+   "short": "22 CFR Part 240",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 240",
+   "url": "https://www.ecfr.gov/current/title-22/part-240",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0241",
+   "short": "22 CFR Part 241",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 241",
+   "url": "https://www.ecfr.gov/current/title-22/part-241",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0242",
+   "short": "22 CFR Part 242",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 242",
+   "url": "https://www.ecfr.gov/current/title-22/part-242",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-22/CFR-2024-title-22.zip",
+     "sha256": "0c623e824a506d100e6794efc4511ddfe3766dcb40d9ecda1599572d8fbe1935"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0301",
+   "short": "22 CFR Part 301",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 301",
+   "url": "https://www.ecfr.gov/current/title-22/part-301",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0303",
+   "short": "22 CFR Part 303",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 303",
+   "url": "https://www.ecfr.gov/current/title-22/part-303",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2024-05-13",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0304",
+   "short": "22 CFR Part 304",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 304",
+   "url": "https://www.ecfr.gov/current/title-22/part-304",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0305",
+   "short": "22 CFR Part 305",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 305",
+   "url": "https://www.ecfr.gov/current/title-22/part-305",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0306",
+   "short": "22 CFR Part 306",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 306",
+   "url": "https://www.ecfr.gov/current/title-22/part-306",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-22/CFR-2022-title-22.zip",
+     "sha256": "d0ffa4ba60dadfe9498eed80e1e5e676d54a2418eed169928444ddb838f174e7"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0308",
+   "short": "22 CFR Part 308",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 308",
+   "url": "https://www.ecfr.gov/current/title-22/part-308",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0309",
+   "short": "22 CFR Part 309",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 309",
+   "url": "https://www.ecfr.gov/current/title-22/part-309",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0311",
+   "short": "22 CFR Part 311",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 311",
+   "url": "https://www.ecfr.gov/current/title-22/part-311",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0312",
+   "short": "22 CFR Part 312",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 312",
+   "url": "https://www.ecfr.gov/current/title-22/part-312",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0313",
+   "short": "22 CFR Part 313",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 313",
+   "url": "https://www.ecfr.gov/current/title-22/part-313",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0401",
+   "short": "22 CFR Part 401",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 401",
+   "url": "https://www.ecfr.gov/current/title-22/part-401",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0501",
+   "short": "22 CFR Part 501",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 501",
+   "url": "https://www.ecfr.gov/current/title-22/part-501",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0502",
+   "short": "22 CFR Part 502",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 502",
+   "url": "https://www.ecfr.gov/current/title-22/part-502",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0503",
+   "short": "22 CFR Part 503",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 503",
+   "url": "https://www.ecfr.gov/current/title-22/part-503",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0504",
+   "short": "22 CFR Part 504",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 504",
+   "url": "https://www.ecfr.gov/current/title-22/part-504",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0505",
+   "short": "22 CFR Part 505",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 505",
+   "url": "https://www.ecfr.gov/current/title-22/part-505",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0506",
+   "short": "22 CFR Part 506",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 506",
+   "url": "https://www.ecfr.gov/current/title-22/part-506",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0507",
+   "short": "22 CFR Part 507",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 507",
+   "url": "https://www.ecfr.gov/current/title-22/part-507",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0510",
+   "short": "22 CFR Part 510",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 510",
+   "url": "https://www.ecfr.gov/current/title-22/part-510",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0511",
+   "short": "22 CFR Part 511",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 511",
+   "url": "https://www.ecfr.gov/current/title-22/part-511",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0512",
+   "short": "22 CFR Part 512",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 512",
+   "url": "https://www.ecfr.gov/current/title-22/part-512",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0513",
+   "short": "22 CFR Part 513",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 513",
+   "url": "https://www.ecfr.gov/current/title-22/part-513",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0518",
+   "short": "22 CFR Part 518",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 518",
+   "url": "https://www.ecfr.gov/current/title-22/part-518",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-22/CFR-2025-title-22.zip",
+     "sha256": "9fae3236be33d15ba71ead1d397324a989874a34f966ba731a75aef6cf3cb91f"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0519",
+   "short": "22 CFR Part 519",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 519",
+   "url": "https://www.ecfr.gov/current/title-22/part-519",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0521",
+   "short": "22 CFR Part 521",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 521",
+   "url": "https://www.ecfr.gov/current/title-22/part-521",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0530",
+   "short": "22 CFR Part 530",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 530",
+   "url": "https://www.ecfr.gov/current/title-22/part-530",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0705",
+   "short": "22 CFR Part 705",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 705",
+   "url": "https://www.ecfr.gov/current/title-22/part-705",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0706",
+   "short": "22 CFR Part 706",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 706",
+   "url": "https://www.ecfr.gov/current/title-22/part-706",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0707",
+   "short": "22 CFR Part 707",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 707",
+   "url": "https://www.ecfr.gov/current/title-22/part-707",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0708",
+   "short": "22 CFR Part 708",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 708",
+   "url": "https://www.ecfr.gov/current/title-22/part-708",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2020-04-13",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-22/CFR-2021-title-22.zip",
+     "sha256": "c2546d9bcf139cdca111381d67d7aaba9b3f634c063feabbfebf0a7b39c1b9e6"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0709",
+   "short": "22 CFR Part 709",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 709",
+   "url": "https://www.ecfr.gov/current/title-22/part-709",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0710",
+   "short": "22 CFR Part 710",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 710",
+   "url": "https://www.ecfr.gov/current/title-22/part-710",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0711",
+   "short": "22 CFR Part 711",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 711",
+   "url": "https://www.ecfr.gov/current/title-22/part-711",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0712",
+   "short": "22 CFR Part 712",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 712",
+   "url": "https://www.ecfr.gov/current/title-22/part-712",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0713",
+   "short": "22 CFR Part 713",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 713",
+   "url": "https://www.ecfr.gov/current/title-22/part-713",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-22/CFR-2020-title-22.zip",
+     "sha256": "472673b2628593dceeca4b50502a2e870cb4f16e275f3f31bfd9ebd2ffb91be4"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0901",
+   "short": "22 CFR Part 901",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 901",
+   "url": "https://www.ecfr.gov/current/title-22/part-901",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0902",
+   "short": "22 CFR Part 902",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 902",
+   "url": "https://www.ecfr.gov/current/title-22/part-902",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0903",
+   "short": "22 CFR Part 903",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 903",
+   "url": "https://www.ecfr.gov/current/title-22/part-903",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0904",
+   "short": "22 CFR Part 904",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 904",
+   "url": "https://www.ecfr.gov/current/title-22/part-904",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0905",
+   "short": "22 CFR Part 905",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 905",
+   "url": "https://www.ecfr.gov/current/title-22/part-905",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0906",
+   "short": "22 CFR Part 906",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 906",
+   "url": "https://www.ecfr.gov/current/title-22/part-906",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0907",
+   "short": "22 CFR Part 907",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 907",
+   "url": "https://www.ecfr.gov/current/title-22/part-907",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0908",
+   "short": "22 CFR Part 908",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 908",
+   "url": "https://www.ecfr.gov/current/title-22/part-908",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0909",
+   "short": "22 CFR Part 909",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 909",
+   "url": "https://www.ecfr.gov/current/title-22/part-909",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0910",
+   "short": "22 CFR Part 910",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 910",
+   "url": "https://www.ecfr.gov/current/title-22/part-910",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-0911",
+   "short": "22 CFR Part 911",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 911",
+   "url": "https://www.ecfr.gov/current/title-22/part-911",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1001",
+   "short": "22 CFR Part 1001",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1001",
+   "url": "https://www.ecfr.gov/current/title-22/part-1001",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1002",
+   "short": "22 CFR Part 1002",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1002",
+   "url": "https://www.ecfr.gov/current/title-22/part-1002",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1003",
+   "short": "22 CFR Part 1003",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1003",
+   "url": "https://www.ecfr.gov/current/title-22/part-1003",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1004",
+   "short": "22 CFR Part 1004",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1004",
+   "url": "https://www.ecfr.gov/current/title-22/part-1004",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1005",
+   "short": "22 CFR Part 1005",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1005",
+   "url": "https://www.ecfr.gov/current/title-22/part-1005",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1006",
+   "short": "22 CFR Part 1006",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1006",
+   "url": "https://www.ecfr.gov/current/title-22/part-1006",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 119,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 119,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1007",
+   "short": "22 CFR Part 1007",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1007",
+   "url": "https://www.ecfr.gov/current/title-22/part-1007",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1008",
+   "short": "22 CFR Part 1008",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1008",
+   "url": "https://www.ecfr.gov/current/title-22/part-1008",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1100",
+   "short": "22 CFR Part 1100",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1100",
+   "url": "https://www.ecfr.gov/current/title-22/part-1100",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1101",
+   "short": "22 CFR Part 1101",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1101",
+   "url": "https://www.ecfr.gov/current/title-22/part-1101",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1102",
+   "short": "22 CFR Part 1102",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1102",
+   "url": "https://www.ecfr.gov/current/title-22/part-1102",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1103",
+   "short": "22 CFR Part 1103",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1103",
+   "url": "https://www.ecfr.gov/current/title-22/part-1103",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1104",
+   "short": "22 CFR Part 1104",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1104",
+   "url": "https://www.ecfr.gov/current/title-22/part-1104",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1203",
+   "short": "22 CFR Part 1203",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1203",
+   "url": "https://www.ecfr.gov/current/title-22/part-1203",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1300",
+   "short": "22 CFR Part 1300",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1300",
+   "url": "https://www.ecfr.gov/current/title-22/part-1300",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1304",
+   "short": "22 CFR Part 1304",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1304",
+   "url": "https://www.ecfr.gov/current/title-22/part-1304",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-07-27",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-22/CFR-2019-title-22.zip",
+     "sha256": "7ce33e67f644afd3bc6eb978dbd56c4eb7c14575b9f92e96cbe5a7f84fafa663"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1305",
+   "short": "22 CFR Part 1305",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1305",
+   "url": "https://www.ecfr.gov/current/title-22/part-1305",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1306",
+   "short": "22 CFR Part 1306",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1306",
+   "url": "https://www.ecfr.gov/current/title-22/part-1306",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1411",
+   "short": "22 CFR Part 1411",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1411",
+   "url": "https://www.ecfr.gov/current/title-22/part-1411",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1413",
+   "short": "22 CFR Part 1413",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1413",
+   "url": "https://www.ecfr.gov/current/title-22/part-1413",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1414",
+   "short": "22 CFR Part 1414",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1414",
+   "url": "https://www.ecfr.gov/current/title-22/part-1414",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1420",
+   "short": "22 CFR Part 1420",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1420",
+   "url": "https://www.ecfr.gov/current/title-22/part-1420",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1421",
+   "short": "22 CFR Part 1421",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1421",
+   "url": "https://www.ecfr.gov/current/title-22/part-1421",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1422",
+   "short": "22 CFR Part 1422",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1422",
+   "url": "https://www.ecfr.gov/current/title-22/part-1422",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1423",
+   "short": "22 CFR Part 1423",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1423",
+   "url": "https://www.ecfr.gov/current/title-22/part-1423",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1424",
+   "short": "22 CFR Part 1424",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1424",
+   "url": "https://www.ecfr.gov/current/title-22/part-1424",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1425",
+   "short": "22 CFR Part 1425",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1425",
+   "url": "https://www.ecfr.gov/current/title-22/part-1425",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1427",
+   "short": "22 CFR Part 1427",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1427",
+   "url": "https://www.ecfr.gov/current/title-22/part-1427",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1428",
+   "short": "22 CFR Part 1428",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1428",
+   "url": "https://www.ecfr.gov/current/title-22/part-1428",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1429",
+   "short": "22 CFR Part 1429",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1429",
+   "url": "https://www.ecfr.gov/current/title-22/part-1429",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1470",
+   "short": "22 CFR Part 1470",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1470",
+   "url": "https://www.ecfr.gov/current/title-22/part-1470",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1471",
+   "short": "22 CFR Part 1471",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1471",
+   "url": "https://www.ecfr.gov/current/title-22/part-1471",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1500",
+   "short": "22 CFR Part 1500",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1500",
+   "url": "https://www.ecfr.gov/current/title-22/part-1500",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1501",
+   "short": "22 CFR Part 1501",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1501",
+   "url": "https://www.ecfr.gov/current/title-22/part-1501",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1502",
+   "short": "22 CFR Part 1502",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1502",
+   "url": "https://www.ecfr.gov/current/title-22/part-1502",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-22/CFR-2018-title-22.zip",
+     "sha256": "6d89b805e0608ee662a87bc1e2d14b0c439b8d741dbb38df270951fecd100976"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1503",
+   "short": "22 CFR Part 1503",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1503",
+   "url": "https://www.ecfr.gov/current/title-22/part-1503",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1504",
+   "short": "22 CFR Part 1504",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1504",
+   "url": "https://www.ecfr.gov/current/title-22/part-1504",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1506",
+   "short": "22 CFR Part 1506",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1506",
+   "url": "https://www.ecfr.gov/current/title-22/part-1506",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 46,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1507",
+   "short": "22 CFR Part 1507",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1507",
+   "url": "https://www.ecfr.gov/current/title-22/part-1507",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1508",
+   "short": "22 CFR Part 1508",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1508",
+   "url": "https://www.ecfr.gov/current/title-22/part-1508",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 119,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 119,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-22/ECFR-title22.xml",
+     "sha256": "58b8f3b30cdcd1ff32478efe575db9428ea5974d95df31cca493490da7382843"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1509",
+   "short": "22 CFR Part 1509",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1509",
+   "url": "https://www.ecfr.gov/current/title-22/part-1509",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1510",
+   "short": "22 CFR Part 1510",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1510",
+   "url": "https://www.ecfr.gov/current/title-22/part-1510",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1600",
+   "short": "22 CFR Part 1600",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1600",
+   "url": "https://www.ecfr.gov/current/title-22/part-1600",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-1701",
+   "short": "22 CFR Part 1701",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part 1701",
+   "url": "https://www.ecfr.gov/current/title-22/part-1701",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-part-other",
+   "short": "22 CFR Part other",
+   "title": "Title 22 of the Code of Federal Regulations (Foreign Relations), Part other",
+   "url": "https://www.ecfr.gov/current/title-22/part-other",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-22/CFR-2017-title-22.zip",
+     "sha256": "4950ba1b9102542f917b737db1a019cf172d0fbc508e6e741a0c20c75ead8c51"
+    }
+   ]
+  },
+  {
    "slug": "title-26-part-0001",
    "short": "26 CFR Part 1",
    "title": "Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1",
