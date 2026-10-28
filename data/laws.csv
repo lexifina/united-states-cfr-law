@@ -1,5 +1,6 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
 fr-12-3083,12 FR 3083,decree,,1947-05-10,1947-05-10,,0,https://www.federalregister.gov/citation/12-FR-3083
+fr-12-8501,12 FR 8501,decree,,1947-12-19,1947-12-19,,0,https://www.federalregister.gov/citation/12-FR-8501
 fr-13-8209,13 FR 8209,decree,,1948-12-22,1948-12-22,,0,https://www.federalregister.gov/citation/13-FR-8209
 fr-13-8740,13 FR 8740,decree,,1948-12-30,1948-12-30,,0,https://www.federalregister.gov/citation/13-FR-8740
 fr-18-6259,18 FR 6259,decree,,1953-10-01,1953-10-01,,0,https://www.federalregister.gov/citation/18-FR-6259
@@ -77,6 +78,7 @@ fr-37-10880,37 FR 10880,decree,,1972-05-31,1972-05-31,,0,https://www.federalregi
 fr-37-10902,37 FR 10902,decree,,1972-05-31,1972-05-31,,0,https://www.federalregister.gov/citation/37-FR-10902
 fr-37-11163,37 FR 11163,decree,,1972-06-03,1972-06-03,,0,https://www.federalregister.gov/citation/37-FR-11163
 fr-38-2681,38 FR 2681,decree,,1973-01-29,1973-01-29,,0,https://www.federalregister.gov/citation/38-FR-2681
+fr-38-4662,38 FR 4662,decree,,1973-02-20,1973-02-20,,0,https://www.federalregister.gov/citation/38-FR-4662
 fr-38-6807,38 FR 6807,decree,,1973-03-13,1973-03-13,,0,https://www.federalregister.gov/citation/38-FR-6807
 fr-38-7318,38 FR 7318,decree,,1973-03-20,1973-03-20,,0,https://www.federalregister.gov/citation/38-FR-7318
 fr-38-7448,38 FR 7448,decree,,1973-03-22,1973-03-22,,0,https://www.federalregister.gov/citation/38-FR-7448
@@ -86,6 +88,9 @@ fr-38-28035,38 FR 28035,decree,,1973-10-11,1973-10-11,,0,https://www.federalregi
 fr-38-35430,38 FR 35430,decree,,1973-12-28,1973-12-28,,0,https://www.federalregister.gov/citation/38-FR-35430
 fr-39-17754,39 FR 17754,decree,,1974-05-20,1974-05-20,,0,https://www.federalregister.gov/citation/39-FR-17754
 fr-39-41170,39 FR 41170,decree,,1974-11-25,1974-11-25,,0,https://www.federalregister.gov/citation/39-FR-41170
+fr-40-14056,40 FR 14056,decree,,1975-03-28,1975-03-28,,0,https://www.federalregister.gov/citation/40-FR-14056
+fr-40-17987,40 FR 17987,decree,,1975-04-24,1975-04-24,,0,https://www.federalregister.gov/citation/40-FR-17987
+fr-40-45313,40 FR 45313,decree,,1975-10-01,1975-10-01,,0,https://www.federalregister.gov/citation/40-FR-45313
 fr-40-47911,40 FR 47911,decree,,1975-10-10,1975-10-10,,0,https://www.federalregister.gov/citation/40-FR-47911
 fr-40-52011,40 FR 52011,decree,,1975-11-07,1975-11-07,,0,https://www.federalregister.gov/citation/40-FR-52011
 fr-40-58627,40 FR 58627,decree,,1975-12-18,1975-12-18,,0,https://www.federalregister.gov/citation/40-FR-58627
@@ -118,16 +123,19 @@ fr-44-5125,44 FR 5125,decree,,1979-01-25,1979-01-25,2025-09-02,1,https://www.fed
 fr-44-8577,44 FR 8577,decree,,1979-02-09,1979-02-09,,0,https://www.federalregister.gov/citation/44-FR-8577
 fr-44-16879,44 FR 16879,decree,,1979-03-20,1979-03-20,,0,https://www.federalregister.gov/citation/44-FR-16879
 fr-44-20940,44 FR 20940,decree,,1979-04-06,1979-04-06,,0,https://www.federalregister.gov/citation/44-FR-20940
+fr-44-30682,44 FR 30682,decree,,1979-05-29,1979-05-29,,0,https://www.federalregister.gov/citation/44-FR-30682
 fr-44-42198,44 FR 42198,decree,,1979-07-19,1979-07-19,,0,https://www.federalregister.gov/citation/44-FR-42198
 fr-44-44811,44 FR 44811,decree,,1979-07-31,1979-07-31,,0,https://www.federalregister.gov/citation/44-FR-44811
 fr-44-49437,44 FR 49437,decree,,1979-08-23,1979-08-23,,0,https://www.federalregister.gov/citation/44-FR-49437
 fr-44-50242,44 FR 50242,decree,,1979-08-27,1979-08-27,,0,https://www.federalregister.gov/citation/44-FR-50242
 fr-45-4337,45 FR 4337,decree,,1980-01-22,1980-01-22,,0,https://www.federalregister.gov/citation/45-FR-4337
+fr-45-12234,45 FR 12234,decree,,1980-02-25,1980-02-25,,0,https://www.federalregister.gov/citation/45-FR-12234
 fr-45-14481,45 FR 14481,decree,,1980-03-05,1980-03-05,,0,https://www.federalregister.gov/citation/45-FR-14481
 fr-45-14483,45 FR 14483,decree,,1980-03-05,1980-03-05,,0,https://www.federalregister.gov/citation/45-FR-14483
 fr-45-15094,45 FR 15094,decree,,1980-03-07,1980-03-07,,0,https://www.federalregister.gov/citation/45-FR-15094
 fr-45-15104,45 FR 15104,decree,,1980-03-07,1980-03-07,,0,https://www.federalregister.gov/citation/45-FR-15104
 fr-45-15120,45 FR 15120,decree,,1980-03-07,1980-03-07,,0,https://www.federalregister.gov/citation/45-FR-15120
+fr-45-23418,45 FR 23418,decree,,1980-04-07,1980-04-07,,0,https://www.federalregister.gov/citation/45-FR-23418
 fr-45-24119,45 FR 24119,decree,,1980-04-09,1980-04-09,,0,https://www.federalregister.gov/citation/45-FR-24119
 fr-45-33142,45 FR 33142,decree,,1980-05-19,1980-05-19,,0,https://www.federalregister.gov/citation/45-FR-33142
 fr-45-40566,45 FR 40566,decree,,1980-06-16,1980-06-16,,0,https://www.federalregister.gov/citation/45-FR-40566
@@ -136,6 +144,7 @@ fr-45-50711,45 FR 50711,decree,,1980-07-31,1980-07-31,,0,https://www.federalregi
 fr-45-61577,45 FR 61577,decree,,1980-09-16,1980-09-16,,0,https://www.federalregister.gov/citation/45-FR-61577
 fr-45-67235,45 FR 67235,decree,,1980-10-09,1980-10-09,,0,https://www.federalregister.gov/citation/45-FR-67235
 fr-45-85415,45 FR 85415,decree,,1980-12-24,1980-12-24,,0,https://www.federalregister.gov/citation/45-FR-85415
+fr-46-9036,46 FR 9036,decree,,1981-01-28,1981-01-28,,0,https://www.federalregister.gov/citation/46-FR-9036
 fr-46-13980,46 FR 13980,decree,,1981-02-25,1981-02-25,,0,https://www.federalregister.gov/citation/46-FR-13980
 fr-46-21344,46 FR 21344,decree,,1981-04-10,1981-04-10,,0,https://www.federalregister.gov/citation/46-FR-21344
 fr-46-25415,46 FR 25415,decree,,1981-05-06,1981-05-06,,0,https://www.federalregister.gov/citation/46-FR-25415
@@ -148,6 +157,7 @@ fr-47-8980,47 FR 8980,decree,,1982-03-03,1982-03-03,,0,https://www.federalregist
 fr-47-8983,47 FR 8983,decree,,1982-03-03,1982-03-03,,0,https://www.federalregister.gov/citation/47-FR-8983
 fr-47-14693,47 FR 14693,decree,,1982-04-06,1982-04-06,,0,https://www.federalregister.gov/citation/47-FR-14693
 fr-47-16573,47 FR 16573,decree,,1982-04-16,1982-04-16,,0,https://www.federalregister.gov/citation/47-FR-16573
+fr-47-19022,47 FR 19022,decree,,1982-05-03,1982-05-03,,0,https://www.federalregister.gov/citation/47-FR-19022
 fr-47-24948,47 FR 24948,decree,,1982-07-08,1982-07-08,,0,https://www.federalregister.gov/citation/47-FR-24948
 fr-47-29837,47 FR 29837,decree,,1982-07-09,1982-07-09,,0,https://www.federalregister.gov/citation/47-FR-29837
 fr-47-36527,47 FR 36527,decree,,1982-08-20,1982-08-20,,0,https://www.federalregister.gov/citation/47-FR-36527
@@ -205,15 +215,20 @@ fr-52-24729,52 FR 24729,decree,,1987-07-01,1987-07-01,,0,https://www.federalregi
 fr-52-25366,52 FR 25366,decree,,1987-07-07,1987-07-07,,0,https://www.federalregister.gov/citation/52-FR-25366
 fr-52-31602,52 FR 31602,decree,,1987-08-21,1987-08-21,,0,https://www.federalregister.gov/citation/52-FR-31602
 fr-52-36156,52 FR 36156,decree,,1987-09-25,1987-09-25,,0,https://www.federalregister.gov/citation/52-FR-36156
+fr-52-37602,52 FR 37602,decree,,1987-10-08,1987-10-08,,0,https://www.federalregister.gov/citation/52-FR-37602
 fr-52-41846,52 FR 41846,decree,,1987-10-30,1987-10-30,,0,https://www.federalregister.gov/citation/52-FR-41846
 fr-52-46894,52 FR 46894,decree,,1987-12-10,1987-12-10,,0,https://www.federalregister.gov/citation/52-FR-46894
+fr-52-47910,52 FR 47910,decree,,1987-12-17,1987-12-17,,0,https://www.federalregister.gov/citation/52-FR-47910
 fr-52-48492,52 FR 48492,decree,,1987-12-22,1987-12-22,,0,https://www.federalregister.gov/citation/52-FR-48492
+fr-53-1473,53 FR 1473,decree,,1988-01-20,1988-01-20,,0,https://www.federalregister.gov/citation/53-FR-1473
 fr-53-1998,53 FR 1998,decree,,1988-01-26,1988-01-26,,0,https://www.federalregister.gov/citation/53-FR-1998
 fr-53-2676,53 FR 2676,decree,,1988-01-29,1988-01-29,,0,https://www.federalregister.gov/citation/53-FR-2676
 fr-53-4525,53 FR 4525,decree,,1988-02-16,1988-02-16,,0,https://www.federalregister.gov/citation/53-FR-4525
 fr-53-19433,53 FR 19433,decree,,1988-05-27,1988-05-27,,0,https://www.federalregister.gov/citation/53-FR-19433
 fr-53-20776,53 FR 20776,decree,,1988-06-01,1988-06-01,,0,https://www.federalregister.gov/citation/53-FR-20776
 fr-53-28801,53 FR 28801,decree,,1988-07-29,1988-07-29,,0,https://www.federalregister.gov/citation/53-FR-28801
+fr-53-30252,53 FR 30252,decree,,1988-08-11,1988-08-11,,0,https://www.federalregister.gov/citation/53-FR-30252
+fr-53-30253,53 FR 30253,decree,,1988-08-11,1988-08-11,,0,https://www.federalregister.gov/citation/53-FR-30253
 fr-53-31658,53 FR 31658,decree,,1988-08-19,1988-08-19,,0,https://www.federalregister.gov/citation/53-FR-31658
 fr-53-44385,53 FR 44385,decree,,1988-11-03,1988-11-03,,0,https://www.federalregister.gov/citation/53-FR-44385
 fr-54-525,54 FR 525,decree,,1989-01-06,1989-01-06,,0,https://www.federalregister.gov/citation/54-FR-525
@@ -258,6 +273,7 @@ fr-55-41052,55 FR 41052,decree,,1990-10-09,1990-10-09,,0,https://www.federalregi
 fr-55-41068,55 FR 41068,decree,,1990-10-09,1990-10-09,,0,https://www.federalregister.gov/citation/55-FR-41068
 fr-56-6486,56 FR 6486,decree,,1991-02-15,1991-02-15,,0,https://www.federalregister.gov/citation/56-FR-6486
 fr-56-6495,56 FR 6495,decree,,1991-02-15,1991-02-15,,0,https://www.federalregister.gov/citation/56-FR-6495
+fr-56-9288,56 FR 9288,decree,,1991-03-06,1991-03-06,,0,https://www.federalregister.gov/citation/56-FR-9288
 fr-56-21261,56 FR 21261,decree,,1991-05-08,1991-05-08,,0,https://www.federalregister.gov/citation/56-FR-21261
 fr-56-23391,56 FR 23391,decree,,1991-05-21,1991-05-21,,0,https://www.federalregister.gov/citation/56-FR-23391
 fr-56-24991,56 FR 24991,decree,,1991-05-31,1991-05-31,2021-02-25,1,https://www.federalregister.gov/citation/56-FR-24991
@@ -277,11 +293,13 @@ fr-57-12646,57 FR 12646,decree,,1992-04-10,1992-04-10,,0,https://www.federalregi
 fr-57-15144,57 FR 15144,decree,,1992-04-24,1992-04-24,,0,https://www.federalregister.gov/citation/57-FR-15144
 fr-57-18822,57 FR 18822,decree,,1992-05-01,1992-05-01,,0,https://www.federalregister.gov/citation/57-FR-18822
 fr-57-32295,57 FR 32295,decree,,1992-07-21,1992-07-21,,0,https://www.federalregister.gov/citation/57-FR-32295
+fr-57-33634,57 FR 33634,decree,,1992-07-30,1992-07-30,,0,https://www.federalregister.gov/citation/57-FR-33634
 fr-57-34510,57 FR 34510,decree,,1992-08-05,1992-08-05,,0,https://www.federalregister.gov/citation/57-FR-34510
 fr-57-38766,57 FR 38766,decree,,1992-08-27,1992-08-27,,0,https://www.federalregister.gov/citation/57-FR-38766
 fr-57-40834,57 FR 40834,decree,,1992-09-08,1992-09-08,,0,https://www.federalregister.gov/citation/57-FR-40834
 fr-57-49129,57 FR 49129,decree,,1992-10-29,1992-10-29,,0,https://www.federalregister.gov/citation/57-FR-49129
 fr-57-54915,57 FR 54915,decree,,1992-11-23,1992-11-23,,0,https://www.federalregister.gov/citation/57-FR-54915
+fr-57-59803,57 FR 59803,decree,,1992-12-16,1992-12-16,,0,https://www.federalregister.gov/citation/57-FR-59803
 fr-57-62896,57 FR 62896,decree,,1992-12-31,1992-12-31,,0,https://www.federalregister.gov/citation/57-FR-62896
 fr-58-3760,58 FR 3760,decree,,1993-01-11,1993-01-11,,0,https://www.federalregister.gov/citation/58-FR-3760
 fr-58-7728,58 FR 7728,decree,,1993-02-09,1993-02-09,,0,https://www.federalregister.gov/citation/58-FR-7728
@@ -345,6 +363,7 @@ fr-60-65913,60 FR 65913,decree,,1995-12-20,1995-12-20,,0,https://www.federalregi
 fr-60-66877,60 FR 66877,decree,,1995-12-27,1995-12-27,,0,https://www.federalregister.gov/citation/60-FR-66877
 fr-60-66903,60 FR 66903,decree,,1995-12-27,1995-12-27,,0,https://www.federalregister.gov/citation/60-FR-66903
 fr-60-67405,60 FR 67405,decree,,1995-12-29,1995-12-29,,0,https://www.federalregister.gov/citation/60-FR-67405
+fr-61-2111,61 FR 2111,decree,,1996-01-25,1996-01-25,,0,https://www.federalregister.gov/citation/61-FR-2111
 fr-61-2681,61 FR 2681,decree,,1996-01-29,1996-01-29,,0,https://www.federalregister.gov/citation/61-FR-2681
 fr-61-2691,61 FR 2691,decree,,1996-01-29,1996-01-29,,0,https://www.federalregister.gov/citation/61-FR-2691
 fr-61-3189,61 FR 3189,decree,,1996-01-31,1996-01-31,,0,https://www.federalregister.gov/citation/61-FR-3189
@@ -394,6 +413,7 @@ fr-61-63982,61 FR 63982,decree,,1996-12-02,1996-12-02,,0,https://www.federalregi
 fr-61-68554,61 FR 68554,decree,,1996-12-30,1996-12-30,,0,https://www.federalregister.gov/citation/61-FR-68554
 fr-62-544,62 FR 544,decree,,1997-01-03,1997-01-03,,0,https://www.federalregister.gov/citation/62-FR-544
 fr-62-4448,62 FR 4448,decree,,1997-01-30,1997-01-30,,0,https://www.federalregister.gov/citation/62-FR-4448
+fr-62-4644,62 FR 4644,decree,,1997-01-31,1997-01-31,,0,https://www.federalregister.gov/citation/62-FR-4644
 fr-62-6447,62 FR 6447,decree,,1997-02-12,1997-02-12,,0,https://www.federalregister.gov/citation/62-FR-6447
 fr-62-10367,62 FR 10367,decree,,1997-03-06,1997-03-06,,0,https://www.federalregister.gov/citation/62-FR-10367
 fr-62-10385,62 FR 10385,decree,,1997-03-06,1997-03-06,,0,https://www.federalregister.gov/citation/62-FR-10385
@@ -411,6 +431,8 @@ fr-62-47734,62 FR 47734,decree,,1997-09-10,1997-09-10,,0,https://www.federalregi
 fr-62-52237,62 FR 52237,decree,,1997-10-07,1997-10-07,,0,https://www.federalregister.gov/citation/62-FR-52237
 fr-62-53718,62 FR 53718,decree,,1997-10-16,1997-10-16,,0,https://www.federalregister.gov/citation/62-FR-53718
 fr-62-60428,62 FR 60428,decree,,1997-11-07,1997-11-07,,0,https://www.federalregister.gov/citation/62-FR-60428
+fr-62-64154,62 FR 64154,decree,,1997-12-04,1997-12-04,,0,https://www.federalregister.gov/citation/62-FR-64154
+fr-62-64155,62 FR 64155,decree,,1997-12-04,1997-12-04,,0,https://www.federalregister.gov/citation/62-FR-64155
 fr-62-67259,62 FR 67259,decree,,1997-12-24,1997-12-24,,0,https://www.federalregister.gov/citation/62-FR-67259
 fr-63-2459,63 FR 2459,decree,,1998-01-15,1998-01-15,2023-12-08,1,https://www.federalregister.gov/citation/63-FR-2459
 fr-63-2876,63 FR 2876,decree,,1998-01-20,1998-01-20,,0,https://www.federalregister.gov/citation/63-FR-2876
@@ -483,6 +505,7 @@ fr-65-36991,65 FR 36991,decree,,2000-06-12,2000-06-12,,0,https://www.federalregi
 fr-65-39056,65 FR 39056,decree,,2000-06-22,2000-06-22,,0,https://www.federalregister.gov/citation/65-FR-39056
 fr-65-40362,65 FR 40362,decree,,2000-06-29,2000-06-29,,0,https://www.federalregister.gov/citation/65-FR-40362
 fr-65-42301,65 FR 42301,decree,,2000-07-10,2000-07-10,,0,https://www.federalregister.gov/citation/65-FR-42301
+fr-65-45865,65 FR 45865,decree,,2000-07-26,2000-07-26,,0,https://www.federalregister.gov/citation/65-FR-45865
 fr-65-50863,65 FR 50863,decree,,2000-08-21,2000-08-21,,0,https://www.federalregister.gov/citation/65-FR-50863
 fr-65-55443,65 FR 55443,decree,,2000-09-14,2000-09-14,,0,https://www.federalregister.gov/citation/65-FR-55443
 fr-65-56226,65 FR 56226,decree,,2000-09-18,2000-09-18,,0,https://www.federalregister.gov/citation/65-FR-56226
@@ -580,8 +603,10 @@ fr-68-35501,68 FR 35501,decree,,2003-06-13,2003-06-13,,0,https://www.federalregi
 fr-68-35503,68 FR 35503,decree,,2003-06-13,2003-06-13,,0,https://www.federalregister.gov/citation/68-FR-35503
 fr-68-35515,68 FR 35515,decree,,2003-06-13,2003-06-13,,0,https://www.federalregister.gov/citation/68-FR-35515
 fr-68-46078,68 FR 46078,decree,,2003-08-05,2003-08-05,,0,https://www.federalregister.gov/citation/68-FR-46078
+fr-68-46936,68 FR 46936,decree,,2003-08-07,2003-08-07,,0,https://www.federalregister.gov/citation/68-FR-46936
 fr-68-48265,68 FR 48265,decree,,2003-08-13,2003-08-13,,0,https://www.federalregister.gov/citation/68-FR-48265
 fr-68-48270,68 FR 48270,decree,,2003-08-13,2003-08-13,,0,https://www.federalregister.gov/citation/68-FR-48270
+fr-68-51121,68 FR 51121,decree,,2003-08-25,2003-08-25,,0,https://www.federalregister.gov/citation/68-FR-51121
 fr-68-54561,68 FR 54561,decree,,2003-09-17,2003-09-17,,0,https://www.federalregister.gov/citation/68-FR-54561
 fr-68-57539,68 FR 57539,decree,,2003-10-03,2003-10-03,,0,https://www.federalregister.gov/citation/68-FR-57539
 fr-68-58190,68 FR 58190,decree,,2003-10-08,2003-10-08,,0,https://www.federalregister.gov/citation/68-FR-58190
@@ -673,9 +698,12 @@ fr-71-63426,71 FR 63426,decree,,2006-10-30,2006-10-30,,0,https://www.federalregi
 fr-71-65653,71 FR 65653,decree,,2006-11-08,2006-11-08,,0,https://www.federalregister.gov/citation/71-FR-65653
 fr-72-66102,72 FR 66102,decree,,2006-11-13,2006-11-13,,0,https://www.federalregister.gov/citation/72-FR-66102
 fr-71-67440,71 FR 67440,decree,,2006-11-22,2006-11-22,,0,https://www.federalregister.gov/citation/71-FR-67440
+fr-71-69465,71 FR 69465,decree,,2006-12-01,2006-12-01,,0,https://www.federalregister.gov/citation/71-FR-69465
 fr-71-74630,71 FR 74630,decree,,2006-12-12,2006-12-12,,0,https://www.federalregister.gov/citation/71-FR-74630
 fr-71-75632,71 FR 75632,decree,,2006-12-15,2006-12-15,,0,https://www.federalregister.gov/citation/71-FR-75632
 fr-71-76120,71 FR 76120,decree,,2006-12-20,2006-12-20,,0,https://www.federalregister.gov/citation/71-FR-76120
+fr-71-78579,71 FR 78579,decree,,2006-12-29,2006-12-29,,0,https://www.federalregister.gov/citation/71-FR-78579
+fr-71-78589,71 FR 78589,decree,,2006-12-29,2006-12-29,,0,https://www.federalregister.gov/citation/71-FR-78589
 fr-72-2944,72 FR 2944,decree,,2007-01-23,2007-01-23,,0,https://www.federalregister.gov/citation/72-FR-2944
 fr-72-6912,72 FR 6912,decree,,2007-02-13,2007-02-13,,0,https://www.federalregister.gov/citation/72-FR-6912
 fr-72-8533,72 FR 8533,decree,,2007-02-26,2007-02-26,,0,https://www.federalregister.gov/citation/72-FR-8533
@@ -790,6 +818,7 @@ fr-75-6546,75 FR 6546,decree,,2010-02-10,2010-02-10,,0,https://www.federalregist
 fr-75-6845,75 FR 6845,decree,,2010-02-12,2010-02-12,,0,https://www.federalregister.gov/citation/75-FR-6845
 fr-75-8520,75 FR 8520,decree,,2010-02-25,2010-02-25,,0,https://www.federalregister.gov/citation/75-FR-8520
 fr-75-9089,75 FR 9089,decree,,2010-03-01,2010-03-01,,0,https://www.federalregister.gov/citation/75-FR-9089
+fr-75-11736,75 FR 11736,decree,,2010-03-12,2010-03-12,,0,https://www.federalregister.gov/citation/75-FR-11736
 fr-75-14863,75 FR 14863,decree,,2010-03-26,2010-03-26,,0,https://www.federalregister.gov/citation/75-FR-14863
 fr-75-16642,75 FR 16642,decree,,2010-04-02,2010-04-02,,0,https://www.federalregister.gov/citation/75-FR-16642
 fr-75-17292,75 FR 17292,decree,,2010-04-06,2010-04-06,,0,https://www.federalregister.gov/citation/75-FR-17292
@@ -851,6 +880,7 @@ fr-76-29985,76 FR 29985,decree,,2011-05-23,2011-05-23,,0,https://www.federalregi
 fr-76-33619,76 FR 33619,decree,,2011-06-09,2011-06-09,,0,https://www.federalregister.gov/citation/76-FR-33619
 fr-76-34363,76 FR 34363,decree,,2011-06-13,2011-06-13,,0,https://www.federalregister.gov/citation/76-FR-34363
 fr-76-38788,76 FR 38788,decree,,2011-07-01,2011-07-01,,0,https://www.federalregister.gov/citation/76-FR-38788
+fr-76-39261,76 FR 39261,decree,,2011-07-06,2011-07-06,,0,https://www.federalregister.gov/citation/76-FR-39261
 fr-76-43466,76 FR 43466,decree,,2011-07-20,2011-07-20,,0,https://www.federalregister.gov/citation/76-FR-43466
 fr-76-44790,76 FR 44790,decree,,2011-07-27,2011-07-27,,0,https://www.federalregister.gov/citation/76-FR-44790
 fr-76-46193,76 FR 46193,decree,,2011-08-02,2011-08-02,,0,https://www.federalregister.gov/citation/76-FR-46193
@@ -1020,6 +1050,7 @@ fr-79-53604,79 FR 53604,decree,,2014-09-10,2014-09-10,,0,https://www.federalregi
 fr-79-57716,79 FR 57716,decree,,2014-09-26,2014-09-26,,0,https://www.federalregister.gov/citation/79-FR-57716
 fr-79-57720,79 FR 57720,decree,,2014-09-26,2014-09-26,,0,https://www.federalregister.gov/citation/79-FR-57720
 fr-79-58672,79 FR 58672,decree,,2014-09-30,2014-09-30,,0,https://www.federalregister.gov/citation/79-FR-58672
+fr-79-59111,79 FR 59111,decree,,2014-10-01,2014-10-01,,0,https://www.federalregister.gov/citation/79-FR-59111
 fr-79-60721,79 FR 60721,decree,,2014-10-07,2014-10-07,,0,https://www.federalregister.gov/citation/79-FR-60721
 fr-79-61523,79 FR 61523,decree,,2014-10-10,2014-10-10,2018-08-30,1,https://www.federalregister.gov/citation/79-FR-61523
 fr-79-61540,79 FR 61540,decree,,2014-10-10,2014-10-10,,0,https://www.federalregister.gov/citation/79-FR-61540
@@ -1234,6 +1265,7 @@ fr-81-87211,81 FR 87211,decree,,2016-12-02,2016-12-02,,0,https://www.federalregi
 fr-81-87426,81 FR 87426,decree,,2016-12-05,2016-12-05,2017-01-03,1,https://www.federalregister.gov/citation/81-FR-87426
 fr-81-88424,81 FR 88424,decree,,2016-12-07,2016-12-07,,0,https://www.federalregister.gov/citation/81-FR-88424
 fr-81-88868,81 FR 88868,decree,,2016-12-08,2016-12-08,2026-08-21,1,https://www.federalregister.gov/citation/81-FR-88868
+fr-81-88999,81 FR 88999,decree,,2016-12-09,2016-12-09,,0,https://www.federalregister.gov/citation/81-FR-88999
 fr-81-89249,81 FR 89249,decree,,2016-12-09,2016-12-09,2018-01-01,1,https://www.federalregister.gov/citation/81-FR-89249
 fr-81-89250,81 FR 89250,decree,,2016-12-09,2016-12-09,2018-01-01 2024-04-25,2,https://www.federalregister.gov/citation/81-FR-89250
 fr-81-89251,81 FR 89251,decree,,2016-12-09,2016-12-09,2018-01-01,1,https://www.federalregister.gov/citation/81-FR-89251
@@ -1473,6 +1505,8 @@ fr-82-25972,82 FR 25972,decree,,2017-06-06,2017-06-06,2017-08-07,1,https://www.f
 fr-82-26335,82 FR 26335,decree,,2017-06-07,2017-06-07,2017-06-07,1,https://www.federalregister.gov/citation/82-FR-26335
 fr-82-26740,82 FR 26740,decree,,2017-06-09,2017-06-09,2019-08-26,1,https://www.federalregister.gov/citation/82-FR-26740
 fr-82-26741,82 FR 26741,decree,,2017-06-09,2017-06-09,2019-08-26,1,https://www.federalregister.gov/citation/82-FR-26741
+fr-82-26989,82 FR 26989,decree,,2017-06-13,2017-06-13,2018-03-05,1,https://www.federalregister.gov/citation/82-FR-26989
+fr-82-26990,82 FR 26990,decree,,2017-06-13,2017-06-13,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-26990
 fr-82-27110,82 FR 27110,decree,,2017-06-14,2017-06-14,2017-06-22,1,https://www.federalregister.gov/citation/82-FR-27110
 fr-82-27122,82 FR 27122,decree,,2017-06-14,2017-06-14,2017-07-14,1,https://www.federalregister.gov/citation/82-FR-27122
 fr-82-27176,82 FR 27176,decree,,2017-06-14,2017-06-14,,0,https://www.federalregister.gov/citation/82-FR-27176
@@ -1508,6 +1542,13 @@ fr-82-29384,82 FR 29384,decree,,2017-06-29,2017-06-29,2017-08-28,1,https://www.f
 fr-82-29385,82 FR 29385,decree,,2017-06-29,2017-06-29,2017-08-28,1,https://www.federalregister.gov/citation/82-FR-29385
 fr-82-29386,82 FR 29386,decree,,2017-06-29,2017-06-29,2017-08-28,1,https://www.federalregister.gov/citation/82-FR-29386
 fr-82-29387,82 FR 29387,decree,,2017-06-29,2017-06-29,2017-08-28,1,https://www.federalregister.gov/citation/82-FR-29387
+fr-82-29390,82 FR 29390,decree,,2017-06-29,2017-06-29,2017-07-01 2018-01-01,2,https://www.federalregister.gov/citation/82-FR-29390
+fr-82-29392,82 FR 29392,decree,,2017-06-29,2017-06-29,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-29392
+fr-82-29393,82 FR 29393,decree,,2017-06-29,2017-06-29,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-29393
+fr-82-29394,82 FR 29394,decree,,2017-06-29,2017-06-29,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-29394
+fr-82-29395,82 FR 29395,decree,,2017-06-29,2017-06-29,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-29395
+fr-82-29396,82 FR 29396,decree,,2017-06-29,2017-06-29,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-29396
+fr-82-29397,82 FR 29397,decree,,2017-06-29,2017-06-29,2017-07-01,1,https://www.federalregister.gov/citation/82-FR-29397
 fr-82-29706,82 FR 29706,decree,,2017-06-30,2017-06-30,,0,https://www.federalregister.gov/citation/82-FR-29706
 fr-82-29712,82 FR 29712,decree,,2017-06-30,2017-06-30,2017-06-30,1,https://www.federalregister.gov/citation/82-FR-29712
 fr-82-29713,82 FR 29713,decree,,2017-06-30,2017-06-30,2017-06-30,1,https://www.federalregister.gov/citation/82-FR-29713
@@ -1815,6 +1856,7 @@ fr-82-51149,82 FR 51149,decree,,2017-11-03,2017-11-03,,0,https://www.federalregi
 fr-82-51333,82 FR 51333,decree,,2017-11-06,2017-11-06,2017-11-06,1,https://www.federalregister.gov/citation/82-FR-51333
 fr-82-51334,82 FR 51334,decree,,2017-11-06,2017-11-06,2017-12-01,1,https://www.federalregister.gov/citation/82-FR-51334
 fr-82-51755,82 FR 51755,decree,,2017-11-08,2017-11-08,2017-12-08,1,https://www.federalregister.gov/citation/82-FR-51755
+fr-82-51757,82 FR 51757,decree,,2017-11-08,2017-11-08,2017-11-08,1,https://www.federalregister.gov/citation/82-FR-51757
 fr-82-51974,82 FR 51974,decree,,2017-11-09,2017-11-09,2018-01-01,1,https://www.federalregister.gov/citation/82-FR-51974
 fr-82-51977,82 FR 51977,decree,,2017-11-09,2017-11-09,2018-01-01,1,https://www.federalregister.gov/citation/82-FR-51977
 fr-82-51985,82 FR 51985,decree,,2017-11-09,2017-11-09,2017-11-09,1,https://www.federalregister.gov/citation/82-FR-51985
@@ -1942,6 +1984,7 @@ fr-83-13,83 FR 13,decree,,2018-01-02,2018-01-02,2018-01-02,1,https://www.federal
 fr-83-14,83 FR 14,decree,,2018-01-02,2018-01-02,2018-01-02,1,https://www.federalregister.gov/citation/83-FR-14
 fr-83-31,83 FR 31,decree,,2018-01-02,2018-01-02,2018-01-02,1,https://www.federalregister.gov/citation/83-FR-31
 fr-83-33,83 FR 33,decree,,2018-01-02,2018-01-02,,0,https://www.federalregister.gov/citation/83-FR-33
+fr-83-7,83 FR 7,decree,,2018-01-02,2018-01-02,2018-02-01,1,https://www.federalregister.gov/citation/83-FR-7
 fr-83-451,83 FR 451,decree,,2018-01-03,2018-01-03,2018-01-03,1,https://www.federalregister.gov/citation/83-FR-451
 fr-83-452,83 FR 452,decree,,2018-01-03,2018-01-03,2018-01-03,1,https://www.federalregister.gov/citation/83-FR-452
 fr-83-453,83 FR 453,decree,,2018-01-03,2018-01-03,2018-01-03,1,https://www.federalregister.gov/citation/83-FR-453
@@ -1976,6 +2019,7 @@ fr-83-1545,83 FR 1545,decree,,2018-01-12,2018-01-12,2018-03-13,1,https://www.fed
 fr-83-1546,83 FR 1546,decree,,2018-01-12,2018-01-12,2018-03-13,1,https://www.federalregister.gov/citation/83-FR-1546
 fr-83-1547,83 FR 1547,decree,,2018-01-12,2018-01-12,2018-03-13,1,https://www.federalregister.gov/citation/83-FR-1547
 fr-83-1548,83 FR 1548,decree,,2018-01-12,2018-01-12,2018-03-13,1,https://www.federalregister.gov/citation/83-FR-1548
+fr-83-1552,83 FR 1552,decree,,2018-01-12,2018-01-12,2018-01-12,1,https://www.federalregister.gov/citation/83-FR-1552
 fr-83-1556,83 FR 1556,decree,,2018-01-12,2018-01-12,2018-01-12,1,https://www.federalregister.gov/citation/83-FR-1556
 fr-83-2031,83 FR 2031,decree,,2018-01-16,2018-01-16,2018-01-16,1,https://www.federalregister.gov/citation/83-FR-2031
 fr-83-2056,83 FR 2056,decree,,2018-01-16,2018-01-16,2018-01-16,1,https://www.federalregister.gov/citation/83-FR-2056
@@ -2089,6 +2133,7 @@ fr-83-9428,83 FR 9428,decree,,2018-03-06,2018-03-06,2018-03-06,1,https://www.fed
 fr-83-9439,83 FR 9439,decree,,2018-03-06,2018-03-06,2018-04-05,1,https://www.federalregister.gov/citation/83-FR-9439
 fr-83-9442,83 FR 9442,decree,,2018-03-06,2018-03-06,2018-03-06,1,https://www.federalregister.gov/citation/83-FR-9442
 fr-83-9446,83 FR 9446,decree,,2018-03-06,2018-03-06,2018-03-06,1,https://www.federalregister.gov/citation/83-FR-9446
+fr-83-9697,83 FR 9697,decree,,2018-03-07,2018-03-07,2018-03-07,1,https://www.federalregister.gov/citation/83-FR-9697
 fr-83-9700,83 FR 9700,decree,,2018-03-07,2018-03-07,2018-03-07,1,https://www.federalregister.gov/citation/83-FR-9700
 fr-83-9702,83 FR 9702,decree,,2018-03-07,2018-03-07,2018-03-07,1,https://www.federalregister.gov/citation/83-FR-9702
 fr-83-9703,83 FR 9703,decree,,2018-03-07,2018-03-07,2018-03-07,1,https://www.federalregister.gov/citation/83-FR-9703
@@ -2096,6 +2141,7 @@ fr-83-9712,83 FR 9712,decree,,2018-03-07,2018-03-07,2018-03-07,1,https://www.fed
 fr-83-10382,83 FR 10382,decree,,2018-03-09,2018-03-09,,0,https://www.federalregister.gov/citation/83-FR-10382
 fr-83-10559,83 FR 10559,decree,,2018-03-12,2018-03-12,2018-04-19,1,https://www.federalregister.gov/citation/83-FR-10559
 fr-83-10568,83 FR 10568,decree,,2018-03-12,2018-03-12,2018-04-27,1,https://www.federalregister.gov/citation/83-FR-10568
+fr-83-10569,83 FR 10569,decree,,2018-03-12,2018-03-12,2018-03-12,1,https://www.federalregister.gov/citation/83-FR-10569
 fr-83-10638,83 FR 10638,decree,,2018-03-12,2018-03-12,2018-03-12,1,https://www.federalregister.gov/citation/83-FR-10638
 fr-83-10799,83 FR 10799,decree,,2018-03-13,2018-03-13,2018-03-13,1,https://www.federalregister.gov/citation/83-FR-10799
 fr-83-11130,83 FR 11130,decree,,2018-03-14,2018-03-14,2018-03-14,1,https://www.federalregister.gov/citation/83-FR-11130
@@ -2113,6 +2159,7 @@ fr-83-11866,83 FR 11866,decree,,2018-03-19,2018-03-19,2018-04-18,1,https://www.f
 fr-83-11867,83 FR 11867,decree,,2018-03-19,2018-03-19,2018-04-18,1,https://www.federalregister.gov/citation/83-FR-11867
 fr-83-11869,83 FR 11869,decree,,2018-03-19,2018-03-19,2018-03-19,1,https://www.federalregister.gov/citation/83-FR-11869
 fr-83-11870,83 FR 11870,decree,,2018-03-19,2018-03-19,2018-03-19,1,https://www.federalregister.gov/citation/83-FR-11870
+fr-83-11876,83 FR 11876,decree,,2018-03-19,2018-03-19,2018-03-19,1,https://www.federalregister.gov/citation/83-FR-11876
 fr-83-11885,83 FR 11885,decree,,2018-03-19,2018-03-19,2018-04-18,1,https://www.federalregister.gov/citation/83-FR-11885
 fr-83-12265,83 FR 12265,decree,,2018-03-21,2018-03-21,2018-03-21,1,https://www.federalregister.gov/citation/83-FR-12265
 fr-83-12268,83 FR 12268,decree,,2018-03-21,2018-03-21,2018-03-21,1,https://www.federalregister.gov/citation/83-FR-12268
@@ -2225,6 +2272,7 @@ fr-83-22836,83 FR 22836,decree,,2018-05-17,2018-05-17,2018-06-18,1,https://www.f
 fr-83-22844,83 FR 22844,decree,,2018-05-17,2018-05-17,,0,https://www.federalregister.gov/citation/83-FR-22844
 fr-83-23208,83 FR 23208,decree,,2018-05-18,2018-05-18,2018-05-18,1,https://www.federalregister.gov/citation/83-FR-23208
 fr-83-23209,83 FR 23209,decree,,2018-05-18,2018-05-18,2018-05-18,1,https://www.federalregister.gov/citation/83-FR-23209
+fr-83-23808,83 FR 23808,decree,,2018-05-23,2018-05-23,2018-06-22,1,https://www.federalregister.gov/citation/83-FR-23808
 fr-83-24009,83 FR 24009,decree,,2018-05-24,2018-05-24,2018-06-25,1,https://www.federalregister.gov/citation/83-FR-24009
 fr-83-24010,83 FR 24010,decree,,2018-05-24,2018-05-24,2018-06-25,1,https://www.federalregister.gov/citation/83-FR-24010
 fr-83-24011,83 FR 24011,decree,,2018-05-24,2018-05-24,2018-06-25,1,https://www.federalregister.gov/citation/83-FR-24011
@@ -2245,6 +2293,7 @@ fr-83-25882,83 FR 25882,decree,,2018-06-05,2018-06-05,2018-06-05,1,https://www.f
 fr-83-26205,83 FR 26205,decree,,2018-06-06,2018-06-06,2018-12-20,1,https://www.federalregister.gov/citation/83-FR-26205
 fr-83-26210,83 FR 26210,decree,,2018-06-06,2018-06-06,2018-09-10,1,https://www.federalregister.gov/citation/83-FR-26210
 fr-83-26349,83 FR 26349,decree,,2018-06-07,2018-06-07,2018-10-01,1,https://www.federalregister.gov/citation/83-FR-26349
+fr-83-26355,83 FR 26355,decree,,2018-06-07,2018-06-07,2018-07-01,1,https://www.federalregister.gov/citation/83-FR-26355
 fr-83-26548,83 FR 26548,decree,,2018-06-08,2018-06-08,,0,https://www.federalregister.gov/citation/83-FR-26548
 fr-83-26588,83 FR 26588,decree,,2018-06-08,2018-06-08,2018-07-12,1,https://www.federalregister.gov/citation/83-FR-26588
 fr-83-26592,83 FR 26592,decree,,2018-06-08,2018-06-08,2018-06-08,1,https://www.federalregister.gov/citation/83-FR-26592
@@ -2394,6 +2443,7 @@ fr-83-36453,83 FR 36453,decree,,2018-07-30,2018-07-30,2018-08-29,1,https://www.f
 fr-83-36454,83 FR 36454,decree,,2018-07-30,2018-07-30,2018-08-29,1,https://www.federalregister.gov/citation/83-FR-36454
 fr-83-36455,83 FR 36455,decree,,2018-07-30,2018-07-30,2018-08-29,1,https://www.federalregister.gov/citation/83-FR-36455
 fr-83-36456,83 FR 36456,decree,,2018-07-30,2018-07-30,2018-08-29,1,https://www.federalregister.gov/citation/83-FR-36456
+fr-83-36715,83 FR 36715,decree,,2018-07-30,2018-07-30,2018-09-13,1,https://www.federalregister.gov/citation/83-FR-36715
 fr-83-37439,83 FR 37439,decree,,2018-08-01,2018-08-01,2018-12-21,1,https://www.federalregister.gov/citation/83-FR-37439
 fr-83-37440,83 FR 37440,decree,,2018-08-01,2018-08-01,2018-08-31,1,https://www.federalregister.gov/citation/83-FR-37440
 fr-83-37446,83 FR 37446,decree,,2018-08-01,2018-08-01,2018-08-01,1,https://www.federalregister.gov/citation/83-FR-37446
@@ -2471,6 +2521,9 @@ fr-83-44198,83 FR 44198,decree,,2018-08-30,2018-08-30,2018-08-30,1,https://www.f
 fr-83-44199,83 FR 44199,decree,,2018-08-30,2018-08-30,2018-08-30,1,https://www.federalregister.gov/citation/83-FR-44199
 fr-83-44238,83 FR 44238,decree,,2018-08-30,2018-08-30,,0,https://www.federalregister.gov/citation/83-FR-44238
 fr-83-44455,83 FR 44455,decree,,2018-08-31,2018-08-31,2018-08-31,1,https://www.federalregister.gov/citation/83-FR-44455
+fr-83-44472,83 FR 44472,decree,,2018-08-31,2018-08-31,2018-10-01,1,https://www.federalregister.gov/citation/83-FR-44472
+fr-83-44473,83 FR 44473,decree,,2018-08-31,2018-08-31,2018-10-01,1,https://www.federalregister.gov/citation/83-FR-44473
+fr-83-44474,83 FR 44474,decree,,2018-08-31,2018-08-31,2018-10-01,1,https://www.federalregister.gov/citation/83-FR-44474
 fr-83-44503,83 FR 44503,decree,,2018-08-31,2018-08-31,2018-10-01,1,https://www.federalregister.gov/citation/83-FR-44503
 fr-83-44742,83 FR 44742,decree,,2018-08-31,2018-08-31,2018-10-30,1,https://www.federalregister.gov/citation/83-FR-44742
 fr-83-45032,83 FR 45032,decree,,2018-09-05,2018-09-05,2018-09-05,1,https://www.federalregister.gov/citation/83-FR-45032
@@ -2516,6 +2569,7 @@ fr-83-48219,83 FR 48219,decree,,2018-09-24,2018-09-24,2019-01-15,1,https://www.f
 fr-83-48244,83 FR 48244,decree,,2018-09-24,2018-09-24,2018-10-25,1,https://www.federalregister.gov/citation/83-FR-48244
 fr-83-48252,83 FR 48252,decree,,2018-09-24,2018-09-24,2018-10-25,1,https://www.federalregister.gov/citation/83-FR-48252
 fr-83-48255,83 FR 48255,decree,,2018-09-24,2018-09-24,2018-10-24,1,https://www.federalregister.gov/citation/83-FR-48255
+fr-83-48373,83 FR 48373,decree,,2018-09-25,2018-09-25,2018-09-25,1,https://www.federalregister.gov/citation/83-FR-48373
 fr-83-48542,83 FR 48542,decree,,2018-09-26,2018-09-26,2018-09-26,1,https://www.federalregister.gov/citation/83-FR-48542
 fr-83-48546,83 FR 48546,decree,,2018-09-26,2018-09-26,2018-09-26,1,https://www.federalregister.gov/citation/83-FR-48546
 fr-83-49296,83 FR 49296,decree,,2018-10-01,2018-10-01,,0,https://www.federalregister.gov/citation/83-FR-49296
@@ -2592,6 +2646,7 @@ fr-83-52996,83 FR 52996,decree,,2018-10-19,2018-10-19,2019-04-08,1,https://www.f
 fr-83-53002,83 FR 53002,decree,,2018-10-19,2018-10-19,2018-10-19,1,https://www.federalregister.gov/citation/83-FR-53002
 fr-83-53366,83 FR 53366,decree,,2018-10-23,2018-10-23,2018-11-23,1,https://www.federalregister.gov/citation/83-FR-53366
 fr-83-53375,83 FR 53375,decree,,2018-10-23,2018-10-23,2019-08-01,1,https://www.federalregister.gov/citation/83-FR-53375
+fr-83-53575,83 FR 53575,decree,,2018-10-24,2018-10-24,2018-10-24,1,https://www.federalregister.gov/citation/83-FR-53575
 fr-83-53750,83 FR 53750,decree,,2018-10-24,2018-10-24,2018-10-25,1,https://www.federalregister.gov/citation/83-FR-53750
 fr-83-53751,83 FR 53751,decree,,2018-10-24,2018-10-24,2018-10-25,1,https://www.federalregister.gov/citation/83-FR-53751
 fr-83-53793,83 FR 53793,decree,,2018-10-24,2018-10-24,2018-10-25 2018-12-20,2,https://www.federalregister.gov/citation/83-FR-53793
@@ -2758,6 +2813,7 @@ fr-83-66597,83 FR 66597,decree,,2018-12-27,2018-12-27,,0,https://www.federalregi
 fr-83-66603,83 FR 66603,decree,,2018-12-27,2018-12-27,2019-01-01,1,https://www.federalregister.gov/citation/83-FR-66603
 fr-83-66607,83 FR 66607,decree,,2018-12-27,2018-12-27,2019-01-28,1,https://www.federalregister.gov/citation/83-FR-66607
 fr-83-66616,83 FR 66616,decree,,2018-12-27,2018-12-27,2018-12-27,1,https://www.federalregister.gov/citation/83-FR-66616
+fr-83-67068,83 FR 67068,decree,,2018-12-28,2018-12-28,2019-03-28,1,https://www.federalregister.gov/citation/83-FR-67068
 fr-83-67074,83 FR 67074,decree,,2018-12-28,2018-12-28,2018-12-28,1,https://www.federalregister.gov/citation/83-FR-67074
 fr-83-67097,83 FR 67097,decree,,2018-12-28,2018-12-28,2019-01-15,1,https://www.federalregister.gov/citation/83-FR-67097
 fr-83-67690,83 FR 67690,decree,,2018-12-31,2018-12-31,2018-12-31,1,https://www.federalregister.gov/citation/83-FR-67690
@@ -2770,10 +2826,12 @@ fr-84-514,84 FR 514,decree,,2019-01-31,2019-01-31,,0,https://www.federalregister
 fr-84-517,84 FR 517,decree,,2019-01-31,2019-01-31,2019-01-31,1,https://www.federalregister.gov/citation/84-FR-517
 fr-84-520,84 FR 520,decree,,2019-01-31,2019-01-31,2019-01-31,1,https://www.federalregister.gov/citation/84-FR-520
 fr-84-529,84 FR 529,decree,,2019-01-31,2019-01-31,2019-01-31,1,https://www.federalregister.gov/citation/84-FR-529
+fr-84-968,84 FR 968,decree,,2019-02-01,2019-02-01,2019-02-01,1,https://www.federalregister.gov/citation/84-FR-968
 fr-84-977,84 FR 977,decree,,2019-02-01,2019-02-01,2019-05-14,1,https://www.federalregister.gov/citation/84-FR-977
 fr-84-1345,84 FR 1345,decree,,2019-02-04,2019-02-04,2019-02-04,1,https://www.federalregister.gov/citation/84-FR-1345
 fr-84-1353,84 FR 1353,decree,,2019-02-04,2019-02-04,2019-03-06,1,https://www.federalregister.gov/citation/84-FR-1353
 fr-84-1355,84 FR 1355,decree,,2019-02-04,2019-02-04,2019-02-04,1,https://www.federalregister.gov/citation/84-FR-1355
+fr-84-1359,84 FR 1359,decree,,2019-02-04,2019-02-04,2019-02-04,1,https://www.federalregister.gov/citation/84-FR-1359
 fr-84-1404,84 FR 1404,decree,,2019-02-04,2019-02-04,2019-02-04 2019-08-19,2,https://www.federalregister.gov/citation/84-FR-1404
 fr-84-1407,84 FR 1407,decree,,2019-02-04,2019-02-04,2019-02-04,1,https://www.federalregister.gov/citation/84-FR-1407
 fr-84-1408,84 FR 1408,decree,,2019-02-04,2019-02-04,2019-02-04,1,https://www.federalregister.gov/citation/84-FR-1408
@@ -2826,6 +2884,7 @@ fr-84-3669,84 FR 3669,decree,,2019-02-13,2019-02-13,2019-02-13,1,https://www.fed
 fr-84-3673,84 FR 3673,decree,,2019-02-13,2019-02-13,2019-02-25,1,https://www.federalregister.gov/citation/84-FR-3673
 fr-84-3714,84 FR 3714,decree,,2019-02-13,2019-02-13,2019-03-15,1,https://www.federalregister.gov/citation/84-FR-3714
 fr-84-3981,84 FR 3981,decree,,2019-02-14,2019-02-14,2019-02-14,1,https://www.federalregister.gov/citation/84-FR-3981
+fr-84-3983,84 FR 3983,decree,,2019-02-14,2019-02-14,2019-02-14,1,https://www.federalregister.gov/citation/84-FR-3983
 fr-84-3991,84 FR 3991,decree,,2019-02-14,2019-02-14,,0,https://www.federalregister.gov/citation/84-FR-3991
 fr-84-4237,84 FR 4237,decree,,2019-02-14,2019-02-14,,0,https://www.federalregister.gov/citation/84-FR-4237
 fr-84-4238,84 FR 4238,decree,,2019-02-14,2019-02-14,2019-07-01,1,https://www.federalregister.gov/citation/84-FR-4238
@@ -2864,6 +2923,7 @@ fr-84-5940,84 FR 5940,decree,,2019-02-22,2019-02-22,2019-08-21,1,https://www.fed
 fr-84-5950,84 FR 5950,decree,,2019-02-22,2019-02-22,2019-08-21,1,https://www.federalregister.gov/citation/84-FR-5950
 fr-84-6054,84 FR 6054,decree,,2019-02-26,2019-02-26,2019-02-26,1,https://www.federalregister.gov/citation/84-FR-6054
 fr-84-6055,84 FR 6055,decree,,2019-02-26,2019-02-26,2019-02-26,1,https://www.federalregister.gov/citation/84-FR-6055
+fr-84-6075,84 FR 6075,decree,,2019-02-26,2019-02-26,2019-03-27,1,https://www.federalregister.gov/citation/84-FR-6075
 fr-84-6079,84 FR 6079,decree,,2019-02-26,2019-02-26,2019-02-26,1,https://www.federalregister.gov/citation/84-FR-6079
 fr-84-6345,84 FR 6345,decree,,2019-02-27,2019-02-27,,0,https://www.federalregister.gov/citation/84-FR-6345
 fr-84-6531,84 FR 6531,decree,,2019-02-27,2019-02-27,2019-02-27,1,https://www.federalregister.gov/citation/84-FR-6531
@@ -2895,6 +2955,8 @@ fr-84-6696,84 FR 6696,decree,,2019-02-28,2019-02-28,2019-02-28,1,https://www.fed
 fr-84-6697,84 FR 6697,decree,,2019-02-28,2019-02-28,2019-02-28,1,https://www.federalregister.gov/citation/84-FR-6697
 fr-84-6959,84 FR 6959,decree,,2019-03-01,2019-03-01,,0,https://www.federalregister.gov/citation/84-FR-6959
 fr-84-6962,84 FR 6962,decree,,2019-03-01,2019-03-01,2019-03-04,1,https://www.federalregister.gov/citation/84-FR-6962
+fr-84-7282,84 FR 7282,decree,,2019-03-04,2019-03-04,2019-05-03,1,https://www.federalregister.gov/citation/84-FR-7282
+fr-84-7283,84 FR 7283,decree,,2019-03-04,2019-03-04,2019-05-03,1,https://www.federalregister.gov/citation/84-FR-7283
 fr-84-7284,84 FR 7284,decree,,2019-03-04,2019-03-04,2019-03-04,1,https://www.federalregister.gov/citation/84-FR-7284
 fr-84-7285,84 FR 7285,decree,,2019-03-04,2019-03-04,2019-03-04,1,https://www.federalregister.gov/citation/84-FR-7285
 fr-84-7301,84 FR 7301,decree,,2019-03-04,2019-03-04,2019-04-03,1,https://www.federalregister.gov/citation/84-FR-7301
@@ -2907,6 +2969,7 @@ fr-84-7704,84 FR 7704,decree,,2019-03-04,2019-03-04,2019-03-04,1,https://www.fed
 fr-84-7705,84 FR 7705,decree,,2019-03-04,2019-03-04,2019-03-04,1,https://www.federalregister.gov/citation/84-FR-7705
 fr-84-7987,84 FR 7987,decree,,2019-03-06,2019-03-06,2019-03-06,1,https://www.federalregister.gov/citation/84-FR-7987
 fr-84-7988,84 FR 7988,decree,,2019-03-06,2019-03-06,2019-03-06,1,https://www.federalregister.gov/citation/84-FR-7988
+fr-84-7991,84 FR 7991,decree,,2019-03-06,2019-03-06,2019-04-05,1,https://www.federalregister.gov/citation/84-FR-7991
 fr-84-8001,84 FR 8001,decree,,2019-03-06,2019-03-06,2019-04-05,1,https://www.federalregister.gov/citation/84-FR-8001
 fr-84-8003,84 FR 8003,decree,,2019-03-06,2019-03-06,2019-03-06 2019-04-05,2,https://www.federalregister.gov/citation/84-FR-8003
 fr-84-8247,84 FR 8247,decree,,2019-03-07,2019-03-07,2019-04-30,1,https://www.federalregister.gov/citation/84-FR-8247
@@ -2967,6 +3030,7 @@ fr-84-9950,84 FR 9950,decree,,2019-03-19,2019-03-19,2019-03-19,1,https://www.fed
 fr-84-9956,84 FR 9956,decree,,2019-03-19,2019-03-19,2019-03-19,1,https://www.federalregister.gov/citation/84-FR-9956
 fr-84-9961,84 FR 9961,decree,,2019-03-19,2019-03-19,2019-03-19,1,https://www.federalregister.gov/citation/84-FR-9961
 fr-84-10265,84 FR 10265,decree,,2019-03-20,2019-03-20,,0,https://www.federalregister.gov/citation/84-FR-10265
+fr-84-10410,84 FR 10410,decree,,2019-03-21,2019-03-21,2019-03-21,1,https://www.federalregister.gov/citation/84-FR-10410
 fr-84-10411,84 FR 10411,decree,,2019-03-21,2019-03-21,2019-04-22,1,https://www.federalregister.gov/citation/84-FR-10411
 fr-84-10435,84 FR 10435,decree,,2019-03-21,2019-03-21,,0,https://www.federalregister.gov/citation/84-FR-10435
 fr-84-10436,84 FR 10436,decree,,2019-03-21,2019-03-21,,0,https://www.federalregister.gov/citation/84-FR-10436
@@ -3086,6 +3150,7 @@ fr-84-16773,84 FR 16773,decree,,2019-04-23,2019-04-23,2019-04-23,1,https://www.f
 fr-84-16791,84 FR 16791,decree,,2019-04-23,2019-04-23,2019-04-23,1,https://www.federalregister.gov/citation/84-FR-16791
 fr-84-16792,84 FR 16792,decree,,2019-04-23,2019-04-23,2019-04-23,1,https://www.federalregister.gov/citation/84-FR-16792
 fr-84-17062,84 FR 17062,decree,,2019-04-24,2019-04-24,2019-05-24,1,https://www.federalregister.gov/citation/84-FR-17062
+fr-84-17078,84 FR 17078,decree,,2019-04-24,2019-04-24,,0,https://www.federalregister.gov/citation/84-FR-17078
 fr-84-17082,84 FR 17082,decree,,2019-04-24,2019-04-24,2019-04-24,1,https://www.federalregister.gov/citation/84-FR-17082
 fr-84-17345,84 FR 17345,decree,,2019-04-25,2019-04-25,2019-05-28,1,https://www.federalregister.gov/citation/84-FR-17345
 fr-84-17359,84 FR 17359,decree,,2019-04-25,2019-04-25,2019-04-25,1,https://www.federalregister.gov/citation/84-FR-17359
@@ -3176,7 +3241,8 @@ fr-84-27028,84 FR 27028,decree,,2019-06-11,2019-06-11,2019-07-11,1,https://www.f
 fr-84-27029,84 FR 27029,decree,,2019-06-11,2019-06-11,2019-07-11,1,https://www.federalregister.gov/citation/84-FR-27029
 fr-84-27030,84 FR 27030,decree,,2019-06-11,2019-06-11,2019-07-11,1,https://www.federalregister.gov/citation/84-FR-27030
 fr-84-27034,84 FR 27034,decree,,2019-06-11,2019-06-11,2019-07-11,1,https://www.federalregister.gov/citation/84-FR-27034
-fr-84-27035,84 FR 27035,decree,,2019-06-11,2019-06-11,2019-07-11,1,https://www.federalregister.gov/citation/84-FR-27035
+fr-84-27035,84 FR 27035,decree,,2019-06-11,2019-06-11,2019-07-11 2020-03-24,2,https://www.federalregister.gov/citation/84-FR-27035
+fr-84-27036,84 FR 27036,decree,,2019-06-11,2019-06-11,2019-07-01,1,https://www.federalregister.gov/citation/84-FR-27036
 fr-84-27041,84 FR 27041,decree,,2019-06-11,2019-06-11,,0,https://www.federalregister.gov/citation/84-FR-27041
 fr-84-27199,84 FR 27199,decree,,2019-06-12,2019-06-12,2019-07-12,1,https://www.federalregister.gov/citation/84-FR-27199
 fr-84-27452,84 FR 27452,decree,,2019-06-13,2019-06-13,2019-07-15,1,https://www.federalregister.gov/citation/84-FR-27452
@@ -3234,6 +3300,7 @@ fr-84-29967,84 FR 29967,decree,,2019-06-25,2019-06-25,2019-08-09,1,https://www.f
 fr-84-30595,84 FR 30595,decree,,2019-06-27,2019-06-27,2019-12-06,1,https://www.federalregister.gov/citation/84-FR-30595
 fr-84-30597,84 FR 30597,decree,,2019-06-27,2019-06-27,2019-09-25,1,https://www.federalregister.gov/citation/84-FR-30597
 fr-84-30608,84 FR 30608,decree,,2019-06-27,2019-06-27,2019-09-25,1,https://www.federalregister.gov/citation/84-FR-30608
+fr-84-30628,84 FR 30628,decree,,2019-06-27,2019-06-27,2019-08-26,1,https://www.federalregister.gov/citation/84-FR-30628
 fr-84-30861,84 FR 30861,decree,,2019-06-28,2019-06-28,2019-06-30,1,https://www.federalregister.gov/citation/84-FR-30861
 fr-84-30863,84 FR 30863,decree,,2019-06-28,2019-06-28,2019-07-01,1,https://www.federalregister.gov/citation/84-FR-30863
 fr-84-30919,84 FR 30919,decree,,2019-06-28,2019-06-28,,0,https://www.federalregister.gov/citation/84-FR-30919
@@ -3340,6 +3407,8 @@ fr-84-35823,84 FR 35823,decree,,2019-07-25,2019-07-25,2019-08-26,1,https://www.f
 fr-84-35832,84 FR 35832,decree,,2019-07-25,2019-07-25,,0,https://www.federalregister.gov/citation/84-FR-35832
 fr-84-35989,84 FR 35989,decree,,2019-07-26,2019-07-26,2019-08-26,1,https://www.federalregister.gov/citation/84-FR-35989
 fr-84-36005,84 FR 36005,decree,,2019-07-26,2019-07-26,2019-09-24,1,https://www.federalregister.gov/citation/84-FR-36005
+fr-84-36386,84 FR 36386,decree,,2019-07-26,2019-07-26,2019-09-24,1,https://www.federalregister.gov/citation/84-FR-36386
+fr-84-36428,84 FR 36428,decree,,2019-07-26,2019-07-26,2020-10-01,1,https://www.federalregister.gov/citation/84-FR-36428
 fr-84-36456,84 FR 36456,decree,,2019-07-29,2019-07-29,2019-08-28,1,https://www.federalregister.gov/citation/84-FR-36456
 fr-84-36461,84 FR 36461,decree,,2019-07-29,2019-07-29,2019-08-01,1,https://www.federalregister.gov/citation/84-FR-36461
 fr-84-36813,84 FR 36813,decree,,2019-07-30,2019-07-30,2019-08-29,1,https://www.federalregister.gov/citation/84-FR-36813
@@ -3469,7 +3538,7 @@ fr-84-46421,84 FR 46421,decree,,2019-09-04,2019-09-04,2019-09-15,1,https://www.f
 fr-84-46422,84 FR 46422,decree,,2019-09-04,2019-09-04,2019-09-15,1,https://www.federalregister.gov/citation/84-FR-46422
 fr-84-46423,84 FR 46423,decree,,2019-09-04,2019-09-04,2019-09-15,1,https://www.federalregister.gov/citation/84-FR-46423
 fr-84-46426,84 FR 46426,decree,,2019-09-04,2019-09-04,2019-09-04,1,https://www.federalregister.gov/citation/84-FR-46426
-fr-84-46440,84 FR 46440,decree,,2019-09-04,2019-09-04,2019-09-04,1,https://www.federalregister.gov/citation/84-FR-46440
+fr-84-46440,84 FR 46440,decree,,2019-09-04,2019-09-04,2019-09-04 2020-12-17,2,https://www.federalregister.gov/citation/84-FR-46440
 fr-84-46658,84 FR 46658,decree,,2019-09-05,2019-09-05,,0,https://www.federalregister.gov/citation/84-FR-46658
 fr-84-46882,84 FR 46882,decree,,2019-09-06,2019-09-06,2019-12-16,1,https://www.federalregister.gov/citation/84-FR-46882
 fr-84-47885,84 FR 47885,decree,,2019-09-11,2019-09-11,2019-10-11,1,https://www.federalregister.gov/citation/84-FR-47885
@@ -3625,6 +3694,7 @@ fr-84-56678,84 FR 56678,decree,,2019-10-23,2019-10-23,2019-10-23,1,https://www.f
 fr-84-56689,84 FR 56689,decree,,2019-10-23,2019-10-23,2020-01-20,1,https://www.federalregister.gov/citation/84-FR-56689
 fr-84-56933,84 FR 56933,decree,,2019-10-24,2019-10-24,2019-11-25,1,https://www.federalregister.gov/citation/84-FR-56933
 fr-84-56934,84 FR 56934,decree,,2019-10-24,2019-10-24,2019-11-25,1,https://www.federalregister.gov/citation/84-FR-56934
+fr-84-56941,84 FR 56941,decree,,2019-10-24,2019-10-24,2019-11-25,1,https://www.federalregister.gov/citation/84-FR-56941
 fr-84-57234,84 FR 57234,decree,,2019-10-24,2019-10-24,2019-12-23,1,https://www.federalregister.gov/citation/84-FR-57234
 fr-84-57318,84 FR 57318,decree,,2019-10-25,2019-10-25,2020-01-27,1,https://www.federalregister.gov/citation/84-FR-57318
 fr-84-57343,84 FR 57343,decree,,2019-10-25,2019-10-25,2019-10-25,1,https://www.federalregister.gov/citation/84-FR-57343
@@ -4002,6 +4072,7 @@ fr-85-2007,85 FR 2007,decree,,2020-01-14,2020-01-14,2020-01-14,1,https://www.fed
 fr-85-2011,85 FR 2011,decree,,2020-01-14,2020-01-14,2020-01-14,1,https://www.federalregister.gov/citation/85-FR-2011
 fr-85-2014,85 FR 2014,decree,,2020-01-14,2020-01-14,2020-01-15,1,https://www.federalregister.gov/citation/85-FR-2014
 fr-85-2016,85 FR 2016,decree,,2020-01-14,2020-01-14,2020-01-14,1,https://www.federalregister.gov/citation/85-FR-2016
+fr-85-2018,85 FR 2018,decree,,2020-01-14,2020-01-14,2020-01-14,1,https://www.federalregister.gov/citation/85-FR-2018
 fr-85-2280,85 FR 2280,decree,,2020-01-15,2020-01-15,2020-01-15,1,https://www.federalregister.gov/citation/85-FR-2280
 fr-85-2281,85 FR 2281,decree,,2020-01-15,2020-01-15,2020-01-15,1,https://www.federalregister.gov/citation/85-FR-2281
 fr-85-2283,85 FR 2283,decree,,2020-01-15,2020-01-15,2020-01-15,1,https://www.federalregister.gov/citation/85-FR-2283
@@ -4113,6 +4184,7 @@ fr-85-6427,85 FR 6427,decree,,2020-02-05,2020-02-05,2020-02-05,1,https://www.fed
 fr-85-6444,85 FR 6444,decree,,2020-02-05,2020-02-05,2020-04-06,1,https://www.federalregister.gov/citation/85-FR-6444
 fr-85-6445,85 FR 6445,decree,,2020-02-05,2020-02-05,2020-04-06,1,https://www.federalregister.gov/citation/85-FR-6445
 fr-85-6446,85 FR 6446,decree,,2020-02-05,2020-02-05,2020-04-06,1,https://www.federalregister.gov/citation/85-FR-6446
+fr-85-6760,85 FR 6760,decree,,2020-02-06,2020-02-06,2020-02-06,1,https://www.federalregister.gov/citation/85-FR-6760
 fr-85-6803,85 FR 6803,decree,,2020-02-06,2020-02-06,2020-02-06,1,https://www.federalregister.gov/citation/85-FR-6803
 fr-85-6813,85 FR 6813,decree,,2020-02-06,2020-02-06,2020-03-09,1,https://www.federalregister.gov/citation/85-FR-6813
 fr-85-7069,85 FR 7069,decree,,2020-02-06,2020-02-06,2020-04-06,1,https://www.federalregister.gov/citation/85-FR-7069
@@ -4166,6 +4238,7 @@ fr-85-9370,85 FR 9370,decree,,2020-02-19,2020-02-19,2020-02-19,1,https://www.fed
 fr-85-9389,85 FR 9389,decree,,2020-02-19,2020-02-19,2020-03-20,1,https://www.federalregister.gov/citation/85-FR-9389
 fr-85-9390,85 FR 9390,decree,,2020-02-19,2020-02-19,2020-03-20,1,https://www.federalregister.gov/citation/85-FR-9390
 fr-85-9661,85 FR 9661,decree,,2020-02-20,2020-02-20,2020-02-21,1,https://www.federalregister.gov/citation/85-FR-9661
+fr-85-9663,85 FR 9663,decree,,2020-02-20,2020-02-20,2020-03-23,1,https://www.federalregister.gov/citation/85-FR-9663
 fr-85-9675,85 FR 9675,decree,,2020-02-20,2020-02-20,2020-03-23,1,https://www.federalregister.gov/citation/85-FR-9675
 fr-85-10277,85 FR 10277,decree,,2020-02-24,2020-02-24,2020-03-02,1,https://www.federalregister.gov/citation/85-FR-10277
 fr-85-10300,85 FR 10300,decree,,2020-02-24,2020-02-24,2020-03-25,1,https://www.federalregister.gov/citation/85-FR-10300
@@ -4173,6 +4246,7 @@ fr-85-10306,85 FR 10306,decree,,2020-02-24,2020-02-24,2020-03-25,1,https://www.f
 fr-85-10564,85 FR 10564,decree,,2020-02-25,2020-02-25,2020-03-26,1,https://www.federalregister.gov/citation/85-FR-10564
 fr-85-10565,85 FR 10565,decree,,2020-02-25,2020-02-25,2020-03-26,1,https://www.federalregister.gov/citation/85-FR-10565
 fr-85-10568,85 FR 10568,decree,,2020-02-25,2020-02-25,,0,https://www.federalregister.gov/citation/85-FR-10568
+fr-85-10585,85 FR 10585,decree,,2020-02-25,2020-02-25,2020-04-27,1,https://www.federalregister.gov/citation/85-FR-10585
 fr-85-10616,85 FR 10616,decree,,2020-02-25,2020-02-25,2020-02-25,1,https://www.federalregister.gov/citation/85-FR-10616
 fr-85-10617,85 FR 10617,decree,,2020-02-25,2020-02-25,2020-02-25,1,https://www.federalregister.gov/citation/85-FR-10617
 fr-85-10847,85 FR 10847,decree,,2020-02-25,2020-02-25,2020-02-25,1,https://www.federalregister.gov/citation/85-FR-10847
@@ -4283,6 +4357,7 @@ fr-85-15629,85 FR 15629,decree,,2020-03-18,2020-03-18,2020-03-18,1,https://www.f
 fr-85-15630,85 FR 15630,decree,,2020-03-18,2020-03-18,2020-03-18,1,https://www.federalregister.gov/citation/85-FR-15630
 fr-85-15632,85 FR 15632,decree,,2020-03-18,2020-03-18,2020-03-18,1,https://www.federalregister.gov/citation/85-FR-15632
 fr-85-15635,85 FR 15635,decree,,2020-03-18,2020-03-18,2020-03-18,1,https://www.federalregister.gov/citation/85-FR-15635
+fr-85-15713,85 FR 15713,decree,,2020-03-19,2020-03-19,2020-03-19,1,https://www.federalregister.gov/citation/85-FR-15713
 fr-85-15732,85 FR 15732,decree,,2020-03-19,2020-03-19,2020-03-19,1,https://www.federalregister.gov/citation/85-FR-15732
 fr-85-15733,85 FR 15733,decree,,2020-03-19,2020-03-19,2020-03-19,1,https://www.federalregister.gov/citation/85-FR-15733
 fr-85-15915,85 FR 15915,decree,,2020-03-20,2020-03-20,2020-03-20,1,https://www.federalregister.gov/citation/85-FR-15915
@@ -4312,7 +4387,7 @@ fr-85-16526,85 FR 16526,decree,,2020-03-24,2020-03-24,2020-12-11,1,https://www.f
 fr-85-16528,85 FR 16528,decree,,2020-03-24,2020-03-24,2020-03-24,1,https://www.federalregister.gov/citation/85-FR-16528
 fr-85-16529,85 FR 16529,decree,,2020-03-24,2020-03-24,2020-03-24,1,https://www.federalregister.gov/citation/85-FR-16529
 fr-85-16530,85 FR 16530,decree,,2020-03-24,2020-03-24,2020-03-24,1,https://www.federalregister.gov/citation/85-FR-16530
-fr-85-16546,85 FR 16546,decree,,2020-03-24,2020-03-24,2020-03-24,1,https://www.federalregister.gov/citation/85-FR-16546
+fr-85-16546,85 FR 16546,decree,,2020-03-24,2020-03-24,2020-03-24 2020-04-01,2,https://www.federalregister.gov/citation/85-FR-16546
 fr-85-16559,85 FR 16559,decree,,2020-03-24,2020-03-24,2020-03-24,1,https://www.federalregister.gov/citation/85-FR-16559
 fr-85-16892,85 FR 16892,decree,,2020-03-25,2020-03-25,,0,https://www.federalregister.gov/citation/85-FR-16892
 fr-85-17006,85 FR 17006,decree,,2020-03-26,2020-03-26,2020-03-26,1,https://www.federalregister.gov/citation/85-FR-17006
@@ -4333,6 +4408,7 @@ fr-85-19086,85 FR 19086,decree,,2020-04-06,2020-04-06,2020-04-06,1,https://www.f
 fr-85-19377,85 FR 19377,decree,,2020-04-07,2020-04-07,2020-05-07,1,https://www.federalregister.gov/citation/85-FR-19377
 fr-85-19379,85 FR 19379,decree,,2020-04-07,2020-04-07,2020-05-07,1,https://www.federalregister.gov/citation/85-FR-19379
 fr-85-19380,85 FR 19380,decree,,2020-04-07,2020-04-07,2020-05-07,1,https://www.federalregister.gov/citation/85-FR-19380
+fr-85-19386,85 FR 19386,decree,,2020-04-07,2020-04-07,2020-04-07,1,https://www.federalregister.gov/citation/85-FR-19386
 fr-85-19654,85 FR 19654,decree,,2020-04-08,2020-04-08,2020-05-08,1,https://www.federalregister.gov/citation/85-FR-19654
 fr-85-19655,85 FR 19655,decree,,2020-04-08,2020-04-08,2020-05-08,1,https://www.federalregister.gov/citation/85-FR-19655
 fr-85-19830,85 FR 19830,decree,,2020-04-08,2020-04-08,,0,https://www.federalregister.gov/citation/85-FR-19830
@@ -4592,6 +4668,7 @@ fr-85-40016,85 FR 40016,decree,,2020-07-02,2020-07-02,,0,https://www.federalregi
 fr-85-40017,85 FR 40017,decree,,2020-07-02,2020-07-02,2020-07-02,1,https://www.federalregister.gov/citation/85-FR-40017
 fr-85-40019,85 FR 40019,decree,,2020-07-02,2020-07-02,,0,https://www.federalregister.gov/citation/85-FR-40019
 fr-85-40419,85 FR 40419,decree,,2020-07-02,2020-07-02,2020-07-06,1,https://www.federalregister.gov/citation/85-FR-40419
+fr-85-40115,85 FR 40115,decree,,2020-07-06,2020-07-06,2020-08-05 2021-03-29,2,https://www.federalregister.gov/citation/85-FR-40115
 fr-85-40121,85 FR 40121,decree,,2020-07-06,2020-07-06,2020-07-06,1,https://www.federalregister.gov/citation/85-FR-40121
 fr-85-40131,85 FR 40131,decree,,2020-07-06,2020-07-06,2020-07-06,1,https://www.federalregister.gov/citation/85-FR-40131
 fr-85-40417,85 FR 40417,decree,,2020-07-06,2020-07-06,2020-07-06,1,https://www.federalregister.gov/citation/85-FR-40417
@@ -4969,6 +5046,9 @@ fr-85-54073,85 FR 54073,decree,,2020-08-31,2020-08-31,2021-01-01,1,https://www.f
 fr-85-54256,85 FR 54256,decree,,2020-09-01,2020-09-01,2020-10-01,1,https://www.federalregister.gov/citation/85-FR-54256
 fr-85-54263,85 FR 54263,decree,,2020-09-01,2020-09-01,2020-09-01,1,https://www.federalregister.gov/citation/85-FR-54263
 fr-85-54490,85 FR 54490,decree,,2020-09-02,2020-09-02,2021-01-14 2021-03-15,2,https://www.federalregister.gov/citation/85-FR-54490
+fr-85-54732,85 FR 54732,decree,,2020-09-02,2020-09-02,2020-12-31 2021-02-04,2,https://www.federalregister.gov/citation/85-FR-54732
+fr-85-54733,85 FR 54733,decree,,2020-09-02,2020-09-02,2020-12-31,1,https://www.federalregister.gov/citation/85-FR-54733
+fr-85-54735,85 FR 54735,decree,,2020-09-02,2020-09-02,,0,https://www.federalregister.gov/citation/85-FR-54735
 fr-85-54926,85 FR 54926,decree,,2020-09-03,2020-09-03,,0,https://www.federalregister.gov/citation/85-FR-54926
 fr-85-55154,85 FR 55154,decree,,2020-09-03,2020-09-03,2020-11-02 2020-11-09,2,https://www.federalregister.gov/citation/85-FR-55154
 fr-85-55155,85 FR 55155,decree,,2020-09-03,2020-09-03,2020-11-02,1,https://www.federalregister.gov/citation/85-FR-55155
@@ -5703,6 +5783,7 @@ fr-85-86480,85 FR 86480,decree,,2020-12-30,2020-12-30,2021-01-29,1,https://www.f
 fr-85-86481,85 FR 86481,decree,,2020-12-30,2020-12-30,2021-01-29,1,https://www.federalregister.gov/citation/85-FR-86481
 fr-85-86492,85 FR 86492,decree,,2020-12-30,2020-12-30,2020-12-30,1,https://www.federalregister.gov/citation/85-FR-86492
 fr-85-86511,85 FR 86511,decree,,2020-12-30,2020-12-30,,0,https://www.federalregister.gov/citation/85-FR-86511
+fr-85-86725,85 FR 86725,decree,,2020-12-30,2020-12-30,2021-02-16,1,https://www.federalregister.gov/citation/85-FR-86725
 fr-85-86750,85 FR 86750,decree,,2020-12-30,2020-12-30,2021-04-30,1,https://www.federalregister.gov/citation/85-FR-86750
 fr-85-86788,85 FR 86788,decree,,2020-12-30,2020-12-30,2021-04-29 2021-04-30,2,https://www.federalregister.gov/citation/85-FR-86788
 fr-85-86789,85 FR 86789,decree,,2020-12-30,2020-12-30,2021-04-30,1,https://www.federalregister.gov/citation/85-FR-86789
@@ -5946,6 +6027,8 @@ fr-86-8097,86 FR 8097,decree,,2021-02-03,2021-02-03,2021-03-05,1,https://www.fed
 fr-86-8104,86 FR 8104,decree,,2021-02-03,2021-02-03,2021-03-05,1,https://www.federalregister.gov/citation/86-FR-8104
 fr-86-8130,86 FR 8130,decree,,2021-02-04,2021-02-04,2021-02-04,1,https://www.federalregister.gov/citation/86-FR-8130
 fr-86-8131,86 FR 8131,decree,,2021-02-04,2021-02-04,2021-02-04,1,https://www.federalregister.gov/citation/86-FR-8131
+fr-86-8133,86 FR 8133,decree,,2021-02-04,2021-02-04,2021-02-04,1,https://www.federalregister.gov/citation/86-FR-8133
+fr-86-8140,86 FR 8140,decree,,2021-02-04,2021-02-04,2021-04-05,1,https://www.federalregister.gov/citation/86-FR-8140
 fr-86-8283,86 FR 8283,decree,,2021-02-05,2021-02-05,,0,https://www.federalregister.gov/citation/86-FR-8283
 fr-86-8687,86 FR 8687,decree,,2021-02-09,2021-02-09,2021-02-25,1,https://www.federalregister.gov/citation/86-FR-8687
 fr-86-8696,86 FR 8696,decree,,2021-02-09,2021-02-09,2021-03-11,1,https://www.federalregister.gov/citation/86-FR-8696
@@ -5956,6 +6039,7 @@ fr-86-8707,86 FR 8707,decree,,2021-02-09,2021-02-09,2021-02-09,1,https://www.fed
 fr-86-8710,86 FR 8710,decree,,2021-02-09,2021-02-09,2021-02-09,1,https://www.federalregister.gov/citation/86-FR-8710
 fr-86-8713,86 FR 8713,decree,,2021-02-09,2021-02-09,2021-02-09,1,https://www.federalregister.gov/citation/86-FR-8713
 fr-86-8854,86 FR 8854,decree,,2021-02-10,2021-02-10,2021-02-10,1,https://www.federalregister.gov/citation/86-FR-8854
+fr-86-8855,86 FR 8855,decree,,2021-02-10,2021-02-10,2021-02-10,1,https://www.federalregister.gov/citation/86-FR-8855
 fr-86-9001,86 FR 9001,decree,,2021-02-11,2021-02-11,,0,https://www.federalregister.gov/citation/86-FR-9001
 fr-86-9023,86 FR 9023,decree,,2021-02-11,2021-02-11,2021-04-12,1,https://www.federalregister.gov/citation/86-FR-9023
 fr-86-9202,86 FR 9202,decree,,2021-02-11,2021-02-11,,0,https://www.federalregister.gov/citation/86-FR-9202
@@ -6029,6 +6113,7 @@ fr-86-12095,86 FR 12095,decree,,2021-03-02,2021-03-02,2021-04-01,1,https://www.f
 fr-86-12106,86 FR 12106,decree,,2021-03-02,2021-03-02,2021-04-01,1,https://www.federalregister.gov/citation/86-FR-12106
 fr-86-12110,86 FR 12110,decree,,2021-03-02,2021-03-02,2021-04-01,1,https://www.federalregister.gov/citation/86-FR-12110
 fr-86-12114,86 FR 12114,decree,,2021-03-02,2021-03-02,2021-05-03,1,https://www.federalregister.gov/citation/86-FR-12114
+fr-86-12257,86 FR 12257,decree,,2021-03-03,2021-03-03,2021-03-03,1,https://www.federalregister.gov/citation/86-FR-12257
 fr-85-12833,85 FR 12833,decree,,2021-03-05,2021-03-05,2021-03-05,1,https://www.federalregister.gov/citation/85-FR-12833
 fr-86-12802,86 FR 12802,decree,,2021-03-05,2021-03-05,2021-04-05,1,https://www.federalregister.gov/citation/86-FR-12802
 fr-86-13178,86 FR 13178,decree,,2021-03-08,2021-03-08,,0,https://www.federalregister.gov/citation/86-FR-13178
@@ -6064,6 +6149,7 @@ fr-86-15596,86 FR 15596,decree,,2021-03-24,2021-03-24,2021-04-23,1,https://www.f
 fr-86-15600,86 FR 15600,decree,,2021-03-24,2021-03-24,2021-05-24,1,https://www.federalregister.gov/citation/86-FR-15600
 fr-86-16035,86 FR 16035,decree,,2021-03-26,2021-03-26,2021-04-26,1,https://www.federalregister.gov/citation/86-FR-16035
 fr-86-16289,86 FR 16289,decree,,2021-03-29,2021-03-29,2021-04-28,1,https://www.federalregister.gov/citation/86-FR-16289
+fr-86-16302,86 FR 16302,decree,,2021-03-29,2021-03-29,2021-06-28,1,https://www.federalregister.gov/citation/86-FR-16302
 fr-86-16475,86 FR 16475,decree,,2021-03-29,2021-03-29,2021-04-28,1,https://www.federalregister.gov/citation/86-FR-16475
 fr-86-16476,86 FR 16476,decree,,2021-03-29,2021-03-29,2021-04-28,1,https://www.federalregister.gov/citation/86-FR-16476
 fr-86-16487,86 FR 16487,decree,,2021-03-29,2021-03-29,2021-03-29,1,https://www.federalregister.gov/citation/86-FR-16487
@@ -6103,6 +6189,7 @@ fr-86-20290,86 FR 20290,decree,,2021-04-19,2021-04-19,2021-04-21,1,https://www.f
 fr-86-20293,86 FR 20293,decree,,2021-04-19,2021-04-19,2021-04-19,1,https://www.federalregister.gov/citation/86-FR-20293
 fr-86-20437,86 FR 20437,decree,,2021-04-20,2021-04-20,2021-04-20,1,https://www.federalregister.gov/citation/86-FR-20437
 fr-86-20438,86 FR 20438,decree,,2021-04-20,2021-04-20,2021-04-20,1,https://www.federalregister.gov/citation/86-FR-20438
+fr-86-20630,86 FR 20630,decree,,2021-04-21,2021-04-21,,0,https://www.federalregister.gov/citation/86-FR-20630
 fr-86-21208,86 FR 21208,decree,,2021-04-22,2021-04-22,2021-05-24,1,https://www.federalregister.gov/citation/86-FR-21208
 fr-86-21934,86 FR 21934,decree,,2021-04-26,2021-04-26,2021-05-26,1,https://www.federalregister.gov/citation/86-FR-21934
 fr-86-21935,86 FR 21935,decree,,2021-04-26,2021-04-26,2021-05-26,1,https://www.federalregister.gov/citation/86-FR-21935
@@ -6173,6 +6260,7 @@ fr-86-24727,86 FR 24727,decree,,2021-05-10,2021-05-10,2021-05-10,1,https://www.f
 fr-86-24729,86 FR 24729,decree,,2021-05-10,2021-05-10,,0,https://www.federalregister.gov/citation/86-FR-24729
 fr-86-24731,86 FR 24731,decree,,2021-05-10,2021-05-10,2021-05-10,1,https://www.federalregister.gov/citation/86-FR-24731
 fr-86-25805,86 FR 25805,decree,,2021-05-11,2021-05-11,2021-05-11,1,https://www.federalregister.gov/citation/86-FR-25805
+fr-86-26160,86 FR 26160,decree,,2021-05-13,2021-05-13,2021-06-14,1,https://www.federalregister.gov/citation/86-FR-26160
 fr-86-26182,86 FR 26182,decree,,2021-05-13,2021-05-13,2021-05-13,1,https://www.federalregister.gov/citation/86-FR-26182
 fr-86-26183,86 FR 26183,decree,,2021-05-13,2021-05-13,2021-05-13,1,https://www.federalregister.gov/citation/86-FR-26183
 fr-86-26353,86 FR 26353,decree,,2021-05-14,2021-05-14,,0,https://www.federalregister.gov/citation/86-FR-26353
@@ -6198,10 +6286,14 @@ fr-86-27990,86 FR 27990,decree,,2021-05-25,2021-05-25,2021-05-25,1,https://www.f
 fr-86-28241,86 FR 28241,decree,,2021-05-26,2021-05-26,2021-05-26,1,https://www.federalregister.gov/citation/86-FR-28241
 fr-86-28247,86 FR 28247,decree,,2021-05-26,2021-05-26,2022-01-01,1,https://www.federalregister.gov/citation/86-FR-28247
 fr-86-28250,86 FR 28250,decree,,2021-05-26,2021-05-26,2021-06-25,1,https://www.federalregister.gov/citation/86-FR-28250
+fr-86-28262,86 FR 28262,decree,,2021-05-26,2021-05-26,2021-07-01,1,https://www.federalregister.gov/citation/86-FR-28262
+fr-86-28263,86 FR 28263,decree,,2021-05-26,2021-05-26,2021-07-01,1,https://www.federalregister.gov/citation/86-FR-28263
 fr-86-28473,86 FR 28473,decree,,2021-05-27,2021-05-27,2021-05-27,1,https://www.federalregister.gov/citation/86-FR-28473
 fr-86-29195,86 FR 29195,decree,,2021-06-01,2021-06-01,,0,https://www.federalregister.gov/citation/86-FR-29195
 fr-86-29196,86 FR 29196,decree,,2021-06-01,2021-06-01,2022-01-05,1,https://www.federalregister.gov/citation/86-FR-29196
 fr-86-29483,86 FR 29483,decree,,2021-06-02,2021-06-02,2021-06-02,1,https://www.federalregister.gov/citation/86-FR-29483
+fr-86-29502,86 FR 29502,decree,,2021-06-02,2021-06-02,2021-08-02,1,https://www.federalregister.gov/citation/86-FR-29502
+fr-86-29506,86 FR 29506,decree,,2021-06-02,2021-06-02,2021-08-02,1,https://www.federalregister.gov/citation/86-FR-29506
 fr-86-29522,86 FR 29522,decree,,2021-06-02,2021-06-02,,0,https://www.federalregister.gov/citation/86-FR-29522
 fr-86-29938,86 FR 29938,decree,,2021-06-04,2021-06-04,,0,https://www.federalregister.gov/citation/86-FR-29938
 fr-86-30213,86 FR 30213,decree,,2021-06-07,2021-06-07,2021-08-06,1,https://www.federalregister.gov/citation/86-FR-30213
@@ -6403,6 +6495,8 @@ fr-86-41893,86 FR 41893,decree,,2021-08-04,2021-08-04,2021-08-04,1,https://www.f
 fr-86-41894,86 FR 41894,decree,,2021-08-04,2021-08-04,2021-08-04,1,https://www.federalregister.gov/citation/86-FR-41894
 fr-86-41903,86 FR 41903,decree,,2021-08-04,2021-08-04,2022-03-03,1,https://www.federalregister.gov/citation/86-FR-41903
 fr-86-42681,86 FR 42681,decree,,2021-08-05,2021-08-05,,0,https://www.federalregister.gov/citation/86-FR-42681
+fr-86-42714,86 FR 42714,decree,,2021-08-05,2021-08-05,2021-10-04,1,https://www.federalregister.gov/citation/86-FR-42714
+fr-86-42715,86 FR 42715,decree,,2021-08-05,2021-08-05,2021-10-04,1,https://www.federalregister.gov/citation/86-FR-42715
 fr-86-42716,86 FR 42716,decree,,2021-08-05,2021-08-05,2021-08-05,1,https://www.federalregister.gov/citation/86-FR-42716
 fr-86-43390,86 FR 43390,decree,,2021-08-09,2021-08-09,2021-08-09,1,https://www.federalregister.gov/citation/86-FR-43390
 fr-86-43391,86 FR 43391,decree,,2021-08-09,2021-08-09,2021-08-09,1,https://www.federalregister.gov/citation/86-FR-43391
@@ -6492,6 +6586,10 @@ fr-86-50609,86 FR 50609,decree,,2021-09-10,2021-09-10,2021-09-10,1,https://www.f
 fr-86-50610,86 FR 50610,decree,,2021-09-10,2021-09-10,2021-09-10,1,https://www.federalregister.gov/citation/86-FR-50610
 fr-86-50624,86 FR 50624,decree,,2021-09-10,2021-09-10,2021-11-09,1,https://www.federalregister.gov/citation/86-FR-50624
 fr-86-50625,86 FR 50625,decree,,2021-09-10,2021-09-10,2021-11-09,1,https://www.federalregister.gov/citation/86-FR-50625
+fr-86-50632,86 FR 50632,decree,,2021-09-10,2021-09-10,2021-10-12,1,https://www.federalregister.gov/citation/86-FR-50632
+fr-86-50633,86 FR 50633,decree,,2021-09-10,2021-09-10,2021-10-12,1,https://www.federalregister.gov/citation/86-FR-50633
+fr-86-50635,86 FR 50635,decree,,2021-09-10,2021-09-10,2021-10-12,1,https://www.federalregister.gov/citation/86-FR-50635
+fr-86-50636,86 FR 50636,decree,,2021-09-10,2021-09-10,2021-10-12,1,https://www.federalregister.gov/citation/86-FR-50636
 fr-86-50642,86 FR 50642,decree,,2021-09-10,2021-09-10,2021-09-10,1,https://www.federalregister.gov/citation/86-FR-50642
 fr-86-50839,86 FR 50839,decree,,2021-09-13,2021-09-13,2021-10-13,1,https://www.federalregister.gov/citation/86-FR-50839
 fr-86-50841,86 FR 50841,decree,,2021-09-13,2021-09-13,2021-10-01,1,https://www.federalregister.gov/citation/86-FR-50841
@@ -6523,6 +6621,11 @@ fr-86-52952,86 FR 52952,decree,,2021-09-24,2021-09-24,2021-10-01,1,https://www.f
 fr-86-52957,86 FR 52957,decree,,2021-09-24,2021-09-24,,0,https://www.federalregister.gov/citation/86-FR-52957
 fr-86-52959,86 FR 52959,decree,,2021-09-24,2021-09-24,2021-09-24,1,https://www.federalregister.gov/citation/86-FR-52959
 fr-86-52964,86 FR 52964,decree,,2021-09-24,2021-09-24,2021-09-24,1,https://www.federalregister.gov/citation/86-FR-52964
+fr-86-52965,86 FR 52965,decree,,2021-09-24,2021-09-24,2021-10-01,1,https://www.federalregister.gov/citation/86-FR-52965
+fr-86-52967,86 FR 52967,decree,,2021-09-24,2021-09-24,2021-10-01,1,https://www.federalregister.gov/citation/86-FR-52967
+fr-86-52968,86 FR 52968,decree,,2021-09-24,2021-09-24,2021-10-01,1,https://www.federalregister.gov/citation/86-FR-52968
+fr-86-52969,86 FR 52969,decree,,2021-09-24,2021-09-24,2021-10-01,1,https://www.federalregister.gov/citation/86-FR-52969
+fr-86-52970,86 FR 52970,decree,,2021-09-24,2021-09-24,2021-10-01,1,https://www.federalregister.gov/citation/86-FR-52970
 fr-86-52972,86 FR 52972,decree,,2021-09-24,2021-09-24,2021-09-24 2022-01-01,2,https://www.federalregister.gov/citation/86-FR-52972
 fr-86-52973,86 FR 52973,decree,,2021-09-24,2021-09-24,2021-09-24,1,https://www.federalregister.gov/citation/86-FR-52973
 fr-86-52986,86 FR 52986,decree,,2021-09-24,2021-09-24,2021-11-23,1,https://www.federalregister.gov/citation/86-FR-52986
@@ -6551,6 +6654,7 @@ fr-86-54384,86 FR 54384,decree,,2021-10-01,2021-10-01,2021-10-31,1,https://www.f
 fr-86-54385,86 FR 54385,decree,,2021-10-01,2021-10-01,2021-10-31,1,https://www.federalregister.gov/citation/86-FR-54385
 fr-86-54386,86 FR 54386,decree,,2021-10-01,2021-10-01,2021-10-31,1,https://www.federalregister.gov/citation/86-FR-54386
 fr-86-54527,86 FR 54527,decree,,2021-10-01,2021-10-01,,0,https://www.federalregister.gov/citation/86-FR-54527
+fr-86-54611,86 FR 54611,decree,,2021-10-04,2021-10-04,2021-12-03,1,https://www.federalregister.gov/citation/86-FR-54611
 fr-86-54613,86 FR 54613,decree,,2021-10-04,2021-10-04,2021-10-04,1,https://www.federalregister.gov/citation/86-FR-54613
 fr-86-54627,86 FR 54627,decree,,2021-10-04,2021-10-04,,0,https://www.federalregister.gov/citation/86-FR-54627
 fr-86-54629,86 FR 54629,decree,,2021-10-04,2021-10-04,,0,https://www.federalregister.gov/citation/86-FR-54629
@@ -6858,6 +6962,10 @@ fr-87-1065,87 FR 1065,decree,,2022-01-10,2022-01-10,2022-01-10,1,https://www.fed
 fr-87-1326,87 FR 1326,decree,,2022-01-11,2022-01-11,2022-01-11,2,https://www.federalregister.gov/citation/87-FR-1326
 fr-87-1327,87 FR 1327,decree,,2022-01-11,2022-01-11,2022-01-11,1,https://www.federalregister.gov/citation/87-FR-1327
 fr-87-1332,87 FR 1332,decree,,2022-01-11,2022-01-11,2022-01-15,1,https://www.federalregister.gov/citation/87-FR-1332
+fr-87-1513,87 FR 1513,decree,,2022-01-11,2022-01-11,,0,https://www.federalregister.gov/citation/87-FR-1513
+fr-87-1514,87 FR 1514,decree,,2022-01-11,2022-01-11,2022-04-11,1,https://www.federalregister.gov/citation/87-FR-1514
+fr-87-1515,87 FR 1515,decree,,2022-01-11,2022-01-11,2022-04-11,1,https://www.federalregister.gov/citation/87-FR-1515
+fr-87-1519,87 FR 1519,decree,,2022-01-11,2022-01-11,,0,https://www.federalregister.gov/citation/87-FR-1519
 fr-87-1661,87 FR 1661,decree,,2022-01-12,2022-01-12,,0,https://www.federalregister.gov/citation/87-FR-1661
 fr-87-1662,87 FR 1662,decree,,2022-01-12,2022-01-12,,0,https://www.federalregister.gov/citation/87-FR-1662
 fr-87-1678,87 FR 1678,decree,,2022-01-12,2022-01-12,2022-01-12,1,https://www.federalregister.gov/citation/87-FR-1678
@@ -6865,6 +6973,7 @@ fr-87-1687,87 FR 1687,decree,,2022-01-12,2022-01-12,2022-01-12,1,https://www.fed
 fr-87-2030,87 FR 2030,decree,,2022-01-13,2022-01-13,2022-02-14 2022-12-01,2,https://www.federalregister.gov/citation/87-FR-2030
 fr-87-2032,87 FR 2032,decree,,2022-01-13,2022-01-13,2022-01-13,1,https://www.federalregister.gov/citation/87-FR-2032
 fr-87-2035,87 FR 2035,decree,,2022-01-13,2022-01-13,2022-01-13,1,https://www.federalregister.gov/citation/87-FR-2035
+fr-87-2037,87 FR 2037,decree,,2022-01-13,2022-01-13,2022-01-13,1,https://www.federalregister.gov/citation/87-FR-2037
 fr-87-2067,87 FR 2067,decree,,2022-01-13,2022-01-13,2022-01-13,1,https://www.federalregister.gov/citation/87-FR-2067
 fr-87-2312,87 FR 2312,decree,,2022-01-14,2022-01-14,2022-01-14,1,https://www.federalregister.gov/citation/87-FR-2312
 fr-87-2313,87 FR 2313,decree,,2022-01-14,2022-01-14,2022-01-14,1,https://www.federalregister.gov/citation/87-FR-2313
@@ -6877,9 +6986,11 @@ fr-87-2524,87 FR 2524,decree,,2022-01-18,2022-01-18,2022-01-18,1,https://www.fed
 fr-87-2525,87 FR 2525,decree,,2022-01-18,2022-01-18,2022-01-18,1,https://www.federalregister.gov/citation/87-FR-2525
 fr-87-2554,87 FR 2554,decree,,2022-01-18,2022-01-18,,0,https://www.federalregister.gov/citation/87-FR-2554
 fr-87-2557,87 FR 2557,decree,,2022-01-18,2022-01-18,2022-02-17,1,https://www.federalregister.gov/citation/87-FR-2557
+fr-87-2702,87 FR 2702,decree,,2022-01-19,2022-01-19,2022-04-11,1,https://www.federalregister.gov/citation/87-FR-2702
 fr-87-2728,87 FR 2728,decree,,2022-01-19,2022-01-19,2022-01-19,1,https://www.federalregister.gov/citation/87-FR-2728
 fr-87-2729,87 FR 2729,decree,,2022-01-19,2022-01-19,2022-01-19,1,https://www.federalregister.gov/citation/87-FR-2729
 fr-87-3176,87 FR 3176,decree,,2022-01-21,2022-01-21,2022-01-21,1,https://www.federalregister.gov/citation/87-FR-3176
+fr-87-3190,87 FR 3190,decree,,2022-01-21,2022-01-21,2022-01-21,1,https://www.federalregister.gov/citation/87-FR-3190
 fr-87-3445,87 FR 3445,decree,,2022-01-24,2022-01-24,,0,https://www.federalregister.gov/citation/87-FR-3445
 fr-87-3449,87 FR 3449,decree,,2022-01-24,2022-01-24,2022-01-24,1,https://www.federalregister.gov/citation/87-FR-3449
 fr-87-3654,87 FR 3654,decree,,2022-01-25,2022-01-25,2022-01-25,1,https://www.federalregister.gov/citation/87-FR-3654
@@ -6925,6 +7036,7 @@ fr-87-8202,87 FR 8202,decree,,2022-02-14,2022-02-14,2022-02-14,1,https://www.fed
 fr-87-8203,87 FR 8203,decree,,2022-02-14,2022-02-14,2022-02-14,1,https://www.federalregister.gov/citation/87-FR-8203
 fr-87-8204,87 FR 8204,decree,,2022-02-14,2022-02-14,2022-02-14,1,https://www.federalregister.gov/citation/87-FR-8204
 fr-87-8395,87 FR 8395,decree,,2022-02-15,2022-02-15,2022-02-15,1,https://www.federalregister.gov/citation/87-FR-8395
+fr-87-8411,87 FR 8411,decree,,2022-02-15,2022-02-15,2022-04-11,1,https://www.federalregister.gov/citation/87-FR-8411
 fr-87-8424,87 FR 8424,decree,,2022-02-15,2022-02-15,2022-03-17,1,https://www.federalregister.gov/citation/87-FR-8424
 fr-87-8426,87 FR 8426,decree,,2022-02-15,2022-02-15,2022-03-17,1,https://www.federalregister.gov/citation/87-FR-8426
 fr-87-8673,87 FR 8673,decree,,2022-02-15,2022-02-15,2022-08-15,1,https://www.federalregister.gov/citation/87-FR-8673
@@ -6996,6 +7108,7 @@ fr-87-15865,87 FR 15865,decree,,2022-03-21,2022-03-21,2022-03-21,1,https://www.f
 fr-87-16094,87 FR 16094,decree,,2022-03-22,2022-03-22,2022-04-21,1,https://www.federalregister.gov/citation/87-FR-16094
 fr-87-16375,87 FR 16375,decree,,2022-03-23,2022-03-23,,0,https://www.federalregister.gov/citation/87-FR-16375
 fr-87-16386,87 FR 16386,decree,,2022-03-23,2022-03-23,2022-04-22,1,https://www.federalregister.gov/citation/87-FR-16386
+fr-87-16391,87 FR 16391,decree,,2022-03-23,2022-03-23,2022-03-23,1,https://www.federalregister.gov/citation/87-FR-16391
 fr-87-16634,87 FR 16634,decree,,2022-03-24,2022-03-24,2022-03-24,1,https://www.federalregister.gov/citation/87-FR-16634
 fr-87-17011,87 FR 17011,decree,,2022-03-25,2022-03-25,,0,https://www.federalregister.gov/citation/87-FR-17011
 fr-87-18215,87 FR 18215,decree,,2022-03-29,2022-03-29,2022-05-31,1,https://www.federalregister.gov/citation/87-FR-18215
@@ -7105,6 +7218,7 @@ fr-87-30830,87 FR 30830,decree,,2022-05-20,2022-05-20,2022-05-24,1,https://www.f
 fr-87-31190,87 FR 31190,decree,,2022-05-23,2022-05-23,2022-05-23,1,https://www.federalregister.gov/citation/87-FR-31190
 fr-87-31414,87 FR 31414,decree,,2022-05-24,2022-05-24,2022-09-21,1,https://www.federalregister.gov/citation/87-FR-31414
 fr-87-31415,87 FR 31415,decree,,2022-05-24,2022-05-24,2022-09-21,1,https://www.federalregister.gov/citation/87-FR-31415
+fr-87-31417,87 FR 31417,decree,,2022-05-24,2022-05-24,2022-07-01,1,https://www.federalregister.gov/citation/87-FR-31417
 fr-87-31672,87 FR 31672,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.federalregister.gov/citation/87-FR-31672
 fr-87-31673,87 FR 31673,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.federalregister.gov/citation/87-FR-31673
 fr-87-31675,87 FR 31675,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.federalregister.gov/citation/87-FR-31675
@@ -7129,6 +7243,7 @@ fr-87-31693,87 FR 31693,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.f
 fr-87-31694,87 FR 31694,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.federalregister.gov/citation/87-FR-31694
 fr-87-31695,87 FR 31695,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.federalregister.gov/citation/87-FR-31695
 fr-87-31696,87 FR 31696,decree,,2022-05-24,2022-05-24,2022-06-01,1,https://www.federalregister.gov/citation/87-FR-31696
+fr-87-31730,87 FR 31730,decree,,2022-05-25,2022-05-25,2022-06-24,1,https://www.federalregister.gov/citation/87-FR-31730
 fr-87-31742,87 FR 31742,decree,,2022-05-25,2022-05-25,2022-05-25,1,https://www.federalregister.gov/citation/87-FR-31742
 fr-87-31951,87 FR 31951,decree,,2022-05-26,2022-05-26,2022-10-07,1,https://www.federalregister.gov/citation/87-FR-31951
 fr-87-32094,87 FR 32094,decree,,2022-05-27,2022-05-27,2022-05-27,1,https://www.federalregister.gov/citation/87-FR-32094
@@ -7725,6 +7840,7 @@ fr-88-1883,88 FR 1883,decree,,2023-01-11,2023-01-11,2023-01-11,1,https://www.fed
 fr-88-1891,88 FR 1891,decree,,2023-01-11,2023-01-11,2023-01-11 2023-11-28,2,https://www.federalregister.gov/citation/88-FR-1891
 fr-88-1892,88 FR 1892,decree,,2023-01-11,2023-01-11,2023-01-11 2023-11-28,2,https://www.federalregister.gov/citation/88-FR-1892
 fr-88-1979,88 FR 1979,decree,,2023-01-12,2023-01-12,2023-02-13,1,https://www.federalregister.gov/citation/88-FR-1979
+fr-88-1991,88 FR 1991,decree,,2023-01-12,2023-01-12,2023-01-12,1,https://www.federalregister.gov/citation/88-FR-1991
 fr-88-1992,88 FR 1992,decree,,2023-01-12,2023-01-12,2023-01-12,1,https://www.federalregister.gov/citation/88-FR-1992
 fr-88-2006,88 FR 2006,decree,,2023-01-12,2023-01-12,2023-01-12,1,https://www.federalregister.gov/citation/88-FR-2006
 fr-88-2182,88 FR 2182,decree,,2023-01-13,2023-01-13,2023-01-13,2,https://www.federalregister.gov/citation/88-FR-2182
@@ -7846,6 +7962,9 @@ fr-88-6160,88 FR 6160,decree,,2023-01-31,2023-01-31,,0,https://www.federalregist
 fr-88-6164,88 FR 6164,decree,,2023-01-31,2023-01-31,2023-03-02,1,https://www.federalregister.gov/citation/88-FR-6164
 fr-88-6642,88 FR 6642,decree,,2023-02-01,2023-02-01,2023-02-01,1,https://www.federalregister.gov/citation/88-FR-6642
 fr-88-6971,88 FR 6971,decree,,2023-02-02,2023-02-02,,0,https://www.federalregister.gov/citation/88-FR-6971
+fr-88-6992,88 FR 6992,decree,,2023-02-02,2023-02-02,2023-02-02,1,https://www.federalregister.gov/citation/88-FR-6992
+fr-88-7006,88 FR 7006,decree,,2023-02-02,2023-02-02,2023-03-06,1,https://www.federalregister.gov/citation/88-FR-7006
+fr-88-7007,88 FR 7007,decree,,2023-02-02,2023-02-02,2023-03-06,1,https://www.federalregister.gov/citation/88-FR-7007
 fr-88-7010,88 FR 7010,decree,,2023-02-02,2023-02-02,2023-02-02,1,https://www.federalregister.gov/citation/88-FR-7010
 fr-88-7561,88 FR 7561,decree,,2023-02-06,2023-02-06,2023-05-08,1,https://www.federalregister.gov/citation/88-FR-7561
 fr-88-7562,88 FR 7562,decree,,2023-02-06,2023-02-06,2023-05-08,1,https://www.federalregister.gov/citation/88-FR-7562
@@ -8078,6 +8197,7 @@ fr-88-27393,88 FR 27393,decree,,2023-05-01,2023-05-01,,0,https://www.federalregi
 fr-88-27635,88 FR 27635,decree,,2023-05-02,2023-05-02,2023-06-01,1,https://www.federalregister.gov/citation/88-FR-27635
 fr-88-27636,88 FR 27636,decree,,2023-05-02,2023-05-02,2023-06-01,1,https://www.federalregister.gov/citation/88-FR-27636
 fr-88-27690,88 FR 27690,decree,,2023-05-03,2023-05-03,2023-08-01,1,https://www.federalregister.gov/citation/88-FR-27690
+fr-88-28377,88 FR 28377,decree,,2023-05-03,2023-05-03,,0,https://www.federalregister.gov/citation/88-FR-28377
 fr-88-22849,88 FR 22849,decree,,2023-05-04,2023-05-04,,0,https://www.federalregister.gov/citation/88-FR-22849
 fr-88-28400,88 FR 28400,decree,,2023-05-04,2023-05-04,2023-06-05,1,https://www.federalregister.gov/citation/88-FR-28400
 fr-88-28430,88 FR 28430,decree,,2023-05-04,2023-05-04,2023-05-04,1,https://www.federalregister.gov/citation/88-FR-28430
@@ -8124,6 +8244,8 @@ fr-88-34419,88 FR 34419,decree,,2023-05-30,2023-05-30,2023-05-30,1,https://www.f
 fr-88-34428,88 FR 34428,decree,,2023-05-30,2023-05-30,,0,https://www.federalregister.gov/citation/88-FR-34428
 fr-88-34443,88 FR 34443,decree,,2023-05-30,2023-05-30,2023-06-29,1,https://www.federalregister.gov/citation/88-FR-34443
 fr-88-34702,88 FR 34702,decree,,2023-05-30,2023-05-30,,0,https://www.federalregister.gov/citation/88-FR-34702
+fr-88-34747,88 FR 34747,decree,,2023-05-31,2023-05-31,2023-07-01,1,https://www.federalregister.gov/citation/88-FR-34747
+fr-88-34748,88 FR 34748,decree,,2023-05-31,2023-05-31,2023-07-01,1,https://www.federalregister.gov/citation/88-FR-34748
 fr-88-34776,88 FR 34776,decree,,2023-05-31,2023-05-31,2023-07-31,1,https://www.federalregister.gov/citation/88-FR-34776
 fr-88-34777,88 FR 34777,decree,,2023-05-31,2023-05-31,2023-07-31,1,https://www.federalregister.gov/citation/88-FR-34777
 fr-88-34779,88 FR 34779,decree,,2023-05-31,2023-05-31,2023-07-31,1,https://www.federalregister.gov/citation/88-FR-34779
@@ -8172,6 +8294,7 @@ fr-88-36915,88 FR 36915,decree,,2023-06-05,2023-06-05,2023-08-31,1,https://www.f
 fr-88-36916,88 FR 36916,decree,,2023-06-05,2023-06-05,2023-08-04 2023-08-31,2,https://www.federalregister.gov/citation/88-FR-36916
 fr-88-36917,88 FR 36917,decree,,2023-06-05,2023-06-05,2023-08-04,1,https://www.federalregister.gov/citation/88-FR-36917
 fr-88-36918,88 FR 36918,decree,,2023-06-05,2023-06-05,,0,https://www.federalregister.gov/citation/88-FR-36918
+fr-88-37145,88 FR 37145,decree,,2023-06-07,2023-06-07,2023-07-03,1,https://www.federalregister.gov/citation/88-FR-37145
 fr-88-37165,88 FR 37165,decree,,2023-06-07,2023-06-07,2023-08-07,1,https://www.federalregister.gov/citation/88-FR-37165
 fr-88-37166,88 FR 37166,decree,,2023-06-07,2023-06-07,2023-08-07,1,https://www.federalregister.gov/citation/88-FR-37166
 fr-88-37171,88 FR 37171,decree,,2023-06-07,2023-06-07,2023-08-07,1,https://www.federalregister.gov/citation/88-FR-37171
@@ -8227,6 +8350,7 @@ fr-88-40094,88 FR 40094,decree,,2023-06-21,2023-06-21,2023-06-21,1,https://www.f
 fr-88-40472,88 FR 40472,decree,,2023-06-21,2023-06-21,,0,https://www.federalregister.gov/citation/88-FR-40472
 fr-88-40473,88 FR 40473,decree,,2023-06-21,2023-06-21,2023-08-08,1,https://www.federalregister.gov/citation/88-FR-40473
 fr-88-40494,88 FR 40494,decree,,2023-06-21,2023-06-21,,0,https://www.federalregister.gov/citation/88-FR-40494
+fr-88-40707,88 FR 40707,decree,,2023-06-22,2023-06-22,2023-08-21,1,https://www.federalregister.gov/citation/88-FR-40707
 fr-88-41022,88 FR 41022,decree,,2023-06-23,2023-06-23,2023-07-24,1,https://www.federalregister.gov/citation/88-FR-41022
 fr-88-41292,88 FR 41292,decree,,2023-06-26,2023-06-26,2023-06-26,1,https://www.federalregister.gov/citation/88-FR-41292
 fr-88-41293,88 FR 41293,decree,,2023-06-26,2023-06-26,2023-06-26 2023-12-15,2,https://www.federalregister.gov/citation/88-FR-41293
@@ -8595,6 +8719,13 @@ fr-88-73496,88 FR 73496,decree,,2023-10-25,2023-10-25,2023-11-17,1,https://www.f
 fr-88-73497,88 FR 73497,decree,,2023-10-25,2023-10-25,2023-11-17,1,https://www.federalregister.gov/citation/88-FR-73497
 fr-88-73517,88 FR 73517,decree,,2023-10-25,2023-10-25,2023-11-17,1,https://www.federalregister.gov/citation/88-FR-73517
 fr-88-74017,88 FR 74017,decree,,2023-10-27,2023-10-27,2024-02-26,1,https://www.federalregister.gov/citation/88-FR-74017
+fr-88-74030,88 FR 74030,decree,,2023-10-30,2023-10-30,2023-11-29,1,https://www.federalregister.gov/citation/88-FR-74030
+fr-88-74031,88 FR 74031,decree,,2023-10-30,2023-10-30,2023-11-29,1,https://www.federalregister.gov/citation/88-FR-74031
+fr-88-74032,88 FR 74032,decree,,2023-10-30,2023-10-30,2023-11-29,1,https://www.federalregister.gov/citation/88-FR-74032
+fr-88-74033,88 FR 74033,decree,,2023-10-30,2023-10-30,2023-11-29,1,https://www.federalregister.gov/citation/88-FR-74033
+fr-88-74041,88 FR 74041,decree,,2023-10-30,2023-10-30,2023-12-29,1,https://www.federalregister.gov/citation/88-FR-74041
+fr-88-74042,88 FR 74042,decree,,2023-10-30,2023-10-30,2023-12-29,1,https://www.federalregister.gov/citation/88-FR-74042
+fr-88-74045,88 FR 74045,decree,,2023-10-30,2023-10-30,2023-12-29,1,https://www.federalregister.gov/citation/88-FR-74045
 fr-88-74330,88 FR 74330,decree,,2023-10-31,2023-10-31,2024-01-01,1,https://www.federalregister.gov/citation/88-FR-74330
 fr-88-74333,88 FR 74333,decree,,2023-10-31,2023-10-31,,0,https://www.federalregister.gov/citation/88-FR-74333
 fr-88-74346,88 FR 74346,decree,,2023-10-31,2023-10-31,,0,https://www.federalregister.gov/citation/88-FR-74346
@@ -8801,6 +8932,7 @@ fr-89-1445,89 FR 1445,decree,,2024-01-10,2024-01-10,2024-01-10,1,https://www.fed
 fr-89-1447,89 FR 1447,decree,,2024-01-10,2024-01-10,2024-01-10,1,https://www.federalregister.gov/citation/89-FR-1447
 fr-89-1741,89 FR 1741,decree,,2024-01-10,2024-01-10,2024-03-11,1,https://www.federalregister.gov/citation/89-FR-1741
 fr-89-1789,89 FR 1789,decree,,2024-01-11,2024-01-11,2024-01-15,1,https://www.federalregister.gov/citation/89-FR-1789
+fr-89-1808,89 FR 1808,decree,,2024-01-11,2024-01-11,2024-01-11,1,https://www.federalregister.gov/citation/89-FR-1808
 fr-89-1815,89 FR 1815,decree,,2024-01-11,2024-01-11,2024-01-15 2024-02-05,2,https://www.federalregister.gov/citation/89-FR-1815
 fr-89-1816,89 FR 1816,decree,,2024-01-11,2024-01-11,2024-01-15 2024-03-20,2,https://www.federalregister.gov/citation/89-FR-1816
 fr-89-1817,89 FR 1817,decree,,2024-01-11,2024-01-11,2024-01-15,1,https://www.federalregister.gov/citation/89-FR-1817
@@ -8842,6 +8974,7 @@ fr-89-4811,89 FR 4811,decree,,2024-01-25,2024-01-25,,0,https://www.federalregist
 fr-89-4812,89 FR 4812,decree,,2024-01-25,2024-01-25,,0,https://www.federalregister.gov/citation/89-FR-4812
 fr-89-4815,89 FR 4815,decree,,2024-01-25,2024-01-25,,0,https://www.federalregister.gov/citation/89-FR-4815
 fr-89-5421,89 FR 5421,decree,,2024-01-29,2024-01-29,2024-03-01,1,https://www.federalregister.gov/citation/89-FR-5421
+fr-89-5422,89 FR 5422,decree,,2024-01-29,2024-01-29,2024-01-29,1,https://www.federalregister.gov/citation/89-FR-5422
 fr-89-5436,89 FR 5436,decree,,2024-01-29,2024-01-29,2024-01-29,1,https://www.federalregister.gov/citation/89-FR-5436
 fr-89-5754,89 FR 5754,decree,,2024-01-30,2024-01-30,2024-04-01,1,https://www.federalregister.gov/citation/89-FR-5754
 fr-89-5755,89 FR 5755,decree,,2024-01-30,2024-01-30,2024-04-01,1,https://www.federalregister.gov/citation/89-FR-5755
@@ -8977,6 +9110,7 @@ fr-89-16437,89 FR 16437,decree,,2024-03-06,2024-03-06,2024-03-06,1,https://www.f
 fr-89-16438,89 FR 16438,decree,,2024-03-06,2024-03-06,2024-03-06,1,https://www.federalregister.gov/citation/89-FR-16438
 fr-89-16446,89 FR 16446,decree,,2024-03-07,2024-03-07,2024-12-17,1,https://www.federalregister.gov/citation/89-FR-16446
 fr-89-16470,89 FR 16470,decree,,2024-03-07,2024-03-07,2024-03-11,1,https://www.federalregister.gov/citation/89-FR-16470
+fr-89-16684,89 FR 16684,decree,,2024-03-08,2024-03-08,2024-03-08,1,https://www.federalregister.gov/citation/89-FR-16684
 fr-89-17034,89 FR 17034,decree,,2024-03-08,2024-03-08,2024-05-07,1,https://www.federalregister.gov/citation/89-FR-17034
 fr-89-17035,89 FR 17035,decree,,2024-03-08,2024-03-08,2024-05-07,1,https://www.federalregister.gov/citation/89-FR-17035
 fr-89-17036,89 FR 17036,decree,,2024-03-08,2024-03-08,2024-05-07,1,https://www.federalregister.gov/citation/89-FR-17036
@@ -9579,6 +9713,13 @@ fr-89-46012,89 FR 46012,decree,,2024-05-24,2024-05-24,2024-05-24,1,https://www.f
 fr-89-46013,89 FR 46013,decree,,2024-05-24,2024-05-24,2024-05-24,1,https://www.federalregister.gov/citation/89-FR-46013
 fr-89-46033,89 FR 46033,decree,,2024-05-28,2024-05-28,2024-10-01,1,https://www.federalregister.gov/citation/89-FR-46033
 fr-89-46034,89 FR 46034,decree,,2024-05-28,2024-05-28,2024-10-01,1,https://www.federalregister.gov/citation/89-FR-46034
+fr-89-46322,89 FR 46322,decree,,2024-05-29,2024-05-29,,0,https://www.federalregister.gov/citation/89-FR-46322
+fr-89-46323,89 FR 46323,decree,,2024-05-29,2024-05-29,2024-07-01,1,https://www.federalregister.gov/citation/89-FR-46323
+fr-89-46730,89 FR 46730,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46730
+fr-89-46731,89 FR 46731,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46731
+fr-89-46732,89 FR 46732,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46732
+fr-89-46733,89 FR 46733,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46733
+fr-89-46734,89 FR 46734,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46734
 fr-89-46787,89 FR 46787,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46787
 fr-89-46790,89 FR 46790,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46790
 fr-89-46791,89 FR 46791,decree,,2024-05-29,2024-05-29,2024-07-29,1,https://www.federalregister.gov/citation/89-FR-46791
@@ -9643,6 +9784,10 @@ fr-89-51810,89 FR 51810,decree,,2024-06-20,2024-06-20,2024-08-19,1,https://www.f
 fr-89-51811,89 FR 51811,decree,,2024-06-20,2024-06-20,2024-08-19,1,https://www.federalregister.gov/citation/89-FR-51811
 fr-89-51816,89 FR 51816,decree,,2024-06-20,2024-06-20,2024-08-19,1,https://www.federalregister.gov/citation/89-FR-51816
 fr-89-51822,89 FR 51822,decree,,2024-06-20,2024-06-20,2024-08-19,1,https://www.federalregister.gov/citation/89-FR-51822
+fr-89-51825,89 FR 51825,decree,,2024-06-20,2024-06-20,2024-07-22,1,https://www.federalregister.gov/citation/89-FR-51825
+fr-89-51826,89 FR 51826,decree,,2024-06-20,2024-06-20,2024-07-22,1,https://www.federalregister.gov/citation/89-FR-51826
+fr-89-51827,89 FR 51827,decree,,2024-06-20,2024-06-20,2024-07-22,1,https://www.federalregister.gov/citation/89-FR-51827
+fr-89-51828,89 FR 51828,decree,,2024-06-20,2024-06-20,2024-07-22,1,https://www.federalregister.gov/citation/89-FR-51828
 fr-89-52362,89 FR 52362,decree,,2024-06-24,2024-06-24,,0,https://www.federalregister.gov/citation/89-FR-52362
 fr-89-52389,89 FR 52389,decree,,2024-06-24,2024-06-24,2024-08-23,1,https://www.federalregister.gov/citation/89-FR-52389
 fr-89-52396,89 FR 52396,decree,,2024-06-24,2024-06-24,2024-06-24,1,https://www.federalregister.gov/citation/89-FR-52396
@@ -9976,6 +10121,7 @@ fr-89-77747,89 FR 77747,decree,,2024-09-23,2024-09-23,2024-09-23,1,https://www.f
 fr-89-77751,89 FR 77751,decree,,2024-09-23,2024-09-23,2024-11-22,1,https://www.federalregister.gov/citation/89-FR-77751
 fr-89-78206,89 FR 78206,decree,,2024-09-25,2024-09-25,2025-01-01,1,https://www.federalregister.gov/citation/89-FR-78206
 fr-89-78218,89 FR 78218,decree,,2024-09-25,2024-09-25,2025-01-01,1,https://www.federalregister.gov/citation/89-FR-78218
+fr-89-78234,89 FR 78234,decree,,2024-09-25,2024-09-25,2024-09-25,1,https://www.federalregister.gov/citation/89-FR-78234
 fr-89-78258,89 FR 78258,decree,,2024-09-25,2024-09-25,,0,https://www.federalregister.gov/citation/89-FR-78258
 fr-89-78810,89 FR 78810,decree,,2024-09-26,2024-09-26,2024-11-25,1,https://www.federalregister.gov/citation/89-FR-78810
 fr-89-78813,89 FR 78813,decree,,2024-09-26,2024-09-26,2024-11-25,1,https://www.federalregister.gov/citation/89-FR-78813
@@ -10087,6 +10233,7 @@ fr-89-84076,89 FR 84076,decree,,2024-10-21,2024-10-21,2024-10-21,1,https://www.f
 fr-89-84082,89 FR 84082,decree,,2024-10-21,2024-10-21,2024-10-21,1,https://www.federalregister.gov/citation/89-FR-84082
 fr-89-84260,89 FR 84260,decree,,2024-10-22,2024-10-22,2025-01-01,1,https://www.federalregister.gov/citation/89-FR-84260
 fr-89-84296,89 FR 84296,decree,,2024-10-22,2024-10-22,2024-10-22,1,https://www.federalregister.gov/citation/89-FR-84296
+fr-89-84472,89 FR 84472,decree,,2024-10-23,2024-10-23,2024-11-22,1,https://www.federalregister.gov/citation/89-FR-84472
 fr-89-84751,89 FR 84751,decree,,2024-10-23,2024-10-23,,0,https://www.federalregister.gov/citation/89-FR-84751
 fr-89-84752,89 FR 84752,decree,,2024-10-23,2024-10-23,2024-12-23,1,https://www.federalregister.gov/citation/89-FR-84752
 fr-89-84760,89 FR 84760,decree,,2024-10-23,2024-10-23,2024-12-23,1,https://www.federalregister.gov/citation/89-FR-84760
@@ -10240,6 +10387,9 @@ fr-89-96108,89 FR 96108,decree,,2024-12-04,2024-12-04,2024-12-04,1,https://www.f
 fr-89-96109,89 FR 96109,decree,,2024-12-04,2024-12-04,2024-12-04,1,https://www.federalregister.gov/citation/89-FR-96109
 fr-89-96110,89 FR 96110,decree,,2024-12-04,2024-12-04,2024-12-04,1,https://www.federalregister.gov/citation/89-FR-96110
 fr-89-96517,89 FR 96517,decree,,2024-12-05,2024-12-05,,0,https://www.federalregister.gov/citation/89-FR-96517
+fr-89-96529,89 FR 96529,decree,,2024-12-05,2024-12-05,2025-01-06,1,https://www.federalregister.gov/citation/89-FR-96529
+fr-89-96530,89 FR 96530,decree,,2024-12-05,2024-12-05,2025-01-06,1,https://www.federalregister.gov/citation/89-FR-96530
+fr-89-96531,89 FR 96531,decree,,2024-12-05,2024-12-05,2025-01-06,1,https://www.federalregister.gov/citation/89-FR-96531
 fr-89-96532,89 FR 96532,decree,,2024-12-05,2024-12-05,2025-01-06,1,https://www.federalregister.gov/citation/89-FR-96532
 fr-89-96569,89 FR 96569,decree,,2024-12-05,2024-12-05,2024-12-05,1,https://www.federalregister.gov/citation/89-FR-96569
 fr-89-96588,89 FR 96588,decree,,2024-12-05,2024-12-05,2025-01-04,1,https://www.federalregister.gov/citation/89-FR-96588
@@ -10378,6 +10528,8 @@ fr-89-104398,89 FR 104398,decree,,2024-12-23,2024-12-23,2025-01-22,1,https://www
 fr-89-104412,89 FR 104412,decree,,2024-12-23,2024-12-23,2024-12-23,1,https://www.federalregister.gov/citation/89-FR-104412
 fr-89-104423,89 FR 104423,decree,,2024-12-23,2024-12-23,2024-12-23,1,https://www.federalregister.gov/citation/89-FR-104423
 fr-89-104425,89 FR 104425,decree,,2024-12-23,2024-12-23,,0,https://www.federalregister.gov/citation/89-FR-104425
+fr-89-104881,89 FR 104881,decree,,2024-12-26,2024-12-26,2025-01-27,1,https://www.federalregister.gov/citation/89-FR-104881
+fr-89-104882,89 FR 104882,decree,,2024-12-26,2024-12-26,2025-01-27,1,https://www.federalregister.gov/citation/89-FR-104882
 fr-89-106222,89 FR 106222,decree,,2024-12-26,2024-12-26,2025-03-24,1,https://www.federalregister.gov/citation/89-FR-106222
 fr-90-104877,90 FR 104877,decree,,2024-12-26,2024-12-26,2026-01-01,1,https://www.federalregister.gov/citation/90-FR-104877
 fr-89-105401,89 FR 105401,decree,,2024-12-27,2024-12-27,2024-12-30,1,https://www.federalregister.gov/citation/89-FR-105401
@@ -10467,6 +10619,7 @@ fr-90-2837,90 FR 2837,decree,,2025-01-13,2025-01-13,2025-03-14,1,https://www.fed
 fr-90-2861,90 FR 2861,decree,,2025-01-13,2025-01-13,2025-01-13,1,https://www.federalregister.gov/citation/90-FR-2861
 fr-90-2921,90 FR 2921,decree,,2025-01-14,2025-01-14,2025-01-14,1,https://www.federalregister.gov/citation/90-FR-2921
 fr-90-2922,90 FR 2922,decree,,2025-01-14,2025-01-14,2025-01-14,1,https://www.federalregister.gov/citation/90-FR-2922
+fr-90-2932,90 FR 2932,decree,,2025-01-14,2025-01-14,2025-01-14,1,https://www.federalregister.gov/citation/90-FR-2932
 fr-90-2972,90 FR 2972,decree,,2025-01-14,2025-01-14,2025-01-14,1,https://www.federalregister.gov/citation/90-FR-2972
 fr-90-2988,90 FR 2988,decree,,2025-01-14,2025-01-14,2025-01-14,1,https://www.federalregister.gov/citation/90-FR-2988
 fr-90-2999,90 FR 2999,decree,,2025-01-14,2025-01-14,2025-01-14,1,https://www.federalregister.gov/citation/90-FR-2999
@@ -10539,6 +10692,7 @@ fr-90-4588,90 FR 4588,decree,,2025-01-16,2025-01-16,2025-01-16,1,https://www.fed
 fr-90-4602,90 FR 4602,decree,,2025-01-16,2025-01-16,2025-03-21 2025-05-20,2,https://www.federalregister.gov/citation/90-FR-4602
 fr-90-4609,90 FR 4609,decree,,2025-01-16,2025-01-16,2025-01-16,1,https://www.federalregister.gov/citation/90-FR-4609
 fr-90-4615,90 FR 4615,decree,,2025-01-16,2025-01-16,2025-01-16,1,https://www.federalregister.gov/citation/90-FR-4615
+fr-90-4625,90 FR 4625,decree,,2025-01-16,2025-01-16,2025-02-12,1,https://www.federalregister.gov/citation/90-FR-4625
 fr-90-4651,90 FR 4651,decree,,2025-01-16,2025-01-16,2025-01-16,1,https://www.federalregister.gov/citation/90-FR-4651
 fr-90-4654,90 FR 4654,decree,,2025-01-16,2025-01-16,,0,https://www.federalregister.gov/citation/90-FR-4654
 fr-90-4655,90 FR 4655,decree,,2025-01-16,2025-01-16,,0,https://www.federalregister.gov/citation/90-FR-4655
@@ -10626,6 +10780,7 @@ fr-90-8255,90 FR 8255,decree,,2025-01-28,2025-01-28,2025-01-28,1,https://www.fed
 fr-90-8374,90 FR 8374,decree,,2025-01-29,2025-01-29,,0,https://www.federalregister.gov/citation/90-FR-8374
 fr-90-8682,90 FR 8682,decree,,2025-01-31,2025-01-31,,0,https://www.federalregister.gov/citation/90-FR-8682
 fr-90-9375,90 FR 9375,decree,,2025-02-12,2025-02-12,2025-04-14,1,https://www.federalregister.gov/citation/90-FR-9375
+fr-90-9387,90 FR 9387,decree,,2025-02-12,2025-02-12,2025-02-12,1,https://www.federalregister.gov/citation/90-FR-9387
 fr-90-9608,90 FR 9608,decree,,2025-02-14,2025-02-14,2025-04-05,1,https://www.federalregister.gov/citation/90-FR-9608
 fr-90-9674,90 FR 9674,decree,,2025-02-18,2025-02-18,2025-02-18,1,https://www.federalregister.gov/citation/90-FR-9674
 fr-90-9675,90 FR 9675,decree,,2025-02-18,2025-02-18,,0,https://www.federalregister.gov/citation/90-FR-9675
@@ -10638,6 +10793,7 @@ fr-90-10599,90 FR 10599,decree,,2025-02-25,2025-02-25,2025-02-25,1,https://www.f
 fr-90-10605,90 FR 10605,decree,,2025-02-25,2025-02-25,2025-02-25,1,https://www.federalregister.gov/citation/90-FR-10605
 fr-90-10610,90 FR 10610,decree,,2025-02-25,2025-02-25,2025-02-25,1,https://www.federalregister.gov/citation/90-FR-10610
 fr-90-10696,90 FR 10696,decree,,2025-02-26,2025-02-26,2025-03-28,1,https://www.federalregister.gov/citation/90-FR-10696
+fr-90-10796,90 FR 10796,decree,,2025-02-27,2025-02-27,2025-04-28,1,https://www.federalregister.gov/citation/90-FR-10796
 fr-90-10873,90 FR 10873,decree,,2025-02-28,2025-02-28,,0,https://www.federalregister.gov/citation/90-FR-10873
 fr-90-11674,90 FR 11674,decree,,2025-03-11,2025-03-11,2025-03-11,1,https://www.federalregister.gov/citation/90-FR-11674
 fr-90-12113,90 FR 12113,decree,,2025-03-14,2025-03-14,,0,https://www.federalregister.gov/citation/90-FR-12113
@@ -10672,6 +10828,8 @@ fr-90-20758,90 FR 20758,decree,,2025-05-16,2025-05-16,2025-08-13,1,https://www.f
 fr-90-20761,90 FR 20761,decree,,2025-05-16,2025-05-16,2025-08-13,1,https://www.federalregister.gov/citation/90-FR-20761
 fr-90-20766,90 FR 20766,decree,,2025-05-16,2025-05-16,2025-08-13,1,https://www.federalregister.gov/citation/90-FR-20766
 fr-90-20792,90 FR 20792,decree,,2025-05-16,2025-05-16,2025-07-15,1,https://www.federalregister.gov/citation/90-FR-20792
+fr-90-21218,90 FR 21218,decree,,2025-05-19,2025-05-19,,0,https://www.federalregister.gov/citation/90-FR-21218
+fr-90-21219,90 FR 21219,decree,,2025-05-19,2025-05-19,,0,https://www.federalregister.gov/citation/90-FR-21219
 fr-90-21227,90 FR 21227,decree,,2025-05-19,2025-05-19,2026-03-17,1,https://www.federalregister.gov/citation/90-FR-21227
 fr-90-21412,90 FR 21412,decree,,2025-05-20,2025-05-20,,0,https://www.federalregister.gov/citation/90-FR-21412
 fr-90-21434,90 FR 21434,decree,,2025-05-20,2025-05-20,2025-05-20,1,https://www.federalregister.gov/citation/90-FR-21434
@@ -10753,6 +10911,7 @@ fr-90-28900,90 FR 28900,decree,,2025-07-02,2025-07-02,,0,https://www.federalregi
 fr-90-28908,90 FR 28908,decree,,2025-07-02,2025-07-02,2025-07-02,1,https://www.federalregister.gov/citation/90-FR-28908
 fr-90-28909,90 FR 28909,decree,,2025-07-02,2025-07-02,2025-07-02,1,https://www.federalregister.gov/citation/90-FR-28909
 fr-90-29419,90 FR 29419,decree,,2025-07-03,2025-07-03,2025-07-03,1,https://www.federalregister.gov/citation/90-FR-29419
+fr-90-29425,90 FR 29425,decree,,2025-07-03,2025-07-03,2025-08-18,1,https://www.federalregister.gov/citation/90-FR-29425
 fr-90-29491,90 FR 29491,decree,,2025-07-03,2025-07-03,2025-07-03,1,https://www.federalregister.gov/citation/90-FR-29491
 fr-90-29750,90 FR 29750,decree,,2025-07-07,2025-07-07,,0,https://www.federalregister.gov/citation/90-FR-29750
 fr-90-29751,90 FR 29751,decree,,2025-07-07,2025-07-07,2025-08-06,1,https://www.federalregister.gov/citation/90-FR-29751
@@ -10910,6 +11069,7 @@ fr-90-46744,90 FR 46744,decree,,2025-09-30,2025-09-30,2025-10-30,1,https://www.f
 fr-90-46745,90 FR 46745,decree,,2025-09-30,2025-09-30,2025-10-30,1,https://www.federalregister.gov/citation/90-FR-46745
 fr-90-46747,90 FR 46747,decree,,2025-09-30,2025-09-30,2025-10-30,1,https://www.federalregister.gov/citation/90-FR-46747
 fr-90-46748,90 FR 46748,decree,,2025-09-30,2025-09-30,2025-10-30,1,https://www.federalregister.gov/citation/90-FR-46748
+fr-90-46754,90 FR 46754,decree,,2025-09-30,2025-09-30,2025-09-30,1,https://www.federalregister.gov/citation/90-FR-46754
 fr-90-46761,90 FR 46761,decree,,2025-09-30,2025-09-30,2025-09-30,1,https://www.federalregister.gov/citation/90-FR-46761
 fr-90-46765,90 FR 46765,decree,,2025-09-30,2025-09-30,2025-09-30,1,https://www.federalregister.gov/citation/90-FR-46765
 fr-90-46767,90 FR 46767,decree,,2025-09-30,2025-09-30,2025-09-30,1,https://www.federalregister.gov/citation/90-FR-46767
@@ -10926,6 +11086,14 @@ fr-90-47507,90 FR 47507,decree,,2025-10-02,2025-10-02,2025-11-03,1,https://www.f
 fr-90-47520,90 FR 47520,decree,,2025-10-02,2025-10-02,,0,https://www.federalregister.gov/citation/90-FR-47520
 fr-90-47582,90 FR 47582,decree,,2025-10-02,2025-10-02,2025-10-02,1,https://www.federalregister.gov/citation/90-FR-47582
 fr-90-47583,90 FR 47583,decree,,2025-10-02,2025-10-02,2025-10-02,1,https://www.federalregister.gov/citation/90-FR-47583
+fr-90-48401,90 FR 48401,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48401
+fr-90-48402,90 FR 48402,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48402
+fr-90-48403,90 FR 48403,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48403
+fr-90-48404,90 FR 48404,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48404
+fr-90-48405,90 FR 48405,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48405
+fr-90-48406,90 FR 48406,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48406
+fr-90-48407,90 FR 48407,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48407
+fr-90-48408,90 FR 48408,decree,,2025-10-21,2025-10-21,2025-12-05,1,https://www.federalregister.gov/citation/90-FR-48408
 fr-90-48644,90 FR 48644,decree,,2025-10-27,2025-10-27,2025-12-29,1,https://www.federalregister.gov/citation/90-FR-48644
 fr-90-48710,90 FR 48710,decree,,2025-10-28,2025-10-28,2025-10-28,1,https://www.federalregister.gov/citation/90-FR-48710
 fr-90-48822,90 FR 48822,decree,,2025-10-30,2025-10-30,,0,https://www.federalregister.gov/citation/90-FR-48822
@@ -11031,6 +11199,7 @@ fr-90-58508,90 FR 58508,decree,,2025-12-17,2025-12-17,2025-12-17,1,https://www.f
 fr-90-59041,90 FR 59041,decree,,2025-12-18,2025-12-18,2025-12-18,1,https://www.federalregister.gov/citation/90-FR-59041
 fr-90-59043,90 FR 59043,decree,,2025-12-18,2025-12-18,2025-12-18,1,https://www.federalregister.gov/citation/90-FR-59043
 fr-90-59045,90 FR 59045,decree,,2025-12-18,2025-12-18,2025-12-18,1,https://www.federalregister.gov/citation/90-FR-59045
+fr-90-59046,90 FR 59046,decree,,2025-12-18,2025-12-18,2026-01-20,1,https://www.federalregister.gov/citation/90-FR-59046
 fr-90-59049,90 FR 59049,decree,,2025-12-18,2025-12-18,2025-12-18,1,https://www.federalregister.gov/citation/90-FR-59049
 fr-90-59051,90 FR 59051,decree,,2025-12-18,2025-12-18,2025-12-18,1,https://www.federalregister.gov/citation/90-FR-59051
 fr-90-59056,90 FR 59056,decree,,2025-12-18,2025-12-18,2026-01-20,1,https://www.federalregister.gov/citation/90-FR-59056
@@ -11116,6 +11285,7 @@ fr-91-4016,91 FR 4016,decree,,2026-01-30,2026-01-30,2026-01-30,1,https://www.fed
 fr-91-4017,91 FR 4017,decree,,2026-01-30,2026-01-30,2026-03-02,1,https://www.federalregister.gov/citation/91-FR-4017
 fr-91-4460,91 FR 4460,decree,,2026-02-02,2026-02-02,,0,https://www.federalregister.gov/citation/91-FR-4460
 fr-91-4461,91 FR 4461,decree,,2026-02-02,2026-02-02,,0,https://www.federalregister.gov/citation/91-FR-4461
+fr-91-4463,91 FR 4463,decree,,2026-02-02,2026-02-02,2026-02-02,1,https://www.federalregister.gov/citation/91-FR-4463
 fr-91-5277,91 FR 5277,decree,,2026-02-06,2026-02-06,2026-03-09,1,https://www.federalregister.gov/citation/91-FR-5277
 fr-91-5278,91 FR 5278,decree,,2026-02-06,2026-02-06,2026-03-09,1,https://www.federalregister.gov/citation/91-FR-5278
 fr-91-5325,91 FR 5325,decree,,2026-02-06,2026-02-06,2026-03-09,1,https://www.federalregister.gov/citation/91-FR-5325
@@ -11267,6 +11437,8 @@ fr-91-13948,91 FR 13948,decree,,2026-03-24,2026-03-24,2026-04-23,1,https://www.f
 fr-91-13949,91 FR 13949,decree,,2026-03-24,2026-03-24,,0,https://www.federalregister.gov/citation/91-FR-13949
 fr-91-13976,91 FR 13976,decree,,2026-03-24,2026-03-24,2026-03-24,1,https://www.federalregister.gov/citation/91-FR-13976
 fr-91-13977,91 FR 13977,decree,,2026-03-24,2026-03-24,2026-03-24,1,https://www.federalregister.gov/citation/91-FR-13977
+fr-91-14347,91 FR 14347,decree,,2026-03-24,2026-03-24,2026-05-26,1,https://www.federalregister.gov/citation/91-FR-14347
+fr-91-14348,91 FR 14348,decree,,2026-03-24,2026-03-24,2026-05-26,1,https://www.federalregister.gov/citation/91-FR-14348
 fr-91-14404,91 FR 14404,decree,,2026-03-24,2026-03-24,2026-05-26,1,https://www.federalregister.gov/citation/91-FR-14404
 fr-91-15532,91 FR 15532,decree,,2026-03-30,2026-03-30,2026-04-29,1,https://www.federalregister.gov/citation/91-FR-15532
 fr-91-15534,91 FR 15534,decree,,2026-03-30,2026-03-30,2026-04-29,1,https://www.federalregister.gov/citation/91-FR-15534
@@ -11362,6 +11534,7 @@ fr-91-20577,91 FR 20577,decree,,2026-04-17,2026-04-17,2026-05-18,1,https://www.f
 fr-91-20867,91 FR 20867,decree,,2026-04-20,2026-04-20,2026-05-20,1,https://www.federalregister.gov/citation/91-FR-20867
 fr-91-20880,91 FR 20880,decree,,2026-04-20,2026-04-20,2026-07-25,1,https://www.federalregister.gov/citation/91-FR-20880
 fr-91-20902,91 FR 20902,decree,,2026-04-20,2026-04-20,2026-04-20,1,https://www.federalregister.gov/citation/91-FR-20902
+fr-91-21252,91 FR 21252,decree,,2026-04-21,2026-04-21,2026-04-21,1,https://www.federalregister.gov/citation/91-FR-21252
 fr-91-21388,91 FR 21388,decree,,2026-04-22,2026-04-22,2026-04-22 2026-05-19,2,https://www.federalregister.gov/citation/91-FR-21388
 fr-91-21389,91 FR 21389,decree,,2026-04-22,2026-04-22,2026-05-19,1,https://www.federalregister.gov/citation/91-FR-21389
 fr-91-21668,91 FR 21668,decree,,2026-04-22,2026-04-22,2026-07-21,1,https://www.federalregister.gov/citation/91-FR-21668
@@ -11431,6 +11604,8 @@ fr-91-30216,91 FR 30216,decree,,2026-05-22,2026-05-22,2026-06-22,1,https://www.f
 fr-91-30229,91 FR 30229,decree,,2026-05-22,2026-05-22,2026-07-21,1,https://www.federalregister.gov/citation/91-FR-30229
 fr-91-30486,91 FR 30486,decree,,2026-05-26,2026-05-26,2026-05-26,1,https://www.federalregister.gov/citation/91-FR-30486
 fr-91-31329,91 FR 31329,decree,,2026-05-26,2026-05-26,2026-07-27,1,https://www.federalregister.gov/citation/91-FR-31329
+fr-91-31356,91 FR 31356,decree,,2026-05-27,2026-05-27,2026-07-01,1,https://www.federalregister.gov/citation/91-FR-31356
+fr-91-31357,91 FR 31357,decree,,2026-05-27,2026-05-27,2026-07-01,1,https://www.federalregister.gov/citation/91-FR-31357
 fr-91-31946,91 FR 31946,decree,,2026-05-29,2026-05-29,2026-06-29,1,https://www.federalregister.gov/citation/91-FR-31946
 fr-91-31947,91 FR 31947,decree,,2026-05-29,2026-05-29,2026-06-29,1,https://www.federalregister.gov/citation/91-FR-31947
 fr-91-31950,91 FR 31950,decree,,2026-05-29,2026-05-29,2026-06-29,1,https://www.federalregister.gov/citation/91-FR-31950
@@ -11586,6 +11761,7 @@ fr-91-45992,91 FR 45992,decree,,2026-07-22,2026-07-22,2026-07-22,1,https://www.f
 fr-91-46243,91 FR 46243,decree,,2026-07-23,2026-07-23,2026-07-23,1,https://www.federalregister.gov/citation/91-FR-46243
 fr-91-46260,91 FR 46260,decree,,2026-07-23,2026-07-23,2026-07-23,1,https://www.federalregister.gov/citation/91-FR-46260
 fr-91-46267,91 FR 46267,decree,,2026-07-23,2026-07-23,2026-09-21,1,https://www.federalregister.gov/citation/91-FR-46267
+fr-91-46276,91 FR 46276,decree,,2026-07-23,2026-07-23,2026-08-24,1,https://www.federalregister.gov/citation/91-FR-46276
 fr-91-46706,91 FR 46706,decree,,2026-07-24,2026-07-24,2026-08-26,1,https://www.federalregister.gov/citation/91-FR-46706
 fr-91-46724,91 FR 46724,decree,,2026-07-24,2026-07-24,2026-07-24,1,https://www.federalregister.gov/citation/91-FR-46724
 fr-91-46746,91 FR 46746,decree,,2026-07-24,2026-07-24,2026-09-22,1,https://www.federalregister.gov/citation/91-FR-46746

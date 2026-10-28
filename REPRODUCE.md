@@ -3427,6 +3427,125 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-17-part-0449` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 449 | 1 | 2017-02-14 to 2017-02-14 |
 | `title-17-part-0450` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part 450 | 1 | 2017-02-14 to 2017-02-14 |
 | `title-17-part-other` | Title 17 of the Code of Federal Regulations (Commodity and Securities Exchanges), Part other | 2 | 2021-01-05 to 2023-03-13 |
+| `title-18-part-0001` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0001b` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1b | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0001c` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1c | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0002` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 2 | 8 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0003a` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 3a | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0003b` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 3b | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0003c` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 3c | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0004` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 4 | 7 | 2017-03-23 to 2025-01-06 |
+| `title-18-part-0005` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 5 | 5 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0006` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 6 | 2 | 2017-03-23 to 2025-01-06 |
+| `title-18-part-0007` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 7 | 2 | 2019-07-23 to 2025-01-06 |
+| `title-18-part-0008` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 8 | 2 | 2017-03-23 to 2019-03-28 |
+| `title-18-part-0009` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 9 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0011` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 11 | 13 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0012` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 12 | 5 | 2017-03-23 to 2022-04-11 |
+| `title-18-part-0016` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 16 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0020` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 20 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0024` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 24 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0025` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 25 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0032` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 32 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0033` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 33 | 3 | 2017-03-23 to 2022-04-01 |
+| `title-18-part-0034` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 34 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0035` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 35 | 13 | 2017-03-23 to 2026-05-26 |
+| `title-18-part-0036` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 36 | 2 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0037` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 37 | 2 | 2017-03-23 to 2021-08-02 |
+| `title-18-part-0038` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 38 | 5 | 2017-03-23 to 2025-04-28 |
+| `title-18-part-0039` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 39 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0040` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 40 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0041` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 41 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0042` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 42 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0045` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 45 | 2 | 2017-03-23 to 2019-05-03 |
+| `title-18-part-0046` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 46 | 2 | 2017-03-23 to 2019-05-03 |
+| `title-18-part-0050` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 50 | 3 | 2017-03-23 to 2024-11-22 |
+| `title-18-part-0125` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 125 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0131` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 131 | 3 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0141` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 141 | 3 | 2017-03-23 to 2019-08-26 |
+| `title-18-part-0152` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 152 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0153` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 153 | 6 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0154` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 154 | 5 | 2017-03-23 to 2023-11-29 |
+| `title-18-part-0156` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 156 | 2 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0157` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 157 | 14 | 2017-03-23 to 2026-02-06 |
+| `title-18-part-0158` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 158 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0225` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 225 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0250` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 250 | 9 | 2017-03-23 to 2025-01-14 |
+| `title-18-part-0260` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 260 | 4 | 2017-03-23 to 2023-11-29 |
+| `title-18-part-0270` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 270 | 3 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0280` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 280 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0281` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 281 | 2 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0284` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 284 | 9 | 2017-03-23 to 2026-07-27 |
+| `title-18-part-0286` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 286 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0287` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 287 | 2 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0290` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 290 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0292` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 292 | 6 | 2017-03-23 to 2023-11-29 |
+| `title-18-part-0294` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 294 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0300` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 300 | 2 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0301` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 301 | 2 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0340` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 340 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0341` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 341 | 2 | 2017-03-23 to 2023-11-29 |
+| `title-18-part-0342` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 342 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0343` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 343 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0344` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 344 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0346` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 346 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0347` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 347 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0348` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 348 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0349` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 349 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0351` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 351 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0356` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 356 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0357` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 357 | 2 | 2017-03-23 to 2023-11-29 |
+| `title-18-part-0358` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 358 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0366` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 366 | 2 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0367` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 367 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0368` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 368 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0369` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 369 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0375` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 375 | 10 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0376` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 376 | 2 | 2017-03-23 to 2025-02-12 |
+| `title-18-part-0380` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 380 | 6 | 2017-03-23 to 2026-08-24 |
+| `title-18-part-0381` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 381 | 10 | 2017-03-23 to 2026-02-19 |
+| `title-18-part-0382` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 382 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0385` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 385 | 16 | 2017-03-23 to 2025-12-05 |
+| `title-18-part-0388` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 388 | 2 | 2017-03-23 to 2023-11-29 |
+| `title-18-part-0389` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 389 | 2 | 2017-03-23 to 2021-12-03 |
+| `title-18-part-0390` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 390 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0401` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 401 | 10 | 2017-03-23 to 2026-07-01 |
+| `title-18-part-0410` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 410 | 2 | 2017-03-23 to 2023-03-06 |
+| `title-18-part-0415` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 415 | 2 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-0420` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 420 | 9 | 2017-03-23 to 2026-07-01 |
+| `title-18-part-0430` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 430 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0440` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 440 | 2 | 2022-04-01 to 2023-03-06 |
+| `title-18-part-0701` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 701 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0704` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 704 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0705` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 705 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0706` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 706 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0707` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 707 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0708` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 708 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0725` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 725 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0740` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 740 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0801` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 801 | 3 | 2017-03-23 to 2024-09-25 |
+| `title-18-part-0806` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 806 | 5 | 2017-03-23 to 2021-10-01 |
+| `title-18-part-0807` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 807 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-0808` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 808 | 2 | 2017-03-23 to 2017-07-01 |
+| `title-18-part-1300` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1300 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1301` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1301 | 6 | 2017-03-23 to 2021-05-27 |
+| `title-18-part-1302` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1302 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1303` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1303 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1304` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1304 | 4 | 2017-03-23 to 2025-01-27 |
+| `title-18-part-1306` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1306 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1307` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1307 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1308` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1308 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1309` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1309 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1310` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1310 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1311` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1311 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1312` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1312 | 2 | 2017-03-23 to 2020-04-01 |
+| `title-18-part-1313` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1313 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1314` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1314 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1315` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1315 | 2 | 2017-03-23 to 2026-10-26 |
+| `title-18-part-1316` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1316 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1317` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1317 | 1 | 2017-03-23 to 2017-03-23 |
+| `title-18-part-1318` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1318 | 2 | 2020-04-01 to 2026-01-21 |
+| `title-18-part-1319` | Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1319 | 1 | 2026-01-21 to 2026-01-21 |
 | `title-26-part-0001` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1 | 228 | 2017-03-22 to 2026-10-26 |
 | `title-26-part-0002` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 2 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0003` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 3 | 1 | 2017-03-22 to 2017-03-22 |
@@ -3803,19 +3922,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 17703 commits:
+The build made 18041 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3786 | first version of an act |
-| 9841 | one law on its in-force day |
-| 4076 | changes no amendment note explains, credited to the publisher |
+| 3905 | first version of an act |
+| 9982 | one law on its in-force day |
+| 4154 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 11743 laws in the record.
-- 23000 tags.
+- 11919 laws in the record.
+- 23453 tags.
 
 ## Dates
 
@@ -3827,7 +3946,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `38a81391681dad1e689564c0e43ba64a65221266c78699a7ee6a436c9e829baf` (917649672 bytes).
+- Corpus: sha256 `81cd20fb628b9840dabb455ebf3ed0130da491f23fc82d812cbd119fb3c0cc52` (925976209 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -3866,6 +3985,7 @@ No second build of this corpus has been compared yet.
 - Title 15: editions read: 2017 annual edition (to 2016-12-31); 2018 annual edition (to 2017-12-27); 2019 annual edition (to 2018-12-20); 2020 annual edition (to 2019-12-18); 2021 annual edition (to 2020-12-29); 2022 annual edition (to 2021-12-28); 2023 annual edition (to 2022-12-23); 2024 annual edition (to 2023-12-28); 2026 annual edition (to 2026-01-01); eCFR (to 2026-10-26).
 - Title 16: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2023-12-11); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
+- Title 18: editions read: 2017 annual edition (to 2017-03-23); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 

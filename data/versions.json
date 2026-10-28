@@ -101144,6 +101144,2866 @@
    ]
   },
   {
+   "slug": "title-18-part-0001",
+   "short": "18 CFR Part 1",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1",
+   "url": "https://www.ecfr.gov/current/title-18/part-1",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0001b",
+   "short": "18 CFR Part 1b",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1b",
+   "url": "https://www.ecfr.gov/current/title-18/part-1b",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0001c",
+   "short": "18 CFR Part 1c",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1c",
+   "url": "https://www.ecfr.gov/current/title-18/part-1c",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0002",
+   "short": "18 CFR Part 2",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 2",
+   "url": "https://www.ecfr.gov/current/title-18/part-2",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2019-11-25",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-01-20",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 44,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0003a",
+   "short": "18 CFR Part 3a",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 3a",
+   "url": "https://www.ecfr.gov/current/title-18/part-3a",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0003b",
+   "short": "18 CFR Part 3b",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 3b",
+   "url": "https://www.ecfr.gov/current/title-18/part-3b",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0003c",
+   "short": "18 CFR Part 3c",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 3c",
+   "url": "https://www.ecfr.gov/current/title-18/part-3c",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0004",
+   "short": "18 CFR Part 4",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 4",
+   "url": "https://www.ecfr.gov/current/title-18/part-4",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-10-24",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-10-04",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 66,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0005",
+   "short": "18 CFR Part 5",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 5",
+   "url": "https://www.ecfr.gov/current/title-18/part-5",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2021-10-04",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0006",
+   "short": "18 CFR Part 6",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 6",
+   "url": "https://www.ecfr.gov/current/title-18/part-6",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0007",
+   "short": "18 CFR Part 7",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 7",
+   "url": "https://www.ecfr.gov/current/title-18/part-7",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2025-01-06",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0008",
+   "short": "18 CFR Part 8",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 8",
+   "url": "https://www.ecfr.gov/current/title-18/part-8",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2019-03-28",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0009",
+   "short": "18 CFR Part 9",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 9",
+   "url": "https://www.ecfr.gov/current/title-18/part-9",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0011",
+   "short": "18 CFR Part 11",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 11",
+   "url": "https://www.ecfr.gov/current/title-18/part-11",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2019-02-04",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-02-06",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-02-10",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-01-21",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-02-02",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2024-01-29",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-02-12",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2026-04-21",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0012",
+   "short": "18 CFR Part 12",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 12",
+   "url": "https://www.ecfr.gov/current/title-18/part-12",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2022-01-11",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-02-15",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-11",
+     "units": 40,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0016",
+   "short": "18 CFR Part 16",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 16",
+   "url": "https://www.ecfr.gov/current/title-18/part-16",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0020",
+   "short": "18 CFR Part 20",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 20",
+   "url": "https://www.ecfr.gov/current/title-18/part-20",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0024",
+   "short": "18 CFR Part 24",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 24",
+   "url": "https://www.ecfr.gov/current/title-18/part-24",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0025",
+   "short": "18 CFR Part 25",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 25",
+   "url": "https://www.ecfr.gov/current/title-18/part-25",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0032",
+   "short": "18 CFR Part 32",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 32",
+   "url": "https://www.ecfr.gov/current/title-18/part-32",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0033",
+   "short": "18 CFR Part 33",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 33",
+   "url": "https://www.ecfr.gov/current/title-18/part-33",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2019-03-27",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0034",
+   "short": "18 CFR Part 34",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 34",
+   "url": "https://www.ecfr.gov/current/title-18/part-34",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0035",
+   "short": "18 CFR Part 35",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 35",
+   "url": "https://www.ecfr.gov/current/title-18/part-35",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-03-06",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-11-26",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-08-21",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2019-09-24",
+     "units": 51,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-03-30",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-03-14",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2023-08-21",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2023-11-06",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2026-05-26",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0036",
+   "short": "18 CFR Part 36",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 36",
+   "url": "https://www.ecfr.gov/current/title-18/part-36",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0037",
+   "short": "18 CFR Part 37",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 37",
+   "url": "https://www.ecfr.gov/current/title-18/part-37",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0038",
+   "short": "18 CFR Part 38",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 38",
+   "url": "https://www.ecfr.gov/current/title-18/part-38",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2020-04-27",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-04-28",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0039",
+   "short": "18 CFR Part 39",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 39",
+   "url": "https://www.ecfr.gov/current/title-18/part-39",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0040",
+   "short": "18 CFR Part 40",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 40",
+   "url": "https://www.ecfr.gov/current/title-18/part-40",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0041",
+   "short": "18 CFR Part 41",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 41",
+   "url": "https://www.ecfr.gov/current/title-18/part-41",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0042",
+   "short": "18 CFR Part 42",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 42",
+   "url": "https://www.ecfr.gov/current/title-18/part-42",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0045",
+   "short": "18 CFR Part 45",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 45",
+   "url": "https://www.ecfr.gov/current/title-18/part-45",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2019-05-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0046",
+   "short": "18 CFR Part 46",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 46",
+   "url": "https://www.ecfr.gov/current/title-18/part-46",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2019-05-03",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0050",
+   "short": "18 CFR Part 50",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 50",
+   "url": "https://www.ecfr.gov/current/title-18/part-50",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2024-11-22",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0125",
+   "short": "18 CFR Part 125",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 125",
+   "url": "https://www.ecfr.gov/current/title-18/part-125",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0131",
+   "short": "18 CFR Part 131",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 131",
+   "url": "https://www.ecfr.gov/current/title-18/part-131",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0141",
+   "short": "18 CFR Part 141",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 141",
+   "url": "https://www.ecfr.gov/current/title-18/part-141",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2019-03-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-08-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0152",
+   "short": "18 CFR Part 152",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 152",
+   "url": "https://www.ecfr.gov/current/title-18/part-152",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0153",
+   "short": "18 CFR Part 153",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 153",
+   "url": "https://www.ecfr.gov/current/title-18/part-153",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2021-03-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0154",
+   "short": "18 CFR Part 154",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 154",
+   "url": "https://www.ecfr.gov/current/title-18/part-154",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-09-13",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 55,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0156",
+   "short": "18 CFR Part 156",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 156",
+   "url": "https://www.ecfr.gov/current/title-18/part-156",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0157",
+   "short": "18 CFR Part 157",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 157",
+   "url": "https://www.ecfr.gov/current/title-18/part-157",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-03-07",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2019-03-21",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2020-03-19",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-08-05",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-03-03",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-06-14",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-03-23",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-02-14",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2024-03-08",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-02-06",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0158",
+   "short": "18 CFR Part 158",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 158",
+   "url": "https://www.ecfr.gov/current/title-18/part-158",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0225",
+   "short": "18 CFR Part 225",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 225",
+   "url": "https://www.ecfr.gov/current/title-18/part-225",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0250",
+   "short": "18 CFR Part 250",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 250",
+   "url": "https://www.ecfr.gov/current/title-18/part-250",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-01-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2019-02-01",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-01-13",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-01-14",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0260",
+   "short": "18 CFR Part 260",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 260",
+   "url": "https://www.ecfr.gov/current/title-18/part-260",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-09-13",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0270",
+   "short": "18 CFR Part 270",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 270",
+   "url": "https://www.ecfr.gov/current/title-18/part-270",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0280",
+   "short": "18 CFR Part 280",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 280",
+   "url": "https://www.ecfr.gov/current/title-18/part-280",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0281",
+   "short": "18 CFR Part 281",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 281",
+   "url": "https://www.ecfr.gov/current/title-18/part-281",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0284",
+   "short": "18 CFR Part 284",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 284",
+   "url": "https://www.ecfr.gov/current/title-18/part-284",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-09-13",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-02-01",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2021-10-12",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-02-07",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2026-07-27",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0286",
+   "short": "18 CFR Part 286",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 286",
+   "url": "https://www.ecfr.gov/current/title-18/part-286",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0287",
+   "short": "18 CFR Part 287",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 287",
+   "url": "https://www.ecfr.gov/current/title-18/part-287",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0290",
+   "short": "18 CFR Part 290",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 290",
+   "url": "https://www.ecfr.gov/current/title-18/part-290",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0292",
+   "short": "18 CFR Part 292",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 292",
+   "url": "https://www.ecfr.gov/current/title-18/part-292",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-02-16",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-04-05",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0294",
+   "short": "18 CFR Part 294",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 294",
+   "url": "https://www.ecfr.gov/current/title-18/part-294",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0300",
+   "short": "18 CFR Part 300",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 300",
+   "url": "https://www.ecfr.gov/current/title-18/part-300",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0301",
+   "short": "18 CFR Part 301",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 301",
+   "url": "https://www.ecfr.gov/current/title-18/part-301",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0340",
+   "short": "18 CFR Part 340",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 340",
+   "url": "https://www.ecfr.gov/current/title-18/part-340",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0341",
+   "short": "18 CFR Part 341",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 341",
+   "url": "https://www.ecfr.gov/current/title-18/part-341",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0342",
+   "short": "18 CFR Part 342",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 342",
+   "url": "https://www.ecfr.gov/current/title-18/part-342",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0343",
+   "short": "18 CFR Part 343",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 343",
+   "url": "https://www.ecfr.gov/current/title-18/part-343",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0344",
+   "short": "18 CFR Part 344",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 344",
+   "url": "https://www.ecfr.gov/current/title-18/part-344",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0346",
+   "short": "18 CFR Part 346",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 346",
+   "url": "https://www.ecfr.gov/current/title-18/part-346",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0347",
+   "short": "18 CFR Part 347",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 347",
+   "url": "https://www.ecfr.gov/current/title-18/part-347",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0348",
+   "short": "18 CFR Part 348",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 348",
+   "url": "https://www.ecfr.gov/current/title-18/part-348",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0349",
+   "short": "18 CFR Part 349",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 349",
+   "url": "https://www.ecfr.gov/current/title-18/part-349",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0351",
+   "short": "18 CFR Part 351",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 351",
+   "url": "https://www.ecfr.gov/current/title-18/part-351",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0356",
+   "short": "18 CFR Part 356",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 356",
+   "url": "https://www.ecfr.gov/current/title-18/part-356",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0357",
+   "short": "18 CFR Part 357",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 357",
+   "url": "https://www.ecfr.gov/current/title-18/part-357",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0358",
+   "short": "18 CFR Part 358",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 358",
+   "url": "https://www.ecfr.gov/current/title-18/part-358",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0366",
+   "short": "18 CFR Part 366",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 366",
+   "url": "https://www.ecfr.gov/current/title-18/part-366",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0367",
+   "short": "18 CFR Part 367",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 367",
+   "url": "https://www.ecfr.gov/current/title-18/part-367",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 221,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0368",
+   "short": "18 CFR Part 368",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 368",
+   "url": "https://www.ecfr.gov/current/title-18/part-368",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0369",
+   "short": "18 CFR Part 369",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 369",
+   "url": "https://www.ecfr.gov/current/title-18/part-369",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0375",
+   "short": "18 CFR Part 375",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 375",
+   "url": "https://www.ecfr.gov/current/title-18/part-375",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2020-03-23",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-04-07",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-06-24",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2025-09-30",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-02-02",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0376",
+   "short": "18 CFR Part 376",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 376",
+   "url": "https://www.ecfr.gov/current/title-18/part-376",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2025-02-12",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0380",
+   "short": "18 CFR Part 380",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 380",
+   "url": "https://www.ecfr.gov/current/title-18/part-380",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2025-08-18",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2026-08-24",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0381",
+   "short": "18 CFR Part 381",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 381",
+   "url": "https://www.ecfr.gov/current/title-18/part-381",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-02-05",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2020-02-10",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-03-29",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2023-03-03",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2024-02-08",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-03-03",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2026-02-19",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0382",
+   "short": "18 CFR Part 382",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 382",
+   "url": "https://www.ecfr.gov/current/title-18/part-382",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0385",
+   "short": "18 CFR Part 385",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 385",
+   "url": "https://www.ecfr.gov/current/title-18/part-385",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-01-12",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-06-22",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-02-01",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-02-14",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2020-01-14",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-02-25",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2022-01-13",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-01-12",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2024-01-11",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2025-01-14",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2025-08-18",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 161,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0388",
+   "short": "18 CFR Part 388",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 388",
+   "url": "https://www.ecfr.gov/current/title-18/part-388",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0389",
+   "short": "18 CFR Part 389",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 389",
+   "url": "https://www.ecfr.gov/current/title-18/part-389",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0390",
+   "short": "18 CFR Part 390",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 390",
+   "url": "https://www.ecfr.gov/current/title-18/part-390",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0401",
+   "short": "18 CFR Part 401",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 401",
+   "url": "https://www.ecfr.gov/current/title-18/part-401",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-03-05",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2020-03-24",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 79,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2024-07-22",
+     "units": 76,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 76,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0410",
+   "short": "18 CFR Part 410",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 410",
+   "url": "https://www.ecfr.gov/current/title-18/part-410",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0415",
+   "short": "18 CFR Part 415",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 415",
+   "url": "https://www.ecfr.gov/current/title-18/part-415",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0420",
+   "short": "18 CFR Part 420",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 420",
+   "url": "https://www.ecfr.gov/current/title-18/part-420",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2024/title-18/CFR-2024-title-18.zip",
+     "sha256": "01d6df5d23a2aa7630ca9c46292d8c0d3c010b12442d454026887258a9bcdcec"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0430",
+   "short": "18 CFR Part 430",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 430",
+   "url": "https://www.ecfr.gov/current/title-18/part-430",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0440",
+   "short": "18 CFR Part 440",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 440",
+   "url": "https://www.ecfr.gov/current/title-18/part-440",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2023-03-06",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-18/CFR-2023-title-18.zip",
+     "sha256": "917f6978f8e3aa32939ed9b7357466ed12b5d332ed9c45f7850add2efa217bcd"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0701",
+   "short": "18 CFR Part 701",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 701",
+   "url": "https://www.ecfr.gov/current/title-18/part-701",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 49,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0704",
+   "short": "18 CFR Part 704",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 704",
+   "url": "https://www.ecfr.gov/current/title-18/part-704",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0705",
+   "short": "18 CFR Part 705",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 705",
+   "url": "https://www.ecfr.gov/current/title-18/part-705",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0706",
+   "short": "18 CFR Part 706",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 706",
+   "url": "https://www.ecfr.gov/current/title-18/part-706",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0707",
+   "short": "18 CFR Part 707",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 707",
+   "url": "https://www.ecfr.gov/current/title-18/part-707",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0708",
+   "short": "18 CFR Part 708",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 708",
+   "url": "https://www.ecfr.gov/current/title-18/part-708",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0725",
+   "short": "18 CFR Part 725",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 725",
+   "url": "https://www.ecfr.gov/current/title-18/part-725",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0740",
+   "short": "18 CFR Part 740",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 740",
+   "url": "https://www.ecfr.gov/current/title-18/part-740",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0801",
+   "short": "18 CFR Part 801",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 801",
+   "url": "https://www.ecfr.gov/current/title-18/part-801",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-03-19",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2024-09-25",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0806",
+   "short": "18 CFR Part 806",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 806",
+   "url": "https://www.ecfr.gov/current/title-18/part-806",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0807",
+   "short": "18 CFR Part 807",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 807",
+   "url": "https://www.ecfr.gov/current/title-18/part-807",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-0808",
+   "short": "18 CFR Part 808",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 808",
+   "url": "https://www.ecfr.gov/current/title-18/part-808",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1300",
+   "short": "18 CFR Part 1300",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1300",
+   "url": "https://www.ecfr.gov/current/title-18/part-1300",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1301",
+   "short": "18 CFR Part 1301",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1301",
+   "url": "https://www.ecfr.gov/current/title-18/part-1301",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-03-19",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-18/CFR-2018-title-18.zip",
+     "sha256": "4fcb6eeaf410cc078b0ff105d14227038300a404c99921252754d3018f358d5a"
+    },
+    {
+     "from": "2018-09-25",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2020-10-26",
+     "units": 61,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-18/CFR-2021-title-18.zip",
+     "sha256": "0a8d1579932ce362b22dfe4c29f7ad059ca9e35354bc7588f7ef997d6aca89d7"
+    },
+    {
+     "from": "2021-05-27",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1302",
+   "short": "18 CFR Part 1302",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1302",
+   "url": "https://www.ecfr.gov/current/title-18/part-1302",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1303",
+   "short": "18 CFR Part 1303",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1303",
+   "url": "https://www.ecfr.gov/current/title-18/part-1303",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1304",
+   "short": "18 CFR Part 1304",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1304",
+   "url": "https://www.ecfr.gov/current/title-18/part-1304",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-18/CFR-2019-title-18.zip",
+     "sha256": "e07a1a767701e28686129c36b263bf1b2cb9526f936ac6f4221286825e325752"
+    },
+    {
+     "from": "2021-10-12",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-18/CFR-2022-title-18.zip",
+     "sha256": "af4f8c98fe2b41d989d996595fda85f322e94e349e776e23c8deff7b154ce3d9"
+    },
+    {
+     "from": "2025-01-27",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-18/CFR-2025-title-18.zip",
+     "sha256": "315ac7ed7bc471e00304e7786acfb532a6b3a5f3050ceccb7b7d9b828bf7c328"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1306",
+   "short": "18 CFR Part 1306",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1306",
+   "url": "https://www.ecfr.gov/current/title-18/part-1306",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1307",
+   "short": "18 CFR Part 1307",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1307",
+   "url": "https://www.ecfr.gov/current/title-18/part-1307",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1308",
+   "short": "18 CFR Part 1308",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1308",
+   "url": "https://www.ecfr.gov/current/title-18/part-1308",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1309",
+   "short": "18 CFR Part 1309",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1309",
+   "url": "https://www.ecfr.gov/current/title-18/part-1309",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1310",
+   "short": "18 CFR Part 1310",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1310",
+   "url": "https://www.ecfr.gov/current/title-18/part-1310",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1311",
+   "short": "18 CFR Part 1311",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1311",
+   "url": "https://www.ecfr.gov/current/title-18/part-1311",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1312",
+   "short": "18 CFR Part 1312",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1312",
+   "url": "https://www.ecfr.gov/current/title-18/part-1312",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1313",
+   "short": "18 CFR Part 1313",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1313",
+   "url": "https://www.ecfr.gov/current/title-18/part-1313",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1314",
+   "short": "18 CFR Part 1314",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1314",
+   "url": "https://www.ecfr.gov/current/title-18/part-1314",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1315",
+   "short": "18 CFR Part 1315",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1315",
+   "url": "https://www.ecfr.gov/current/title-18/part-1315",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1316",
+   "short": "18 CFR Part 1316",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1316",
+   "url": "https://www.ecfr.gov/current/title-18/part-1316",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1317",
+   "short": "18 CFR Part 1317",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1317",
+   "url": "https://www.ecfr.gov/current/title-18/part-1317",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-18/CFR-2017-title-18.zip",
+     "sha256": "197a761b9671da38360f77b0f0323066b2307b15569342da9cff9c0b06ab32a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1318",
+   "short": "18 CFR Part 1318",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1318",
+   "url": "https://www.ecfr.gov/current/title-18/part-1318",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-18/CFR-2020-title-18.zip",
+     "sha256": "ea6103b75a74e45af8ed459cc01413f3adfd5d8964eb9444a85e38dbbb377deb"
+    },
+    {
+     "from": "2026-01-21",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-part-1319",
+   "short": "18 CFR Part 1319",
+   "title": "Title 18 of the Code of Federal Regulations (Conservation of Power and Water Resources), Part 1319",
+   "url": "https://www.ecfr.gov/current/title-18/part-1319",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-18/ECFR-title18.xml",
+     "sha256": "210da3c66dc097ab48ba527552a0628486dcd7c7c7bb94110e47424265a20e66"
+    }
+   ]
+  },
+  {
    "slug": "title-26-part-0001",
    "short": "26 CFR Part 1",
    "title": "Title 26 of the Code of Federal Regulations (Internal Revenue), Part 1",
