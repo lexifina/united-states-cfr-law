@@ -135830,6 +135830,1476 @@
    ]
   },
   {
+   "slug": "title-27-part-0001",
+   "short": "27 CFR Part 1",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 1",
+   "url": "https://www.ecfr.gov/current/title-27/part-1",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0004",
+   "short": "27 CFR Part 4",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 4",
+   "url": "https://www.ecfr.gov/current/title-27/part-4",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 47,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-05-04",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 50,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0005",
+   "short": "27 CFR Part 5",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 5",
+   "url": "https://www.ecfr.gov/current/title-27/part-5",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-05-04",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 42,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2022-03-09",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2022-03-11",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2022-06-03",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2023-02-13",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-01-19",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0006",
+   "short": "27 CFR Part 6",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 6",
+   "url": "https://www.ecfr.gov/current/title-27/part-6",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 57,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0007",
+   "short": "27 CFR Part 7",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 7",
+   "url": "https://www.ecfr.gov/current/title-27/part-7",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-05-04",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2022-03-09",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0008",
+   "short": "27 CFR Part 8",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 8",
+   "url": "https://www.ecfr.gov/current/title-27/part-8",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0009",
+   "short": "27 CFR Part 9",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 9",
+   "url": "https://www.ecfr.gov/current/title-27/part-9",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 248,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2018-01-08",
+     "units": 249,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-27/CFR-2018-title-27.zip",
+     "sha256": "d7863c08b4a449a94e94e5312583b0cbb48403a14f8e2a082ad8396c72edbca2"
+    },
+    {
+     "from": "2018-05-07",
+     "units": 250,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2018-07-30",
+     "units": 251,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2019-01-07",
+     "units": 252,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2019-01-14",
+     "units": 253,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2019-08-19",
+     "units": 254,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2019-11-12",
+     "units": 255,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 255,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2020-07-06",
+     "units": 257,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-09-24",
+     "units": 258,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-10-02",
+     "units": 259,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-10-26",
+     "units": 260,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 261,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2021-07-19",
+     "units": 264,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 266,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2021-09-24",
+     "units": 267,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 269,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2022-03-09",
+     "units": 270,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2022-04-08",
+     "units": 270,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2022-05-23",
+     "units": 271,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2022-07-05",
+     "units": 275,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2022-09-14",
+     "units": 276,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2023-08-04",
+     "units": 277,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2023-09-28",
+     "units": 278,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-03-06",
+     "units": 278,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-04-15",
+     "units": 279,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-05-08",
+     "units": 280,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-05-28",
+     "units": 281,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 282,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-09-30",
+     "units": 283,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 284,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 285,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-10-29",
+     "units": 286,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-04-23",
+     "units": 288,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-09-16",
+     "units": 289,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0010",
+   "short": "27 CFR Part 10",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 10",
+   "url": "https://www.ecfr.gov/current/title-27/part-10",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0011",
+   "short": "27 CFR Part 11",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 11",
+   "url": "https://www.ecfr.gov/current/title-27/part-11",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0012",
+   "short": "27 CFR Part 12",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 12",
+   "url": "https://www.ecfr.gov/current/title-27/part-12",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0013",
+   "short": "27 CFR Part 13",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 13",
+   "url": "https://www.ecfr.gov/current/title-27/part-13",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0016",
+   "short": "27 CFR Part 16",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 16",
+   "url": "https://www.ecfr.gov/current/title-27/part-16",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0017",
+   "short": "27 CFR Part 17",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 17",
+   "url": "https://www.ecfr.gov/current/title-27/part-17",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 68,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 68,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0018",
+   "short": "27 CFR Part 18",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 18",
+   "url": "https://www.ecfr.gov/current/title-27/part-18",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 43,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0019",
+   "short": "27 CFR Part 19",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 19",
+   "url": "https://www.ecfr.gov/current/title-27/part-19",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 441,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-05-04",
+     "units": 441,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 441,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 441,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 441,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 441,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0020",
+   "short": "27 CFR Part 20",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 20",
+   "url": "https://www.ecfr.gov/current/title-27/part-20",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 139,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 139,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 139,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0021",
+   "short": "27 CFR Part 21",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 21",
+   "url": "https://www.ecfr.gov/current/title-27/part-21",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 118,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 118,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 118,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0022",
+   "short": "27 CFR Part 22",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 22",
+   "url": "https://www.ecfr.gov/current/title-27/part-22",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 80,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 80,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0024",
+   "short": "27 CFR Part 24",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 24",
+   "url": "https://www.ecfr.gov/current/title-27/part-24",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 225,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2017-12-05",
+     "units": 225,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-27/CFR-2018-title-27.zip",
+     "sha256": "d7863c08b4a449a94e94e5312583b0cbb48403a14f8e2a082ad8396c72edbca2"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 225,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2022-08-24",
+     "units": 228,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 228,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 228,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 228,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 228,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0025",
+   "short": "27 CFR Part 25",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 25",
+   "url": "https://www.ecfr.gov/current/title-27/part-25",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 146,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 146,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 146,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 146,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0026",
+   "short": "27 CFR Part 26",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 26",
+   "url": "https://www.ecfr.gov/current/title-27/part-26",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 177,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 178,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 178,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 178,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 178,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 178,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0027",
+   "short": "27 CFR Part 27",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 27",
+   "url": "https://www.ecfr.gov/current/title-27/part-27",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2017-12-05",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-27/CFR-2018-title-27.zip",
+     "sha256": "d7863c08b4a449a94e94e5312583b0cbb48403a14f8e2a082ad8396c72edbca2"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 58,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 69,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 69,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-09-22",
+     "units": 69,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 69,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0028",
+   "short": "27 CFR Part 28",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 28",
+   "url": "https://www.ecfr.gov/current/title-27/part-28",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 176,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 176,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 176,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0029",
+   "short": "27 CFR Part 29",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 29",
+   "url": "https://www.ecfr.gov/current/title-27/part-29",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0030",
+   "short": "27 CFR Part 30",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 30",
+   "url": "https://www.ecfr.gov/current/title-27/part-30",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0031",
+   "short": "27 CFR Part 31",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 31",
+   "url": "https://www.ecfr.gov/current/title-27/part-31",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-05-04",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0040",
+   "short": "27 CFR Part 40",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 40",
+   "url": "https://www.ecfr.gov/current/title-27/part-40",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 208,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0041",
+   "short": "27 CFR Part 41",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 41",
+   "url": "https://www.ecfr.gov/current/title-27/part-41",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 137,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0044",
+   "short": "27 CFR Part 44",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 44",
+   "url": "https://www.ecfr.gov/current/title-27/part-44",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 148,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 148,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0045",
+   "short": "27 CFR Part 45",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 45",
+   "url": "https://www.ecfr.gov/current/title-27/part-45",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0046",
+   "short": "27 CFR Part 46",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 46",
+   "url": "https://www.ecfr.gov/current/title-27/part-46",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 106,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 63,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0053",
+   "short": "27 CFR Part 53",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 53",
+   "url": "https://www.ecfr.gov/current/title-27/part-53",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 72,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0070",
+   "short": "27 CFR Part 70",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 70",
+   "url": "https://www.ecfr.gov/current/title-27/part-70",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 205,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 205,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2021/title-27/CFR-2021-title-27.zip",
+     "sha256": "851d821d897070ea8c1e5d4122d84ccf74319c307e39ece2b9c700183888c18c"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 205,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 205,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-12-12",
+     "units": 205,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0071",
+   "short": "27 CFR Part 71",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 71",
+   "url": "https://www.ecfr.gov/current/title-27/part-71",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 77,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0072",
+   "short": "27 CFR Part 72",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 72",
+   "url": "https://www.ecfr.gov/current/title-27/part-72",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 32,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0073",
+   "short": "27 CFR Part 73",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 73",
+   "url": "https://www.ecfr.gov/current/title-27/part-73",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0447",
+   "short": "27 CFR Part 447",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 447",
+   "url": "https://www.ecfr.gov/current/title-27/part-447",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2019-03-26",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2022-08-24",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2026-05-06",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-07-06",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0478",
+   "short": "27 CFR Part 478",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 478",
+   "url": "https://www.ecfr.gov/current/title-27/part-478",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2019-03-26",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2019-04-08",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2019-11-08",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 108,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2022-02-03",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2022-08-24",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2023-01-31",
+     "units": 110,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2024-05-20",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2024-07-18",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2025/title-27/CFR-2025-title-27.zip",
+     "sha256": "efe6d9ff9bf370cd2bc6ad57c693216c8ec8a62fe261fba5cc062e156ad3a39f"
+    },
+    {
+     "from": "2026-05-06",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0479",
+   "short": "27 CFR Part 479",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 479",
+   "url": "https://www.ecfr.gov/current/title-27/part-479",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2019-03-26",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-27/CFR-2019-title-27.zip",
+     "sha256": "8da56cd4e9d126cb4e920f1bb60a750698ee1b8c4a3064406cdceae4fc834251"
+    },
+    {
+     "from": "2022-08-24",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2023-01-31",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-27/CFR-2023-title-27.zip",
+     "sha256": "78caef1b27ac0b95f88969dd887bc67e0c41c0e70dc06f99a2de541953a04bcf"
+    },
+    {
+     "from": "2026-05-06",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-06-10",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-07-06",
+     "units": 88,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0555",
+   "short": "27 CFR Part 555",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 555",
+   "url": "https://www.ecfr.gov/current/title-27/part-555",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2019-04-08",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2022/title-27/CFR-2022-title-27.zip",
+     "sha256": "56f8d57b9a26700d494d1a00fa22de11ea67ebe5daa6e44d42acc574cf19afeb"
+    },
+    {
+     "from": "2026-06-05",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 111,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0646",
+   "short": "27 CFR Part 646",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 646",
+   "url": "https://www.ecfr.gov/current/title-27/part-646",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-27/CFR-2017-title-27.zip",
+     "sha256": "1608fd8ea0550b62c3a48c5b099082060936a72c8a87c56c8ebe591543dbd285"
+    },
+    {
+     "from": "2026-06-08",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-27/ECFR-title27.xml",
+     "sha256": "0e135be93902bbdf0cf781a6920955fc04a95ee1556f36c5e0e72737474e9156"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-part-0771",
+   "short": "27 CFR Part 771",
+   "title": "Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 771",
+   "url": "https://www.ecfr.gov/current/title-27/part-771",
+   "versions": [
+    {
+     "from": "2019-12-26",
+     "units": 75,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2020/title-27/CFR-2020-title-27.zip",
+     "sha256": "791fd653811f6456d9f73a7059b0d8b4e10c3d885a7854998302674c4efaad71"
+    }
+   ]
+  },
+  {
    "slug": "title-29-part-0000",
    "short": "29 CFR Part 0",
    "title": "Title 29 of the Code of Federal Regulations (Labor), Part 0",

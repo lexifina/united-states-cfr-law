@@ -4729,6 +4729,48 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-26-part-0701` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 701 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0702` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 702 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0801` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 801 | 2 | 2017-03-22 to 2018-03-07 |
+| `title-27-part-0001` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 1 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0004` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 4 | 5 | 2017-03-15 to 2025-01-10 |
+| `title-27-part-0005` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 5 | 10 | 2017-03-15 to 2025-01-19 |
+| `title-27-part-0006` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 6 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0007` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 7 | 4 | 2017-03-15 to 2022-03-09 |
+| `title-27-part-0008` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 8 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0009` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 9 | 36 | 2017-03-15 to 2026-09-16 |
+| `title-27-part-0010` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 10 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0011` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 11 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0012` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 12 | 1 | 2017-03-15 to 2017-03-15 |
+| `title-27-part-0013` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 13 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0016` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 16 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0017` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 17 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0018` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 18 | 3 | 2017-03-15 to 2024-12-18 |
+| `title-27-part-0019` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 19 | 6 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0020` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 20 | 3 | 2017-03-15 to 2024-12-18 |
+| `title-27-part-0021` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 21 | 3 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0022` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 22 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0024` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 24 | 8 | 2017-03-15 to 2025-01-10 |
+| `title-27-part-0025` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 25 | 4 | 2017-03-15 to 2024-12-18 |
+| `title-27-part-0026` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 26 | 8 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0027` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 27 | 7 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0028` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 28 | 3 | 2017-03-15 to 2024-12-18 |
+| `title-27-part-0029` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 29 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0030` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 30 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0031` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 31 | 4 | 2017-03-15 to 2024-12-18 |
+| `title-27-part-0040` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 40 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0041` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 41 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0044` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 44 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0045` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 45 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0046` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 46 | 3 | 2017-03-15 to 2025-11-28 |
+| `title-27-part-0053` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 53 | 3 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0070` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 70 | 5 | 2017-03-15 to 2024-12-12 |
+| `title-27-part-0071` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 71 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0072` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 72 | 2 | 2017-03-15 to 2024-12-06 |
+| `title-27-part-0073` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 73 | 1 | 2017-03-15 to 2017-03-15 |
+| `title-27-part-0447` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 447 | 5 | 2017-03-15 to 2026-07-06 |
+| `title-27-part-0478` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 478 | 15 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0479` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 479 | 8 | 2017-03-15 to 2026-07-06 |
+| `title-27-part-0555` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 555 | 7 | 2017-03-15 to 2026-10-26 |
+| `title-27-part-0646` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 646 | 2 | 2017-03-15 to 2026-06-08 |
+| `title-27-part-0771` | Title 27 of the Code of Federal Regulations (Alcohol, Tobacco Products and Firearms), Part 771 | 1 | 2019-12-26 to 2019-12-26 |
 | `title-29-part-0000` | Title 29 of the Code of Federal Regulations (Labor), Part 0 | 1 | 2017-05-30 to 2017-05-30 |
 | `title-29-part-0001` | Title 29 of the Code of Federal Regulations (Labor), Part 1 | 2 | 2017-05-30 to 2023-10-23 |
 | `title-29-part-0002` | Title 29 of the Code of Federal Regulations (Labor), Part 2 | 6 | 2017-05-30 to 2025-07-31 |
@@ -5033,19 +5075,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 21566 commits:
+The build made 21798 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5016 | first version of an act |
-| 11657 | one law on its in-force day |
-| 4893 | changes no amendment note explains, credited to the publisher |
+| 5058 | first version of an act |
+| 11798 | one law on its in-force day |
+| 4942 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 13878 laws in the record.
-- 28290 tags.
+- 14040 laws in the record.
+- 28607 tags.
 
 ## Dates
 
@@ -5057,7 +5099,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e237a3da8ea80e317c86aad8782329b27373e30683ebbb2c4154cda2db97f822` (1036084165 bytes).
+- Corpus: sha256 `6aa2e8d3c91d1bca0abebb14ef275f3e3d8dde869abc8354a0398e93327c584a` (1044643212 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5105,6 +5147,7 @@ No second build of this corpus has been compared yet.
 - Title 24: editions read: 2017 annual edition (to 2017-03-21); 2018 annual edition (to 2018-04-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 25: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-02-26); 2019 annual edition (to 2019-03-01); 2020 annual edition (to 2020-03-30); 2021 annual edition (to 2021-02-01); 2022 annual edition (to 2022-03-09); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 27: editions read: 2017 annual edition (to 2017-03-15); 2018 annual edition (to 2018-01-08); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
