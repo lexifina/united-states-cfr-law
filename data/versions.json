@@ -147412,6 +147412,4494 @@
      "sha256": "c0f03564c2c8f36f1eb5679e5142c684c35dfac0e24029b5055c9d56fc13b2e0"
     }
    ]
+  },
+  {
+   "slug": "title-30-part-0001",
+   "short": "30 CFR Part 1",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1",
+   "url": "https://www.ecfr.gov/current/title-30/part-1",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0003",
+   "short": "30 CFR Part 3",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 3",
+   "url": "https://www.ecfr.gov/current/title-30/part-3",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0005",
+   "short": "30 CFR Part 5",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 5",
+   "url": "https://www.ecfr.gov/current/title-30/part-5",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0006",
+   "short": "30 CFR Part 6",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 6",
+   "url": "https://www.ecfr.gov/current/title-30/part-6",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0007",
+   "short": "30 CFR Part 7",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 7",
+   "url": "https://www.ecfr.gov/current/title-30/part-7",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 104,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0014",
+   "short": "30 CFR Part 14",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 14",
+   "url": "https://www.ecfr.gov/current/title-30/part-14",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0015",
+   "short": "30 CFR Part 15",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 15",
+   "url": "https://www.ecfr.gov/current/title-30/part-15",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0018",
+   "short": "30 CFR Part 18",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 18",
+   "url": "https://www.ecfr.gov/current/title-30/part-18",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 75,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 75,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 78,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0019",
+   "short": "30 CFR Part 19",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 19",
+   "url": "https://www.ecfr.gov/current/title-30/part-19",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0020",
+   "short": "30 CFR Part 20",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 20",
+   "url": "https://www.ecfr.gov/current/title-30/part-20",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0022",
+   "short": "30 CFR Part 22",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 22",
+   "url": "https://www.ecfr.gov/current/title-30/part-22",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0023",
+   "short": "30 CFR Part 23",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 23",
+   "url": "https://www.ecfr.gov/current/title-30/part-23",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0027",
+   "short": "30 CFR Part 27",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 27",
+   "url": "https://www.ecfr.gov/current/title-30/part-27",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0028",
+   "short": "30 CFR Part 28",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 28",
+   "url": "https://www.ecfr.gov/current/title-30/part-28",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0033",
+   "short": "30 CFR Part 33",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 33",
+   "url": "https://www.ecfr.gov/current/title-30/part-33",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0035",
+   "short": "30 CFR Part 35",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 35",
+   "url": "https://www.ecfr.gov/current/title-30/part-35",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0036",
+   "short": "30 CFR Part 36",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 36",
+   "url": "https://www.ecfr.gov/current/title-30/part-36",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0040",
+   "short": "30 CFR Part 40",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 40",
+   "url": "https://www.ecfr.gov/current/title-30/part-40",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0041",
+   "short": "30 CFR Part 41",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 41",
+   "url": "https://www.ecfr.gov/current/title-30/part-41",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0042",
+   "short": "30 CFR Part 42",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 42",
+   "url": "https://www.ecfr.gov/current/title-30/part-42",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0043",
+   "short": "30 CFR Part 43",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 43",
+   "url": "https://www.ecfr.gov/current/title-30/part-43",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0044",
+   "short": "30 CFR Part 44",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 44",
+   "url": "https://www.ecfr.gov/current/title-30/part-44",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 38,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0045",
+   "short": "30 CFR Part 45",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 45",
+   "url": "https://www.ecfr.gov/current/title-30/part-45",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0046",
+   "short": "30 CFR Part 46",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 46",
+   "url": "https://www.ecfr.gov/current/title-30/part-46",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0047",
+   "short": "30 CFR Part 47",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 47",
+   "url": "https://www.ecfr.gov/current/title-30/part-47",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 27,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0048",
+   "short": "30 CFR Part 48",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 48",
+   "url": "https://www.ecfr.gov/current/title-30/part-48",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0049",
+   "short": "30 CFR Part 49",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 49",
+   "url": "https://www.ecfr.gov/current/title-30/part-49",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0050",
+   "short": "30 CFR Part 50",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 50",
+   "url": "https://www.ecfr.gov/current/title-30/part-50",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0056",
+   "short": "30 CFR Part 56",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 56",
+   "url": "https://www.ecfr.gov/current/title-30/part-56",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 417,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-09-30",
+     "units": 417,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2020-03-16",
+     "units": 417,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 417,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-01-19",
+     "units": 422,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 422,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-04-06",
+     "units": 424,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0057",
+   "short": "30 CFR Part 57",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 57",
+   "url": "https://www.ecfr.gov/current/title-30/part-57",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 600,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-09-30",
+     "units": 600,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2020-03-16",
+     "units": 600,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 600,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-01-19",
+     "units": 605,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 605,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-04-06",
+     "units": 607,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-07-27",
+     "units": 607,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 607,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0058",
+   "short": "30 CFR Part 58",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 58",
+   "url": "https://www.ecfr.gov/current/title-30/part-58",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0060",
+   "short": "30 CFR Part 60",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 60",
+   "url": "https://www.ecfr.gov/current/title-30/part-60",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0062",
+   "short": "30 CFR Part 62",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 62",
+   "url": "https://www.ecfr.gov/current/title-30/part-62",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0070",
+   "short": "30 CFR Part 70",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 70",
+   "url": "https://www.ecfr.gov/current/title-30/part-70",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-04-14",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0071",
+   "short": "30 CFR Part 71",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 71",
+   "url": "https://www.ecfr.gov/current/title-30/part-71",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-04-14",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0072",
+   "short": "30 CFR Part 72",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 72",
+   "url": "https://www.ecfr.gov/current/title-30/part-72",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-04-14",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-07-27",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0074",
+   "short": "30 CFR Part 74",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 74",
+   "url": "https://www.ecfr.gov/current/title-30/part-74",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0075",
+   "short": "30 CFR Part 75",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 75",
+   "url": "https://www.ecfr.gov/current/title-30/part-75",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-04-14",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-07-27",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 489,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0077",
+   "short": "30 CFR Part 77",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 77",
+   "url": "https://www.ecfr.gov/current/title-30/part-77",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 269,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 269,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-01-19",
+     "units": 274,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0090",
+   "short": "30 CFR Part 90",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 90",
+   "url": "https://www.ecfr.gov/current/title-30/part-90",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-04-14",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0100",
+   "short": "30 CFR Part 100",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 100",
+   "url": "https://www.ecfr.gov/current/title-30/part-100",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-01-23",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-01-15",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0104",
+   "short": "30 CFR Part 104",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 104",
+   "url": "https://www.ecfr.gov/current/title-30/part-104",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0203",
+   "short": "30 CFR Part 203",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 203",
+   "url": "https://www.ecfr.gov/current/title-30/part-203",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 62,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0206",
+   "short": "30 CFR Part 206",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 206",
+   "url": "https://www.ecfr.gov/current/title-30/part-206",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0250",
+   "short": "30 CFR Part 250",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 250",
+   "url": "https://www.ecfr.gov/current/title-30/part-250",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 494,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 494,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2019-03-25",
+     "units": 494,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2019-05-15",
+     "units": 498,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2019-05-29",
+     "units": 498,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2019-07-15",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2019-09-04",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-02-26",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-06-29",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-03-24",
+     "units": 493,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-04-18",
+     "units": 495,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 496,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-10-29",
+     "units": 519,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-07-23",
+     "units": 519,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-09-12",
+     "units": 519,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 519,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-09-30",
+     "units": 486,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 486,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-08-10",
+     "units": 486,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 486,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0251",
+   "short": "30 CFR Part 251",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 251",
+   "url": "https://www.ecfr.gov/current/title-30/part-251",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0252",
+   "short": "30 CFR Part 252",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 252",
+   "url": "https://www.ecfr.gov/current/title-30/part-252",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0254",
+   "short": "30 CFR Part 254",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 254",
+   "url": "https://www.ecfr.gov/current/title-30/part-254",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 41,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0256",
+   "short": "30 CFR Part 256",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 256",
+   "url": "https://www.ecfr.gov/current/title-30/part-256",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0270",
+   "short": "30 CFR Part 270",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 270",
+   "url": "https://www.ecfr.gov/current/title-30/part-270",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0280",
+   "short": "30 CFR Part 280",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 280",
+   "url": "https://www.ecfr.gov/current/title-30/part-280",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0282",
+   "short": "30 CFR Part 282",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 282",
+   "url": "https://www.ecfr.gov/current/title-30/part-282",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0285",
+   "short": "30 CFR Part 285",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 285",
+   "url": "https://www.ecfr.gov/current/title-30/part-285",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 112,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-02-02",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-08-14",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2024-07-15",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2024-10-24",
+     "units": 113,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0290",
+   "short": "30 CFR Part 290",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 290",
+   "url": "https://www.ecfr.gov/current/title-30/part-290",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0291",
+   "short": "30 CFR Part 291",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 291",
+   "url": "https://www.ecfr.gov/current/title-30/part-291",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0401",
+   "short": "30 CFR Part 401",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 401",
+   "url": "https://www.ecfr.gov/current/title-30/part-401",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0402",
+   "short": "30 CFR Part 402",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 402",
+   "url": "https://www.ecfr.gov/current/title-30/part-402",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0550",
+   "short": "30 CFR Part 550",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 550",
+   "url": "https://www.ecfr.gov/current/title-30/part-550",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-26",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2020-07-06",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-07-22",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-02-15",
+     "units": 169,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 170,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 170,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 170,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 170,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-12-15",
+     "units": 170,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0551",
+   "short": "30 CFR Part 551",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 551",
+   "url": "https://www.ecfr.gov/current/title-30/part-551",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-09-25",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0552",
+   "short": "30 CFR Part 552",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 552",
+   "url": "https://www.ecfr.gov/current/title-30/part-552",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0553",
+   "short": "30 CFR Part 553",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 553",
+   "url": "https://www.ecfr.gov/current/title-30/part-553",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-26",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-02-15",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-15",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-01-13",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 39,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0556",
+   "short": "30 CFR Part 556",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 556",
+   "url": "https://www.ecfr.gov/current/title-30/part-556",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-07-22",
+     "units": 92,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0560",
+   "short": "30 CFR Part 560",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 560",
+   "url": "https://www.ecfr.gov/current/title-30/part-560",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-19",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0570",
+   "short": "30 CFR Part 570",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 570",
+   "url": "https://www.ecfr.gov/current/title-30/part-570",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0580",
+   "short": "30 CFR Part 580",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 580",
+   "url": "https://www.ecfr.gov/current/title-30/part-580",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 36,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0581",
+   "short": "30 CFR Part 581",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 581",
+   "url": "https://www.ecfr.gov/current/title-30/part-581",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 37,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0582",
+   "short": "30 CFR Part 582",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 582",
+   "url": "https://www.ecfr.gov/current/title-30/part-582",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 30,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0583",
+   "short": "30 CFR Part 583",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 583",
+   "url": "https://www.ecfr.gov/current/title-30/part-583",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0585",
+   "short": "30 CFR Part 585",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 585",
+   "url": "https://www.ecfr.gov/current/title-30/part-585",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 258,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-01-31",
+     "units": 185,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-07-15",
+     "units": 193,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2024-10-24",
+     "units": 193,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 193,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0586",
+   "short": "30 CFR Part 586",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 586",
+   "url": "https://www.ecfr.gov/current/title-30/part-586",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0590",
+   "short": "30 CFR Part 590",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 590",
+   "url": "https://www.ecfr.gov/current/title-30/part-590",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0700",
+   "short": "30 CFR Part 700",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 700",
+   "url": "https://www.ecfr.gov/current/title-30/part-700",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-01-27",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0701",
+   "short": "30 CFR Part 701",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 701",
+   "url": "https://www.ecfr.gov/current/title-30/part-701",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0702",
+   "short": "30 CFR Part 702",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 702",
+   "url": "https://www.ecfr.gov/current/title-30/part-702",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0705",
+   "short": "30 CFR Part 705",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 705",
+   "url": "https://www.ecfr.gov/current/title-30/part-705",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 14,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0706",
+   "short": "30 CFR Part 706",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 706",
+   "url": "https://www.ecfr.gov/current/title-30/part-706",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0707",
+   "short": "30 CFR Part 707",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 707",
+   "url": "https://www.ecfr.gov/current/title-30/part-707",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0710",
+   "short": "30 CFR Part 710",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 710",
+   "url": "https://www.ecfr.gov/current/title-30/part-710",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0715",
+   "short": "30 CFR Part 715",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 715",
+   "url": "https://www.ecfr.gov/current/title-30/part-715",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0716",
+   "short": "30 CFR Part 716",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 716",
+   "url": "https://www.ecfr.gov/current/title-30/part-716",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0717",
+   "short": "30 CFR Part 717",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 717",
+   "url": "https://www.ecfr.gov/current/title-30/part-717",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0721",
+   "short": "30 CFR Part 721",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 721",
+   "url": "https://www.ecfr.gov/current/title-30/part-721",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0722",
+   "short": "30 CFR Part 722",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 722",
+   "url": "https://www.ecfr.gov/current/title-30/part-722",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0723",
+   "short": "30 CFR Part 723",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 723",
+   "url": "https://www.ecfr.gov/current/title-30/part-723",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-22",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0724",
+   "short": "30 CFR Part 724",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 724",
+   "url": "https://www.ecfr.gov/current/title-30/part-724",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0725",
+   "short": "30 CFR Part 725",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 725",
+   "url": "https://www.ecfr.gov/current/title-30/part-725",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 21,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0730",
+   "short": "30 CFR Part 730",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 730",
+   "url": "https://www.ecfr.gov/current/title-30/part-730",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0731",
+   "short": "30 CFR Part 731",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 731",
+   "url": "https://www.ecfr.gov/current/title-30/part-731",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0732",
+   "short": "30 CFR Part 732",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 732",
+   "url": "https://www.ecfr.gov/current/title-30/part-732",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0733",
+   "short": "30 CFR Part 733",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 733",
+   "url": "https://www.ecfr.gov/current/title-30/part-733",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0735",
+   "short": "30 CFR Part 735",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 735",
+   "url": "https://www.ecfr.gov/current/title-30/part-735",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0736",
+   "short": "30 CFR Part 736",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 736",
+   "url": "https://www.ecfr.gov/current/title-30/part-736",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0740",
+   "short": "30 CFR Part 740",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 740",
+   "url": "https://www.ecfr.gov/current/title-30/part-740",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0745",
+   "short": "30 CFR Part 745",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 745",
+   "url": "https://www.ecfr.gov/current/title-30/part-745",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0746",
+   "short": "30 CFR Part 746",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 746",
+   "url": "https://www.ecfr.gov/current/title-30/part-746",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0750",
+   "short": "30 CFR Part 750",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 750",
+   "url": "https://www.ecfr.gov/current/title-30/part-750",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0755",
+   "short": "30 CFR Part 755",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 755",
+   "url": "https://www.ecfr.gov/current/title-30/part-755",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0756",
+   "short": "30 CFR Part 756",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 756",
+   "url": "https://www.ecfr.gov/current/title-30/part-756",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0761",
+   "short": "30 CFR Part 761",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 761",
+   "url": "https://www.ecfr.gov/current/title-30/part-761",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0762",
+   "short": "30 CFR Part 762",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 762",
+   "url": "https://www.ecfr.gov/current/title-30/part-762",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0764",
+   "short": "30 CFR Part 764",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 764",
+   "url": "https://www.ecfr.gov/current/title-30/part-764",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0769",
+   "short": "30 CFR Part 769",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 769",
+   "url": "https://www.ecfr.gov/current/title-30/part-769",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0772",
+   "short": "30 CFR Part 772",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 772",
+   "url": "https://www.ecfr.gov/current/title-30/part-772",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0773",
+   "short": "30 CFR Part 773",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 773",
+   "url": "https://www.ecfr.gov/current/title-30/part-773",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 24,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0774",
+   "short": "30 CFR Part 774",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 774",
+   "url": "https://www.ecfr.gov/current/title-30/part-774",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0775",
+   "short": "30 CFR Part 775",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 775",
+   "url": "https://www.ecfr.gov/current/title-30/part-775",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0777",
+   "short": "30 CFR Part 777",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 777",
+   "url": "https://www.ecfr.gov/current/title-30/part-777",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0778",
+   "short": "30 CFR Part 778",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 778",
+   "url": "https://www.ecfr.gov/current/title-30/part-778",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0779",
+   "short": "30 CFR Part 779",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 779",
+   "url": "https://www.ecfr.gov/current/title-30/part-779",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0780",
+   "short": "30 CFR Part 780",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 780",
+   "url": "https://www.ecfr.gov/current/title-30/part-780",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0783",
+   "short": "30 CFR Part 783",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 783",
+   "url": "https://www.ecfr.gov/current/title-30/part-783",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0784",
+   "short": "30 CFR Part 784",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 784",
+   "url": "https://www.ecfr.gov/current/title-30/part-784",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0785",
+   "short": "30 CFR Part 785",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 785",
+   "url": "https://www.ecfr.gov/current/title-30/part-785",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0795",
+   "short": "30 CFR Part 795",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 795",
+   "url": "https://www.ecfr.gov/current/title-30/part-795",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0800",
+   "short": "30 CFR Part 800",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 800",
+   "url": "https://www.ecfr.gov/current/title-30/part-800",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0810",
+   "short": "30 CFR Part 810",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 810",
+   "url": "https://www.ecfr.gov/current/title-30/part-810",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0815",
+   "short": "30 CFR Part 815",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 815",
+   "url": "https://www.ecfr.gov/current/title-30/part-815",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0816",
+   "short": "30 CFR Part 816",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 816",
+   "url": "https://www.ecfr.gov/current/title-30/part-816",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-01-27",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-03-30",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 56,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0817",
+   "short": "30 CFR Part 817",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 817",
+   "url": "https://www.ecfr.gov/current/title-30/part-817",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-01-27",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 54,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0819",
+   "short": "30 CFR Part 819",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 819",
+   "url": "https://www.ecfr.gov/current/title-30/part-819",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0820",
+   "short": "30 CFR Part 820",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 820",
+   "url": "https://www.ecfr.gov/current/title-30/part-820",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0822",
+   "short": "30 CFR Part 822",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 822",
+   "url": "https://www.ecfr.gov/current/title-30/part-822",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0823",
+   "short": "30 CFR Part 823",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 823",
+   "url": "https://www.ecfr.gov/current/title-30/part-823",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0824",
+   "short": "30 CFR Part 824",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 824",
+   "url": "https://www.ecfr.gov/current/title-30/part-824",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0825",
+   "short": "30 CFR Part 825",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 825",
+   "url": "https://www.ecfr.gov/current/title-30/part-825",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0827",
+   "short": "30 CFR Part 827",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 827",
+   "url": "https://www.ecfr.gov/current/title-30/part-827",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0828",
+   "short": "30 CFR Part 828",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 828",
+   "url": "https://www.ecfr.gov/current/title-30/part-828",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0840",
+   "short": "30 CFR Part 840",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 840",
+   "url": "https://www.ecfr.gov/current/title-30/part-840",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0842",
+   "short": "30 CFR Part 842",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 842",
+   "url": "https://www.ecfr.gov/current/title-30/part-842",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0843",
+   "short": "30 CFR Part 843",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 843",
+   "url": "https://www.ecfr.gov/current/title-30/part-843",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0845",
+   "short": "30 CFR Part 845",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 845",
+   "url": "https://www.ecfr.gov/current/title-30/part-845",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-22",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0846",
+   "short": "30 CFR Part 846",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 846",
+   "url": "https://www.ecfr.gov/current/title-30/part-846",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-22",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0847",
+   "short": "30 CFR Part 847",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 847",
+   "url": "https://www.ecfr.gov/current/title-30/part-847",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0850",
+   "short": "30 CFR Part 850",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 850",
+   "url": "https://www.ecfr.gov/current/title-30/part-850",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0865",
+   "short": "30 CFR Part 865",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 865",
+   "url": "https://www.ecfr.gov/current/title-30/part-865",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0870",
+   "short": "30 CFR Part 870",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 870",
+   "url": "https://www.ecfr.gov/current/title-30/part-870",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-08-24",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-04-15",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-01-27",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0872",
+   "short": "30 CFR Part 872",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 872",
+   "url": "https://www.ecfr.gov/current/title-30/part-872",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 28,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 25,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0873",
+   "short": "30 CFR Part 873",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 873",
+   "url": "https://www.ecfr.gov/current/title-30/part-873",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0874",
+   "short": "30 CFR Part 874",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 874",
+   "url": "https://www.ecfr.gov/current/title-30/part-874",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-03-30",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0875",
+   "short": "30 CFR Part 875",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 875",
+   "url": "https://www.ecfr.gov/current/title-30/part-875",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-01-27",
+     "units": 13,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0876",
+   "short": "30 CFR Part 876",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 876",
+   "url": "https://www.ecfr.gov/current/title-30/part-876",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0877",
+   "short": "30 CFR Part 877",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 877",
+   "url": "https://www.ecfr.gov/current/title-30/part-877",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0879",
+   "short": "30 CFR Part 879",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 879",
+   "url": "https://www.ecfr.gov/current/title-30/part-879",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0880",
+   "short": "30 CFR Part 880",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 880",
+   "url": "https://www.ecfr.gov/current/title-30/part-880",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0881",
+   "short": "30 CFR Part 881",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 881",
+   "url": "https://www.ecfr.gov/current/title-30/part-881",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0882",
+   "short": "30 CFR Part 882",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 882",
+   "url": "https://www.ecfr.gov/current/title-30/part-882",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0884",
+   "short": "30 CFR Part 884",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 884",
+   "url": "https://www.ecfr.gov/current/title-30/part-884",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0885",
+   "short": "30 CFR Part 885",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 885",
+   "url": "https://www.ecfr.gov/current/title-30/part-885",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0886",
+   "short": "30 CFR Part 886",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 886",
+   "url": "https://www.ecfr.gov/current/title-30/part-886",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2026-01-23",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0887",
+   "short": "30 CFR Part 887",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 887",
+   "url": "https://www.ecfr.gov/current/title-30/part-887",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0900",
+   "short": "30 CFR Part 900",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 900",
+   "url": "https://www.ecfr.gov/current/title-30/part-900",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0901",
+   "short": "30 CFR Part 901",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 901",
+   "url": "https://www.ecfr.gov/current/title-30/part-901",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2018-07-23",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0902",
+   "short": "30 CFR Part 902",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 902",
+   "url": "https://www.ecfr.gov/current/title-30/part-902",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-01-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0903",
+   "short": "30 CFR Part 903",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 903",
+   "url": "https://www.ecfr.gov/current/title-30/part-903",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0904",
+   "short": "30 CFR Part 904",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 904",
+   "url": "https://www.ecfr.gov/current/title-30/part-904",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0905",
+   "short": "30 CFR Part 905",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 905",
+   "url": "https://www.ecfr.gov/current/title-30/part-905",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0906",
+   "short": "30 CFR Part 906",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 906",
+   "url": "https://www.ecfr.gov/current/title-30/part-906",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-10-03",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0910",
+   "short": "30 CFR Part 910",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 910",
+   "url": "https://www.ecfr.gov/current/title-30/part-910",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0912",
+   "short": "30 CFR Part 912",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 912",
+   "url": "https://www.ecfr.gov/current/title-30/part-912",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0913",
+   "short": "30 CFR Part 913",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 913",
+   "url": "https://www.ecfr.gov/current/title-30/part-913",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0914",
+   "short": "30 CFR Part 914",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 914",
+   "url": "https://www.ecfr.gov/current/title-30/part-914",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0915",
+   "short": "30 CFR Part 915",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 915",
+   "url": "https://www.ecfr.gov/current/title-30/part-915",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0916",
+   "short": "30 CFR Part 916",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 916",
+   "url": "https://www.ecfr.gov/current/title-30/part-916",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0917",
+   "short": "30 CFR Part 917",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 917",
+   "url": "https://www.ecfr.gov/current/title-30/part-917",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-06-09",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-10-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0918",
+   "short": "30 CFR Part 918",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 918",
+   "url": "https://www.ecfr.gov/current/title-30/part-918",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0920",
+   "short": "30 CFR Part 920",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 920",
+   "url": "https://www.ecfr.gov/current/title-30/part-920",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0921",
+   "short": "30 CFR Part 921",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 921",
+   "url": "https://www.ecfr.gov/current/title-30/part-921",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0922",
+   "short": "30 CFR Part 922",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 922",
+   "url": "https://www.ecfr.gov/current/title-30/part-922",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0924",
+   "short": "30 CFR Part 924",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 924",
+   "url": "https://www.ecfr.gov/current/title-30/part-924",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0925",
+   "short": "30 CFR Part 925",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 925",
+   "url": "https://www.ecfr.gov/current/title-30/part-925",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-02-28",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-10-20",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0926",
+   "short": "30 CFR Part 926",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 926",
+   "url": "https://www.ecfr.gov/current/title-30/part-926",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-08-13",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-09-21",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0931",
+   "short": "30 CFR Part 931",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 931",
+   "url": "https://www.ecfr.gov/current/title-30/part-931",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0933",
+   "short": "30 CFR Part 933",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 933",
+   "url": "https://www.ecfr.gov/current/title-30/part-933",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0934",
+   "short": "30 CFR Part 934",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 934",
+   "url": "https://www.ecfr.gov/current/title-30/part-934",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-05-09",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2026-09-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0935",
+   "short": "30 CFR Part 935",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 935",
+   "url": "https://www.ecfr.gov/current/title-30/part-935",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-10-30",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-09-08",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0936",
+   "short": "30 CFR Part 936",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 936",
+   "url": "https://www.ecfr.gov/current/title-30/part-936",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0937",
+   "short": "30 CFR Part 937",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 937",
+   "url": "https://www.ecfr.gov/current/title-30/part-937",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0938",
+   "short": "30 CFR Part 938",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 938",
+   "url": "https://www.ecfr.gov/current/title-30/part-938",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2022-05-12",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-07-28",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2025-08-27",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-17",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0939",
+   "short": "30 CFR Part 939",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 939",
+   "url": "https://www.ecfr.gov/current/title-30/part-939",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 33,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0941",
+   "short": "30 CFR Part 941",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 941",
+   "url": "https://www.ecfr.gov/current/title-30/part-941",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0942",
+   "short": "30 CFR Part 942",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 942",
+   "url": "https://www.ecfr.gov/current/title-30/part-942",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 35,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0943",
+   "short": "30 CFR Part 943",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 943",
+   "url": "https://www.ecfr.gov/current/title-30/part-943",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-10-20",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-02-13",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0944",
+   "short": "30 CFR Part 944",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 944",
+   "url": "https://www.ecfr.gov/current/title-30/part-944",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0946",
+   "short": "30 CFR Part 946",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 946",
+   "url": "https://www.ecfr.gov/current/title-30/part-946",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-11-22",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-01-10",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0947",
+   "short": "30 CFR Part 947",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 947",
+   "url": "https://www.ecfr.gov/current/title-30/part-947",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 34,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0948",
+   "short": "30 CFR Part 948",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 948",
+   "url": "https://www.ecfr.gov/current/title-30/part-948",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2026-01-02",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-07-22",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0950",
+   "short": "30 CFR Part 950",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 950",
+   "url": "https://www.ecfr.gov/current/title-30/part-950",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-01-03",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-11-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2024-02-20",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-0955",
+   "short": "30 CFR Part 955",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 955",
+   "url": "https://www.ecfr.gov/current/title-30/part-955",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 11,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1201",
+   "short": "30 CFR Part 1201",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1201",
+   "url": "https://www.ecfr.gov/current/title-30/part-1201",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1202",
+   "short": "30 CFR Part 1202",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1202",
+   "url": "https://www.ecfr.gov/current/title-30/part-1202",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 23,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-07-21",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1203",
+   "short": "30 CFR Part 1203",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1203",
+   "url": "https://www.ecfr.gov/current/title-30/part-1203",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1204",
+   "short": "30 CFR Part 1204",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1204",
+   "url": "https://www.ecfr.gov/current/title-30/part-1204",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 22,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1206",
+   "short": "30 CFR Part 1206",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1206",
+   "url": "https://www.ecfr.gov/current/title-30/part-1206",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 109,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 131,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-04-16",
+     "units": 131,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 142,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 142,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2023-07-21",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2023-08-24",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2023-09-08",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    },
+    {
+     "from": "2026-10-26",
+     "units": 124,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1207",
+   "short": "30 CFR Part 1207",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1207",
+   "url": "https://www.ecfr.gov/current/title-30/part-1207",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1208",
+   "short": "30 CFR Part 1208",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1208",
+   "url": "https://www.ecfr.gov/current/title-30/part-1208",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-09-08",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1210",
+   "short": "30 CFR Part 1210",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1210",
+   "url": "https://www.ecfr.gov/current/title-30/part-1210",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-05-13",
+     "units": 45,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1212",
+   "short": "30 CFR Part 1212",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1212",
+   "url": "https://www.ecfr.gov/current/title-30/part-1212",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1217",
+   "short": "30 CFR Part 1217",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1217",
+   "url": "https://www.ecfr.gov/current/title-30/part-1217",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-09-08",
+     "units": 9,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1218",
+   "short": "30 CFR Part 1218",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1218",
+   "url": "https://www.ecfr.gov/current/title-30/part-1218",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-05-13",
+     "units": 48,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1219",
+   "short": "30 CFR Part 1219",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1219",
+   "url": "https://www.ecfr.gov/current/title-30/part-1219",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2025-08-13",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1220",
+   "short": "30 CFR Part 1220",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1220",
+   "url": "https://www.ecfr.gov/current/title-30/part-1220",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-09-08",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1227",
+   "short": "30 CFR Part 1227",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1227",
+   "url": "https://www.ecfr.gov/current/title-30/part-1227",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 31,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1228",
+   "short": "30 CFR Part 1228",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1228",
+   "url": "https://www.ecfr.gov/current/title-30/part-1228",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1229",
+   "short": "30 CFR Part 1229",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1229",
+   "url": "https://www.ecfr.gov/current/title-30/part-1229",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2023-05-18",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1241",
+   "short": "30 CFR Part 1241",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1241",
+   "url": "https://www.ecfr.gov/current/title-30/part-1241",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2019-03-08",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-30/CFR-2019-title-30.zip",
+     "sha256": "263a369b9d3bbd84c4466234654b083dce9a5bfa6e042fa5aba7b872b4006d6e"
+    },
+    {
+     "from": "2023-01-17",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/ECFR/title-30/ECFR-title30.xml",
+     "sha256": "741993538a3554f71ea3d63fca73e592940945c476bbb0b13f1d5d968634e988"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1243",
+   "short": "30 CFR Part 1243",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1243",
+   "url": "https://www.ecfr.gov/current/title-30/part-1243",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    },
+    {
+     "from": "2022-05-13",
+     "units": 17,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-30/CFR-2023-title-30.zip",
+     "sha256": "61a343f824df99e1383fa2a5260421252a0e867ecd0a7c83941af491a1d674ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-part-1290",
+   "short": "30 CFR Part 1290",
+   "title": "Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1290",
+   "url": "https://www.ecfr.gov/current/title-30/part-1290",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-30/CFR-2018-title-30.zip",
+     "sha256": "2ee070aabca49883514b1b36e16cc57f20feb17bf46628624eae0a077c431e57"
+    }
+   ]
   }
  ]
 }

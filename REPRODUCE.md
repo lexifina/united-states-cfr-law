@@ -5223,20 +5223,227 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4907` | Title 29 of the Code of Federal Regulations (Labor), Part 4907 | 1 | 2017-05-30 to 2017-05-30 |
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
+| `title-30-part-0001` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1 | 2 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0003` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 3 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0005` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 5 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0006` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 6 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0007` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 7 | 4 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0014` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 14 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0015` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 15 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0018` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 18 | 5 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0019` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 19 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0020` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 20 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0022` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 22 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0023` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 23 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0027` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 27 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0028` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 28 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0033` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 33 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0035` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 35 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0036` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 36 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0040` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 40 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0041` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 41 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0042` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 42 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0043` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 43 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0044` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 44 | 3 | 2018-03-02 to 2026-02-26 |
+| `title-30-part-0045` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 45 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0046` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 46 | 2 | 2018-03-02 to 2026-02-26 |
+| `title-30-part-0047` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 47 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0048` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 48 | 3 | 2018-03-02 to 2026-02-26 |
+| `title-30-part-0049` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 49 | 3 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0050` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 50 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0056` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 56 | 7 | 2018-03-02 to 2026-04-06 |
+| `title-30-part-0057` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 57 | 9 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0058` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 58 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0060` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 60 | 2 | 2024-06-17 to 2026-02-26 |
+| `title-30-part-0062` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 62 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0070` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 70 | 5 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0071` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 71 | 3 | 2018-03-02 to 2026-02-26 |
+| `title-30-part-0072` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 72 | 4 | 2018-03-02 to 2026-07-27 |
+| `title-30-part-0074` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 74 | 3 | 2018-03-02 to 2026-02-26 |
+| `title-30-part-0075` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 75 | 7 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0077` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 77 | 3 | 2018-03-02 to 2024-01-19 |
+| `title-30-part-0090` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 90 | 3 | 2018-03-02 to 2026-02-26 |
+| `title-30-part-0100` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 100 | 4 | 2018-03-02 to 2025-01-15 |
+| `title-30-part-0104` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 104 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0203` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 203 | 2 | 2018-03-02 to 2025-09-15 |
+| `title-30-part-0206` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 206 | 1 | 2023-07-21 to 2023-07-21 |
+| `title-30-part-0250` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 250 | 22 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0251` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 251 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0252` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 252 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0254` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 254 | 3 | 2018-03-02 to 2025-09-15 |
+| `title-30-part-0256` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 256 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0270` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 270 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0280` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 280 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0282` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 282 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0285` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 285 | 5 | 2023-01-31 to 2024-10-24 |
+| `title-30-part-0290` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 290 | 2 | 2018-03-02 to 2025-01-13 |
+| `title-30-part-0291` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 291 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0401` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 401 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0402` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 402 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0550` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 550 | 11 | 2018-03-02 to 2025-12-15 |
+| `title-30-part-0551` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 551 | 3 | 2018-03-02 to 2025-09-25 |
+| `title-30-part-0552` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 552 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0553` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 553 | 6 | 2018-03-02 to 2025-06-06 |
+| `title-30-part-0556` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 556 | 6 | 2018-03-02 to 2025-07-22 |
+| `title-30-part-0560` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 560 | 3 | 2018-03-02 to 2026-10-19 |
+| `title-30-part-0570` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 570 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0580` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 580 | 2 | 2018-03-02 to 2025-06-06 |
+| `title-30-part-0581` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 581 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0582` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 582 | 2 | 2018-03-02 to 2025-06-06 |
+| `title-30-part-0583` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 583 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0585` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 585 | 5 | 2018-03-02 to 2025-06-06 |
+| `title-30-part-0586` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 586 | 1 | 2023-01-31 to 2023-01-31 |
+| `title-30-part-0590` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 590 | 2 | 2018-03-02 to 2024-07-01 |
+| `title-30-part-0700` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 700 | 3 | 2018-03-02 to 2026-01-27 |
+| `title-30-part-0701` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 701 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0702` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 702 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0705` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 705 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0706` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 706 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0707` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 707 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0710` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 710 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0715` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 715 | 3 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0716` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 716 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0717` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 717 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0721` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 721 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0722` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 722 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0723` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 723 | 5 | 2018-03-02 to 2025-06-03 |
+| `title-30-part-0724` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 724 | 4 | 2018-03-02 to 2025-06-03 |
+| `title-30-part-0725` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 725 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0730` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 730 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0731` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 731 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0732` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 732 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0733` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 733 | 3 | 2018-03-02 to 2026-03-23 |
+| `title-30-part-0735` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 735 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0736` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 736 | 3 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0740` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 740 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0745` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 745 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0746` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 746 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0750` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 750 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0755` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 755 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0756` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 756 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0761` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 761 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0762` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 762 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0764` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 764 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0769` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 769 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0772` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 772 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0773` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 773 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0774` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 774 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0775` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 775 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0777` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 777 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0778` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 778 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0779` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 779 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0780` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 780 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0783` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 783 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0784` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 784 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0785` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 785 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0795` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 795 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0800` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 800 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0810` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 810 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0815` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 815 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0816` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 816 | 5 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0817` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 817 | 4 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0819` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 819 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0820` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 820 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0822` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 822 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0823` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 823 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0824` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 824 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0825` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 825 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0827` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 827 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0828` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 828 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0840` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 840 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0842` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 842 | 3 | 2018-03-02 to 2026-03-23 |
+| `title-30-part-0843` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 843 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0845` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 845 | 4 | 2018-03-02 to 2025-06-03 |
+| `title-30-part-0846` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 846 | 4 | 2018-03-02 to 2025-06-03 |
+| `title-30-part-0847` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 847 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0850` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 850 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0865` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 865 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0870` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 870 | 6 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0872` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 872 | 3 | 2018-03-02 to 2026-01-23 |
+| `title-30-part-0873` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 873 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0874` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 874 | 3 | 2018-03-02 to 2026-03-30 |
+| `title-30-part-0875` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 875 | 3 | 2018-03-02 to 2026-01-27 |
+| `title-30-part-0876` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 876 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0877` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 877 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0879` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 879 | 2 | 2018-03-02 to 2026-01-23 |
+| `title-30-part-0880` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 880 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0881` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 881 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0882` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 882 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0884` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 884 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0885` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 885 | 2 | 2018-03-02 to 2026-01-23 |
+| `title-30-part-0886` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 886 | 2 | 2018-03-02 to 2026-01-23 |
+| `title-30-part-0887` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 887 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0900` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 900 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0901` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 901 | 4 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0902` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 902 | 2 | 2018-03-02 to 2020-01-03 |
+| `title-30-part-0903` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 903 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0904` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 904 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0905` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 905 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0906` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 906 | 3 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0910` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 910 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0912` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 912 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0913` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 913 | 3 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0914` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 914 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0915` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 915 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0916` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 916 | 2 | 2018-03-02 to 2019-05-09 |
+| `title-30-part-0917` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 917 | 5 | 2018-03-02 to 2026-06-22 |
+| `title-30-part-0918` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 918 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0920` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 920 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0921` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 921 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0922` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 922 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0924` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 924 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0925` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 925 | 3 | 2018-03-02 to 2023-10-20 |
+| `title-30-part-0926` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 926 | 6 | 2018-03-02 to 2026-09-24 |
+| `title-30-part-0931` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 931 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0933` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 933 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0934` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 934 | 3 | 2018-03-02 to 2026-09-10 |
+| `title-30-part-0935` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 935 | 6 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0936` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 936 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0937` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 937 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0938` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 938 | 8 | 2018-03-02 to 2026-02-17 |
+| `title-30-part-0939` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 939 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0941` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 941 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0942` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 942 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-0943` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 943 | 4 | 2018-03-02 to 2026-02-13 |
+| `title-30-part-0944` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 944 | 2 | 2018-03-02 to 2024-09-16 |
+| `title-30-part-0946` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 946 | 3 | 2018-03-02 to 2024-01-10 |
+| `title-30-part-0947` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 947 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-0948` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 948 | 7 | 2018-03-02 to 2026-07-22 |
+| `title-30-part-0950` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 950 | 6 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-0955` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 955 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-1201` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1201 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1202` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1202 | 3 | 2018-03-02 to 2023-07-21 |
+| `title-30-part-1203` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1203 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1204` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1204 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1206` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1206 | 9 | 2018-03-02 to 2026-10-26 |
+| `title-30-part-1207` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1207 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1208` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1208 | 2 | 2018-03-02 to 2023-09-08 |
+| `title-30-part-1210` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1210 | 2 | 2018-03-02 to 2022-05-13 |
+| `title-30-part-1212` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1212 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1217` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1217 | 2 | 2018-03-02 to 2023-09-08 |
+| `title-30-part-1218` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1218 | 2 | 2018-03-02 to 2022-05-13 |
+| `title-30-part-1219` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1219 | 2 | 2018-03-02 to 2025-08-13 |
+| `title-30-part-1220` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1220 | 2 | 2018-03-02 to 2023-09-08 |
+| `title-30-part-1227` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1227 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1228` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1228 | 1 | 2018-03-02 to 2018-03-02 |
+| `title-30-part-1229` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1229 | 2 | 2018-03-02 to 2023-05-18 |
+| `title-30-part-1241` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1241 | 4 | 2018-03-02 to 2025-01-10 |
+| `title-30-part-1243` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1243 | 2 | 2018-03-02 to 2022-05-13 |
+| `title-30-part-1290` | Title 30 of the Code of Federal Regulations (Mineral Resources), Part 1290 | 1 | 2018-03-02 to 2018-03-02 |
 
-The build made 22062 commits:
+The build made 22590 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5207 | first version of an act |
-| 11879 | one law on its in-force day |
-| 4976 | changes no amendment note explains, credited to the publisher |
+| 5414 | first version of an act |
+| 12083 | one law on its in-force day |
+| 5093 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 14145 laws in the record.
-- 28918 tags.
+- 14413 laws in the record.
+- 29585 tags.
 
 ## Dates
 
@@ -5248,7 +5455,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f3faa151647ec563852643c424e8279a96c5c004d62a611a29b324627d3cba57` (1055301067 bytes).
+- Corpus: sha256 `d3c135ea06e138cde10384d3f2da1ddc2dbac1154d6eddbe0a5326d79f0520da` (1067894561 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5299,6 +5506,7 @@ No second build of this corpus has been compared yet.
 - Title 27: editions read: 2017 annual edition (to 2017-03-15); 2018 annual edition (to 2018-01-08); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
 - Title 28: editions read: 2018 annual edition (to 2018-01-29); 2019 annual edition (to 2019-05-09); 2023 annual edition (to 2023-05-04); 2024 annual edition (to 2024-05-20); 2025 annual edition (to 2025-05-21); eCFR (to 2026-10-26).
 - Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
+- Title 30: editions read: 2018 annual edition (to 2018-03-02); 2019 annual edition (to 2019-05-29); 2023 annual edition (to 2023-05-18); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
