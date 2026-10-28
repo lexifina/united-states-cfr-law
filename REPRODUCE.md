@@ -8721,20 +8721,403 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-48-part-9904` | Title 48 of the Code of Federal Regulations (Federal Acquisition Regulations System), Part 9904 | 6 | 2017-12-11 to 2026-10-26 |
 | `title-48-part-9905` | Title 48 of the Code of Federal Regulations (Federal Acquisition Regulations System), Part 9905 | 1 | 2017-12-11 to 2017-12-11 |
 | `title-48-part-other` | Title 48 of the Code of Federal Regulations (Federal Acquisition Regulations System), Part other | 11 | 2017-12-11 to 2026-10-26 |
+| `title-49-part-0001` | Title 49 of the Code of Federal Regulations (Transportation), Part 1 | 4 | 2017-10-01 to 2026-05-27 |
+| `title-49-part-0003` | Title 49 of the Code of Federal Regulations (Transportation), Part 3 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0005` | Title 49 of the Code of Federal Regulations (Transportation), Part 5 | 5 | 2017-10-01 to 2026-05-27 |
+| `title-49-part-0006` | Title 49 of the Code of Federal Regulations (Transportation), Part 6 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0007` | Title 49 of the Code of Federal Regulations (Transportation), Part 7 | 4 | 2017-10-01 to 2026-05-27 |
+| `title-49-part-0008` | Title 49 of the Code of Federal Regulations (Transportation), Part 8 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0009` | Title 49 of the Code of Federal Regulations (Transportation), Part 9 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0010` | Title 49 of the Code of Federal Regulations (Transportation), Part 10 | 3 | 2017-10-01 to 2019-12-11 |
+| `title-49-part-0011` | Title 49 of the Code of Federal Regulations (Transportation), Part 11 | 2 | 2017-10-01 to 2018-07-19 |
+| `title-49-part-0015` | Title 49 of the Code of Federal Regulations (Transportation), Part 15 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0017` | Title 49 of the Code of Federal Regulations (Transportation), Part 17 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0020` | Title 49 of the Code of Federal Regulations (Transportation), Part 20 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0021` | Title 49 of the Code of Federal Regulations (Transportation), Part 21 | 2 | 2017-10-01 to 2026-06-11 |
+| `title-49-part-0022` | Title 49 of the Code of Federal Regulations (Transportation), Part 22 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0023` | Title 49 of the Code of Federal Regulations (Transportation), Part 23 | 5 | 2017-10-01 to 2026-09-25 |
+| `title-49-part-0024` | Title 49 of the Code of Federal Regulations (Transportation), Part 24 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0025` | Title 49 of the Code of Federal Regulations (Transportation), Part 25 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0026` | Title 49 of the Code of Federal Regulations (Transportation), Part 26 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0027` | Title 49 of the Code of Federal Regulations (Transportation), Part 27 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0028` | Title 49 of the Code of Federal Regulations (Transportation), Part 28 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0029` | Title 49 of the Code of Federal Regulations (Transportation), Part 29 | 1 | 2020-10-01 to 2020-10-01 |
+| `title-49-part-0030` | Title 49 of the Code of Federal Regulations (Transportation), Part 30 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0031` | Title 49 of the Code of Federal Regulations (Transportation), Part 31 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0032` | Title 49 of the Code of Federal Regulations (Transportation), Part 32 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0033` | Title 49 of the Code of Federal Regulations (Transportation), Part 33 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0037` | Title 49 of the Code of Federal Regulations (Transportation), Part 37 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0038` | Title 49 of the Code of Federal Regulations (Transportation), Part 38 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0039` | Title 49 of the Code of Federal Regulations (Transportation), Part 39 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0040` | Title 49 of the Code of Federal Regulations (Transportation), Part 40 | 10 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0041` | Title 49 of the Code of Federal Regulations (Transportation), Part 41 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0071` | Title 49 of the Code of Federal Regulations (Transportation), Part 71 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0079` | Title 49 of the Code of Federal Regulations (Transportation), Part 79 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0080` | Title 49 of the Code of Federal Regulations (Transportation), Part 80 | 2 | 2017-10-01 to 2024-06-24 |
+| `title-49-part-0089` | Title 49 of the Code of Federal Regulations (Transportation), Part 89 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0091` | Title 49 of the Code of Federal Regulations (Transportation), Part 91 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0092` | Title 49 of the Code of Federal Regulations (Transportation), Part 92 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0093` | Title 49 of the Code of Federal Regulations (Transportation), Part 93 | 2 | 2017-10-01 to 2020-02-25 |
+| `title-49-part-0098` | Title 49 of the Code of Federal Regulations (Transportation), Part 98 | 2 | 2017-10-01 to 2026-09-11 |
+| `title-49-part-0099` | Title 49 of the Code of Federal Regulations (Transportation), Part 99 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0105` | Title 49 of the Code of Federal Regulations (Transportation), Part 105 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0106` | Title 49 of the Code of Federal Regulations (Transportation), Part 106 | 4 | 2017-10-01 to 2026-05-27 |
+| `title-49-part-0107` | Title 49 of the Code of Federal Regulations (Transportation), Part 107 | 17 | 2017-10-01 to 2026-09-08 |
+| `title-49-part-0109` | Title 49 of the Code of Federal Regulations (Transportation), Part 109 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0110` | Title 49 of the Code of Federal Regulations (Transportation), Part 110 | 3 | 2017-10-01 to 2023-01-26 |
+| `title-49-part-0130` | Title 49 of the Code of Federal Regulations (Transportation), Part 130 | 2 | 2017-10-01 to 2019-04-01 |
+| `title-49-part-0171` | Title 49 of the Code of Federal Regulations (Transportation), Part 171 | 21 | 2017-10-01 to 2026-09-28 |
+| `title-49-part-0172` | Title 49 of the Code of Federal Regulations (Transportation), Part 172 | 20 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0173` | Title 49 of the Code of Federal Regulations (Transportation), Part 173 | 28 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0174` | Title 49 of the Code of Federal Regulations (Transportation), Part 174 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0175` | Title 49 of the Code of Federal Regulations (Transportation), Part 175 | 9 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0176` | Title 49 of the Code of Federal Regulations (Transportation), Part 176 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0177` | Title 49 of the Code of Federal Regulations (Transportation), Part 177 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0178` | Title 49 of the Code of Federal Regulations (Transportation), Part 178 | 14 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0179` | Title 49 of the Code of Federal Regulations (Transportation), Part 179 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0180` | Title 49 of the Code of Federal Regulations (Transportation), Part 180 | 18 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0190` | Title 49 of the Code of Federal Regulations (Transportation), Part 190 | 11 | 2017-10-01 to 2026-08-03 |
+| `title-49-part-0191` | Title 49 of the Code of Federal Regulations (Transportation), Part 191 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0192` | Title 49 of the Code of Federal Regulations (Transportation), Part 192 | 28 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0193` | Title 49 of the Code of Federal Regulations (Transportation), Part 193 | 2 | 2017-10-01 to 2026-08-03 |
+| `title-49-part-0194` | Title 49 of the Code of Federal Regulations (Transportation), Part 194 | 2 | 2017-10-01 to 2026-08-03 |
+| `title-49-part-0195` | Title 49 of the Code of Federal Regulations (Transportation), Part 195 | 17 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0196` | Title 49 of the Code of Federal Regulations (Transportation), Part 196 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0198` | Title 49 of the Code of Federal Regulations (Transportation), Part 198 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0199` | Title 49 of the Code of Federal Regulations (Transportation), Part 199 | 2 | 2017-10-01 to 2019-04-23 |
+| `title-49-part-0200` | Title 49 of the Code of Federal Regulations (Transportation), Part 200 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0207` | Title 49 of the Code of Federal Regulations (Transportation), Part 207 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0209` | Title 49 of the Code of Federal Regulations (Transportation), Part 209 | 10 | 2017-10-01 to 2026-05-28 |
+| `title-49-part-0210` | Title 49 of the Code of Federal Regulations (Transportation), Part 210 | 3 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0211` | Title 49 of the Code of Federal Regulations (Transportation), Part 211 | 3 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0212` | Title 49 of the Code of Federal Regulations (Transportation), Part 212 | 4 | 2017-10-01 to 2026-04-28 |
+| `title-49-part-0213` | Title 49 of the Code of Federal Regulations (Transportation), Part 213 | 10 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0214` | Title 49 of the Code of Federal Regulations (Transportation), Part 214 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0215` | Title 49 of the Code of Federal Regulations (Transportation), Part 215 | 13 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0216` | Title 49 of the Code of Federal Regulations (Transportation), Part 216 | 6 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0217` | Title 49 of the Code of Federal Regulations (Transportation), Part 217 | 9 | 2017-10-01 to 2026-05-28 |
+| `title-49-part-0218` | Title 49 of the Code of Federal Regulations (Transportation), Part 218 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0219` | Title 49 of the Code of Federal Regulations (Transportation), Part 219 | 12 | 2017-10-01 to 2026-05-28 |
+| `title-49-part-0220` | Title 49 of the Code of Federal Regulations (Transportation), Part 220 | 7 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0221` | Title 49 of the Code of Federal Regulations (Transportation), Part 221 | 9 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0222` | Title 49 of the Code of Federal Regulations (Transportation), Part 222 | 11 | 2017-10-01 to 2026-09-30 |
+| `title-49-part-0223` | Title 49 of the Code of Federal Regulations (Transportation), Part 223 | 10 | 2017-10-01 to 2025-07-31 |
+| `title-49-part-0224` | Title 49 of the Code of Federal Regulations (Transportation), Part 224 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0225` | Title 49 of the Code of Federal Regulations (Transportation), Part 225 | 13 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0227` | Title 49 of the Code of Federal Regulations (Transportation), Part 227 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0228` | Title 49 of the Code of Federal Regulations (Transportation), Part 228 | 11 | 2017-10-01 to 2025-07-31 |
+| `title-49-part-0229` | Title 49 of the Code of Federal Regulations (Transportation), Part 229 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0230` | Title 49 of the Code of Federal Regulations (Transportation), Part 230 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0231` | Title 49 of the Code of Federal Regulations (Transportation), Part 231 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0232` | Title 49 of the Code of Federal Regulations (Transportation), Part 232 | 7 | 2017-10-01 to 2026-09-30 |
+| `title-49-part-0233` | Title 49 of the Code of Federal Regulations (Transportation), Part 233 | 7 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0234` | Title 49 of the Code of Federal Regulations (Transportation), Part 234 | 9 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0235` | Title 49 of the Code of Federal Regulations (Transportation), Part 235 | 8 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0236` | Title 49 of the Code of Federal Regulations (Transportation), Part 236 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0237` | Title 49 of the Code of Federal Regulations (Transportation), Part 237 | 8 | 2017-10-01 to 2026-05-28 |
+| `title-49-part-0238` | Title 49 of the Code of Federal Regulations (Transportation), Part 238 | 16 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0239` | Title 49 of the Code of Federal Regulations (Transportation), Part 239 | 9 | 2017-10-01 to 2026-05-28 |
+| `title-49-part-0240` | Title 49 of the Code of Federal Regulations (Transportation), Part 240 | 13 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0241` | Title 49 of the Code of Federal Regulations (Transportation), Part 241 | 9 | 2017-10-01 to 2026-05-28 |
+| `title-49-part-0242` | Title 49 of the Code of Federal Regulations (Transportation), Part 242 | 12 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0243` | Title 49 of the Code of Federal Regulations (Transportation), Part 243 | 11 | 2017-10-01 to 2026-07-14 |
+| `title-49-part-0244` | Title 49 of the Code of Federal Regulations (Transportation), Part 244 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0245` | Title 49 of the Code of Federal Regulations (Transportation), Part 245 | 2 | 2024-07-22 to 2025-07-31 |
+| `title-49-part-0246` | Title 49 of the Code of Federal Regulations (Transportation), Part 246 | 2 | 2024-07-22 to 2025-07-31 |
+| `title-49-part-0250` | Title 49 of the Code of Federal Regulations (Transportation), Part 250 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0256` | Title 49 of the Code of Federal Regulations (Transportation), Part 256 | 2 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0260` | Title 49 of the Code of Federal Regulations (Transportation), Part 260 | 2 | 2017-10-01 to 2024-06-24 |
+| `title-49-part-0261` | Title 49 of the Code of Federal Regulations (Transportation), Part 261 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0262` | Title 49 of the Code of Federal Regulations (Transportation), Part 262 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0264` | Title 49 of the Code of Federal Regulations (Transportation), Part 264 | 3 | 2017-10-01 to 2022-10-01 |
+| `title-49-part-0266` | Title 49 of the Code of Federal Regulations (Transportation), Part 266 | 2 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0268` | Title 49 of the Code of Federal Regulations (Transportation), Part 268 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0269` | Title 49 of the Code of Federal Regulations (Transportation), Part 269 | 2 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0270` | Title 49 of the Code of Federal Regulations (Transportation), Part 270 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0271` | Title 49 of the Code of Federal Regulations (Transportation), Part 271 | 4 | 2020-04-20 to 2025-07-01 |
+| `title-49-part-0272` | Title 49 of the Code of Federal Regulations (Transportation), Part 272 | 7 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0273` | Title 49 of the Code of Federal Regulations (Transportation), Part 273 | 1 | 2022-10-01 to 2022-10-01 |
+| `title-49-part-0299` | Title 49 of the Code of Federal Regulations (Transportation), Part 299 | 3 | 2022-10-01 to 2026-10-26 |
+| `title-49-part-0303` | Title 49 of the Code of Federal Regulations (Transportation), Part 303 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0325` | Title 49 of the Code of Federal Regulations (Transportation), Part 325 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0350` | Title 49 of the Code of Federal Regulations (Transportation), Part 350 | 6 | 2017-10-01 to 2024-11-18 |
+| `title-49-part-0355` | Title 49 of the Code of Federal Regulations (Transportation), Part 355 | 2 | 2017-10-01 to 2020-07-24 |
+| `title-49-part-0356` | Title 49 of the Code of Federal Regulations (Transportation), Part 356 | 2 | 2017-10-01 to 2025-05-30 |
+| `title-49-part-0360` | Title 49 of the Code of Federal Regulations (Transportation), Part 360 | 4 | 2017-10-01 to 2022-09-29 |
+| `title-49-part-0365` | Title 49 of the Code of Federal Regulations (Transportation), Part 365 | 7 | 2017-10-01 to 2026-03-23 |
+| `title-49-part-0366` | Title 49 of the Code of Federal Regulations (Transportation), Part 366 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0367` | Title 49 of the Code of Federal Regulations (Transportation), Part 367 | 8 | 2017-10-01 to 2026-10-01 |
+| `title-49-part-0368` | Title 49 of the Code of Federal Regulations (Transportation), Part 368 | 3 | 2017-10-01 to 2023-11-17 |
+| `title-49-part-0369` | Title 49 of the Code of Federal Regulations (Transportation), Part 369 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0370` | Title 49 of the Code of Federal Regulations (Transportation), Part 370 | 3 | 2017-10-01 to 2026-03-23 |
+| `title-49-part-0371` | Title 49 of the Code of Federal Regulations (Transportation), Part 371 | 5 | 2017-10-01 to 2024-11-18 |
+| `title-49-part-0372` | Title 49 of the Code of Federal Regulations (Transportation), Part 372 | 4 | 2017-10-01 to 2026-07-21 |
+| `title-49-part-0373` | Title 49 of the Code of Federal Regulations (Transportation), Part 373 | 2 | 2017-10-01 to 2018-06-18 |
+| `title-49-part-0374` | Title 49 of the Code of Federal Regulations (Transportation), Part 374 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0375` | Title 49 of the Code of Federal Regulations (Transportation), Part 375 | 4 | 2017-10-01 to 2023-11-17 |
+| `title-49-part-0376` | Title 49 of the Code of Federal Regulations (Transportation), Part 376 | 2 | 2017-10-01 to 2018-06-15 |
+| `title-49-part-0377` | Title 49 of the Code of Federal Regulations (Transportation), Part 377 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0378` | Title 49 of the Code of Federal Regulations (Transportation), Part 378 | 3 | 2017-10-01 to 2023-11-17 |
+| `title-49-part-0379` | Title 49 of the Code of Federal Regulations (Transportation), Part 379 | 3 | 2017-10-01 to 2026-03-23 |
+| `title-49-part-0380` | Title 49 of the Code of Federal Regulations (Transportation), Part 380 | 13 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0381` | Title 49 of the Code of Federal Regulations (Transportation), Part 381 | 5 | 2017-10-01 to 2024-11-18 |
+| `title-49-part-0382` | Title 49 of the Code of Federal Regulations (Transportation), Part 382 | 13 | 2017-10-01 to 2024-11-18 |
+| `title-49-part-0383` | Title 49 of the Code of Federal Regulations (Transportation), Part 383 | 21 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0384` | Title 49 of the Code of Federal Regulations (Transportation), Part 384 | 15 | 2017-10-01 to 2026-07-22 |
+| `title-49-part-0385` | Title 49 of the Code of Federal Regulations (Transportation), Part 385 | 16 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0386` | Title 49 of the Code of Federal Regulations (Transportation), Part 386 | 13 | 2017-10-01 to 2026-07-21 |
+| `title-49-part-0387` | Title 49 of the Code of Federal Regulations (Transportation), Part 387 | 12 | 2017-10-01 to 2026-07-21 |
+| `title-49-part-0388` | Title 49 of the Code of Federal Regulations (Transportation), Part 388 | 2 | 2017-10-01 to 2020-07-24 |
+| `title-49-part-0389` | Title 49 of the Code of Federal Regulations (Transportation), Part 389 | 8 | 2017-10-01 to 2026-07-21 |
+| `title-49-part-0390` | Title 49 of the Code of Federal Regulations (Transportation), Part 390 | 19 | 2017-10-01 to 2026-10-05 |
+| `title-49-part-0391` | Title 49 of the Code of Federal Regulations (Transportation), Part 391 | 20 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0392` | Title 49 of the Code of Federal Regulations (Transportation), Part 392 | 3 | 2017-10-01 to 2026-03-23 |
+| `title-49-part-0393` | Title 49 of the Code of Federal Regulations (Transportation), Part 393 | 11 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0395` | Title 49 of the Code of Federal Regulations (Transportation), Part 395 | 15 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0396` | Title 49 of the Code of Federal Regulations (Transportation), Part 396 | 12 | 2017-10-01 to 2026-07-22 |
+| `title-49-part-0397` | Title 49 of the Code of Federal Regulations (Transportation), Part 397 | 4 | 2017-10-01 to 2025-01-10 |
+| `title-49-part-0398` | Title 49 of the Code of Federal Regulations (Transportation), Part 398 | 5 | 2017-10-01 to 2023-11-17 |
+| `title-49-part-0399` | Title 49 of the Code of Federal Regulations (Transportation), Part 399 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0450` | Title 49 of the Code of Federal Regulations (Transportation), Part 450 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0451` | Title 49 of the Code of Federal Regulations (Transportation), Part 451 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0452` | Title 49 of the Code of Federal Regulations (Transportation), Part 452 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0453` | Title 49 of the Code of Federal Regulations (Transportation), Part 453 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0501` | Title 49 of the Code of Federal Regulations (Transportation), Part 501 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0509` | Title 49 of the Code of Federal Regulations (Transportation), Part 509 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0510` | Title 49 of the Code of Federal Regulations (Transportation), Part 510 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0511` | Title 49 of the Code of Federal Regulations (Transportation), Part 511 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0512` | Title 49 of the Code of Federal Regulations (Transportation), Part 512 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0513` | Title 49 of the Code of Federal Regulations (Transportation), Part 513 | 2 | 2025-01-16 to 2026-10-26 |
+| `title-49-part-0520` | Title 49 of the Code of Federal Regulations (Transportation), Part 520 | 2 | 2017-10-01 to 2025-07-03 |
+| `title-49-part-0523` | Title 49 of the Code of Federal Regulations (Transportation), Part 523 | 4 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0525` | Title 49 of the Code of Federal Regulations (Transportation), Part 525 | 2 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0526` | Title 49 of the Code of Federal Regulations (Transportation), Part 526 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0529` | Title 49 of the Code of Federal Regulations (Transportation), Part 529 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0531` | Title 49 of the Code of Federal Regulations (Transportation), Part 531 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0533` | Title 49 of the Code of Federal Regulations (Transportation), Part 533 | 8 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0534` | Title 49 of the Code of Federal Regulations (Transportation), Part 534 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0535` | Title 49 of the Code of Federal Regulations (Transportation), Part 535 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0536` | Title 49 of the Code of Federal Regulations (Transportation), Part 536 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0537` | Title 49 of the Code of Federal Regulations (Transportation), Part 537 | 5 | 2017-10-01 to 2024-08-23 |
+| `title-49-part-0538` | Title 49 of the Code of Federal Regulations (Transportation), Part 538 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0541` | Title 49 of the Code of Federal Regulations (Transportation), Part 541 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0542` | Title 49 of the Code of Federal Regulations (Transportation), Part 542 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0543` | Title 49 of the Code of Federal Regulations (Transportation), Part 543 | 2 | 2017-10-01 to 2019-10-01 |
+| `title-49-part-0545` | Title 49 of the Code of Federal Regulations (Transportation), Part 545 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0551` | Title 49 of the Code of Federal Regulations (Transportation), Part 551 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0552` | Title 49 of the Code of Federal Regulations (Transportation), Part 552 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0553` | Title 49 of the Code of Federal Regulations (Transportation), Part 553 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0554` | Title 49 of the Code of Federal Regulations (Transportation), Part 554 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0555` | Title 49 of the Code of Federal Regulations (Transportation), Part 555 | 4 | 2017-10-01 to 2026-07-31 |
+| `title-49-part-0556` | Title 49 of the Code of Federal Regulations (Transportation), Part 556 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0557` | Title 49 of the Code of Federal Regulations (Transportation), Part 557 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0561` | Title 49 of the Code of Federal Regulations (Transportation), Part 561 | 1 | 2025-03-20 to 2025-03-20 |
+| `title-49-part-0562` | Title 49 of the Code of Federal Regulations (Transportation), Part 562 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0563` | Title 49 of the Code of Federal Regulations (Transportation), Part 563 | 4 | 2017-10-01 to 2026-06-17 |
+| `title-49-part-0564` | Title 49 of the Code of Federal Regulations (Transportation), Part 564 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0565` | Title 49 of the Code of Federal Regulations (Transportation), Part 565 | 3 | 2017-10-01 to 2022-10-01 |
+| `title-49-part-0566` | Title 49 of the Code of Federal Regulations (Transportation), Part 566 | 3 | 2017-10-01 to 2024-10-01 |
+| `title-49-part-0567` | Title 49 of the Code of Federal Regulations (Transportation), Part 567 | 2 | 2017-10-01 to 2022-03-09 |
+| `title-49-part-0568` | Title 49 of the Code of Federal Regulations (Transportation), Part 568 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0569` | Title 49 of the Code of Federal Regulations (Transportation), Part 569 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0570` | Title 49 of the Code of Federal Regulations (Transportation), Part 570 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0571` | Title 49 of the Code of Federal Regulations (Transportation), Part 571 | 33 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0572` | Title 49 of the Code of Federal Regulations (Transportation), Part 572 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0573` | Title 49 of the Code of Federal Regulations (Transportation), Part 573 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0574` | Title 49 of the Code of Federal Regulations (Transportation), Part 574 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0575` | Title 49 of the Code of Federal Regulations (Transportation), Part 575 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0576` | Title 49 of the Code of Federal Regulations (Transportation), Part 576 | 2 | 2017-10-01 to 2024-10-15 |
+| `title-49-part-0577` | Title 49 of the Code of Federal Regulations (Transportation), Part 577 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0578` | Title 49 of the Code of Federal Regulations (Transportation), Part 578 | 8 | 2017-10-01 to 2024-12-30 |
+| `title-49-part-0579` | Title 49 of the Code of Federal Regulations (Transportation), Part 579 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0580` | Title 49 of the Code of Federal Regulations (Transportation), Part 580 | 2 | 2017-10-01 to 2019-12-31 |
+| `title-49-part-0581` | Title 49 of the Code of Federal Regulations (Transportation), Part 581 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0582` | Title 49 of the Code of Federal Regulations (Transportation), Part 582 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0583` | Title 49 of the Code of Federal Regulations (Transportation), Part 583 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0585` | Title 49 of the Code of Federal Regulations (Transportation), Part 585 | 7 | 2017-10-01 to 2026-07-06 |
+| `title-49-part-0586` | Title 49 of the Code of Federal Regulations (Transportation), Part 586 | 2 | 2022-03-09 to 2022-04-19 |
+| `title-49-part-0587` | Title 49 of the Code of Federal Regulations (Transportation), Part 587 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0588` | Title 49 of the Code of Federal Regulations (Transportation), Part 588 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0591` | Title 49 of the Code of Federal Regulations (Transportation), Part 591 | 2 | 2017-10-01 to 2022-03-09 |
+| `title-49-part-0592` | Title 49 of the Code of Federal Regulations (Transportation), Part 592 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0593` | Title 49 of the Code of Federal Regulations (Transportation), Part 593 | 2 | 2017-10-01 to 2017-10-24 |
+| `title-49-part-0594` | Title 49 of the Code of Federal Regulations (Transportation), Part 594 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0595` | Title 49 of the Code of Federal Regulations (Transportation), Part 595 | 7 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0596` | Title 49 of the Code of Federal Regulations (Transportation), Part 596 | 1 | 2024-07-08 to 2024-07-08 |
+| `title-49-part-0599` | Title 49 of the Code of Federal Regulations (Transportation), Part 599 | 5 | 2017-10-01 to 2026-07-06 |
+| `title-49-part-0601` | Title 49 of the Code of Federal Regulations (Transportation), Part 601 | 5 | 2017-10-01 to 2026-05-27 |
+| `title-49-part-0602` | Title 49 of the Code of Federal Regulations (Transportation), Part 602 | 2 | 2017-10-01 to 2026-07-06 |
+| `title-49-part-0604` | Title 49 of the Code of Federal Regulations (Transportation), Part 604 | 2 | 2017-10-01 to 2025-07-31 |
+| `title-49-part-0605` | Title 49 of the Code of Federal Regulations (Transportation), Part 605 | 3 | 2017-10-01 to 2026-05-27 |
+| `title-49-part-0609` | Title 49 of the Code of Federal Regulations (Transportation), Part 609 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0611` | Title 49 of the Code of Federal Regulations (Transportation), Part 611 | 2 | 2017-10-01 to 2025-07-01 |
+| `title-49-part-0613` | Title 49 of the Code of Federal Regulations (Transportation), Part 613 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0614` | Title 49 of the Code of Federal Regulations (Transportation), Part 614 | 2 | 2017-10-01 to 2019-11-05 |
+| `title-49-part-0622` | Title 49 of the Code of Federal Regulations (Transportation), Part 622 | 4 | 2017-10-01 to 2026-09-01 |
+| `title-49-part-0624` | Title 49 of the Code of Federal Regulations (Transportation), Part 624 | 2 | 2017-10-01 to 2019-10-21 |
+| `title-49-part-0625` | Title 49 of the Code of Federal Regulations (Transportation), Part 625 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0630` | Title 49 of the Code of Federal Regulations (Transportation), Part 630 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0633` | Title 49 of the Code of Federal Regulations (Transportation), Part 633 | 4 | 2017-10-01 to 2026-07-06 |
+| `title-49-part-0639` | Title 49 of the Code of Federal Regulations (Transportation), Part 639 | 2 | 2017-10-01 to 2018-09-20 |
+| `title-49-part-0640` | Title 49 of the Code of Federal Regulations (Transportation), Part 640 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0650` | Title 49 of the Code of Federal Regulations (Transportation), Part 650 | 2 | 2018-06-29 to 2026-07-06 |
+| `title-49-part-0655` | Title 49 of the Code of Federal Regulations (Transportation), Part 655 | 3 | 2017-10-01 to 2023-06-01 |
+| `title-49-part-0659` | Title 49 of the Code of Federal Regulations (Transportation), Part 659 | 2 | 2017-10-01 to 2022-02-07 |
+| `title-49-part-0661` | Title 49 of the Code of Federal Regulations (Transportation), Part 661 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0663` | Title 49 of the Code of Federal Regulations (Transportation), Part 663 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0665` | Title 49 of the Code of Federal Regulations (Transportation), Part 665 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0670` | Title 49 of the Code of Federal Regulations (Transportation), Part 670 | 2 | 2017-10-01 to 2022-10-01 |
+| `title-49-part-0671` | Title 49 of the Code of Federal Regulations (Transportation), Part 671 | 2 | 2024-12-02 to 2026-07-06 |
+| `title-49-part-0672` | Title 49 of the Code of Federal Regulations (Transportation), Part 672 | 4 | 2018-08-20 to 2026-07-06 |
+| `title-49-part-0673` | Title 49 of the Code of Federal Regulations (Transportation), Part 673 | 2 | 2018-11-28 to 2024-05-13 |
+| `title-49-part-0674` | Title 49 of the Code of Federal Regulations (Transportation), Part 674 | 2 | 2017-10-01 to 2025-01-01 |
+| `title-49-part-0700` | Title 49 of the Code of Federal Regulations (Transportation), Part 700 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0701` | Title 49 of the Code of Federal Regulations (Transportation), Part 701 | 2 | 2017-10-01 to 2025-09-29 |
+| `title-49-part-0800` | Title 49 of the Code of Federal Regulations (Transportation), Part 800 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0801` | Title 49 of the Code of Federal Regulations (Transportation), Part 801 | 4 | 2017-10-01 to 2021-12-30 |
+| `title-49-part-0802` | Title 49 of the Code of Federal Regulations (Transportation), Part 802 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0803` | Title 49 of the Code of Federal Regulations (Transportation), Part 803 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0804` | Title 49 of the Code of Federal Regulations (Transportation), Part 804 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0806` | Title 49 of the Code of Federal Regulations (Transportation), Part 806 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0807` | Title 49 of the Code of Federal Regulations (Transportation), Part 807 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0821` | Title 49 of the Code of Federal Regulations (Transportation), Part 821 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0825` | Title 49 of the Code of Federal Regulations (Transportation), Part 825 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0826` | Title 49 of the Code of Federal Regulations (Transportation), Part 826 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-0830` | Title 49 of the Code of Federal Regulations (Transportation), Part 830 | 2 | 2017-10-01 to 2022-08-15 |
+| `title-49-part-0831` | Title 49 of the Code of Federal Regulations (Transportation), Part 831 | 8 | 2017-10-01 to 2025-01-16 |
+| `title-49-part-0835` | Title 49 of the Code of Federal Regulations (Transportation), Part 835 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0837` | Title 49 of the Code of Federal Regulations (Transportation), Part 837 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0840` | Title 49 of the Code of Federal Regulations (Transportation), Part 840 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0845` | Title 49 of the Code of Federal Regulations (Transportation), Part 845 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-0850` | Title 49 of the Code of Federal Regulations (Transportation), Part 850 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1001` | Title 49 of the Code of Federal Regulations (Transportation), Part 1001 | 2 | 2017-10-01 to 2018-05-02 |
+| `title-49-part-1002` | Title 49 of the Code of Federal Regulations (Transportation), Part 1002 | 9 | 2017-10-01 to 2026-10-13 |
+| `title-49-part-1003` | Title 49 of the Code of Federal Regulations (Transportation), Part 1003 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1004` | Title 49 of the Code of Federal Regulations (Transportation), Part 1004 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1005` | Title 49 of the Code of Federal Regulations (Transportation), Part 1005 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1007` | Title 49 of the Code of Federal Regulations (Transportation), Part 1007 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1011` | Title 49 of the Code of Federal Regulations (Transportation), Part 1011 | 7 | 2017-10-01 to 2026-09-17 |
+| `title-49-part-1012` | Title 49 of the Code of Federal Regulations (Transportation), Part 1012 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1013` | Title 49 of the Code of Federal Regulations (Transportation), Part 1013 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1014` | Title 49 of the Code of Federal Regulations (Transportation), Part 1014 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1016` | Title 49 of the Code of Federal Regulations (Transportation), Part 1016 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1017` | Title 49 of the Code of Federal Regulations (Transportation), Part 1017 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1018` | Title 49 of the Code of Federal Regulations (Transportation), Part 1018 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1019` | Title 49 of the Code of Federal Regulations (Transportation), Part 1019 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1021` | Title 49 of the Code of Federal Regulations (Transportation), Part 1021 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1022` | Title 49 of the Code of Federal Regulations (Transportation), Part 1022 | 9 | 2017-10-01 to 2026-05-05 |
+| `title-49-part-1033` | Title 49 of the Code of Federal Regulations (Transportation), Part 1033 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1034` | Title 49 of the Code of Federal Regulations (Transportation), Part 1034 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1035` | Title 49 of the Code of Federal Regulations (Transportation), Part 1035 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1037` | Title 49 of the Code of Federal Regulations (Transportation), Part 1037 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1039` | Title 49 of the Code of Federal Regulations (Transportation), Part 1039 | 2 | 2017-10-01 to 2020-04-03 |
+| `title-49-part-1040` | Title 49 of the Code of Federal Regulations (Transportation), Part 1040 | 2 | 2017-10-01 to 2018-05-04 |
+| `title-49-part-1090` | Title 49 of the Code of Federal Regulations (Transportation), Part 1090 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1100` | Title 49 of the Code of Federal Regulations (Transportation), Part 1100 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1101` | Title 49 of the Code of Federal Regulations (Transportation), Part 1101 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1102` | Title 49 of the Code of Federal Regulations (Transportation), Part 1102 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1103` | Title 49 of the Code of Federal Regulations (Transportation), Part 1103 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1104` | Title 49 of the Code of Federal Regulations (Transportation), Part 1104 | 6 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1105` | Title 49 of the Code of Federal Regulations (Transportation), Part 1105 | 5 | 2017-10-01 to 2026-08-18 |
+| `title-49-part-1106` | Title 49 of the Code of Federal Regulations (Transportation), Part 1106 | 2 | 2017-10-01 to 2018-05-02 |
+| `title-49-part-1108` | Title 49 of the Code of Federal Regulations (Transportation), Part 1108 | 4 | 2017-10-01 to 2023-02-03 |
+| `title-49-part-1109` | Title 49 of the Code of Federal Regulations (Transportation), Part 1109 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1110` | Title 49 of the Code of Federal Regulations (Transportation), Part 1110 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1111` | Title 49 of the Code of Federal Regulations (Transportation), Part 1111 | 6 | 2017-10-01 to 2025-06-06 |
+| `title-49-part-1112` | Title 49 of the Code of Federal Regulations (Transportation), Part 1112 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1113` | Title 49 of the Code of Federal Regulations (Transportation), Part 1113 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1114` | Title 49 of the Code of Federal Regulations (Transportation), Part 1114 | 6 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1115` | Title 49 of the Code of Federal Regulations (Transportation), Part 1115 | 6 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1116` | Title 49 of the Code of Federal Regulations (Transportation), Part 1116 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1117` | Title 49 of the Code of Federal Regulations (Transportation), Part 1117 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1119` | Title 49 of the Code of Federal Regulations (Transportation), Part 1119 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1120` | Title 49 of the Code of Federal Regulations (Transportation), Part 1120 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1121` | Title 49 of the Code of Federal Regulations (Transportation), Part 1121 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1122` | Title 49 of the Code of Federal Regulations (Transportation), Part 1122 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1130` | Title 49 of the Code of Federal Regulations (Transportation), Part 1130 | 4 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1132` | Title 49 of the Code of Federal Regulations (Transportation), Part 1132 | 3 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1133` | Title 49 of the Code of Federal Regulations (Transportation), Part 1133 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1135` | Title 49 of the Code of Federal Regulations (Transportation), Part 1135 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1141` | Title 49 of the Code of Federal Regulations (Transportation), Part 1141 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1144` | Title 49 of the Code of Federal Regulations (Transportation), Part 1144 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1145` | Title 49 of the Code of Federal Regulations (Transportation), Part 1145 | 1 | 2024-09-04 to 2024-09-04 |
+| `title-49-part-1146` | Title 49 of the Code of Federal Regulations (Transportation), Part 1146 | 2 | 2017-10-01 to 2024-02-23 |
+| `title-49-part-1147` | Title 49 of the Code of Federal Regulations (Transportation), Part 1147 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1150` | Title 49 of the Code of Federal Regulations (Transportation), Part 1150 | 4 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1151` | Title 49 of the Code of Federal Regulations (Transportation), Part 1151 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1152` | Title 49 of the Code of Federal Regulations (Transportation), Part 1152 | 8 | 2017-10-01 to 2026-09-17 |
+| `title-49-part-1155` | Title 49 of the Code of Federal Regulations (Transportation), Part 1155 | 4 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1177` | Title 49 of the Code of Federal Regulations (Transportation), Part 1177 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1180` | Title 49 of the Code of Federal Regulations (Transportation), Part 1180 | 4 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1182` | Title 49 of the Code of Federal Regulations (Transportation), Part 1182 | 3 | 2017-10-01 to 2019-04-03 |
+| `title-49-part-1184` | Title 49 of the Code of Federal Regulations (Transportation), Part 1184 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1185` | Title 49 of the Code of Federal Regulations (Transportation), Part 1185 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1200` | Title 49 of the Code of Federal Regulations (Transportation), Part 1200 | 2 | 2017-10-01 to 2018-05-19 |
+| `title-49-part-1201` | Title 49 of the Code of Federal Regulations (Transportation), Part 1201 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1220` | Title 49 of the Code of Federal Regulations (Transportation), Part 1220 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1241` | Title 49 of the Code of Federal Regulations (Transportation), Part 1241 | 2 | 2017-10-01 to 2026-06-08 |
+| `title-49-part-1242` | Title 49 of the Code of Federal Regulations (Transportation), Part 1242 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1243` | Title 49 of the Code of Federal Regulations (Transportation), Part 1243 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1244` | Title 49 of the Code of Federal Regulations (Transportation), Part 1244 | 8 | 2017-10-01 to 2026-09-17 |
+| `title-49-part-1245` | Title 49 of the Code of Federal Regulations (Transportation), Part 1245 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1246` | Title 49 of the Code of Federal Regulations (Transportation), Part 1246 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1247` | Title 49 of the Code of Federal Regulations (Transportation), Part 1247 | 2 | 2017-10-01 to 2018-05-02 |
+| `title-49-part-1248` | Title 49 of the Code of Federal Regulations (Transportation), Part 1248 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1249` | Title 49 of the Code of Federal Regulations (Transportation), Part 1249 | 1 | 2022-08-13 to 2022-08-13 |
+| `title-49-part-1250` | Title 49 of the Code of Federal Regulations (Transportation), Part 1250 | 2 | 2017-10-01 to 2020-07-20 |
+| `title-49-part-1251` | Title 49 of the Code of Federal Regulations (Transportation), Part 1251 | 1 | 2026-06-08 to 2026-06-08 |
+| `title-49-part-1253` | Title 49 of the Code of Federal Regulations (Transportation), Part 1253 | 2 | 2017-10-01 to 2026-02-03 |
+| `title-49-part-1280` | Title 49 of the Code of Federal Regulations (Transportation), Part 1280 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1300` | Title 49 of the Code of Federal Regulations (Transportation), Part 1300 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1302` | Title 49 of the Code of Federal Regulations (Transportation), Part 1302 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1305` | Title 49 of the Code of Federal Regulations (Transportation), Part 1305 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1310` | Title 49 of the Code of Federal Regulations (Transportation), Part 1310 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1312` | Title 49 of the Code of Federal Regulations (Transportation), Part 1312 | 2 | 2017-10-01 to 2019-06-08 |
+| `title-49-part-1313` | Title 49 of the Code of Federal Regulations (Transportation), Part 1313 | 2 | 2017-10-01 to 2019-05-10 |
+| `title-49-part-1319` | Title 49 of the Code of Federal Regulations (Transportation), Part 1319 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1325` | Title 49 of the Code of Federal Regulations (Transportation), Part 1325 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1331` | Title 49 of the Code of Federal Regulations (Transportation), Part 1331 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1332` | Title 49 of the Code of Federal Regulations (Transportation), Part 1332 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1333` | Title 49 of the Code of Federal Regulations (Transportation), Part 1333 | 3 | 2017-10-01 to 2021-10-06 |
+| `title-49-part-1500` | Title 49 of the Code of Federal Regulations (Transportation), Part 1500 | 5 | 2017-10-01 to 2026-02-17 |
+| `title-49-part-1502` | Title 49 of the Code of Federal Regulations (Transportation), Part 1502 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1503` | Title 49 of the Code of Federal Regulations (Transportation), Part 1503 | 11 | 2017-10-01 to 2025-12-29 |
+| `title-49-part-1507` | Title 49 of the Code of Federal Regulations (Transportation), Part 1507 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1510` | Title 49 of the Code of Federal Regulations (Transportation), Part 1510 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1511` | Title 49 of the Code of Federal Regulations (Transportation), Part 1511 | 2 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1515` | Title 49 of the Code of Federal Regulations (Transportation), Part 1515 | 2 | 2017-10-01 to 2024-07-30 |
+| `title-49-part-1520` | Title 49 of the Code of Federal Regulations (Transportation), Part 1520 | 2 | 2017-10-01 to 2020-09-21 |
+| `title-49-part-1540` | Title 49 of the Code of Federal Regulations (Transportation), Part 1540 | 4 | 2017-10-01 to 2025-05-21 |
+| `title-49-part-1542` | Title 49 of the Code of Federal Regulations (Transportation), Part 1542 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1544` | Title 49 of the Code of Federal Regulations (Transportation), Part 1544 | 6 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1546` | Title 49 of the Code of Federal Regulations (Transportation), Part 1546 | 5 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1548` | Title 49 of the Code of Federal Regulations (Transportation), Part 1548 | 4 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1549` | Title 49 of the Code of Federal Regulations (Transportation), Part 1549 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1550` | Title 49 of the Code of Federal Regulations (Transportation), Part 1550 | 3 | 2017-10-01 to 2026-10-26 |
+| `title-49-part-1552` | Title 49 of the Code of Federal Regulations (Transportation), Part 1552 | 3 | 2017-10-01 to 2026-02-17 |
+| `title-49-part-1554` | Title 49 of the Code of Federal Regulations (Transportation), Part 1554 | 2 | 2017-10-01 to 2024-07-30 |
+| `title-49-part-1560` | Title 49 of the Code of Federal Regulations (Transportation), Part 1560 | 2 | 2017-10-01 to 2025-05-21 |
+| `title-49-part-1562` | Title 49 of the Code of Federal Regulations (Transportation), Part 1562 | 1 | 2017-10-01 to 2017-10-01 |
+| `title-49-part-1570` | Title 49 of the Code of Federal Regulations (Transportation), Part 1570 | 6 | 2017-10-01 to 2026-02-17 |
+| `title-49-part-1572` | Title 49 of the Code of Federal Regulations (Transportation), Part 1572 | 3 | 2017-10-01 to 2025-05-21 |
+| `title-49-part-1580` | Title 49 of the Code of Federal Regulations (Transportation), Part 1580 | 2 | 2017-10-01 to 2020-09-21 |
+| `title-49-part-1582` | Title 49 of the Code of Federal Regulations (Transportation), Part 1582 | 3 | 2020-09-21 to 2022-10-01 |
+| `title-49-part-1584` | Title 49 of the Code of Federal Regulations (Transportation), Part 1584 | 1 | 2020-09-21 to 2020-09-21 |
+| `title-49-part-other` | Title 49 of the Code of Federal Regulations (Transportation), Part other | 6 | 2017-10-01 to 2026-10-26 |
 
-The build made 32383 commits:
+The build made 34071 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 8705 | first version of an act |
-| 16289 | one law on its in-force day |
-| 7389 | changes no amendment note explains, credited to the publisher |
+| 9088 | first version of an act |
+| 17081 | one law on its in-force day |
+| 7902 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 19160 laws in the record.
-- 42128 tags.
+- 20148 laws in the record.
+- 44411 tags.
 
 ## Dates
 
@@ -8746,7 +9129,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `34ca5be41f6c2ffd4f70cac61de0dce573a4f727b62a8600770fb1d70bbdc2fd` (1329329939 bytes).
+- Corpus: sha256 `6549b546b1eedc3cca7b3c6335497856fe5efca0bb4c7d05f09af25a226361d8` (1388478307 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -8813,6 +9196,7 @@ No second build of this corpus has been compared yet.
 - Title 46: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-12-14); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 47: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-09-28); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-09-23); 2023 annual edition (to 2023-09-29); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 - Title 48: editions read: 2017 annual edition (to 2017-12-11); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
+- Title 49: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-11-28); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 

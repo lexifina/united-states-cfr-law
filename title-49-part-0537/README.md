@@ -1,0 +1,18 @@
+# Title 49 of the Code of Federal Regulations (Transportation), Part 537
+
+49 CFR Part 537 · 5 versions, from 2017-10-01 (latest in force: 2024-08-23) · <https://www.ecfr.gov/current/title-49/part-537>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 537.1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| § 537.2 | [sec-0002.md](sec-0002.md) | 1 | 2024-08-23 |
+| § 537.3 | [sec-0003.md](sec-0003.md) | 1 | 2024-08-23 |
+| § 537.4 | [sec-0004.md](sec-0004.md) | 2 | 2024-08-23 |
+| § 537.5 | [sec-0005.md](sec-0005.md) | 2 | 2022-07-01 |
+| § 537.6 | [sec-0006.md](sec-0006.md) | 2 | 2022-07-01 |
+| § 537.7 | [sec-0007.md](sec-0007.md) | 3 | 2024-08-23 |
+| § 537.8 | [sec-0008.md](sec-0008.md) | 2 | 2022-07-01 |
+| § 537.9 | [sec-0009.md](sec-0009.md) | 1 | 2022-07-01 |
+| § 537.10 | [sec-0010.md](sec-0010.md) | 1 | 2022-07-01 |
+| § 537.11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| § 537.12 | [sec-0012.md](sec-0012.md) | 1 | 2022-07-01 |
