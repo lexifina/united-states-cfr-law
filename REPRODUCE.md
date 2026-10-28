@@ -680,20 +680,323 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-26-part-0701` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 701 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0702` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 702 | 1 | 2017-03-22 to 2017-03-22 |
 | `title-26-part-0801` | Title 26 of the Code of Federal Regulations (Internal Revenue), Part 801 | 2 | 2017-03-22 to 2018-03-07 |
+| `title-29-part-0000` | Title 29 of the Code of Federal Regulations (Labor), Part 0 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0001` | Title 29 of the Code of Federal Regulations (Labor), Part 1 | 2 | 2017-05-30 to 2023-10-23 |
+| `title-29-part-0002` | Title 29 of the Code of Federal Regulations (Labor), Part 2 | 6 | 2017-05-30 to 2025-07-31 |
+| `title-29-part-0003` | Title 29 of the Code of Federal Regulations (Labor), Part 3 | 2 | 2017-05-30 to 2023-10-23 |
+| `title-29-part-0004` | Title 29 of the Code of Federal Regulations (Labor), Part 4 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0005` | Title 29 of the Code of Federal Regulations (Labor), Part 5 | 9 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-0006` | Title 29 of the Code of Federal Regulations (Labor), Part 6 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0007` | Title 29 of the Code of Federal Regulations (Labor), Part 7 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-0008` | Title 29 of the Code of Federal Regulations (Labor), Part 8 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-0009` | Title 29 of the Code of Federal Regulations (Labor), Part 9 | 4 | 2017-05-30 to 2025-12-22 |
+| `title-29-part-0010` | Title 29 of the Code of Federal Regulations (Labor), Part 10 | 6 | 2017-05-30 to 2022-01-30 |
+| `title-29-part-0011` | Title 29 of the Code of Federal Regulations (Labor), Part 11 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0012` | Title 29 of the Code of Federal Regulations (Labor), Part 12 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0013` | Title 29 of the Code of Federal Regulations (Labor), Part 13 | 2 | 2017-05-30 to 2020-02-18 |
+| `title-29-part-0014` | Title 29 of the Code of Federal Regulations (Labor), Part 14 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0015` | Title 29 of the Code of Federal Regulations (Labor), Part 15 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0016` | Title 29 of the Code of Federal Regulations (Labor), Part 16 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0017` | Title 29 of the Code of Federal Regulations (Labor), Part 17 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0018` | Title 29 of the Code of Federal Regulations (Labor), Part 18 | 2 | 2017-05-30 to 2020-02-18 |
+| `title-29-part-0019` | Title 29 of the Code of Federal Regulations (Labor), Part 19 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0020` | Title 29 of the Code of Federal Regulations (Labor), Part 20 | 2 | 2017-05-30 to 2020-12-23 |
+| `title-29-part-0021` | Title 29 of the Code of Federal Regulations (Labor), Part 21 | 4 | 2017-05-30 to 2022-03-17 |
+| `title-29-part-0022` | Title 29 of the Code of Federal Regulations (Labor), Part 22 | 2 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-0023` | Title 29 of the Code of Federal Regulations (Labor), Part 23 | 1 | 2022-01-30 to 2022-01-30 |
+| `title-29-part-0024` | Title 29 of the Code of Federal Regulations (Labor), Part 24 | 4 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-0025` | Title 29 of the Code of Federal Regulations (Labor), Part 25 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0026` | Title 29 of the Code of Federal Regulations (Labor), Part 26 | 1 | 2021-02-25 to 2021-02-25 |
+| `title-29-part-0029` | Title 29 of the Code of Federal Regulations (Labor), Part 29 | 5 | 2017-05-30 to 2022-11-25 |
+| `title-29-part-0030` | Title 29 of the Code of Federal Regulations (Labor), Part 30 | 2 | 2017-05-30 to 2019-02-12 |
+| `title-29-part-0031` | Title 29 of the Code of Federal Regulations (Labor), Part 31 | 2 | 2017-05-30 to 2026-07-02 |
+| `title-29-part-0032` | Title 29 of the Code of Federal Regulations (Labor), Part 32 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0033` | Title 29 of the Code of Federal Regulations (Labor), Part 33 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0034` | Title 29 of the Code of Federal Regulations (Labor), Part 34 | 2 | 2017-05-30 to 2018-11-26 |
+| `title-29-part-0035` | Title 29 of the Code of Federal Regulations (Labor), Part 35 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0036` | Title 29 of the Code of Federal Regulations (Labor), Part 36 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0037` | Title 29 of the Code of Federal Regulations (Labor), Part 37 | 5 | 2017-05-30 to 2025-09-02 |
+| `title-29-part-0038` | Title 29 of the Code of Federal Regulations (Labor), Part 38 | 4 | 2017-05-30 to 2026-07-24 |
+| `title-29-part-0042` | Title 29 of the Code of Federal Regulations (Labor), Part 42 | 2 | 2017-05-30 to 2026-09-30 |
+| `title-29-part-0044` | Title 29 of the Code of Federal Regulations (Labor), Part 44 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0070` | Title 29 of the Code of Federal Regulations (Labor), Part 70 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-0071` | Title 29 of the Code of Federal Regulations (Labor), Part 71 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0075` | Title 29 of the Code of Federal Regulations (Labor), Part 75 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0090` | Title 29 of the Code of Federal Regulations (Labor), Part 90 | 2 | 2017-05-30 to 2020-09-21 |
+| `title-29-part-0093` | Title 29 of the Code of Federal Regulations (Labor), Part 93 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-0094` | Title 29 of the Code of Federal Regulations (Labor), Part 94 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0095` | Title 29 of the Code of Federal Regulations (Labor), Part 95 | 2 | 2017-05-30 to 2025-09-02 |
+| `title-29-part-0096` | Title 29 of the Code of Federal Regulations (Labor), Part 96 | 4 | 2017-05-30 to 2025-09-02 |
+| `title-29-part-0097` | Title 29 of the Code of Federal Regulations (Labor), Part 97 | 3 | 2017-05-30 to 2025-09-02 |
+| `title-29-part-0099` | Title 29 of the Code of Federal Regulations (Labor), Part 99 | 2 | 2017-05-30 to 2025-09-02 |
+| `title-29-part-0100` | Title 29 of the Code of Federal Regulations (Labor), Part 100 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0101` | Title 29 of the Code of Federal Regulations (Labor), Part 101 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0102` | Title 29 of the Code of Federal Regulations (Labor), Part 102 | 13 | 2017-05-30 to 2024-09-30 |
+| `title-29-part-0103` | Title 29 of the Code of Federal Regulations (Labor), Part 103 | 6 | 2017-05-30 to 2026-02-27 |
+| `title-29-part-0104` | Title 29 of the Code of Federal Regulations (Labor), Part 104 | 2 | 2024-05-31 to 2026-10-26 |
+| `title-29-part-0215` | Title 29 of the Code of Federal Regulations (Labor), Part 215 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0301` | Title 29 of the Code of Federal Regulations (Labor), Part 301 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0401` | Title 29 of the Code of Federal Regulations (Labor), Part 401 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0402` | Title 29 of the Code of Federal Regulations (Labor), Part 402 | 2 | 2017-05-30 to 2026-07-01 |
+| `title-29-part-0403` | Title 29 of the Code of Federal Regulations (Labor), Part 403 | 4 | 2017-05-30 to 2026-07-01 |
+| `title-29-part-0404` | Title 29 of the Code of Federal Regulations (Labor), Part 404 | 2 | 2017-05-30 to 2026-04-22 |
+| `title-29-part-0405` | Title 29 of the Code of Federal Regulations (Labor), Part 405 | 2 | 2017-05-30 to 2018-08-17 |
+| `title-29-part-0406` | Title 29 of the Code of Federal Regulations (Labor), Part 406 | 2 | 2017-05-30 to 2018-08-17 |
+| `title-29-part-0408` | Title 29 of the Code of Federal Regulations (Labor), Part 408 | 3 | 2017-05-30 to 2026-07-01 |
+| `title-29-part-0409` | Title 29 of the Code of Federal Regulations (Labor), Part 409 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0417` | Title 29 of the Code of Federal Regulations (Labor), Part 417 | 2 | 2017-05-30 to 2021-02-26 |
+| `title-29-part-0451` | Title 29 of the Code of Federal Regulations (Labor), Part 451 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0452` | Title 29 of the Code of Federal Regulations (Labor), Part 452 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0453` | Title 29 of the Code of Federal Regulations (Labor), Part 453 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0457` | Title 29 of the Code of Federal Regulations (Labor), Part 457 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0458` | Title 29 of the Code of Federal Regulations (Labor), Part 458 | 2 | 2017-05-30 to 2021-02-26 |
+| `title-29-part-0459` | Title 29 of the Code of Federal Regulations (Labor), Part 459 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0471` | Title 29 of the Code of Federal Regulations (Labor), Part 471 | 2 | 2017-05-30 to 2020-02-18 |
+| `title-29-part-0500` | Title 29 of the Code of Federal Regulations (Labor), Part 500 | 11 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0501` | Title 29 of the Code of Federal Regulations (Labor), Part 501 | 13 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0502` | Title 29 of the Code of Federal Regulations (Labor), Part 502 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0503` | Title 29 of the Code of Federal Regulations (Labor), Part 503 | 10 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0504` | Title 29 of the Code of Federal Regulations (Labor), Part 504 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0505` | Title 29 of the Code of Federal Regulations (Labor), Part 505 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0506` | Title 29 of the Code of Federal Regulations (Labor), Part 506 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0507` | Title 29 of the Code of Federal Regulations (Labor), Part 507 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0508` | Title 29 of the Code of Federal Regulations (Labor), Part 508 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0510` | Title 29 of the Code of Federal Regulations (Labor), Part 510 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0511` | Title 29 of the Code of Federal Regulations (Labor), Part 511 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0515` | Title 29 of the Code of Federal Regulations (Labor), Part 515 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0516` | Title 29 of the Code of Federal Regulations (Labor), Part 516 | 2 | 2017-05-30 to 2021-04-30 |
+| `title-29-part-0519` | Title 29 of the Code of Federal Regulations (Labor), Part 519 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0520` | Title 29 of the Code of Federal Regulations (Labor), Part 520 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0525` | Title 29 of the Code of Federal Regulations (Labor), Part 525 | 2 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-0528` | Title 29 of the Code of Federal Regulations (Labor), Part 528 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0530` | Title 29 of the Code of Federal Regulations (Labor), Part 530 | 10 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0531` | Title 29 of the Code of Federal Regulations (Labor), Part 531 | 6 | 2017-05-30 to 2024-12-17 |
+| `title-29-part-0536` | Title 29 of the Code of Federal Regulations (Labor), Part 536 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0541` | Title 29 of the Code of Federal Regulations (Labor), Part 541 | 5 | 2017-05-30 to 2026-05-15 |
+| `title-29-part-0547` | Title 29 of the Code of Federal Regulations (Labor), Part 547 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0548` | Title 29 of the Code of Federal Regulations (Labor), Part 548 | 2 | 2017-05-30 to 2020-01-15 |
+| `title-29-part-0549` | Title 29 of the Code of Federal Regulations (Labor), Part 549 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0550` | Title 29 of the Code of Federal Regulations (Labor), Part 550 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0551` | Title 29 of the Code of Federal Regulations (Labor), Part 551 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0552` | Title 29 of the Code of Federal Regulations (Labor), Part 552 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0553` | Title 29 of the Code of Federal Regulations (Labor), Part 553 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0570` | Title 29 of the Code of Federal Regulations (Labor), Part 570 | 10 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0575` | Title 29 of the Code of Federal Regulations (Labor), Part 575 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0578` | Title 29 of the Code of Federal Regulations (Labor), Part 578 | 10 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0579` | Title 29 of the Code of Federal Regulations (Labor), Part 579 | 9 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0580` | Title 29 of the Code of Federal Regulations (Labor), Part 580 | 5 | 2017-05-30 to 2022-03-17 |
+| `title-29-part-0697` | Title 29 of the Code of Federal Regulations (Labor), Part 697 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0775` | Title 29 of the Code of Federal Regulations (Labor), Part 775 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0776` | Title 29 of the Code of Federal Regulations (Labor), Part 776 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0778` | Title 29 of the Code of Federal Regulations (Labor), Part 778 | 3 | 2017-05-30 to 2020-08-07 |
+| `title-29-part-0779` | Title 29 of the Code of Federal Regulations (Labor), Part 779 | 2 | 2017-05-30 to 2020-02-18 |
+| `title-29-part-0780` | Title 29 of the Code of Federal Regulations (Labor), Part 780 | 2 | 2017-05-30 to 2024-03-11 |
+| `title-29-part-0782` | Title 29 of the Code of Federal Regulations (Labor), Part 782 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0783` | Title 29 of the Code of Federal Regulations (Labor), Part 783 | 2 | 2017-05-30 to 2018-04-11 |
+| `title-29-part-0784` | Title 29 of the Code of Federal Regulations (Labor), Part 784 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0785` | Title 29 of the Code of Federal Regulations (Labor), Part 785 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0786` | Title 29 of the Code of Federal Regulations (Labor), Part 786 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0788` | Title 29 of the Code of Federal Regulations (Labor), Part 788 | 2 | 2017-05-30 to 2024-03-11 |
+| `title-29-part-0789` | Title 29 of the Code of Federal Regulations (Labor), Part 789 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0790` | Title 29 of the Code of Federal Regulations (Labor), Part 790 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0791` | Title 29 of the Code of Federal Regulations (Labor), Part 791 | 3 | 2017-05-30 to 2021-10-05 |
+| `title-29-part-0793` | Title 29 of the Code of Federal Regulations (Labor), Part 793 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0794` | Title 29 of the Code of Federal Regulations (Labor), Part 794 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0795` | Title 29 of the Code of Federal Regulations (Labor), Part 795 | 1 | 2024-03-11 to 2024-03-11 |
+| `title-29-part-0801` | Title 29 of the Code of Federal Regulations (Labor), Part 801 | 10 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0810` | Title 29 of the Code of Federal Regulations (Labor), Part 810 | 5 | 2020-02-18 to 2025-01-15 |
+| `title-29-part-0825` | Title 29 of the Code of Federal Regulations (Labor), Part 825 | 10 | 2017-05-30 to 2025-01-15 |
+| `title-29-part-0826` | Title 29 of the Code of Federal Regulations (Labor), Part 826 | 2 | 2020-02-18 to 2020-12-31 |
+| `title-29-part-0870` | Title 29 of the Code of Federal Regulations (Labor), Part 870 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-0901` | Title 29 of the Code of Federal Regulations (Labor), Part 901 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1201` | Title 29 of the Code of Federal Regulations (Labor), Part 1201 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1202` | Title 29 of the Code of Federal Regulations (Labor), Part 1202 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1203` | Title 29 of the Code of Federal Regulations (Labor), Part 1203 | 2 | 2017-05-30 to 2019-08-26 |
+| `title-29-part-1204` | Title 29 of the Code of Federal Regulations (Labor), Part 1204 | 2 | 2017-05-30 to 2023-03-23 |
+| `title-29-part-1205` | Title 29 of the Code of Federal Regulations (Labor), Part 1205 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1206` | Title 29 of the Code of Federal Regulations (Labor), Part 1206 | 2 | 2017-05-30 to 2019-08-26 |
+| `title-29-part-1207` | Title 29 of the Code of Federal Regulations (Labor), Part 1207 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1208` | Title 29 of the Code of Federal Regulations (Labor), Part 1208 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1209` | Title 29 of the Code of Federal Regulations (Labor), Part 1209 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1400` | Title 29 of the Code of Federal Regulations (Labor), Part 1400 | 4 | 2017-05-30 to 2023-02-24 |
+| `title-29-part-1401` | Title 29 of the Code of Federal Regulations (Labor), Part 1401 | 2 | 2017-05-30 to 2021-09-28 |
+| `title-29-part-1402` | Title 29 of the Code of Federal Regulations (Labor), Part 1402 | 2 | 2017-05-30 to 2021-09-14 |
+| `title-29-part-1403` | Title 29 of the Code of Federal Regulations (Labor), Part 1403 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1404` | Title 29 of the Code of Federal Regulations (Labor), Part 1404 | 4 | 2017-05-30 to 2026-08-28 |
+| `title-29-part-1405` | Title 29 of the Code of Federal Regulations (Labor), Part 1405 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1406` | Title 29 of the Code of Federal Regulations (Labor), Part 1406 | 1 | 2023-12-07 to 2023-12-07 |
+| `title-29-part-1410` | Title 29 of the Code of Federal Regulations (Labor), Part 1410 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1420` | Title 29 of the Code of Federal Regulations (Labor), Part 1420 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1425` | Title 29 of the Code of Federal Regulations (Labor), Part 1425 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1430` | Title 29 of the Code of Federal Regulations (Labor), Part 1430 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1440` | Title 29 of the Code of Federal Regulations (Labor), Part 1440 | 2 | 2017-05-30 to 2021-05-06 |
+| `title-29-part-1450` | Title 29 of the Code of Federal Regulations (Labor), Part 1450 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1470` | Title 29 of the Code of Federal Regulations (Labor), Part 1470 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1471` | Title 29 of the Code of Federal Regulations (Labor), Part 1471 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1472` | Title 29 of the Code of Federal Regulations (Labor), Part 1472 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1473` | Title 29 of the Code of Federal Regulations (Labor), Part 1473 | 2 | 2020-02-18 to 2020-05-20 |
+| `title-29-part-1600` | Title 29 of the Code of Federal Regulations (Labor), Part 1600 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1601` | Title 29 of the Code of Federal Regulations (Labor), Part 1601 | 13 | 2017-05-30 to 2026-07-16 |
+| `title-29-part-1602` | Title 29 of the Code of Federal Regulations (Labor), Part 1602 | 3 | 2017-05-30 to 2025-01-10 |
+| `title-29-part-1603` | Title 29 of the Code of Federal Regulations (Labor), Part 1603 | 3 | 2017-05-30 to 2024-07-05 |
+| `title-29-part-1604` | Title 29 of the Code of Federal Regulations (Labor), Part 1604 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1605` | Title 29 of the Code of Federal Regulations (Labor), Part 1605 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1606` | Title 29 of the Code of Federal Regulations (Labor), Part 1606 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1607` | Title 29 of the Code of Federal Regulations (Labor), Part 1607 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1608` | Title 29 of the Code of Federal Regulations (Labor), Part 1608 | 2 | 2017-05-30 to 2026-07-06 |
+| `title-29-part-1610` | Title 29 of the Code of Federal Regulations (Labor), Part 1610 | 4 | 2017-05-30 to 2024-02-14 |
+| `title-29-part-1611` | Title 29 of the Code of Federal Regulations (Labor), Part 1611 | 2 | 2017-05-30 to 2024-02-14 |
+| `title-29-part-1612` | Title 29 of the Code of Federal Regulations (Labor), Part 1612 | 2 | 2017-05-30 to 2022-03-16 |
+| `title-29-part-1614` | Title 29 of the Code of Federal Regulations (Labor), Part 1614 | 6 | 2017-05-30 to 2024-02-23 |
+| `title-29-part-1615` | Title 29 of the Code of Federal Regulations (Labor), Part 1615 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1620` | Title 29 of the Code of Federal Regulations (Labor), Part 1620 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1621` | Title 29 of the Code of Federal Regulations (Labor), Part 1621 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1625` | Title 29 of the Code of Federal Regulations (Labor), Part 1625 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1626` | Title 29 of the Code of Federal Regulations (Labor), Part 1626 | 5 | 2017-05-30 to 2024-02-16 |
+| `title-29-part-1627` | Title 29 of the Code of Federal Regulations (Labor), Part 1627 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1630` | Title 29 of the Code of Federal Regulations (Labor), Part 1630 | 3 | 2017-05-30 to 2024-07-05 |
+| `title-29-part-1635` | Title 29 of the Code of Federal Regulations (Labor), Part 1635 | 2 | 2017-05-30 to 2019-01-01 |
+| `title-29-part-1636` | Title 29 of the Code of Federal Regulations (Labor), Part 1636 | 1 | 2024-05-31 to 2024-05-31 |
+| `title-29-part-1640` | Title 29 of the Code of Federal Regulations (Labor), Part 1640 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1641` | Title 29 of the Code of Federal Regulations (Labor), Part 1641 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1650` | Title 29 of the Code of Federal Regulations (Labor), Part 1650 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1690` | Title 29 of the Code of Federal Regulations (Labor), Part 1690 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1691` | Title 29 of the Code of Federal Regulations (Labor), Part 1691 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1695` | Title 29 of the Code of Federal Regulations (Labor), Part 1695 | 1 | 2020-11-13 to 2020-11-13 |
+| `title-29-part-1902` | Title 29 of the Code of Federal Regulations (Labor), Part 1902 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1903` | Title 29 of the Code of Federal Regulations (Labor), Part 1903 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1904` | Title 29 of the Code of Federal Regulations (Labor), Part 1904 | 8 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1905` | Title 29 of the Code of Federal Regulations (Labor), Part 1905 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1908` | Title 29 of the Code of Federal Regulations (Labor), Part 1908 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1910` | Title 29 of the Code of Federal Regulations (Labor), Part 1910 | 20 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1911` | Title 29 of the Code of Federal Regulations (Labor), Part 1911 | 2 | 2017-05-30 to 2025-07-01 |
+| `title-29-part-1912` | Title 29 of the Code of Federal Regulations (Labor), Part 1912 | 3 | 2017-05-30 to 2025-07-01 |
+| `title-29-part-1912a` | Title 29 of the Code of Federal Regulations (Labor), Part 1912a | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1913` | Title 29 of the Code of Federal Regulations (Labor), Part 1913 | 2 | 2017-05-30 to 2020-07-30 |
+| `title-29-part-1915` | Title 29 of the Code of Federal Regulations (Labor), Part 1915 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1917` | Title 29 of the Code of Federal Regulations (Labor), Part 1917 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1918` | Title 29 of the Code of Federal Regulations (Labor), Part 1918 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1919` | Title 29 of the Code of Federal Regulations (Labor), Part 1919 | 2 | 2017-05-30 to 2020-02-18 |
+| `title-29-part-1920` | Title 29 of the Code of Federal Regulations (Labor), Part 1920 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1921` | Title 29 of the Code of Federal Regulations (Labor), Part 1921 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1922` | Title 29 of the Code of Federal Regulations (Labor), Part 1922 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1924` | Title 29 of the Code of Federal Regulations (Labor), Part 1924 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1925` | Title 29 of the Code of Federal Regulations (Labor), Part 1925 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1926` | Title 29 of the Code of Federal Regulations (Labor), Part 1926 | 17 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1928` | Title 29 of the Code of Federal Regulations (Labor), Part 1928 | 3 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-1949` | Title 29 of the Code of Federal Regulations (Labor), Part 1949 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1952` | Title 29 of the Code of Federal Regulations (Labor), Part 1952 | 2 | 2017-05-30 to 2022-08-18 |
+| `title-29-part-1953` | Title 29 of the Code of Federal Regulations (Labor), Part 1953 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1954` | Title 29 of the Code of Federal Regulations (Labor), Part 1954 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1955` | Title 29 of the Code of Federal Regulations (Labor), Part 1955 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1956` | Title 29 of the Code of Federal Regulations (Labor), Part 1956 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1960` | Title 29 of the Code of Federal Regulations (Labor), Part 1960 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1975` | Title 29 of the Code of Federal Regulations (Labor), Part 1975 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1977` | Title 29 of the Code of Federal Regulations (Labor), Part 1977 | 2 | 2017-05-30 to 2021-09-03 |
+| `title-29-part-1978` | Title 29 of the Code of Federal Regulations (Labor), Part 1978 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1979` | Title 29 of the Code of Federal Regulations (Labor), Part 1979 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1980` | Title 29 of the Code of Federal Regulations (Labor), Part 1980 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1981` | Title 29 of the Code of Federal Regulations (Labor), Part 1981 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1982` | Title 29 of the Code of Federal Regulations (Labor), Part 1982 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1983` | Title 29 of the Code of Federal Regulations (Labor), Part 1983 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1984` | Title 29 of the Code of Federal Regulations (Labor), Part 1984 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1985` | Title 29 of the Code of Federal Regulations (Labor), Part 1985 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1986` | Title 29 of the Code of Federal Regulations (Labor), Part 1986 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1987` | Title 29 of the Code of Federal Regulations (Labor), Part 1987 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1988` | Title 29 of the Code of Federal Regulations (Labor), Part 1988 | 3 | 2017-05-30 to 2021-02-25 |
+| `title-29-part-1989` | Title 29 of the Code of Federal Regulations (Labor), Part 1989 | 2 | 2022-03-07 to 2023-03-13 |
+| `title-29-part-1990` | Title 29 of the Code of Federal Regulations (Labor), Part 1990 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-1991` | Title 29 of the Code of Federal Regulations (Labor), Part 1991 | 1 | 2023-02-10 to 2023-02-10 |
+| `title-29-part-1992` | Title 29 of the Code of Federal Regulations (Labor), Part 1992 | 1 | 2025-01-14 to 2025-01-14 |
+| `title-29-part-2200` | Title 29 of the Code of Federal Regulations (Labor), Part 2200 | 6 | 2017-05-30 to 2022-02-17 |
+| `title-29-part-2201` | Title 29 of the Code of Federal Regulations (Labor), Part 2201 | 2 | 2017-05-30 to 2020-11-13 |
+| `title-29-part-2203` | Title 29 of the Code of Federal Regulations (Labor), Part 2203 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2204` | Title 29 of the Code of Federal Regulations (Labor), Part 2204 | 2 | 2017-05-30 to 2021-05-06 |
+| `title-29-part-2205` | Title 29 of the Code of Federal Regulations (Labor), Part 2205 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2400` | Title 29 of the Code of Federal Regulations (Labor), Part 2400 | 2 | 2017-05-30 to 2020-10-15 |
+| `title-29-part-2509` | Title 29 of the Code of Federal Regulations (Labor), Part 2509 | 6 | 2017-05-30 to 2025-09-02 |
+| `title-29-part-2510` | Title 29 of the Code of Federal Regulations (Labor), Part 2510 | 9 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-2520` | Title 29 of the Code of Federal Regulations (Labor), Part 2520 | 11 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-2530` | Title 29 of the Code of Federal Regulations (Labor), Part 2530 | 2 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-2550` | Title 29 of the Code of Federal Regulations (Labor), Part 2550 | 7 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-2560` | Title 29 of the Code of Federal Regulations (Labor), Part 2560 | 3 | 2017-05-30 to 2020-07-27 |
+| `title-29-part-2570` | Title 29 of the Code of Federal Regulations (Labor), Part 2570 | 2 | 2017-05-30 to 2024-04-08 |
+| `title-29-part-2571` | Title 29 of the Code of Federal Regulations (Labor), Part 2571 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2575` | Title 29 of the Code of Federal Regulations (Labor), Part 2575 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2578` | Title 29 of the Code of Federal Regulations (Labor), Part 2578 | 4 | 2017-05-30 to 2024-11-22 |
+| `title-29-part-2580` | Title 29 of the Code of Federal Regulations (Labor), Part 2580 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2582` | Title 29 of the Code of Federal Regulations (Labor), Part 2582 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2584` | Title 29 of the Code of Federal Regulations (Labor), Part 2584 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2589` | Title 29 of the Code of Federal Regulations (Labor), Part 2589 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2590` | Title 29 of the Code of Federal Regulations (Labor), Part 2590 | 21 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-2700` | Title 29 of the Code of Federal Regulations (Labor), Part 2700 | 4 | 2017-05-30 to 2026-02-20 |
+| `title-29-part-2701` | Title 29 of the Code of Federal Regulations (Labor), Part 2701 | 2 | 2017-05-30 to 2026-09-09 |
+| `title-29-part-2702` | Title 29 of the Code of Federal Regulations (Labor), Part 2702 | 3 | 2017-05-30 to 2022-03-03 |
+| `title-29-part-2703` | Title 29 of the Code of Federal Regulations (Labor), Part 2703 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2704` | Title 29 of the Code of Federal Regulations (Labor), Part 2704 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2705` | Title 29 of the Code of Federal Regulations (Labor), Part 2705 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-2706` | Title 29 of the Code of Federal Regulations (Labor), Part 2706 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4000` | Title 29 of the Code of Federal Regulations (Labor), Part 4000 | 6 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4001` | Title 29 of the Code of Federal Regulations (Labor), Part 4001 | 6 | 2017-05-30 to 2024-07-08 |
+| `title-29-part-4002` | Title 29 of the Code of Federal Regulations (Labor), Part 4002 | 2 | 2017-05-30 to 2017-09-12 |
+| `title-29-part-4003` | Title 29 of the Code of Federal Regulations (Labor), Part 4003 | 4 | 2017-05-30 to 2023-12-07 |
+| `title-29-part-4006` | Title 29 of the Code of Federal Regulations (Labor), Part 4006 | 4 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4007` | Title 29 of the Code of Federal Regulations (Labor), Part 4007 | 2 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4010` | Title 29 of the Code of Federal Regulations (Labor), Part 4010 | 5 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4022` | Title 29 of the Code of Federal Regulations (Labor), Part 4022 | 9 | 2017-05-30 to 2024-07-08 |
+| `title-29-part-4022b` | Title 29 of the Code of Federal Regulations (Labor), Part 4022B | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4041` | Title 29 of the Code of Federal Regulations (Labor), Part 4041 | 6 | 2017-05-30 to 2025-09-26 |
+| `title-29-part-4041a` | Title 29 of the Code of Federal Regulations (Labor), Part 4041A | 6 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4042` | Title 29 of the Code of Federal Regulations (Labor), Part 4042 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4043` | Title 29 of the Code of Federal Regulations (Labor), Part 4043 | 6 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4044` | Title 29 of the Code of Federal Regulations (Labor), Part 4044 | 21 | 2017-05-30 to 2026-10-14 |
+| `title-29-part-4047` | Title 29 of the Code of Federal Regulations (Labor), Part 4047 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4050` | Title 29 of the Code of Federal Regulations (Labor), Part 4050 | 3 | 2017-05-30 to 2024-07-08 |
+| `title-29-part-4061` | Title 29 of the Code of Federal Regulations (Labor), Part 4061 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4062` | Title 29 of the Code of Federal Regulations (Labor), Part 4062 | 2 | 2017-05-30 to 2023-08-10 |
+| `title-29-part-4063` | Title 29 of the Code of Federal Regulations (Labor), Part 4063 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4064` | Title 29 of the Code of Federal Regulations (Labor), Part 4064 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4065` | Title 29 of the Code of Federal Regulations (Labor), Part 4065 | 2 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4067` | Title 29 of the Code of Federal Regulations (Labor), Part 4067 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4068` | Title 29 of the Code of Federal Regulations (Labor), Part 4068 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4071` | Title 29 of the Code of Federal Regulations (Labor), Part 4071 | 9 | 2017-05-30 to 2025-01-08 |
+| `title-29-part-4203` | Title 29 of the Code of Federal Regulations (Labor), Part 4203 | 2 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4204` | Title 29 of the Code of Federal Regulations (Labor), Part 4204 | 3 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4206` | Title 29 of the Code of Federal Regulations (Labor), Part 4206 | 2 | 2017-05-30 to 2021-02-08 |
+| `title-29-part-4207` | Title 29 of the Code of Federal Regulations (Labor), Part 4207 | 3 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4208` | Title 29 of the Code of Federal Regulations (Labor), Part 4208 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4211` | Title 29 of the Code of Federal Regulations (Labor), Part 4211 | 5 | 2017-05-30 to 2026-10-26 |
+| `title-29-part-4219` | Title 29 of the Code of Federal Regulations (Labor), Part 4219 | 3 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4220` | Title 29 of the Code of Federal Regulations (Labor), Part 4220 | 2 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4221` | Title 29 of the Code of Federal Regulations (Labor), Part 4221 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4231` | Title 29 of the Code of Federal Regulations (Labor), Part 4231 | 2 | 2017-05-30 to 2018-10-15 |
+| `title-29-part-4233` | Title 29 of the Code of Federal Regulations (Labor), Part 4233 | 4 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4245` | Title 29 of the Code of Federal Regulations (Labor), Part 4245 | 3 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4261` | Title 29 of the Code of Federal Regulations (Labor), Part 4261 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4262` | Title 29 of the Code of Federal Regulations (Labor), Part 4262 | 5 | 2021-07-12 to 2025-09-15 |
+| `title-29-part-4281` | Title 29 of the Code of Federal Regulations (Labor), Part 4281 | 4 | 2017-05-30 to 2025-09-15 |
+| `title-29-part-4302` | Title 29 of the Code of Federal Regulations (Labor), Part 4302 | 9 | 2017-05-30 to 2025-01-08 |
+| `title-29-part-4901` | Title 29 of the Code of Federal Regulations (Labor), Part 4901 | 2 | 2017-05-30 to 2022-08-24 |
+| `title-29-part-4902` | Title 29 of the Code of Federal Regulations (Labor), Part 4902 | 4 | 2017-05-30 to 2025-01-06 |
+| `title-29-part-4903` | Title 29 of the Code of Federal Regulations (Labor), Part 4903 | 2 | 2017-05-30 to 2022-09-22 |
+| `title-29-part-4905` | Title 29 of the Code of Federal Regulations (Labor), Part 4905 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4907` | Title 29 of the Code of Federal Regulations (Labor), Part 4907 | 1 | 2017-05-30 to 2017-05-30 |
+| `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
+| `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 3979 commits:
+The build made 4839 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 664 | first version of an act |
-| 2334 | one law on its in-force day |
-| 981 | changes no amendment note explains, credited to the publisher |
+| 967 | first version of an act |
+| 2705 | one law on its in-force day |
+| 1167 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2675 laws in the record.
-- 5154 tags.
+- 3128 laws in the record.
+- 6350 tags.
 
 ## Dates
 
@@ -705,7 +1008,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c3b9e2729a2ece9eb5091ec9e788818518911379729c0f1081cb2a73794f0318` (292065396 bytes).
+- Corpus: sha256 `324021201ed37c7f21812e29d439cd2087734be3ccde8810abc1481b0772b6ba` (334012898 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -728,6 +1031,7 @@ No second build of this corpus has been compared yet.
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
+- Title 29: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-11); 2019 annual edition (to 2019-05-14); 2020 annual edition (to 2020-02-18); 2021 annual edition (to 2021-05-06); 2022 annual edition (to 2022-03-17); 2023 annual edition (to 2023-03-23); 2024 annual edition (to 2024-05-31); eCFR (to 2026-10-26).
 
 ## What AI did and did not do
 
