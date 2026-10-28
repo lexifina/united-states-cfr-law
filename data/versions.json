@@ -25074,6 +25074,486 @@
    ]
   },
   {
+   "slug": "title-01-part-0001",
+   "short": "1 CFR Part 1",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 1",
+   "url": "https://www.ecfr.gov/current/title-1/part-1",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 1,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0002",
+   "short": "1 CFR Part 2",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 2",
+   "url": "https://www.ecfr.gov/current/title-1/part-2",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0003",
+   "short": "1 CFR Part 3",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 3",
+   "url": "https://www.ecfr.gov/current/title-1/part-3",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0005",
+   "short": "1 CFR Part 5",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 5",
+   "url": "https://www.ecfr.gov/current/title-1/part-5",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 10,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0006",
+   "short": "1 CFR Part 6",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 6",
+   "url": "https://www.ecfr.gov/current/title-1/part-6",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0008",
+   "short": "1 CFR Part 8",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 8",
+   "url": "https://www.ecfr.gov/current/title-1/part-8",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0009",
+   "short": "1 CFR Part 9",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 9",
+   "url": "https://www.ecfr.gov/current/title-1/part-9",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 2,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0010",
+   "short": "1 CFR Part 10",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 10",
+   "url": "https://www.ecfr.gov/current/title-1/part-10",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 3,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0011",
+   "short": "1 CFR Part 11",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 11",
+   "url": "https://www.ecfr.gov/current/title-1/part-11",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 8,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0012",
+   "short": "1 CFR Part 12",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 12",
+   "url": "https://www.ecfr.gov/current/title-1/part-12",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2022-05-04",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2023/title-1/CFR-2023-title-1.zip",
+     "sha256": "c5fb1a3f713ace473a679e28bc03334d3a6471a06eb8ee0d087eee4acd57f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0015",
+   "short": "1 CFR Part 15",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 15",
+   "url": "https://www.ecfr.gov/current/title-1/part-15",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0016",
+   "short": "1 CFR Part 16",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 16",
+   "url": "https://www.ecfr.gov/current/title-1/part-16",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 4,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0017",
+   "short": "1 CFR Part 17",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 17",
+   "url": "https://www.ecfr.gov/current/title-1/part-17",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0018",
+   "short": "1 CFR Part 18",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 18",
+   "url": "https://www.ecfr.gov/current/title-1/part-18",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0019",
+   "short": "1 CFR Part 19",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 19",
+   "url": "https://www.ecfr.gov/current/title-1/part-19",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0020",
+   "short": "1 CFR Part 20",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 20",
+   "url": "https://www.ecfr.gov/current/title-1/part-20",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 7,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0021",
+   "short": "1 CFR Part 21",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 21",
+   "url": "https://www.ecfr.gov/current/title-1/part-21",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0022",
+   "short": "1 CFR Part 22",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 22",
+   "url": "https://www.ecfr.gov/current/title-1/part-22",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0051",
+   "short": "1 CFR Part 51",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 51",
+   "url": "https://www.ecfr.gov/current/title-1/part-51",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 6,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0301",
+   "short": "1 CFR Part 301",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 301",
+   "url": "https://www.ecfr.gov/current/title-1/part-301",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0304",
+   "short": "1 CFR Part 304",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 304",
+   "url": "https://www.ecfr.gov/current/title-1/part-304",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2017-03-14",
+     "units": 26,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-1/CFR-2018-title-1.zip",
+     "sha256": "a8e6c8fe65f50e2d6b495b380d69ce70d2afbaadbad15acdcf1c8b2b41796575"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0425",
+   "short": "1 CFR Part 425",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 425",
+   "url": "https://www.ecfr.gov/current/title-1/part-425",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 5,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0426",
+   "short": "1 CFR Part 426",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 426",
+   "url": "https://www.ecfr.gov/current/title-1/part-426",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 20,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2019/title-1/CFR-2019-title-1.zip",
+     "sha256": "8691fa5a6b575defd38a0c51fd54ec4ed3e0e9885a0e5dab4650cb59bcfdf879"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0455",
+   "short": "1 CFR Part 455",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 455",
+   "url": "https://www.ecfr.gov/current/title-1/part-455",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 12,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2017-10-20",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-1/CFR-2018-title-1.zip",
+     "sha256": "a8e6c8fe65f50e2d6b495b380d69ce70d2afbaadbad15acdcf1c8b2b41796575"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0456",
+   "short": "1 CFR Part 456",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 456",
+   "url": "https://www.ecfr.gov/current/title-1/part-456",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 16,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    },
+    {
+     "from": "2017-10-20",
+     "units": 0,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-1/CFR-2018-title-1.zip",
+     "sha256": "a8e6c8fe65f50e2d6b495b380d69ce70d2afbaadbad15acdcf1c8b2b41796575"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0457",
+   "short": "1 CFR Part 457",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 457",
+   "url": "https://www.ecfr.gov/current/title-1/part-457",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0500",
+   "short": "1 CFR Part 500",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 500",
+   "url": "https://www.ecfr.gov/current/title-1/part-500",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 19,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2017/title-1/CFR-2017-title-1.zip",
+     "sha256": "2b4b15f83e1610207837098c2fcb1899a8c6365dde9873e859197ff50832db8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0601",
+   "short": "1 CFR Part 601",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 601",
+   "url": "https://www.ecfr.gov/current/title-1/part-601",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 29,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-1/CFR-2018-title-1.zip",
+     "sha256": "a8e6c8fe65f50e2d6b495b380d69ce70d2afbaadbad15acdcf1c8b2b41796575"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0602",
+   "short": "1 CFR Part 602",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 602",
+   "url": "https://www.ecfr.gov/current/title-1/part-602",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 15,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-1/CFR-2018-title-1.zip",
+     "sha256": "a8e6c8fe65f50e2d6b495b380d69ce70d2afbaadbad15acdcf1c8b2b41796575"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-part-0603",
+   "short": "1 CFR Part 603",
+   "title": "Title 1 of the Code of Federal Regulations (General Provisions), Part 603",
+   "url": "https://www.ecfr.gov/current/title-1/part-603",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 18,
+     "source_url": "https://www.govinfo.gov/bulkdata/CFR/2018/title-1/CFR-2018-title-1.zip",
+     "sha256": "a8e6c8fe65f50e2d6b495b380d69ce70d2afbaadbad15acdcf1c8b2b41796575"
+    }
+   ]
+  },
+  {
    "slug": "title-12-part-0001",
    "short": "12 CFR Part 1",
    "title": "Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1",

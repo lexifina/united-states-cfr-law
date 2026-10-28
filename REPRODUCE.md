@@ -720,6 +720,36 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-45-part-2556` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2556 | 2 | 2017-10-01 to 2023-06-15 |
 | `title-45-part-2584` | Title 45 of the Code of Federal Regulations (Public Welfare), Part 2584 | 1 | 2024-11-29 to 2024-11-29 |
 | `title-45-part-other` | Title 45 of the Code of Federal Regulations (Public Welfare), Part other | 2 | 2017-10-01 to 2026-10-26 |
+| `title-01-part-0001` | Title 1 of the Code of Federal Regulations (General Provisions), Part 1 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0002` | Title 1 of the Code of Federal Regulations (General Provisions), Part 2 | 2 | 2015-12-18 to 2022-12-29 |
+| `title-01-part-0003` | Title 1 of the Code of Federal Regulations (General Provisions), Part 3 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0005` | Title 1 of the Code of Federal Regulations (General Provisions), Part 5 | 2 | 2015-12-18 to 2022-12-29 |
+| `title-01-part-0006` | Title 1 of the Code of Federal Regulations (General Provisions), Part 6 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0008` | Title 1 of the Code of Federal Regulations (General Provisions), Part 8 | 2 | 2015-12-18 to 2022-12-29 |
+| `title-01-part-0009` | Title 1 of the Code of Federal Regulations (General Provisions), Part 9 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0010` | Title 1 of the Code of Federal Regulations (General Provisions), Part 10 | 2 | 2015-12-18 to 2022-12-29 |
+| `title-01-part-0011` | Title 1 of the Code of Federal Regulations (General Provisions), Part 11 | 2 | 2015-12-18 to 2022-12-29 |
+| `title-01-part-0012` | Title 1 of the Code of Federal Regulations (General Provisions), Part 12 | 3 | 2015-12-18 to 2022-12-29 |
+| `title-01-part-0015` | Title 1 of the Code of Federal Regulations (General Provisions), Part 15 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0016` | Title 1 of the Code of Federal Regulations (General Provisions), Part 16 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0017` | Title 1 of the Code of Federal Regulations (General Provisions), Part 17 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0018` | Title 1 of the Code of Federal Regulations (General Provisions), Part 18 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0019` | Title 1 of the Code of Federal Regulations (General Provisions), Part 19 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0020` | Title 1 of the Code of Federal Regulations (General Provisions), Part 20 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0021` | Title 1 of the Code of Federal Regulations (General Provisions), Part 21 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0022` | Title 1 of the Code of Federal Regulations (General Provisions), Part 22 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0051` | Title 1 of the Code of Federal Regulations (General Provisions), Part 51 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0301` | Title 1 of the Code of Federal Regulations (General Provisions), Part 301 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0304` | Title 1 of the Code of Federal Regulations (General Provisions), Part 304 | 2 | 2015-12-18 to 2017-03-14 |
+| `title-01-part-0425` | Title 1 of the Code of Federal Regulations (General Provisions), Part 425 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0426` | Title 1 of the Code of Federal Regulations (General Provisions), Part 426 | 1 | 2018-05-02 to 2018-05-02 |
+| `title-01-part-0455` | Title 1 of the Code of Federal Regulations (General Provisions), Part 455 | 2 | 2015-12-18 to 2017-10-20 |
+| `title-01-part-0456` | Title 1 of the Code of Federal Regulations (General Provisions), Part 456 | 2 | 2015-12-18 to 2017-10-20 |
+| `title-01-part-0457` | Title 1 of the Code of Federal Regulations (General Provisions), Part 457 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0500` | Title 1 of the Code of Federal Regulations (General Provisions), Part 500 | 1 | 2015-12-18 to 2015-12-18 |
+| `title-01-part-0601` | Title 1 of the Code of Federal Regulations (General Provisions), Part 601 | 1 | 2017-10-30 to 2017-10-30 |
+| `title-01-part-0602` | Title 1 of the Code of Federal Regulations (General Provisions), Part 602 | 1 | 2017-10-20 to 2017-10-20 |
+| `title-01-part-0603` | Title 1 of the Code of Federal Regulations (General Provisions), Part 603 | 1 | 2017-10-20 to 2017-10-20 |
 | `title-12-part-0001` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 1 | 3 | 2017-01-01 to 2026-06-09 |
 | `title-12-part-0002` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 2 | 1 | 2017-01-01 to 2017-01-01 |
 | `title-12-part-0003` | Title 12 of the Code of Federal Regulations (Banks and Banking), Part 3 | 30 | 2017-01-01 to 2026-10-26 |
@@ -1688,19 +1718,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-29-part-4909` | Title 29 of the Code of Federal Regulations (Labor), Part 4909 | 1 | 2025-09-15 to 2025-09-15 |
 | `title-29-part-other` | Title 29 of the Code of Federal Regulations (Labor), Part other | 6 | 2017-05-30 to 2026-10-26 |
 
-The build made 10072 commits:
+The build made 10111 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1671 | first version of an act |
-| 6026 | one law on its in-force day |
-| 2375 | changes no amendment note explains, credited to the publisher |
+| 1701 | first version of an act |
+| 6031 | one law on its in-force day |
+| 2379 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-10-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 7106 laws in the record.
-- 12817 tags.
+- 7117 laws in the record.
+- 12862 tags.
 
 ## Dates
 
@@ -1712,7 +1742,7 @@ When a law gives no date of its own, the default rule applies: 5 U.S.C. 553(d): 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1199e714189dda765a997ce2ff332cb4cb34c8a55c5ba9547090192f608f30bb` (649011499 bytes).
+- Corpus: sha256 `a8a150e1c062e24db932d3c47ca8c97846d3084e03436e45a820af586c0428ca` (649575434 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1734,6 +1764,7 @@ No second build of this corpus has been compared yet.
 - Each title's first edition is the oldest version available, credited to the publisher; text before 2017 is not included.
 - Title 40: editions read: 2017 annual edition (to 2017-05-30); 2018 annual edition (to 2018-04-25); 2019 annual edition (to 2019-05-20); 2020 annual edition (to 2020-04-22); 2021 annual edition (to 2021-05-24); 2022 annual edition (to 2022-05-27); 2023 annual edition (to 2023-05-30); 2024 annual edition (to 2024-05-28); eCFR (to 2026-10-26).
 - Title 45: editions read: 2017 annual edition (to 2017-10-01); 2018 annual edition (to 2018-10-01); 2019 annual edition (to 2019-10-01); 2020 annual edition (to 2020-10-01); 2021 annual edition (to 2021-10-01); 2022 annual edition (to 2022-10-01); 2023 annual edition (to 2023-10-01); 2024 annual edition (to 2024-10-01); 2025 annual edition (to 2025-10-01); eCFR (to 2026-10-26).
+- Title 1: editions read: 2017 annual edition (to 2015-12-18); 2018 annual edition (to 2017-10-30); 2019 annual edition (to 2018-05-02); 2023 annual edition (to 2022-12-29); eCFR (to 2026-10-26).
 - Title 12: editions read: 2017 annual edition (to 2017-01-01); 2018 annual edition (to 2018-01-01); 2019 annual edition (to 2019-01-01); 2020 annual edition (to 2020-01-01); 2021 annual edition (to 2021-01-01); 2022 annual edition (to 2022-01-01); 2023 annual edition (to 2023-01-01); 2024 annual edition (to 2024-01-01); 2025 annual edition (to 2025-01-01); eCFR (to 2026-10-26).
 - Title 17: editions read: 2017 annual edition (to 2017-02-14); 2018 annual edition (to 2018-05-01); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-01-24); 2025 annual edition (to 2025-03-24); eCFR (to 2026-10-26).
 - Title 26: editions read: 2017 annual edition (to 2017-03-22); 2018 annual edition (to 2018-05-23); 2019 annual edition (to 2019-04-01); 2020 annual edition (to 2020-04-01); 2021 annual edition (to 2021-04-01); 2022 annual edition (to 2022-04-01); 2023 annual edition (to 2023-04-01); 2024 annual edition (to 2024-04-01); 2025 annual edition (to 2025-04-01); eCFR (to 2026-10-26).
