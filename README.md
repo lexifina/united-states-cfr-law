@@ -1,5 +1,7 @@
 # The Code of Federal Regulations, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the US Code of Federal Regulations, which global-law reads at `united-states/federal/cfr/`.
+
 The Code of Federal Regulations (CFR), one file per section or appendix, as a git history from the 2017 annual editions to today's eCFR. Each change is a commit dated the day it took effect and, where the section's source note names it, authored by the Federal Register document that made it. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/cfr/acts`.
 
 Titles are added one at a time; the titles held so far are those with a `title-NN-part-*` folder.
