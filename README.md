@@ -28,6 +28,10 @@ The text comes from the official annual edition of each title (revised once a ye
 
 Each title starts with its first edition (2017), credited to the publisher as the oldest version available. Commits are dated at noon, America/New_York, and carry the day in an `In-force:` trailer, which the tools read.
 
+## Date erratum
+
+The historical commit `3a9ab1d40ba7b0f8c5985f5853e88fdfb9594c9a` records 22 March 2024 as the publication date of 89 FR 18543. The [official eCFR source notes for 32 CFR 161.5 and 161.23](https://www.govinfo.gov/bulkdata/ECFR/title-32/ECFR-title32.xml) cite that document as published on 14 March 2024. The commit's publication date is incorrect; its recorded `In-force: 2024-03-15` date has not been changed. The source notes do not establish a separate signing date.
+
 ## What it does not show
 
 - Text before 2017, and the text between two changes to one section in the same edition year.
